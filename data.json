@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-10T20:54:13.010717+00:00",
+  "generated_at_utc": "2026-08-10T23:54:36.392050+00:00",
   "overall_sentiment": {
     "label": "Bullish",
-    "score": 14
+    "score": 7
   },
-  "total_articles": 49,
+  "total_articles": 64,
   "top_stories": [
     {
       "id": "70fd507ea4",
@@ -18,7 +18,8 @@
         "label": "Bullish",
         "score": 3
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
     },
     {
       "id": "c8739eeecc",
@@ -32,7 +33,8 @@
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": true
+      "is_ai_related": true,
+      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
     },
     {
       "id": "a79a7dafdc",
@@ -46,7 +48,8 @@
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: not a big mover either way for energy and oil/gas companies right now."
     },
     {
       "id": "854932ddf2",
@@ -60,7 +63,8 @@
         "label": "Bearish",
         "score": -1
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is a warning sign — FIIs, the rupee, and the broader Indian market may come under pressure."
     },
     {
       "id": "a88a393c7d",
@@ -74,7 +78,8 @@
         "label": "Bullish",
         "score": 2
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
     },
     {
       "id": "3b7507be3c",
@@ -88,7 +93,8 @@
         "label": "Bullish",
         "score": 1
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
     },
     {
       "id": "e20e62e43d",
@@ -102,7 +108,8 @@
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
     },
     {
       "id": "d15fe10f69",
@@ -116,7 +123,8 @@
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": false
+      "is_ai_related": false,
+      "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
     }
   ],
   "sectors": {
@@ -133,7 +141,8 @@
           "label": "Bullish",
           "score": 3
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
       },
       {
         "id": "a79a7dafdc",
@@ -147,7 +156,38 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for energy and oil/gas companies right now."
+      },
+      {
+        "id": "2048370cc1",
+        "title": "Europe Gas Prices Surge as Hormuz Deal Prospects Remain Murky",
+        "summary": "European natural gas prices jumped as discussions between Iran and Oman to reopen the Strait of Hormuz failed to convince traders that a deal would lead to a quick resumption of global LNG flows.",
+        "link": "https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 02:50:40 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
+      },
+      {
+        "id": "7fef27b67e",
+        "title": "US Emergency Oil Reserves Hit 1983 Lows As Inventories Feel Squeeze Of Iran War",
+        "summary": "US SPR falls below 300 million barrels for the first time since 1983 as Iran war disrupts global oil supplies.",
+        "link": "https://www.ndtvprofit.com/markets/us-emergency-oil-reserves-hit-1983-lows-as-inventories-feel-squeeze-of-iran-war-11891959#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:28:33 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — energy and oil/gas companies may come under pressure."
       }
     ],
     "General Markets": [
@@ -163,7 +203,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true
+        "is_ai_related": true,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "a88a393c7d",
@@ -177,7 +218,8 @@
           "label": "Bullish",
           "score": 2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "3b7507be3c",
@@ -191,7 +233,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "e20e62e43d",
@@ -205,7 +248,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "892af6ccee",
@@ -219,7 +263,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": true
+        "is_ai_related": true,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "5e91adf828",
@@ -233,7 +278,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
         "id": "d13391ebc0",
@@ -247,7 +293,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "6473e08e27",
@@ -261,7 +308,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "7457dad3f8",
@@ -275,7 +323,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "54e4c1e486",
@@ -289,7 +338,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "0590957127",
@@ -303,7 +353,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "f3784e11d1",
@@ -317,7 +368,8 @@
           "label": "Bearish",
           "score": -2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
         "id": "94fdfac2f3",
@@ -331,7 +383,8 @@
           "label": "Bearish",
           "score": -2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
         "id": "dfd22b2806",
@@ -345,7 +398,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "9744a77cf3",
@@ -359,7 +413,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "b6af0f5028",
@@ -373,7 +428,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "d57f1233d1",
@@ -387,7 +443,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "43889811b2",
@@ -401,7 +458,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "446517f534",
@@ -415,7 +473,38 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "6bc7051392",
+        "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
+        "summary": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
+        "link": "https://www.livemint.com/market/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound-11786404145539.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 04:52:25 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "39207746eb",
+        "title": "Wheat Climbs With USDA Seen Tightening Global Grain Supply",
+        "summary": "Wheat was higher as traders braced for the US Department of Agriculture’s monthly supply demand report that’s expected to show declining domestic and world grain supplies.",
+        "link": "https://www.livemint.com/market/wheat-climbs-with-usda-seen-tightening-global-grain-supply-11786396412346.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 02:43:31 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "5047cde038",
@@ -429,7 +518,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "9761eb88ba",
@@ -443,7 +533,8 @@
           "label": "Bearish",
           "score": -2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
         "id": "7c9d1f5d80",
@@ -457,7 +548,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
         "id": "3685a4ca8f",
@@ -471,7 +563,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "2615ba8f61",
@@ -485,7 +578,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "b1f1b9ed49",
@@ -499,7 +593,8 @@
           "label": "Bullish",
           "score": 5
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
         "id": "a9f1e36c54",
@@ -513,7 +608,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "fb84e7bc45",
@@ -527,21 +623,143 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "d2aebb59f9",
-        "title": "Shiprocket IPO: GMP signals over 25% listing gains; 5 key things to know from RHP",
-        "summary": "The upcoming Shiprocket IPO, set for August 12-14, aims to raise  ₹1,617 crore, with strong grey market signals suggesting a robust listing. This article breaks down the key details investors must know, including share offerings, use of proceeds, and more.",
-        "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 15:30:28 +0530",
+        "id": "5f32eb3dcc",
+        "title": "How A Karnataka Tax Reform Turned Into A Beer Boom For United Breweries",
+        "summary": "ABV-based tax changes in Karataka have pushed beer growth for UBL past 50% in some months, and it says the model could spread to more states.",
+        "link": "https://www.ndtvprofit.com/business/united-breweries-q1-earnings-concall-karnataka-tax-reform-turns-helps-beer-sales-boom-11882533#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:31:26 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 2
+          "score": 1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "82b4d96e53",
+        "title": "Abu Dhabi Rolls Out Free Tourist Visa Programme For Indian Travellers Until Oct 31",
+        "summary": "Indian passport holders can get UAE entry visas at no extra cost when booking eligible Abu Dhabi stays.",
+        "link": "https://www.ndtvprofit.com/lifestyle/abu-dhabi-rolls-out-free-tourist-visa-programme-for-indian-travellers-until-oct-31-11891874#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:27:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "3cfe898cb3",
+        "title": "India, South Africa-Led SACU Group May Ink Terms Of Reference For Negotiating Trade Pact On Aug 12",
+        "summary": "Under such pacts, two trading partners provide duty concessions to each other on goods to boost two-way commerce.",
+        "link": "https://www.ndtvprofit.com/economy/india-south-africa-led-sacu-group-may-ink-terms-of-reference-for-negotiating-trade-pact-on-aug-12-11891932#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:18:56 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "cd7d0df26d",
+        "title": "Akshay Kumar To Play Rajesh Khanna In Farhan Akhtar's RD Burman Biopic? All You Need To Know",
+        "summary": "Akshay Kumar is reportedly set to play Rajesh Khanna in Neeraj Pandey's upcoming RD Burman biopic.",
+        "link": "https://www.ndtvprofit.com/lifestyle/akshay-kumar-to-play-rajesh-khanna-in-farhan-akhtars-rd-burman-biopic-all-you-need-to-know-11891735#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:14:59 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "d0cfe785f6",
+        "title": "Ola Electric Narrows June Quarter Loss, But Auditor Flags Rs 57 Crore Penalty Reversal: Report",
+        "summary": "Ola Electric posted a consolidated net loss of Rs 336 crore for April-June.",
+        "link": "https://www.ndtvprofit.com/business/ola-electric-narrows-june-quarter-loss-but-auditor-flags-rs-57-crore-penalty-reversal-report-11891838#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:11:44 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
+      },
+      {
+        "id": "370e58a4a0",
+        "title": "'China's Stalingrad': Viral Posts Highlight Chinese Alarm Over India's 17-Fold Solar Boom",
+        "summary": "India's solar boom is fuelling fresh debate over China's dominance in PV manufacturing.",
+        "link": "https://www.ndtvprofit.com/business/chinas-stalingrad-viral-posts-highlight-chinese-alarm-over-indias-17-fold-solar-boom-11891692#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:10:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "ca187fe3ad",
+        "title": "Milky Mist Dairy Food Raises Rs 465 Crore From Anchor Investors",
+        "summary": "Of the total anchor allocation, 1.54 crore shares, or 46.27%, were allotted to nine domestic mutual funds through 13 schemes.",
+        "link": "https://www.ndtvprofit.com/markets/milky-mist-dairy-food-raises-rs-465-crore-from-anchor-investors-11891883#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:03:17 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "506ec27920",
+        "title": "Milky Mist Dairy Food Raises Rs 465 Crore From Anchor Investors",
+        "summary": "Of the total anchor allocation, 1.54 crore shares, or 46.27%, were allotted to nine domestic mutual funds through 13 schemes.",
+        "link": "https://www.ndtvprofit.com/markets/milky-mist-dairy-food-raises-rs-465-crore-from-anchor-investors-11891877#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:01:08 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "437a55a70f",
+        "title": "Reliance Retail Unit In Maharashtra Under FDA Scrutiny After Complaint Of 'Fungus, Live Larvae' In Kaju Katli",
+        "summary": "The FDA seized 54 boxes of Kaju Katli from a Reliance Retail outlet in Maharashtra after a consumer complaint.",
+        "link": "https://www.ndtvprofit.com/india/reliance-retail-unit-in-maharashtra-under-fda-scrutiny-after-for-fungus-live-larvae-in-kaju-katli-11891345#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 22:57:36 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       }
     ],
     "Global & Macro": [
@@ -557,7 +775,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — FIIs, the rupee, and the broader Indian market may come under pressure."
       },
       {
         "id": "5e291aa3cd",
@@ -571,7 +790,8 @@
           "label": "Bullish",
           "score": 2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — FIIs, the rupee, and the broader Indian market look stronger after this."
       },
       {
         "id": "806bc030a2",
@@ -585,7 +805,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for FIIs, the rupee, and the broader Indian market right now."
       },
       {
         "id": "5f25ef4bcc",
@@ -599,7 +820,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for FIIs, the rupee, and the broader Indian market right now."
       },
       {
         "id": "97f09bf809",
@@ -613,35 +835,8 @@
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false
-      },
-      {
-        "id": "53cca6d444",
-        "title": "Top Gainers &amp; Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers",
-        "summary": "On August 10, the Indian stock market traded within a narrow range amid Middle East tensions affecting oil prices. Nifty 50 saw a slight increase of 0.05%, while Sensex dipped 0.06%. Sector performance varied, with heavy selling in some indices and gains in Realty and Private Ban",
-        "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 15:57:39 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false
-      },
-      {
-        "id": "dcc24c0833",
-        "title": "Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment",
-        "summary": "The Sensex rose 43 points, or 0.06%, to end at 78,542, while the Nifty 50 inched up by 13 points, or 0.05%, to settle at 24,583.80.",
-        "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 15:39:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — FIIs, the rupee, and the broader Indian market look stronger after this."
       }
     ],
     "IT & Technology": [
@@ -657,7 +852,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
       },
       {
         "id": "57457156ec",
@@ -671,7 +867,23 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
+      },
+      {
+        "id": "c4ec9bf8f0",
+        "title": "TCS Receives Employee Data Leak Alerts; Says No Impact To Customer Info",
+        "summary": "It added that the information referenced appears to be over four years old and \"limited to basic employee information\".",
+        "link": "https://www.ndtvprofit.com/business/tcs-receives-employee-data-leak-alerts-says-no-impact-to-customer-info-11891915#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:14:16 +0530",
+        "sector": "IT & Technology",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
       }
     ],
     "Banking & Financials": [
@@ -687,7 +899,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — banks and lenders may come under pressure."
       },
       {
         "id": "2f554f4f77",
@@ -701,7 +914,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — banks and lenders may come under pressure."
       },
       {
         "id": "f5e03c6451",
@@ -715,7 +929,8 @@
           "label": "Bearish",
           "score": -2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — banks and lenders may come under pressure."
       },
       {
         "id": "47b61ce2c0",
@@ -729,7 +944,23 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for banks and lenders right now."
+      },
+      {
+        "id": "74082b6059",
+        "title": "Naresh Goyal Moves Special Court, Seeks Discharge From Money Laundering Case Connected To Rs 539 Crore Bank Fraud",
+        "summary": "The businessman was arrested in September 2023 by the ED, which claimed he had laundered money.",
+        "link": "https://www.ndtvprofit.com/india/naresh-goyal-moves-special-court-seeks-discharge-from-money-laundering-case-connected-to-rs-539-crore-bank-fraud-11891882#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:02:57 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for banks and lenders right now."
       }
     ],
     "Telecom": [
@@ -745,7 +976,8 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
       },
       {
         "id": "c0dfb359d3",
@@ -759,7 +991,38 @@
           "label": "Bearish",
           "score": -1
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
+      },
+      {
+        "id": "1469cdebfc",
+        "title": "Vodafone Idea Raises Rs 6,400 Crore, Kicks Off Rs 45,000 Crore Capex Plan",
+        "summary": "Vi secures Rs 6,400 crore funding, places Rs 9,000 crore capex orders for expansion.",
+        "link": "https://www.ndtvprofit.com/business/vodafone-idea-raises-rs-6-400-crore-kicks-off-rs-45-000-crore-capex-plan-11891889#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:13:53 +0530",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for telecom companies right now."
+      },
+      {
+        "id": "b00c8ac9df",
+        "title": "Q1 Results Updates: Vodafone Idea Swings To Net Loss, Zee Entertainment Profit Falls 47%",
+        "summary": "Q1 Results Live Updates: Market participants are keeping a close watch on major companies such as Vodafone Idea, Hindustan Copper, and others.",
+        "link": "https://www.ndtvprofit.com/markets/q1-results-live-updates-vodafone-idea-bharat-forge-info-edge-hindustan-copper-bosch-among-250-companies-to-announce-earnings-today-11888284#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:09:32 +0530",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
       }
     ],
     "Pharma & Healthcare": [
@@ -775,7 +1038,8 @@
           "label": "Bullish",
           "score": 2
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — drug and healthcare companies look stronger after this."
       },
       {
         "id": "7b4bcbcca3",
@@ -789,7 +1053,8 @@
           "label": "Bullish",
           "score": 3
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — drug and healthcare companies look stronger after this."
       }
     ],
     "FMCG": [
@@ -805,7 +1070,8 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for everyday consumer goods companies right now."
       }
     ],
     "Realty & Infra": [
@@ -821,7 +1087,23 @@
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for real estate and infrastructure firms right now."
+      },
+      {
+        "id": "eefef87e78",
+        "title": "Gulf Projects Drive Trump’s Foreign Real Estate Income Up 71% to $59.5 Million",
+        "summary": "UAE, Saudi Arabia and Qatar emerged as key sources of Trump's overseas real estate licensing income",
+        "link": "https://www.ndtvprofit.com/business/gulf-projects-drive-trump-s-foreign-real-estate-income-up-71-to-59-5-million-11891743#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Mon, 10 Aug 2026 23:17:57 +0530",
+        "sector": "Realty & Infra",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for real estate and infrastructure firms right now."
       }
     ]
   },
@@ -838,7 +1120,8 @@
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": true
+      "is_ai_related": true,
+      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
     },
     {
       "id": "892af6ccee",
@@ -852,7 +1135,41 @@
         "label": "Bullish",
         "score": 1
       },
-      "is_ai_related": true
+      "is_ai_related": true,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
     }
-  ]
+  ],
+  "sentiment_counts": {
+    "Bullish": 16,
+    "Bearish": 14,
+    "Neutral": 34
+  },
+  "sector_counts": {
+    "Energy & Oil-Gas": 4,
+    "General Markets": 38,
+    "Global & Macro": 5,
+    "IT & Technology": 3,
+    "Banking & Financials": 5,
+    "Telecom": 4,
+    "Pharma & Healthcare": 2,
+    "FMCG": 1,
+    "Realty & Infra": 2
+  },
+  "index_snapshot": {
+    "NIFTY 50": {
+      "price": 24583.8,
+      "change": 13.15,
+      "pct": 0.05
+    },
+    "SENSEX": {
+      "price": 78542.44,
+      "change": 43.27,
+      "pct": 0.06
+    },
+    "BANK NIFTY": {
+      "price": 57686.95,
+      "change": -59.5,
+      "pct": -0.1
+    }
+  }
 }
