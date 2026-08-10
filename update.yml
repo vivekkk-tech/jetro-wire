@@ -1,0 +1,36 @@
+name: Update Jetro AI Newspaper Data
+
+on:
+  schedule:
+    # Runs every 2 hours, every day. GitHub Actions is free for public repos.
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news + build data.json
+        run: python fetch_news.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "jetro-ai-bot"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

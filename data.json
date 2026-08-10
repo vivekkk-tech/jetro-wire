@@ -1,0 +1,102 @@
+{
+  "generated_at_utc": "2026-08-10T20:21:49.547953",
+  "overall_sentiment": {
+    "label": "Bullish",
+    "score": 4
+  },
+  "total_articles": 6,
+  "top_stories": [
+    {
+      "id": "1",
+      "title": "[DEMO] Sensex rallies as banking stocks lead gains",
+      "summary": "This is placeholder demo content shown before your first live GitHub Actions run.",
+      "link": "#",
+      "source": "Demo Feed",
+      "published": "",
+      "sector": "Banking & Financials",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 2
+      },
+      "is_ai_related": false
+    },
+    {
+      "id": "2",
+      "title": "[DEMO] IT sector slips on weak US guidance",
+      "summary": "Placeholder story \u2014 real headlines appear after the first automated update.",
+      "link": "#",
+      "source": "Demo Feed",
+      "published": "",
+      "sector": "IT & Technology",
+      "sentiment": {
+        "label": "Bearish",
+        "score": -1
+      },
+      "is_ai_related": false
+    },
+    {
+      "id": "3",
+      "title": "[DEMO] New AI copilot launched for equity research desks",
+      "summary": "Placeholder AI-in-finance story to show how that section renders.",
+      "link": "#",
+      "source": "Demo Feed",
+      "published": "",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true
+    }
+  ],
+  "sectors": {
+    "Banking & Financials": [
+      {
+        "id": "1",
+        "title": "[DEMO] Sensex rallies as banking stocks lead gains",
+        "summary": "Placeholder demo content.",
+        "link": "#",
+        "source": "Demo Feed",
+        "published": "",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false
+      }
+    ],
+    "IT & Technology": [
+      {
+        "id": "2",
+        "title": "[DEMO] IT sector slips on weak US guidance",
+        "summary": "Placeholder demo content.",
+        "link": "#",
+        "source": "Demo Feed",
+        "published": "",
+        "sector": "IT & Technology",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      }
+    ]
+  },
+  "ai_in_finance": [
+    {
+      "id": "3",
+      "title": "[DEMO] New AI copilot launched for equity research desks",
+      "summary": "Placeholder AI-in-finance story.",
+      "link": "#",
+      "source": "Demo Feed",
+      "published": "",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true
+    }
+  ]
+}
