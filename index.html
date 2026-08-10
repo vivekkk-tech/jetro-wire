@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jetro Wire — Live Market Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0b0f14;
+    --bg-panel: #121821;
+    --bg-card: #161e29;
+    --line: #232d3a;
+    --paper: #eef1f4;
+    --dim: #8b98a9;
+    --gold: #e0b84b;
+    --bull: #33c17a;
+    --bear: #ef5a5a;
+    --neutral: #9aa5b8;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--paper);
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  /* ---------- Masthead ---------- */
+  .masthead {
+    padding: 28px 24px 20px;
+    text-align: center;
+    background: linear-gradient(180deg, #10161f 0%, var(--bg) 100%);
+    border-bottom: 1px solid var(--line);
+  }
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 3px;
+    font-size: 11px;
+    color: var(--gold);
+    text-transform: uppercase;
+  }
+  .masthead h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: clamp(34px, 6vw, 58px);
+    margin: 6px 0 2px;
+    background: linear-gradient(90deg, #fff, var(--gold));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .masthead .sub {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--dim);
+  }
+
+  /* ---------- Index snapshot strip (Nifty / Sensex / Bank Nifty) ---------- */
+  .index-strip {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  .index-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 6px 14px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .index-chip .name { color: var(--paper); font-weight: 700; }
+  .index-chip .up { color: var(--bull); }
+  .index-chip .down { color: var(--bear); }
+
+  .ticker-wrap {
+    background: var(--bg-panel);
+    border-bottom: 1px solid var(--line);
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .ticker {
+    display: inline-block;
+    padding: 8px 0;
+    animation: scroll 50s linear infinite;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    color: var(--gold);
+  }
+  .ticker span { margin-right: 46px; }
+  @keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+  main { max-width: 1180px; margin: 0 auto; padding: 26px 20px 80px; }
+
+  /* ---------- Dashboard grid (mood gauge + charts) ---------- */
+  .dash-grid {
+    display: grid;
+    grid-template-columns: 0.9fr 1.1fr 1fr;
+    gap: 16px;
+    margin-bottom: 8px;
+  }
+  @media (max-width: 860px) { .dash-grid { grid-template-columns: 1fr; } }
+
+  .panel {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 18px;
+  }
+  .panel-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--dim);
+    margin-bottom: 10px;
+  }
+
+  .mood-panel { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .mood-value {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 6px 0;
+  }
+  .mood-value.Bullish { color: var(--bull); }
+  .mood-value.Bearish { color: var(--bear); }
+  .mood-value.Neutral, .mood-value.mixed { color: var(--neutral); }
+  .mood-note { font-size: 12.5px; color: var(--dim); }
+
+  .chart-box { position: relative; height: 170px; }
+
+  /* ---------- Section headers ---------- */
+  .section-label {
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: var(--gold);
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 8px;
+    margin: 38px 0 16px;
+  }
+
+  /* ---------- Story cards ---------- */
+  .top-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+  @media (max-width: 720px) { .top-grid { grid-template-columns: 1fr; } }
+
+  .story {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 16px 18px;
+    transition: border-color .15s ease;
+  }
+  .story:hover { border-color: var(--gold); }
+  .story h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 17.5px;
+    margin: 0 0 8px;
+    line-height: 1.3;
+  }
+  .story a { color: var(--paper); text-decoration: none; }
+  .story a:hover { color: var(--gold); }
+  .story .plain {
+    font-size: 12.5px;
+    color: var(--dim);
+    background: rgba(224,184,75,0.08);
+    border-left: 3px solid var(--gold);
+    padding: 6px 10px;
+    border-radius: 4px;
+    margin: 8px 0 10px;
+    line-height: 1.5;
+  }
+  .story-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: var(--dim);
+    flex-wrap: wrap;
+  }
+  .tag { padding: 2px 9px; border-radius: 20px; font-weight: 700; font-size: 10px; }
+  .tag.Bullish { background: rgba(51,193,122,0.15); color: var(--bull); }
+  .tag.Bearish { background: rgba(239,90,90,0.15); color: var(--bear); }
+  .tag.Neutral { background: rgba(154,165,184,0.15); color: var(--neutral); }
+
+  .sector-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
+  .sector-tab {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11.5px;
+    padding: 7px 13px;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    background: var(--bg-card);
+    color: var(--paper);
+    cursor: pointer;
+  }
+  .sector-tab.active { background: var(--gold); color: #14100a; border-color: var(--gold); }
+
+  .ai-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  @media (max-width: 720px) { .ai-grid { grid-template-columns: 1fr; } }
+
+  footer {
+    text-align: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--dim);
+    padding: 34px 20px 10px;
+  }
+
+  #loading { text-align: center; padding: 70px 20px; font-family: 'JetBrains Mono', monospace; color: var(--dim); }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="eyebrow">India-first · Automated · Zero-cost · Self-updating</div>
+  <h1>JETRO WIRE</h1>
+  <div class="sub" id="dateline">LOADING EDITION…</div>
+  <div class="index-strip" id="index-strip"></div>
+</div>
+
+<div class="ticker-wrap"><div class="ticker" id="ticker">Loading headlines…</div></div>
+
+<main>
+  <div id="loading">Fetching the latest edition…</div>
+  <div id="content" style="display:none;">
+
+    <div class="dash-grid">
+      <div class="panel mood-panel">
+        <div class="panel-label">Market Mood</div>
+        <div class="mood-value" id="mood-value">…</div>
+        <div class="mood-note" id="mood-note"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-label">Sentiment Split</div>
+        <div class="chart-box"><canvas id="sentimentChart"></canvas></div>
+      </div>
+      <div class="panel">
+        <div class="panel-label">Stories By Sector</div>
+        <div class="chart-box"><canvas id="sectorChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="section-label">Top Stories</div>
+    <div class="top-grid" id="top-stories"></div>
+
+    <div class="section-label">Sector Breakdown</div>
+    <div class="sector-tabs" id="sector-tabs"></div>
+    <div class="top-grid" id="sector-stories"></div>
+
+    <div class="section-label">AI in Finance</div>
+    <div class="ai-grid" id="ai-stories"></div>
+
+  </div>
+</main>
+
+<footer>JETRO WIRE — built by Vivek · refreshes every 2 hours via GitHub Actions · zero-cost stack</footer>
+
+<script>
+async function loadData() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.getElementById('loading').innerText =
+      "Couldn't load data.json yet — run the update workflow once from the Actions tab.";
+  }
+}
+
+function storyCard(a) {
+  return `
+    <div class="story">
+      <h3><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></h3>
+      <div class="plain">💡 ${a.plain_english || ''}</div>
+      <div class="story-meta">
+        <span class="tag ${a.sentiment.label}">${a.sentiment.label}</span>
+        <span>${a.source}</span>
+        <span>${a.sector}</span>
+      </div>
+    </div>`;
+}
+
+function render(data) {
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('content').style.display = 'block';
+
+  const dt = new Date(data.generated_at_utc);
+  document.getElementById('dateline').innerText =
+    'EDITION GENERATED ' + dt.toUTCString().replace(' GMT', ' UTC') + ' · NSE & BSE FOCUS';
+
+  const snap = data.index_snapshot || {};
+  const snapEl = document.getElementById('index-strip');
+  const snapKeys = Object.keys(snap);
+  snapEl.innerHTML = snapKeys.length
+    ? snapKeys.map(name => {
+        const d = snap[name];
+        const dir = d.change >= 0 ? 'up' : 'down';
+        const arrow = d.change >= 0 ? '▲' : '▼';
+        return `<div class="index-chip">
+          <span class="name">${name}</span>
+          <span>${d.price.toLocaleString('en-IN')}</span>
+          <span class="${dir}">${arrow} ${Math.abs(d.pct)}%</span>
+        </div>`;
+      }).join('')
+    : '';
+
+  const label = data.overall_sentiment.label;
+  const moodEl = document.getElementById('mood-value');
+  moodEl.innerText = label.toUpperCase();
+  moodEl.className = 'mood-value ' + label.split(' ')[0];
+  document.getElementById('mood-note').innerText =
+    data.total_articles + ' stories tracked · net score ' + data.overall_sentiment.score;
+
+  const tickerItems = data.top_stories.map(a => `<span>▸ ${a.title}</span>`).join('');
+  document.getElementById('ticker').innerHTML = tickerItems + tickerItems;
+
+  document.getElementById('top-stories').innerHTML = data.top_stories.map(storyCard).join('');
+
+  // --- Sentiment donut chart ---
+  const sc = data.sentiment_counts || {Bullish:0, Bearish:0, Neutral:0};
+  new Chart(document.getElementById('sentimentChart'), {
+    type: 'doughnut',
+    data: {
+      labels: ['Bullish', 'Bearish', 'Neutral'],
+      datasets: [{
+        data: [sc.Bullish, sc.Bearish, sc.Neutral],
+        backgroundColor: ['#33c17a', '#ef5a5a', '#9aa5b8'],
+        borderWidth: 0,
+      }]
+    },
+    options: {
+      maintainAspectRatio: false,
+      plugins: { legend: { position: 'bottom', labels: { color: '#eef1f4', font: { family: 'Space Grotesk', size: 11 }, boxWidth: 10 } } }
+    }
+  });
+
+  // --- Sector bar chart ---
+  const secCounts = data.sector_counts || {};
+  const secLabels = Object.keys(secCounts);
+  const secValues = Object.values(secCounts);
+  new Chart(document.getElementById('sectorChart'), {
+    type: 'bar',
+    data: {
+      labels: secLabels,
+      datasets: [{ data: secValues, backgroundColor: '#e0b84b', borderRadius: 4 }]
+    },
+    options: {
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#8b98a9', font: { size: 9 }, maxRotation: 60, minRotation: 60 }, grid: { display: false } },
+        y: { ticks: { color: '#8b98a9', font: { size: 10 }, precision: 0 }, grid: { color: '#232d3a' } }
+      }
+    }
+  });
+
+  // --- Sector tabs ---
+  const sectors = Object.keys(data.sectors);
+  const tabsEl = document.getElementById('sector-tabs');
+  const storiesEl = document.getElementById('sector-stories');
+
+  function showSector(name) {
+    storiesEl.innerHTML = data.sectors[name].map(storyCard).join('') ||
+      '<p style="font-family:monospace;font-size:13px;color:#8b98a9;">No stories tagged for this sector right now.</p>';
+    [...tabsEl.children].forEach(btn => btn.classList.toggle('active', btn.dataset.sector === name));
+  }
+
+  tabsEl.innerHTML = sectors.map(s =>
+    `<button class="sector-tab" data-sector="${s}">${s} (${data.sectors[s].length})</button>`
+  ).join('');
+  [...tabsEl.children].forEach(btn => btn.addEventListener('click', () => showSector(btn.dataset.sector)));
+  if (sectors.length) showSector(sectors[0]);
+
+  // --- AI in finance ---
+  document.getElementById('ai-stories').innerHTML =
+    data.ai_in_finance.length
+      ? data.ai_in_finance.map(storyCard).join('')
+      : '<p style="font-family:monospace;font-size:13px;color:#8b98a9;">No AI-tagged finance stories in this edition.</p>';
+}
+
+loadData();
+</script>
+
+</body>
+</html>
