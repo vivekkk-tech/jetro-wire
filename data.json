@@ -1,33 +1,61 @@
 {
-  "generated_at_utc": "2026-08-10T20:21:49.547953",
+  "generated_at_utc": "2026-08-10T20:54:13.010717+00:00",
   "overall_sentiment": {
     "label": "Bullish",
-    "score": 4
+    "score": 14
   },
-  "total_articles": 6,
+  "total_articles": 49,
   "top_stories": [
     {
-      "id": "1",
-      "title": "[DEMO] Sensex rallies as banking stocks lead gains",
-      "summary": "This is placeholder demo content shown before your first live GitHub Actions run.",
-      "link": "#",
-      "source": "Demo Feed",
-      "published": "",
-      "sector": "Banking & Financials",
+      "id": "70fd507ea4",
+      "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
+      "summary": "The Nasdaq closed lower as investors worried about the Strait of Hormuz. U.S. crude oil prices jumped significantly amid the ongoing Middle East crisis. Intel shares fell after the company announced plans for a large share sale. Traders are now less confident about a Federal Rese",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-expectations-of-hormuz-deal-fade/articleshow/133135481.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 01:38:58 +0530",
+      "sector": "Energy & Oil-Gas",
       "sentiment": {
         "label": "Bullish",
-        "score": 2
+        "score": 3
       },
       "is_ai_related": false
     },
     {
-      "id": "2",
-      "title": "[DEMO] IT sector slips on weak US guidance",
-      "summary": "Placeholder story \u2014 real headlines appear after the first automated update.",
-      "link": "#",
-      "source": "Demo Feed",
-      "published": "",
-      "sector": "IT & Technology",
+      "id": "c8739eeecc",
+      "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
+      "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 01:18:39 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true
+    },
+    {
+      "id": "a79a7dafdc",
+      "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
+      "summary": "Oil prices rose significantly as Iran and the United States exchanged compensation demands. Prospects for reopening the Strait of Hormuz dimmed due to these escalating tensions. Ukraine continued to strike Russian refineries and tankers, further impacting supply. Saudi Aramco pos",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 00:41:43 +0530",
+      "sector": "Energy & Oil-Gas",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": false
+    },
+    {
+      "id": "854932ddf2",
+      "title": "US bonds fall as markets weight inflation, Middle East risks",
+      "summary": "As treasury yields climbed on Monday, investors geared up for significant inflation data due later this week. The ongoing geopolitical tensions in the Middle East have added an extra layer of uncertainty to the markets. Traders are particularly focused on the upcoming consumer an",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 00:07:29 +0530",
+      "sector": "Global & Macro",
       "sentiment": {
         "label": "Bearish",
         "score": -1
@@ -35,30 +63,480 @@
       "is_ai_related": false
     },
     {
-      "id": "3",
-      "title": "[DEMO] New AI copilot launched for equity research desks",
-      "summary": "Placeholder AI-in-finance story to show how that section renders.",
-      "link": "#",
-      "source": "Demo Feed",
-      "published": "",
+      "id": "a88a393c7d",
+      "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
+      "summary": "Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer and board represent",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
+      "source": "Economic Times Markets",
+      "published": "Mon, 10 Aug 2026 23:25:44 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 2
+      },
+      "is_ai_related": false
+    },
+    {
+      "id": "3b7507be3c",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "summary": "Indian stock markets opened muted this week as global worries tempered investor sentiment. Strong first-quarter earnings provided some support, offsetting geopolitical tensions. Analysts noted softer US jobs data, shifting focus to inflation readings for rate direction.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
+      "source": "Economic Times Markets",
+      "published": "Mon, 10 Aug 2026 21:41:26 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 1
+      },
+      "is_ai_related": false
+    },
+    {
+      "id": "e20e62e43d",
+      "title": "Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO",
+      "summary": "Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The ₹1,553 crore issue offers shares priced at ₹133-140, with a minimum investment of ₹14,980. The IPO closes August 13, targeting a listing on August 18.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
+      "source": "Economic Times Markets",
+      "published": "Mon, 10 Aug 2026 21:31:48 +0530",
       "sector": "General Markets",
       "sentiment": {
         "label": "Neutral",
         "score": 0
       },
-      "is_ai_related": true
+      "is_ai_related": false
+    },
+    {
+      "id": "d15fe10f69",
+      "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list",
+      "summary": "NSE Indices announced major semi-annual rejig changes across Nifty 500, Nifty 100 and Nifty Next 50, effective September 30. BSE, Polycab, Hitachi Energy India, Vodafone Idea and Wipro will enter key indices, while several companies face exclusion.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms",
+      "source": "Economic Times Markets",
+      "published": "Mon, 10 Aug 2026 20:58:40 +0530",
+      "sector": "IT & Technology",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": false
     }
   ],
   "sectors": {
-    "Banking & Financials": [
+    "Energy & Oil-Gas": [
       {
-        "id": "1",
-        "title": "[DEMO] Sensex rallies as banking stocks lead gains",
-        "summary": "Placeholder demo content.",
-        "link": "#",
-        "source": "Demo Feed",
-        "published": "",
-        "sector": "Banking & Financials",
+        "id": "70fd507ea4",
+        "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
+        "summary": "The Nasdaq closed lower as investors worried about the Strait of Hormuz. U.S. crude oil prices jumped significantly amid the ongoing Middle East crisis. Intel shares fell after the company announced plans for a large share sale. Traders are now less confident about a Federal Rese",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-expectations-of-hormuz-deal-fade/articleshow/133135481.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 01:38:58 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "a79a7dafdc",
+        "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
+        "summary": "Oil prices rose significantly as Iran and the United States exchanged compensation demands. Prospects for reopening the Strait of Hormuz dimmed due to these escalating tensions. Ukraine continued to strike Russian refineries and tankers, further impacting supply. Saudi Aramco pos",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 00:41:43 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      }
+    ],
+    "General Markets": [
+      {
+        "id": "c8739eeecc",
+        "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
+        "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 01:18:39 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true
+      },
+      {
+        "id": "a88a393c7d",
+        "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
+        "summary": "Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer and board represent",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 23:25:44 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "3b7507be3c",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+        "summary": "Indian stock markets opened muted this week as global worries tempered investor sentiment. Strong first-quarter earnings provided some support, offsetting geopolitical tensions. Analysts noted softer US jobs data, shifting focus to inflation readings for rate direction.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 21:41:26 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "e20e62e43d",
+        "title": "Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO",
+        "summary": "Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The ₹1,553 crore issue offers shares priced at ₹133-140, with a minimum investment of ₹14,980. The IPO closes August 13, targeting a listing on August 18.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 21:31:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "892af6ccee",
+        "title": "Intel shares drop 5% after announcing $15 billion offering to support AI growth",
+        "summary": "Intel shares fell over 5% after the semiconductor giant announced a $15 billion common stock offering to fund capital needs and support AI-driven growth opportunities. The offering aims to strengthen its balance sheet while expanding capacity for rising AI compute demand.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-shares-drop-5-after-announcing-15-billion-offering-to-support-ai-growth/articleshow/133111917.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 20:14:24 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": true
+      },
+      {
+        "id": "5e91adf828",
+        "title": "High margin debt! JPMorgan CEO Jamie Dimon fires a warning shot for Wall Street investors",
+        "summary": "JPMorgan CEO Jamie Dimon warned that record margin debt and hidden leverage across financial markets could increase the risk of a sudden disruption. While stopping short of calling it systemic, he cautioned that forced selling after market declines could amplify volatility.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-margin-debt-jpmorgan-ceo-jamie-dimon-fires-a-warning-shot-for-wall-street-investors/articleshow/133111344.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 20:02:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "d13391ebc0",
+        "title": "US stocks: Retail investors sold SpaceX shares for first time on Friday",
+        "summary": "For the first time since its launch, retail investors sold off SpaceX shares, coinciding with a rebound towards its IPO price. This change reflects a reevaluation of risk versus reward, prompting some to take profits. Since mid-July, the company's stock has struggled below the IP",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-retail-investors-sold-spacex-shares-for-first-time-on-friday/articleshow/133110913.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 19:51:59 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "6473e08e27",
+        "title": "Quote of the day by Philip Fisher: \"Change creates opportunities to grow, but it also creates opportunities to slip\"",
+        "summary": "Philip Fisher’s investment wisdom highlights change as both an opportunity and a risk. Progress requires adaptability, continuous learning and disciplined decision-making. Whether in investing, business or life, success depends on embracing change while carefully managing uncerta",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-philip-fisher-change-creates-opportunities-to-grow-but-it-also-creates-opportunities-to-slip/articleshow/133110805.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 19:49:11 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "7457dad3f8",
+        "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+        "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+        "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+        "source": "Moneycontrol",
+        "published": "Tue, 23 Apr 2024 12:23:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "54e4c1e486",
+        "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+        "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23",
+        "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 18:51:45 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "0590957127",
+        "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+        "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 17:56:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "f3784e11d1",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "94fdfac2f3",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "dfd22b2806",
+        "title": "LTIMindtree Q4 Preview: Lower pass-through revenue seen impacting growth marginally",
+        "summary": "A compilation of estimates suggests the company#39;s Q4 FY24 net profit is projected to decline by 2.2 percent quarter on quarter to Rs 1,143.1 crore",
+        "link": "https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 15:51:27 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "9744a77cf3",
+        "title": "LT manufactures hydrotreating reactor for refinery in Mexico",
+        "summary": "The reactor has been dispatched for Mexico from the company#39;s A M Naik Heavy Engineering Complex at Hazira in Gujarat.",
+        "link": "https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 14:47:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "b6af0f5028",
+        "title": "Air India enters into codeshare pact with Japan#39;s All Nippon Airways",
+        "summary": "With the codeshare, effective for travel from May 23, Air India and All Nippon Airways passengers can fly to their desired destination by combining those flights between India and Japan with a single ticket.",
+        "link": "https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 14:44:20 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "d57f1233d1",
+        "title": "Stellantis India to hike vehicle prices by up to Rs 17,000 from April 30",
+        "summary": "This price increase will result in an increment ranging from Rs 4,000 to Rs 17,000 across the models, the company said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 14:17:55 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "43889811b2",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "446517f534",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "5047cde038",
+        "title": "Yen Weakens 1%, Erases Half of US-Japan Intervention Gains",
+        "summary": "The yen extended its losses, erasing half of the gains triggered when authorities from the US and Japan intervened in the foreign-exchange market to support the currency.",
+        "link": "https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-intervention-gains-11786394040377.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 02:03:59 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "9761eb88ba",
+        "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
+        "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
+        "link": "https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 00:42:25 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "7c9d1f5d80",
+        "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
+        "summary": "Zen Technologies secured a  ₹295 crore order from the Ministry of Defence for simulators, enhancing its order pipeline, which totals  ₹1,239.02 crore. The revenue outlook is positive as new products and Air Force training offerings are in development, despite a decline in profits",
+        "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 22:49:03 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "3685a4ca8f",
+        "title": "Intel plans $15 billion share sale as turnaround rally lifts stock",
+        "summary": "Intel is investing heavily in new facilities and advanced packaging capabilities as it seeks to challenge industry leaders such as TSMC in contract chip manufacturing",
+        "link": "https://www.livemint.com/market/stock-market-news/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock-11786381678993.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 22:47:31 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "2615ba8f61",
+        "title": "This new-age tech stock hits over 4-year high, recovers 70% from March lows. Are you holding it?",
+        "summary": "One97 Communications, parent of Paytm, saw a 10% share increase to  ₹1,598 after Bernstein raised its target price to  ₹2,200, citing potential UPI fee benefits.&amp;nbsp;",
+        "link": "https://www.livemint.com/market/stock-market-news/paytm-share-price-hits-over-4-year-high-recovers-70-from-march-lows-are-you-holding-it-11786366609923.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 22:02:20 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "b1f1b9ed49",
+        "title": "Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years",
+        "summary": "The company's shares have maintained a strong winning run for over a year, hitting record highs repeatedly and ending several months with gains. The sustained rally has turned the stock into one of the biggest wealth creators.&amp;nbsp;",
+        "link": "https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 20:32:56 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 5
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "a9f1e36c54",
+        "title": "Sebi proposes more room for companies to spread out debt repayments",
+        "summary": "Aimed at helping companies avoid liquidity pinches, Sebi's consultation paper suggests higher redemption limits for private debt while easing listing rules on past unlisted issues.",
+        "link": "https://www.livemint.com/market/bonds/sebi-proposes-more-room-for-companies-to-spread-out-debt-repayments-11786364257580.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 18:29:35 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "fb84e7bc45",
+        "title": "Penny stock under  ₹10 to be in focus on Tuesday; here's why",
+        "summary": "A-1 Limited has received a supply order from Solar Group worth  ₹38.70 crore for acids and industrial chemicals, to be executed by October 31, 2026. This order enhances revenue visibility and reinforces A-1's role in the domestic chemical supply chain.",
+        "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-to-be-in-focus-on-tuesday-heres-why-11786362729114.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 17:57:06 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "d2aebb59f9",
+        "title": "Shiprocket IPO: GMP signals over 25% listing gains; 5 key things to know from RHP",
+        "summary": "The upcoming Shiprocket IPO, set for August 12-14, aims to raise  ₹1,617 crore, with strong grey market signals suggesting a robust listing. This article breaks down the key details investors must know, including share offerings, use of proceeds, and more.",
+        "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 15:30:28 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
           "score": 2
@@ -66,18 +544,282 @@
         "is_ai_related": false
       }
     ],
-    "IT & Technology": [
+    "Global & Macro": [
       {
-        "id": "2",
-        "title": "[DEMO] IT sector slips on weak US guidance",
-        "summary": "Placeholder demo content.",
-        "link": "#",
-        "source": "Demo Feed",
-        "published": "",
-        "sector": "IT & Technology",
+        "id": "854932ddf2",
+        "title": "US bonds fall as markets weight inflation, Middle East risks",
+        "summary": "As treasury yields climbed on Monday, investors geared up for significant inflation data due later this week. The ongoing geopolitical tensions in the Middle East have added an extra layer of uncertainty to the markets. Traders are particularly focused on the upcoming consumer an",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 00:07:29 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Bearish",
           "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "5f25ef4bcc",
+        "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
+        "summary": "GLOBAL-PRECIOUS/ (UPDATE 8):PRECIOUS-Gold climbs to nine-week high on buying momentum as inflation data looms",
+        "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 00:44:25 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "97f09bf809",
+        "title": "Wall Street slips ahead of inflation data, crude oil surges",
+        "summary": "As of 12:43 p.m. Eastern Time, the S&amp;amp;P 500 fell 0.1%, the Dow Jones Industrial Average fell 0.2%, and the Nasdaq Composite was 0.5% lower.",
+        "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 19:41:04 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "53cca6d444",
+        "title": "Top Gainers &amp; Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers",
+        "summary": "On August 10, the Indian stock market traded within a narrow range amid Middle East tensions affecting oil prices. Nifty 50 saw a slight increase of 0.05%, while Sensex dipped 0.06%. Sector performance varied, with heavy selling in some indices and gains in Realty and Private Ban",
+        "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 15:57:39 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "dcc24c0833",
+        "title": "Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment",
+        "summary": "The Sensex rose 43 points, or 0.06%, to end at 78,542, while the Nifty 50 inched up by 13 points, or 0.05%, to settle at 24,583.80.",
+        "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 15:39:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      }
+    ],
+    "IT & Technology": [
+      {
+        "id": "d15fe10f69",
+        "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list",
+        "summary": "NSE Indices announced major semi-annual rejig changes across Nifty 500, Nifty 100 and Nifty Next 50, effective September 30. BSE, Polycab, Hitachi Energy India, Vodafone Idea and Wipro will enter key indices, while several companies face exclusion.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 20:58:40 +0530",
+        "sector": "IT & Technology",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "57457156ec",
+        "title": "Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion",
+        "summary": "Wipro will exit India's benchmark Nifty index, while BSE Ltd will enter. These changes will take effect from September 30, 2026, after market close. BSE's inclusion follows its six-month average free-float market cap crossing the required threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rejig-it-major-wipro-to-move-out-of-benchmark-index-after-bse-gets-inclusion/articleshow/133111972.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 20:16:56 +0530",
+        "sector": "IT & Technology",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      }
+    ],
+    "Banking & Financials": [
+      {
+        "id": "d502171416",
+        "title": "Fusion Finance turns profitable as asset quality improves sharply",
+        "summary": "Fusion Finance reported a Rs 62.4 crore Q1 profit, reversing a year-ago loss, as improving asset quality lifted performance. Gross NPA declined to 2.5%, while net interest margin improved. A strong capital adequacy ratio and higher AUM further strengthened the lender’s balance sh",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/fusion-finance-turns-profitable-as-asset-quality-improves-sharply/articleshow/133110875.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 19:50:36 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      }
+    ],
+    "Telecom": [
+      {
+        "id": "9348e0372c",
+        "title": "Vodafone Idea Q1 Results: Loss narrows to Rs 3,754 crore; revenue rises 6% YoY",
+        "summary": "Vodafone Idea Q1 Results: Debt-ridden telco Vodafone Idea on Monday narrowed its consolidated losses in the first quarter to Rs 3,754 crore. The loss stood at Rs 6,608 crore in the last year quarter. Revenue from operations increased 6% YoY to Rs 11,689 crore.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vodafone-idea-q1-results-loss-narrows-to-rs-3754-crore-revenue-rises-6-yoy/articleshow/133110086.cms",
+        "source": "Economic Times Markets",
+        "published": "Mon, 10 Aug 2026 19:30:34 +0530",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "c0dfb359d3",
+        "title": "Vodafone Idea Q1 Results: Net loss narrows to  ₹3,754 crore, ARPU rises to  ₹195; key highlights",
+        "summary": "Vodafone Idea reported a net loss of  ₹3,754 crore for the June quarter, improving from a loss of  ₹6,608 crore a year ago. The consolidated revenue rose to  ₹11,689 crore, a 2.4% increase from  ₹11,023 crore in June 2025.",
+        "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-q1-results-net-loss-narrows-to-rs-3-754-crore-arpu-rises-to-rs-195-key-highlights-11786369911587.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 19:37:26 +0530",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false
+      }
+    ],
+    "Pharma & Healthcare": [
+      {
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+        "source": "Moneycontrol",
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Pharma & Healthcare",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false
+      },
+      {
+        "id": "7b4bcbcca3",
+        "title": "Gland Pharma Q1 Results: Net profit jumps 47% YoY to  ₹317 crore; CDMO revenue rises 20%",
+        "summary": "Gland Pharma's Q1 FY27 net profit grew 47% YoY to  ₹317 crore, despite a 14% sequential decline. Revenue rose 20% YoY to  ₹1,800 crore, driven by CDMO and B2B businesses, with strong contributions from the US and Europe markets.",
+        "link": "https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html",
+        "source": "LiveMint Markets",
+        "published": "Mon, 10 Aug 2026 16:45:19 +0530",
+        "sector": "Pharma & Healthcare",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false
+      }
+    ],
+    "FMCG": [
+      {
+        "id": "00189e27b6",
+        "title": "Hindustan Unilever Q4 Preview: Price cuts, slow demand, regional competition to hurt topline",
+        "summary": "The hike in royalty payments to parent Unilever are likely to adversely impact HUL#39;s EBITDA margins, say experts",
+        "link": "https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 16:05:45 +0530",
+        "sector": "FMCG",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false
+      }
+    ],
+    "Realty & Infra": [
+      {
+        "id": "265bd79a69",
+        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
+        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
+        "source": "Moneycontrol Business",
+        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
+        "sector": "Realty & Infra",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false
       }
@@ -85,16 +827,30 @@
   },
   "ai_in_finance": [
     {
-      "id": "3",
-      "title": "[DEMO] New AI copilot launched for equity research desks",
-      "summary": "Placeholder AI-in-finance story.",
-      "link": "#",
-      "source": "Demo Feed",
-      "published": "",
+      "id": "c8739eeecc",
+      "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
+      "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 01:18:39 +0530",
       "sector": "General Markets",
       "sentiment": {
         "label": "Neutral",
         "score": 0
+      },
+      "is_ai_related": true
+    },
+    {
+      "id": "892af6ccee",
+      "title": "Intel shares drop 5% after announcing $15 billion offering to support AI growth",
+      "summary": "Intel shares fell over 5% after the semiconductor giant announced a $15 billion common stock offering to fund capital needs and support AI-driven growth opportunities. The offering aims to strengthen its balance sheet while expanding capacity for rising AI compute demand.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-shares-drop-5-after-announcing-15-billion-offering-to-support-ai-growth/articleshow/133111917.cms",
+      "source": "Economic Times Markets",
+      "published": "Mon, 10 Aug 2026 20:14:24 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 1
       },
       "is_ai_related": true
     }
