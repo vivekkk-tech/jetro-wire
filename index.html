@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAILY PLANET | Simple Financial Market News & Sources - August 6, 2026</title>
+    <meta name="description" content="Daily Planet AI financial newspaper providing simplified Indian stock market news, direct source links, company updates, startup funding, and PE/IB deals.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="newsprint-theme">
+    <!-- TOP LIVE TICKER BAR -->
+    <div class="top-bar" id="topTickerBar">
+        <div class="ticker-wrap">
+            <div class="ticker-title">DAILY PLANET TICKER</div>
+            <div class="ticker">
+                <div class="ticker-item"><span class="ticker-name">NIFTY 50</span> <span class="ticker-val">24,652.10</span> <span class="up">▲ +0.32%</span></div>
+                <div class="ticker-item"><span class="ticker-name">SENSEX</span> <span class="ticker-val">78,814.50</span> <span class="up">▲ +0.28%</span></div>
+                <div class="ticker-item"><span class="ticker-name">BANK NIFTY</span> <span class="ticker-val">52,410.80</span> <span class="up">▲ +0.45%</span></div>
+                <div class="ticker-item"><span class="ticker-name">RELIANCE</span> <span class="ticker-val">₹3,042.50</span> <span class="up">▲ +1.12%</span></div>
+                <div class="ticker-item"><span class="ticker-name">TCS</span> <span class="ticker-val">₹4,285.00</span> <span class="down">▼ -0.34%</span></div>
+                <div class="ticker-item"><span class="ticker-name">HDFCBANK</span> <span class="ticker-val">₹1,640.20</span> <span class="up">▲ +0.85%</span></div>
+                <div class="ticker-item"><span class="ticker-name">INFY</span> <span class="ticker-val">₹1,812.60</span> <span class="down">▼ -0.22%</span></div>
+                <div class="ticker-item"><span class="ticker-name">TATAMOTORS</span> <span class="ticker-val">₹1,024.15</span> <span class="up">▲ +1.75%</span></div>
+                <div class="ticker-item"><span class="ticker-name">SBIN</span> <span class="ticker-val">₹848.30</span> <span class="up">▲ +1.40%</span></div>
+                <div class="ticker-item"><span class="ticker-name">LT</span> <span class="ticker-val">₹3,750.00</span> <span class="up">▲ +0.95%</span></div>
+                <div class="ticker-item"><span class="ticker-name">BHARTIARTL</span> <span class="ticker-val">₹1,480.10</span> <span class="up">▲ +1.20%</span></div>
+                <div class="ticker-item"><span class="ticker-name">USD/INR</span> <span class="ticker-val">₹83.84</span> <span class="neutral">► 0.00%</span></div>
+                <div class="ticker-item"><span class="ticker-name">BRENT CRUDE</span> <span class="ticker-val">$79.12/bbl</span> <span class="down">▼ -1.45%</span></div>
+            </div>
+        </div>
+        <div class="top-actions">
+            <button id="aiRefreshBtn" class="btn-action" title="Fetch & Ingest Latest News">🔄 Refresh Latest News</button>
+            <button id="ttsPlayBtn" class="btn-action" title="Listen to Newspaper Edition">🔊 Listen (AI Voice)</button>
+            <button id="themeToggle" class="btn-icon" title="Toggle Theme">🌙</button>
+            <button id="printBtn" class="btn-icon" title="Print/Export PDF">🖨️</button>
+        </div>
+    </div>
+
+    <!-- MAIN NEWSPAPER CONTAINER -->
+    <div class="newspaper-container">
+        <!-- MASTHEAD HEADER -->
+        <header class="masthead">
+            <div class="masthead-meta-top">
+                <span>VOL. VII • ISSUE 218</span>
+                <span class="badge-jetro">JETRO AI EDITION • DAILY PLANET DISPATCH</span>
+                <span>ESTIMATED READ: 5 MINS</span>
+            </div>
+            <div class="title-wrapper">
+                <div class="title-dec-left"></div>
+                <h1 class="paper-title">DAILY PLANET</h1>
+                <div class="title-dec-right"></div>
+            </div>
+            <div class="masthead-sub">EVERYTHING YOU NEED TO KNOW ABOUT INDIAN STOCKS, STARTUPS & PRIVATE EQUITY IN SIMPLE LANGUAGE</div>
+            <div class="masthead-date-bar">
+                <div class="date-item"><strong>EDITION:</strong> Thursday, August 6, 2026</div>
+                <div class="date-item"><strong>MARKET MOOD:</strong> Happy / Buying Interest</div>
+                <div class="date-item"><strong>JETRO AI SENTIMENT:</strong> <span class="sentiment-pill pill-bullish" id="mastheadSentimentPill">78/100 (BULLISH)</span></div>
+            </div>
+        </header>
+
+        <!-- NAVIGATION TABS -->
+        <nav class="page-nav">
+            <div class="tab-group">
+                <button class="nav-tab active" data-page="page-1" id="tab-page-1">
+                    <span class="tab-num">PAGE 1</span>
+                    <span class="tab-title">Indian Stock Market & Companies</span>
+                </button>
+                <button class="nav-tab" data-page="page-2" id="tab-page-2">
+                    <span class="tab-num">PAGE 2</span>
+                    <span class="tab-title">Indian Startup Ecosystem</span>
+                </button>
+                <button class="nav-tab" data-page="page-3" id="tab-page-3">
+                    <span class="tab-num">PAGE 3</span>
+                    <span class="tab-title">Equity Firms & Investment Banking</span>
+                </button>
+            </div>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" placeholder="Search company, stock, or startup...">
+            </div>
+        </nav>
+
+        <!-- ==================== PAGE 1: INDIAN STOCK MARKET & SENTIMENT ==================== -->
+        <main id="page-1" class="newspaper-page active">
+            <div class="page-header">
+                <div class="page-header-left">
+                    <h2>PAGE 1 — INDIAN STOCK MARKET & INDIVIDUAL COMPANY NEWS</h2>
+                    <div class="page-subline">Simple explanations of why markets are moving today + Direct news sources</div>
+                </div>
+                <div class="page-header-right">
+                    <span class="live-pulse"></span> LIVE JETRO AI MARKET PULSE
+                </div>
+            </div>
+
+            <!-- MARKET SENTIMENT DASHBOARD WIDGET -->
+            <section class="sentiment-dashboard-widget" id="sentimentDashboard">
+                <div class="widget-header">
+                    <div class="widget-title">
+                        <span class="ai-badge">JETRO AI SIMPLE SUMMARY</span>
+                        <h3>MARKET MOOD & SIMPLE SENTIMENT EXPLAINER</h3>
+                    </div>
+                    <div class="sentiment-score-badge">
+                        <div class="score-number" id="dashScoreNum">78<span>/100</span></div>
+                        <div class="score-label" id="dashScoreLabel">BULLISH (MARKET IS GREEN)</div>
+                    </div>
+                </div>
+
+                <div class="sentiment-grid">
+                    <!-- Gauge Dial -->
+                    <div class="sentiment-meter-box">
+                        <div class="gauge-container">
+                            <div class="gauge-arc">
+                                <div class="gauge-fill" id="gaugeFill" style="transform: rotate(140deg);"></div>
+                            </div>
+                            <div class="gauge-center">
+                                <span class="gauge-status" id="gaugeStatus">BULLISH</span>
+                                <span class="gauge-sub" id="gaugeSub">Score: 78/100</span>
+                            </div>
+                        </div>
+                        <div class="gauge-labels">
+                            <span>Fear (Red)</span>
+                            <span>Neutral</span>
+                            <span>Greed (Green)</span>
+                        </div>
+                    </div>
+
+                    <!-- Market Sentiment Drivers Breakdown -->
+                    <div class="sentiment-drivers">
+                        <h4>Why is the market positive today? (In Simple Words)</h4>
+                        <ul class="driver-list">
+                            <li>
+                                <span class="driver-tag positive">1. Bank Interest Rates</span>
+                                <span class="driver-desc">Reserve Bank of India (RBI) kept loan interest rates unchanged. This means home loan EMIs stay steady, making buyers happy.</span>
+                            </li>
+                            <li>
+                                <span class="driver-tag positive">2. Indian Buyer Buying Power</span>
+                                <span class="driver-desc">Indian Mutual Funds & Domestic Investors bought ₹2,883 Crore worth of shares today, keeping stock prices high.</span>
+                            </li>
+                            <li>
+                                <span class="driver-tag positive">3. Petrol & Crude Oil Prices</span>
+                                <span class="driver-desc">Crude oil prices fell by -1.45% to $79/bbl. Lower oil prices save money for India and reduce inflation.</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Sector Sentiment Heatmap -->
+                    <div class="sector-heatmap-box">
+                        <h4>Sector Performance Today</h4>
+                        <div class="heatmap-grid">
+                            <div class="heat-item heat-strong-green">
+                                <span class="sec-name">BANKS & MONEY</span>
+                                <span class="sec-val">+1.4% • Winning</span>
+                            </div>
+                            <div class="heat-item heat-green">
+                                <span class="sec-name">CARS & VEHICLES</span>
+                                <span class="sec-val">+1.2% • Growing</span>
+                            </div>
+                            <div class="heat-item heat-green">
+                                <span class="sec-name">ENERGY & OIL</span>
+                                <span class="sec-val">+0.9% • Steady</span>
+                            </div>
+                            <div class="heat-item heat-neutral">
+                                <span class="sec-name">MEDICINE & PHARMA</span>
+                                <span class="sec-val">+0.1% • Neutral</span>
+                            </div>
+                            <div class="heat-item heat-soft-red">
+                                <span class="sec-name">IT & SOFTWARE</span>
+                                <span class="sec-val">-0.4% • Slightly Low</span>
+                            </div>
+                            <div class="heat-item heat-green">
+                                <span class="sec-name">REAL ESTATE / HOUSING</span>
+                                <span class="sec-val">+1.1% • Up</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- LEAD STORY: MARKET MACRO CATALYST -->
+            <article class="lead-story">
+                <div class="lead-header">
+                    <div class="headline-tag tag-macro">BIGGEST MARKET NEWS • RBI INTEREST RATES</div>
+                    <span class="jetro-impact-pill impact-high-positive">Jetro Impact: Highly Positive for Indian Stocks</span>
+                </div>
+                <h3 class="lead-headline">RBI Keeps Interest Rates at 5.25%; Expects India's Economy to Grow Faster at 6.7%</h3>
+                <div class="byline">
+                    Sources: <a href="https://www.rbi.org.in" target="_blank" class="source-link">Reserve Bank of India ↗</a> • <a href="https://economictimes.indiatimes.com" target="_blank" class="source-link">Economic Times ↗</a> • <a href="https://www.moneycontrol.com" target="_blank" class="source-link">Moneycontrol ↗</a>
+                </div>
+                <div class="lead-content-grid">
+                    <div class="lead-body">
+                        <p class="story-summary">
+                            <strong>What happened?</strong> The Reserve Bank of India (RBI) decided today to keep the country's main interest rate (repo rate) unchanged at 5.25%. This is the 4th time in a row they have kept rates steady.
+                        </p>
+                        <p>
+                            <strong>Why does this matter in simple terms?</strong> When interest rates don't increase, loans for homes, cars, and businesses stay affordable. RBI Governor Sanjay Malhotra also said India's economy is doing great and increased India's expected growth rate to 6.7% for this financial year.
+                        </p>
+                    </div>
+                    <div class="lead-ai-summary-card">
+                        <div class="ai-card-title">💡 WHAT THIS MEANS FOR YOU</div>
+                        <ul class="ai-bullet-list">
+                            <li><strong>Home Loan EMIs:</strong> Your monthly EMI payments will not increase.</li>
+                            <li><strong>Bank Shares:</strong> Stocks of HDFC Bank, ICICI Bank, and SBI went up because people will keep taking loans.</li>
+                            <li><strong>Read More on Source:</strong> <a href="https://economictimes.indiatimes.com/news/economy/policy" target="_blank" class="source-button">Read Full RBI Article on Economic Times ↗</a></li>
+                        </ul>
+                        <button class="btn-read-more" onclick="openJetroModal('RBI Rate Announcement Simple Breakdown', 'The RBI kept interest rates at 5.25% which protects home buyers from high EMIs. It also raised India growth target from 6.5% to 6.7%, signaling a healthy economic environment for stock investors.')">Jetro AI Simple Explanation →</button>
+                    </div>
+                </div>
+            </article>
+
+            <!-- MARKET NEWS 2-COLUMN GRID -->
+            <div class="news-grid-2col">
+                <article class="news-card">
+                    <div class="headline-tag tag-macro">INDIAN BUYERS vs FOREIGN SELLERS</div>
+                    <h4>Indian Mutual Funds Buy ₹2,883 Cr Shares to Keep Stock Prices High</h4>
+                    <div class="byline">Sources: <a href="https://www.nseindia.com" target="_blank" class="source-link">NSE India ↗</a> • <a href="https://www.bseindia.com" target="_blank" class="source-link">BSE India ↗</a> • <a href="https://www.livemint.com" target="_blank" class="source-link">LiveMint ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Foreign investors sold ₹943 Crore worth of shares today, but Indian mutual funds and regular monthly SIP buyers put ₹2,883 Crore into the market. Because Indians bought more than foreigners sold, the Nifty 50 stayed strong above 24,600 points.
+                    </p>
+                    <div class="impact-chip impact-positive">Read More: <a href="https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php" target="_blank">View Live FII/DII Data on Moneycontrol ↗</a></div>
+                </article>
+
+                <article class="news-card">
+                    <div class="headline-tag tag-macro">PETROL & CRUDE OIL</div>
+                    <h4>Crude Oil Price Drops to $79/bbl; Good News for Indian Petrol & Paints</h4>
+                    <div class="byline">Sources: <a href="https://www.reuters.com" target="_blank" class="source-link">Reuters Business ↗</a> • <a href="https://www.bloomberg.com" target="_blank" class="source-link">Bloomberg Markets ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Oil prices dropped by over 1.4% to $79 a barrel because shipping routes in the Middle East became safer. Since India buys 85% of its petrol from abroad, lower crude oil prices save India money and keep petrol prices steady.
+                    </p>
+                    <div class="impact-chip impact-positive">Read More: <a href="https://www.reuters.com/business/energy/" target="_blank">Read Crude Oil News on Reuters ↗</a></div>
+                </article>
+            </div>
+
+            <!-- ================= INDIVIDUAL COMPANY NEWS SECTION ================= -->
+            <section class="company-news-section" id="companyNewsSection">
+                <div class="section-title-bar">
+                    <div class="title-left">
+                        <span class="section-tag">COMPANY NEWS</span>
+                        <h3>LATEST NEWS FOR INDIVIDUAL INDIAN COMPANIES (WITH SOURCES)</h3>
+                    </div>
+                    <div class="company-filter-pills" id="companyPills">
+                        <button class="pill active" data-stock="ALL">ALL STOCKS</button>
+                        <button class="pill" data-stock="RELIANCE">RELIANCE</button>
+                        <button class="pill" data-stock="TCS">TCS</button>
+                        <button class="pill" data-stock="HDFCBANK">HDFC BANK</button>
+                        <button class="pill" data-stock="INFY">INFOSYS</button>
+                        <button class="pill" data-stock="TATAMOTORS">TATA MOTORS</button>
+                        <button class="pill" data-stock="SBIN">SBI</button>
+                        <button class="pill" data-stock="LT">L&T</button>
+                    </div>
+                </div>
+
+                <div class="company-cards-grid" id="companyCardsGrid">
+                    <!-- RELIANCE CARD -->
+                    <article class="company-card" data-company="RELIANCE" data-search="reliance industries jio 5g data center Mukesh Ambani">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">RELIANCE</span>
+                                <h4 class="comp-name">Reliance Industries Ltd.</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹3,042.50</span>
+                                <span class="price-change up">▲ +1.12%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">Reliance Jio to Build $2 Billion AI Data Centers in Jamnagar</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> Mukesh Ambani's Reliance Jio is building massive Artificial Intelligence (AI) data centers in Gujarat. This will power superfast AI services across India. Also, earnings from their oil refinery business improved this month.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://economictimes.indiatimes.com/company/reliance-industries-ltd/stocks/companyid-13215.cms" target="_blank">Reliance News on Economic Times ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>BULLISH (Good Buy)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('Reliance Industries', 'Reliance is investing in future AI infrastructure which makes the company very valuable for long-term investors.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- TCS CARD -->
+                    <article class="company-card" data-company="TCS" data-search="tcs tata consultancy services IT software contract UK">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">TCS</span>
+                                <h4 class="comp-name">Tata Consultancy Services</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹4,285.00</span>
+                                <span class="price-change down">▼ -0.34%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">TCS Wins $450 Million Deal with Major UK Insurance Company</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> TCS won a huge $450 million (approx ₹3,700 Crore) contract from a large UK insurance company to handle their computer systems and AI. However, US clients are still spending carefully on new technology.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS" target="_blank">TCS News on Moneycontrol ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-neutral">Jetro Rating: <strong>NEUTRAL (Steady)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('TCS News', 'TCS keeps winning big contracts in Europe, though software spending in America is slightly slow.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- HDFC BANK CARD -->
+                    <article class="company-card" data-company="HDFCBANK" data-search="hdfc bank loans deposits interest rate money">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">HDFCBANK</span>
+                                <h4 class="comp-name">HDFC Bank Ltd.</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹1,640.20</span>
+                                <span class="price-change up">▲ +0.85%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">HDFC Bank Deposits Grow 16.2% as More People Save Money</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> More people deposited their savings into HDFC Bank, growing total deposits by 16.2%. The bank is earning healthy interest profits and its integration after merging with HDFC is complete.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.livemint.com/market/stock-market-news" target="_blank">HDFC Bank News on LiveMint ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>BULLISH (Strong Bank)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('HDFC Bank News', 'HDFC Bank is getting lots of new customer savings deposits which makes it very safe and profitable.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- INFY CARD -->
+                    <article class="company-card" data-company="INFY" data-search="infosys topaz AI software deals European telecom">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">INFY</span>
+                                <h4 class="comp-name">Infosys Ltd.</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹1,812.60</span>
+                                <span class="price-change down">▼ -0.22%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">Infosys AI Tool "Topaz" Adopted by Over 120 Global Companies</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> Infosys's artificial intelligence product named "Topaz" is now used by over 120 big global businesses to automate their computer work. Company profits remain stable.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.business-standard.com/company/infosys-313.htm" target="_blank">Infosys News on Business Standard ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>BULLISH (AI Growth)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('Infosys News', 'Infosys AI suite Topaz is getting popular fast among international corporate clients.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- TATAMOTORS CARD -->
+                    <article class="company-card" data-company="TATAMOTORS" data-search="tata motors jlr electric car EV Nexon Punch EV">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">TATAMOTORS</span>
+                                <h4 class="comp-name">Tata Motors Ltd.</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹1,024.15</span>
+                                <span class="price-change up">▲ +1.75%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">Tata Motors Sells 71% of All Electric Cars in India; JLR Cash Profits Soar</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> Tata Motors dominates India's electric car market (Nexon EV, Punch EV) with 71% market share. Its luxury car brand Jaguar Land Rover (JLR) reported record cash savings of £850 million.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.financialexpress.com/auto/" target="_blank">Tata Motors News on Financial Express ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>VERY BULLISH (Top EV Choice)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('Tata Motors News', 'Tata Motors is the king of electric cars in India and JLR is making big profits overseas.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- SBIN CARD -->
+                    <article class="company-card" data-company="SBIN" data-search="state bank of india sbi loan bad loans profit branch">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">SBIN</span>
+                                <h4 class="comp-name">State Bank of India (SBI)</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹848.30</span>
+                                <span class="price-change up">▲ +1.40%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">SBI Profits Rise as Unpaid Bad Loans Fall to Lowest Level in 10 Years</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> India's largest public bank SBI announced that unpaid customer loans (NPA) dropped to record low levels. More people are repaying loans on time, boosting SBI's overall financial health.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.bseindia.com/stock-share-price/state-bank-of-india/sbin/500112/" target="_blank">SBI News on BSE India ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>BULLISH (India's Top Bank)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('SBI News', 'State Bank of India is super clean now with very low bad loans and strong government backing.')">Simple Take →</button>
+                        </div>
+                    </article>
+
+                    <!-- LT CARD -->
+                    <article class="company-card" data-company="LT" data-search="larsen toubro L&T construction bridge highway metro order book">
+                        <div class="comp-header">
+                            <div class="comp-info">
+                                <span class="ticker-badge">LT</span>
+                                <h4 class="comp-name">Larsen & Toubro (L&T)</h4>
+                            </div>
+                            <div class="comp-price-box">
+                                <span class="price-val">₹3,750.00</span>
+                                <span class="price-change up">▲ +0.95%</span>
+                            </div>
+                        </div>
+                        <div class="comp-news-title">L&T Wins ₹7,500 Crore New Orders for Solar Power Plants & High-Speed Rail</div>
+                        <p class="comp-news-body">
+                            <strong>Simple News:</strong> India's biggest construction and engineering company L&T won huge new projects to build solar energy parks and bullet train infrastructure across India and Middle East.
+                        </p>
+                        <div class="source-bar">Source: <a href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT" target="_blank">L&T News on Moneycontrol ↗</a></div>
+                        <div class="comp-ai-footer">
+                            <div class="ai-sentiment-rating rate-bullish">Jetro Rating: <strong>BULLISH (Infrastructure Leader)</strong></div>
+                            <button class="btn-compact-ai" onclick="openJetroModal('L&T News', 'L&T builds India infrastructure (bridges, metro, solar) and has guaranteed project orders for years ahead.')">Simple Take →</button>
+                        </div>
+                    </article>
+                </div>
+            </section>
+        </main>
+
+        <!-- ==================== PAGE 2: INDIAN STARTUP ECOSYSTEM ==================== -->
+        <main id="page-2" class="newspaper-page">
+            <div class="page-header">
+                <div class="page-header-left">
+                    <h2>PAGE 2 — INDIAN STARTUP ECOSYSTEM & NEW FUNDING NEWS</h2>
+                    <div class="page-subline">Simple startup funding news, new venture deals + Direct news sources</div>
+                </div>
+                <div class="page-header-right">
+                    <span class="badge-tag">INDIA STARTUP WATCH</span>
+                </div>
+            </div>
+
+            <!-- STARTUP HIGHLIGHT LEAD STORY -->
+            <article class="lead-story startup-theme">
+                <div class="lead-header">
+                    <div class="headline-tag tag-startup">BIGGEST STARTUP DEAL TODAY • FINTECH & AI</div>
+                    <span class="jetro-impact-pill impact-high-positive">VC Score: 9.2/10 (Hot Startup)</span>
+                </div>
+                <h3 class="lead-headline">Insurtech Startup "InRisk Labs" Raises $27 Million (₹225 Crore) to Automate Insurance with AI</h3>
+                <div class="byline">
+                    Sources: <a href="https://vccircle.com" target="_blank" class="source-link">VCCircle ↗</a> • <a href="https://inc42.com" target="_blank" class="source-link">Inc42 ↗</a> • <a href="https://yourstory.com" target="_blank" class="source-link">YourStory ↗</a>
+                </div>
+                <div class="lead-content-grid">
+                    <div class="lead-body">
+                        <p class="story-summary">
+                            <strong>What is InRisk Labs?</strong> It is a Bengaluru startup that uses Artificial Intelligence to help big insurance companies process insurance claims and approve policies automatically in minutes instead of days.
+                        </p>
+                        <p>
+                            <strong>Who gave them money?</strong> Global investor Bessemer Venture Partners and Northpoint Capital gave them $27 Million ($225 Crore) in Series A funding to expand their technology across India and USA.
+                        </p>
+                    </div>
+                    <div class="lead-ai-summary-card">
+                        <div class="ai-card-title">🚀 WHY INVESTORS ARE EXCITED</div>
+                        <ul class="ai-bullet-list">
+                            <li><strong>Fast Growth:</strong> InRisk Labs grew its sales by 320% in the last 12 months.</li>
+                            <li><strong>Big Clients:</strong> ICICI Lombard and HDFC ERGO use their AI system.</li>
+                            <li><strong>Read Source:</strong> <a href="https://inc42.com/buzz/" target="_blank" class="source-button">Read Full Story on Inc42 ↗</a></li>
+                        </ul>
+                        <button class="btn-read-more" onclick="openJetroModal('InRisk Labs Funding', 'InRisk Labs shows how Indian AI startups are getting huge funding from global investors because they solve real business problems.')">Simple Take →</button>
+                    </div>
+                </div>
+            </article>
+
+            <!-- STARTUP NEWS GRID -->
+            <div class="news-grid-2col">
+                <article class="news-card startup-card">
+                    <div class="headline-tag tag-startup">GOVERNMENT & VC FUND</div>
+                    <h4>Government's SIDBI Backs Cedar Hill Capital to Invest ₹500 Cr in New Indian Startups</h4>
+                    <div class="byline">Sources: <a href="https://yourstory.com" target="_blank" class="source-link">YourStory ↗</a> • <a href="https://economictimes.indiatimes.com/small-biz/startups" target="_blank" class="source-link">Economic Times Startups ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Small Industries Development Bank of India (SIDBI) partnered with VC firm Cedar Hill Capital to create a ₹500 Crore fund. This money will give early checks of ₹5 Cr to ₹20 Cr to young Indian tech entrepreneurs building AI and fintech tools.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://yourstory.com/category/funding" target="_blank">Read Startup News on YourStory ↗</a></div>
+                </article>
+
+                <article class="news-card startup-card">
+                    <div class="headline-tag tag-startup">ROBOTICS & CHIPS</div>
+                    <h4>Piper Serica Raises ₹300 Cr "Bharat Tech Fund" for Microchips & Robotics</h4>
+                    <div class="byline">Sources: <a href="https://entrackr.com" target="_blank" class="source-link">Entrackr ↗</a> • <a href="https://www.ventureintelligence.com" target="_blank" class="source-link">Venture Intelligence ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Mumbai VC firm Piper Serica collected ₹300 Crore to invest in Indian hard-tech startups making robotics, satellite tech, and semiconductor computer microchips in India.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://entrackr.com" target="_blank">Read Deeptech News on Entrackr ↗</a></div>
+                </article>
+
+                <article class="news-card startup-card">
+                    <div class="headline-tag tag-startup">AI ASSISTANTS & ELECTRIC BIKES</div>
+                    <h4>AI Assistant App "Hulp" Raises $2.6M Seed Capital; EV Bike Startup LW3 Wins Grant</h4>
+                    <div class="byline">Sources: <a href="https://www.livemint.com" target="_blank" class="source-link">LiveMint Startups ↗</a> • <a href="https://startupindia.gov.in" target="_blank" class="source-link">Startup India ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Personal AI assistant startup Hulp raised $2.6M (₹21 Crore) from investors. Meanwhile, electric vehicle battery startup LW3 won a ₹20 Lakh government innovation award from IIM Calcutta and Daimler India.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://inc42.com" target="_blank">Read Seed Funding News on Inc42 ↗</a></div>
+                </article>
+
+                <article class="news-card startup-card">
+                    <div class="headline-tag tag-startup">TAX RELIEF FOR EMPLOYEES</div>
+                    <h4>Government Gives ESOP Tax Relief to Startup Employees; 4 Startups File for IPO</h4>
+                    <div class="byline">Sources: <a href="https://www.business-standard.com" target="_blank" class="source-link">Business Standard ↗</a> • <a href="https://www.sebi.gov.in" target="_blank" class="source-link">SEBI Filings ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> DPIIT made it easier for startup workers who hold company share options (ESOPs) by delaying tax until they sell shares. Also, 4 Indian tech startups submitted papers to SEBI to list their shares on stock markets soon.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://www.sebi.gov.in" target="_blank">View SEBI IPO Filings ↗</a></div>
+                </article>
+            </div>
+
+            <!-- STARTUP FUNDING LEDGER TABLE WIDGET -->
+            <section class="funding-ledger-section">
+                <div class="ledger-header">
+                    <h4>📊 SIMPLE SUMMARY: RECENT INDIAN STARTUP FUNDING ROUNDS</h4>
+                </div>
+                <div class="table-responsive">
+                    <table class="ledger-table">
+                        <thead>
+                            <tr>
+                                <th>STARTUP</th>
+                                <th>WHAT THEY DO</th>
+                                <th>STAGE</th>
+                                <th>MONEY RAISED</th>
+                                <th>INVESTORS</th>
+                                <th>SOURCE LINK</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>InRisk Labs</strong></td>
+                                <td>AI Insurance Claims</td>
+                                <td>Series A</td>
+                                <td>$27.0 Million (₹225 Cr)</td>
+                                <td>Bessemer, Northpoint</td>
+                                <td><a href="https://inc42.com" target="_blank">Inc42 ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Hulp AI</strong></td>
+                                <td>Personal AI Assistant</td>
+                                <td>Seed</td>
+                                <td>$2.6 Million (₹21 Cr)</td>
+                                <td>Sparrow Capital</td>
+                                <td><a href="https://yourstory.com" target="_blank">YourStory ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>LW3 Mobility</strong></td>
+                                <td>EV Battery Tech</td>
+                                <td>Grant</td>
+                                <td>₹20 Lakhs</td>
+                                <td>IIM Calcutta, Daimler</td>
+                                <td><a href="https://livemint.com" target="_blank">LiveMint ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>KrediX Rail</strong></td>
+                                <td>Supply Chain Loans</td>
+                                <td>Pre-Series A</td>
+                                <td>$6.8 Million (₹56 Cr)</td>
+                                <td>Peak XV Partners</td>
+                                <td><a href="https://vccircle.com" target="_blank">VCCircle ↗</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+
+        <!-- ==================== PAGE 3: EQUITY FIRMS & INVESTMENT BANKING ==================== -->
+        <main id="page-3" class="newspaper-page">
+            <div class="page-header">
+                <div class="page-header-left">
+                    <h2>PAGE 3 — EQUITY FIRMS (PE) & INVESTMENT BANKING (M&A)</h2>
+                    <div class="page-subline">Simple explanations of big corporate buyouts, fund raises & investment bankers + Direct sources</div>
+                </div>
+                <div class="page-header-right">
+                    <span class="badge-tag tag-pe">DEALMAKER EDITION</span>
+                </div>
+            </div>
+
+            <!-- PE LEAD STORY -->
+            <article class="lead-story pe-theme">
+                <div class="lead-header">
+                    <div class="headline-tag tag-pe">BIGGEST PRIVATE EQUITY FUND • FUNDRAISE</div>
+                    <span class="jetro-impact-pill impact-high-positive">PE Rating: 9.6/10 (Record Fund)</span>
+                </div>
+                <h3 class="lead-headline">Indian Private Equity Giant "ChryCapital" Raises $1.2 Billion (₹10,000 Crore) to Buy Indian Businesses</h3>
+                <div class="byline">
+                    Sources: <a href="https://economictimes.indiatimes.com" target="_blank" class="source-link">Economic Times ↗</a> • <a href="https://vccircle.com" target="_blank" class="source-link">VCCircle ↗</a> • <a href="https://www.ft.com" target="_blank" class="source-link">Financial Times ↗</a>
+                </div>
+                <div class="lead-content-grid">
+                    <div class="lead-body">
+                        <p class="story-summary">
+                            <strong>What is ChryCapital?</strong> It is India's pioneer Private Equity (PE) investment firm. PE firms raise big pools of cash from rich global institutions and use it to buy controlling shares in established companies.
+                        </p>
+                        <p>
+                            <strong>What did they do today?</strong> ChryCapital successfully collected $1.2 Billion (approx ₹10,000 Crore) for its 8th India Fund. They will buy major stakes in Indian hospitals, private banks, IT firms, and consumer brands.
+                        </p>
+                    </div>
+                    <div class="lead-ai-summary-card">
+                        <div class="ai-card-title">💼 WHY THIS MATTERS FOR INDIA</div>
+                        <ul class="ai-bullet-list">
+                            <li><strong>Foreign Trust:</strong> Foreign investors are giving billions to India instead of other countries.</li>
+                            <li><strong>Investment Banks Involved:</strong> J.P. Morgan and Avendus Capital helped place the fund.</li>
+                            <li><strong>Read Source:</strong> <a href="https://economictimes.indiatimes.com/prime/money-and-banking" target="_blank" class="source-button">Read Full PE Article on Economic Times ↗</a></li>
+                        </ul>
+                        <button class="btn-read-more" onclick="openJetroModal('ChryCapital $1.2B PE Fund', 'Private Equity funds buy big company shares to improve them and sell them later at higher profits. ChryCapital raising ₹10,000 Cr shows massive confidence in Indian companies.')">Simple Take →</button>
+                    </div>
+                </div>
+            </article>
+
+            <!-- PE & IB DEAL GRID -->
+            <div class="news-grid-2col">
+                <article class="news-card pe-card">
+                    <div class="headline-tag tag-pe">COMPANY BUYOUT & INVESTMENT BANKING</div>
+                    <h4>Global Investor KKR Buys Medical Device Maker "Healthium" for $850M (₹7,000 Cr)</h4>
+                    <div class="byline">Sources: <a href="https://vccircle.com" target="_blank" class="source-link">VCCircle PE ↗</a> • <a href="https://www.mergermarket.com" target="_blank" class="source-link">Mergermarket ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Global private equity giant KKR bought 99.8% ownership of Indian surgical thread maker Healthium Medtech for $850 Million. Top investment banks Goldman Sachs and Kotak Investment Banking managed the deal.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://vccircle.com" target="_blank">Read Deal Breakdown on VCCircle ↗</a></div>
+                </article>
+
+                <article class="news-card pe-card">
+                    <div class="headline-tag tag-pe">WAREHOUSING & REAL ESTATE LOAN</div>
+                    <h4>Blackstone Secures $500M Loan to Build Super Warehouses Across India</h4>
+                    <div class="byline">Sources: <a href="https://www.ft.com" target="_blank" class="source-link">Financial Times ↗</a> • <a href="https://www.livemint.com" target="_blank" class="source-link">Mint Deals ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> World’s biggest real estate firm Blackstone got a $500M (₹4,100 Cr) bank loan from HDFC Bank and Standard Chartered to build modern e-commerce delivery warehouses near Mumbai, Bengaluru, and Delhi.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://www.livemint.com" target="_blank">Read Logistics News on Mint ↗</a></div>
+                </article>
+
+                <article class="news-card pe-card">
+                    <div class="headline-tag tag-pe">STOCK MARKET BLOCK TRADE</div>
+                    <h4>Morgan Stanley Handles ₹1,450 Cr Share Sale in Premier Indian Finance Company</h4>
+                    <div class="byline">Sources: <a href="https://www.bseindia.com" target="_blank" class="source-link">BSE Block Deals ↗</a> • <a href="https://www.moneycontrol.com" target="_blank" class="source-link">Moneycontrol ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Investment bank Morgan Stanley arranged a single large ₹1,450 Crore stock sale (called a Block Deal) between institutional sellers and big buyers like SBI Mutual Fund and Singapore Government GIC.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://www.bseindia.com/markets/equity/EQReports/block_deals.aspx" target="_blank">View Live Block Deals on BSE ↗</a></div>
+                </article>
+
+                <article class="news-card pe-card">
+                    <div class="headline-tag tag-pe">VENTURE CAPITAL GROWTH FUND</div>
+                    <h4>Peak XV Partners Closes $800M Fund to Prepare Startups for Stock Market IPOs</h4>
+                    <div class="byline">Sources: <a href="https://economictimes.indiatimes.com" target="_blank" class="source-link">Economic Times VC ↗</a> • <a href="https://techinasia.com" target="_blank" class="source-link">TechInAsia ↗</a></div>
+                    <p>
+                        <strong>In Simple Words:</strong> Peak XV Partners (formerly Sequoia India) raised an $800 Million fund to give large investment checks to mature Indian tech companies right before they launch their stock market IPOs over the next 2 years.
+                    </p>
+                    <div class="impact-chip impact-positive">Source Link: <a href="https://techinasia.com" target="_blank">Read VC Fund News on TechInAsia ↗</a></div>
+                </article>
+            </div>
+
+            <!-- M&A & IB DEAL SCORECARD TABLE -->
+            <section class="deal-scorecard-section">
+                <div class="ledger-header">
+                    <h4>🏛️ SIMPLE SUMMARY: PRIVATE EQUITY & INVESTMENT BANKING DEALS</h4>
+                </div>
+                <div class="table-responsive">
+                    <table class="ledger-table pe-table">
+                        <thead>
+                            <tr>
+                                <th>COMPANY BOUGHT</th>
+                                <th>BUYER FIRM (PE)</th>
+                                <th>INVESTMENT BANK</th>
+                                <th>DEAL VALUE</th>
+                                <th>DEAL TYPE</th>
+                                <th>SOURCE LINK</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Healthium Medtech</strong></td>
+                                <td>KKR</td>
+                                <td>Goldman Sachs, Kotak IB</td>
+                                <td>$850 Million (₹7,000 Cr)</td>
+                                <td>100% Buyout</td>
+                                <td><a href="https://vccircle.com" target="_blank">VCCircle ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>ChryCapital Fund VIII</strong></td>
+                                <td>ChryCapital PE</td>
+                                <td>Avendus, J.P. Morgan</td>
+                                <td>$1.2 Billion (₹10,000 Cr)</td>
+                                <td>New Fund Raise</td>
+                                <td><a href="https://economictimes.indiatimes.com" target="_blank">ET Deals ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Horizon Logistics</strong></td>
+                                <td>Blackstone</td>
+                                <td>Standard Chartered, HDFC</td>
+                                <td>$500 Million (₹4,100 Cr)</td>
+                                <td>Warehouse Debt</td>
+                                <td><a href="https://livemint.com" target="_blank">LiveMint ↗</a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Peak XV Growth Fund</strong></td>
+                                <td>Peak XV Partners</td>
+                                <td>Internal Advisory</td>
+                                <td>$800 Million (₹6,600 Cr)</td>
+                                <td>Pre-IPO Fund</td>
+                                <td><a href="https://techinasia.com" target="_blank">TechInAsia ↗</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+
+        <!-- FOOTER -->
+        <footer class="newspaper-footer">
+            <div class="footer-col">
+                <div class="footer-brand">DAILY PLANET</div>
+                <p>Simple language financial news for Indian stock markets, individual companies, startups, and private equity deals.</p>
+            </div>
+            <div class="footer-col text-center">
+                <p>© 2026 Jetro AI Press Ltd. All Rights Reserved.</p>
+                <p class="footer-subtext">Easy to read in 5 minutes • Click any source link to read the original article</p>
+            </div>
+            <div class="footer-col text-right">
+                <p><strong>Next Jetro AI Edition:</strong> Friday, Aug 7, 2026</p>
+                <p class="footer-subtext">Press <code>Ctrl + P</code> to Print / Export PDF</p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JETRO AI MODAL POPUP -->
+    <div class="modal-overlay" id="jetroModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <div class="modal-title-box">
+                    <span class="ai-badge">JETRO AI SIMPLE EXPLAINER</span>
+                    <h3 id="modalTopicTitle">Jetro AI Simple Breakdown</h3>
+                </div>
+                <button class="modal-close" onclick="closeJetroModal()">✕</button>
+            </div>
+            <div class="modal-body" id="modalTopicContent">
+                <!-- Dynamic content inserted by app.js -->
+            </div>
+            <div class="modal-footer">
+                <button class="btn-action" id="modalAudioBtn">🔊 Read Aloud</button>
+                <button class="btn-action btn-primary" onclick="closeJetroModal()">Close Explanation</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- TOAST NOTIFICATION -->
+    <div class="toast" id="toastNotice">
+        <span id="toastMsg">Jetro AI Engine updated live sentiment scores!</span>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
