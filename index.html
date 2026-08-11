@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Planet — Live Market Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Kalam:wght@400;700&family=Literata:opsz,wght@6..72,400;6..72,600;6..72,700&family=Special+Elite&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/rough.js/4.6.6/rough.umd.min.js"></script>
+<style>
+  :root {
+    --paper: #ece1cd;
+    --paper-2: #e3d6bd;
+    --ink: #26313d;
+    --ink-soft: #4a5768;
+    --red: #a8402c;
+    --green: #3c6e47;
+    --gold: #b8892f;
+    --tape: #e8d488;
+    --card: #f6efe0;
+    --shadow: rgba(38,49,61,0.18);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background-color: var(--paper);
+    background-image:
+      radial-gradient(circle at 20% 20%, rgba(255,255,255,0.35), transparent 45%),
+      radial-gradient(circle at 80% 60%, rgba(0,0,0,0.05), transparent 50%);
+    color: var(--ink);
+    font-family: 'Literata', serif;
+  }
+  /* paper grain overlay */
+  body::before {
+    content: "";
+    position: fixed; inset: 0; pointer-events: none; z-index: 999;
+    opacity: 0.05; mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* ---------- Masthead ---------- */
+  .masthead { text-align: center; padding: 26px 16px 10px; }
+  .masthead .eyebrow {
+    font-family: 'Special Elite', monospace;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+  }
+  .masthead h1 {
+    font-family: 'Caveat', cursive;
+    font-weight: 700;
+    font-size: clamp(52px, 9vw, 96px);
+    margin: 0;
+    color: var(--ink);
+    transform: rotate(-1.2deg);
+    line-height: 0.9;
+  }
+  .masthead .tagline {
+    font-family: 'Kalam', cursive;
+    font-size: 15px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+  .rule {
+    border: none;
+    border-top: 3px double var(--ink);
+    max-width: 900px;
+    margin: 14px auto 0;
+  }
+  .dateline-row {
+    max-width: 900px;
+    margin: 6px auto 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Special Elite', monospace;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+    padding: 0 12px;
+  }
+
+  /* ---------- Index snapshot ticker (stamped look) ---------- */
+  .index-strip {
+    display: flex; justify-content: center; gap: 14px; flex-wrap: wrap;
+    margin: 16px auto; max-width: 900px;
+  }
+  .index-chip {
+    font-family: 'Special Elite', monospace;
+    font-size: 12px;
+    border: 2px solid var(--ink);
+    border-radius: 3px;
+    padding: 6px 12px;
+    background: var(--card);
+    transform: rotate(var(--tilt, -1deg));
+    box-shadow: 2px 2px 0 var(--shadow);
+  }
+  .index-chip b { font-family: 'Kalam', cursive; }
+  .index-chip .up { color: var(--green); }
+  .index-chip .down { color: var(--red); }
+
+  /* ---------- Page tab navigation ---------- */
+  .page-tabs {
+    display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;
+    margin: 6px 0 22px;
+  }
+  .page-tab {
+    font-family: 'Kalam', cursive;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 8px 18px;
+    background: var(--paper-2);
+    border: 2px solid var(--ink);
+    border-bottom: none;
+    border-radius: 8px 8px 0 0;
+    cursor: pointer;
+    color: var(--ink-soft);
+    transform: translateY(4px);
+  }
+  .page-tab.active {
+    background: var(--card);
+    color: var(--ink);
+    transform: translateY(0);
+    box-shadow: 0 -3px 0 var(--gold) inset;
+  }
+
+  main { max-width: 980px; margin: 0 auto; padding: 0 16px 90px; }
+  .page-view { display: none; }
+  .page-view.active { display: block; }
+
+  /* ---------- Mood stamp ---------- */
+  .mood-stamp-wrap { display: flex; justify-content: center; margin: 6px 0 26px; }
+  .mood-stamp {
+    font-family: 'Special Elite', monospace;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: 4px solid;
+    border-radius: 10px;
+    padding: 10px 26px;
+    transform: rotate(-6deg);
+    opacity: 0.9;
+  }
+  .mood-stamp.Bullish { color: var(--green); border-color: var(--green); }
+  .mood-stamp.Bearish { color: var(--red); border-color: var(--red); }
+  .mood-stamp.Neutral { color: var(--gold); border-color: var(--gold); }
+
+  /* ---------- Section labels ---------- */
+  .section-label {
+    font-family: 'Kalam', cursive;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ink);
+    margin: 30px 0 14px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-label::after { content: ""; flex: 1; border-top: 2px dashed var(--ink-soft); opacity: 0.5; }
+
+  /* ---------- Story cards (scrapbook clippings) ---------- */
+  .story-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  @media (max-width: 720px) { .story-grid { grid-template-columns: 1fr; } }
+
+  .story {
+    background: var(--card);
+    border: 2px solid var(--ink);
+    border-radius: 3px;
+    padding: 16px 16px 14px;
+    position: relative;
+    box-shadow: 3px 4px 0 var(--shadow);
+  }
+  .story:nth-child(3n) { transform: rotate(-0.6deg); }
+  .story:nth-child(3n+1) { transform: rotate(0.5deg); }
+  .story:nth-child(3n+2) { transform: rotate(-0.2deg); }
+
+  .tape {
+    position: absolute; top: -10px; left: 50%; transform: translateX(-50%) rotate(-2deg);
+    width: 70px; height: 20px;
+    background: repeating-linear-gradient(45deg, var(--tape), var(--tape) 6px, #d9c060 6px, #d9c060 8px);
+    opacity: 0.85;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.15);
+  }
+
+  .story h3 {
+    font-family: 'Literata', serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.3;
+    margin: 8px 0 8px;
+  }
+  .story a { color: var(--ink); text-decoration: none; }
+  .story a:hover { color: var(--red); }
+
+  .plain-note {
+    font-family: 'Kalam', cursive;
+    font-size: 13px;
+    color: var(--ink-soft);
+    background: rgba(184,137,47,0.12);
+    border-left: 3px solid var(--gold);
+    padding: 6px 10px;
+    margin: 8px 0;
+    line-height: 1.5;
+  }
+  .impact-note {
+    font-family: 'Literata', serif;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    border-top: 1px dashed var(--ink-soft);
+    padding-top: 8px;
+    margin-top: 10px;
+    line-height: 1.55;
+  }
+  .impact-note b { color: var(--ink); font-family: 'Kalam', cursive; }
+
+  .story-meta {
+    font-family: 'Special Elite', monospace;
+    font-size: 10px;
+    display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+    color: var(--ink-soft);
+    margin-top: 10px;
+  }
+  .tag { padding: 2px 8px; border-radius: 10px; font-weight: 700; border: 1px solid; }
+  .tag.Bullish { color: var(--green); border-color: var(--green); }
+  .tag.Bearish { color: var(--red); border-color: var(--red); }
+  .tag.Neutral { color: var(--gold); border-color: var(--gold); }
+
+  /* ---------- Sector tabs ---------- */
+  .sector-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 18px; }
+  .sector-tab {
+    font-family: 'Kalam', cursive;
+    font-size: 12.5px;
+    padding: 6px 12px;
+    border: 2px solid var(--ink);
+    border-radius: 14px;
+    background: var(--paper-2);
+    cursor: pointer;
+  }
+  .sector-tab.active { background: var(--ink); color: var(--paper); }
+
+  /* ---------- Charts (sketchy canvas) ---------- */
+  .chart-panel {
+    background: var(--card);
+    border: 2px solid var(--ink);
+    border-radius: 4px;
+    padding: 14px;
+    box-shadow: 3px 4px 0 var(--shadow);
+  }
+  .chart-panel h4 {
+    font-family: 'Kalam', cursive;
+    font-size: 15px;
+    margin: 0 0 8px;
+  }
+  .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 10px; }
+  @media (max-width: 720px) { .chart-row { grid-template-columns: 1fr; } }
+  canvas { max-width: 100%; }
+
+  /* ---------- Mechanism reference cards (Trading Notes page) ---------- */
+  .mech-card {
+    background: var(--card);
+    border: 2px dashed var(--ink-soft);
+    border-radius: 4px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+  }
+  .mech-card h4 {
+    font-family: 'Kalam', cursive;
+    font-size: 16px;
+    margin: 0 0 6px;
+    color: var(--red);
+  }
+  .mech-card p { font-size: 13px; line-height: 1.6; margin: 0 0 6px; }
+  .mech-card .watch { font-family: 'Special Elite', monospace; font-size: 11px; color: var(--ink-soft); }
+
+  .disclaimer-box {
+    font-family: 'Kalam', cursive;
+    font-size: 13px;
+    color: var(--ink-soft);
+    border: 2px solid var(--red);
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin: 20px 0;
+    background: rgba(168,64,44,0.06);
+  }
+
+  footer {
+    text-align: center;
+    font-family: 'Special Elite', monospace;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+    padding: 30px 20px 10px;
+  }
+  #loading { text-align: center; padding: 70px 20px; font-family: 'Kalam', cursive; font-size: 16px; color: var(--ink-soft); }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="eyebrow">India-first · Self-updating · Not investment advice</div>
+  <h1>The Daily Planet</h1>
+  <div class="tagline">— your handwritten desk-note on the Indian market —</div>
+</div>
+<hr class="rule">
+<div class="dateline-row">
+  <span id="dateline">EDITION LOADING…</span>
+  <span>NSE · BSE EDITION</span>
+</div>
+
+<div class="index-strip" id="index-strip"></div>
+
+<div class="page-tabs">
+  <button class="page-tab active" data-page="page1">Page 1 — Front Page</button>
+  <button class="page-tab" data-page="page2">Page 2 — Sector Desk</button>
+  <button class="page-tab" data-page="page3">Page 3 — AI Desk</button>
+  <button class="page-tab" data-page="page4">Page 4 — Trading Notes</button>
+</div>
+
+<main>
+  <div id="loading">Unfolding today's edition…</div>
+  <div id="content" style="display:none;">
+
+    <!-- PAGE 1 : FRONT PAGE -->
+    <div class="page-view active" id="page1">
+      <div class="mood-stamp-wrap"><div class="mood-stamp" id="mood-stamp">…</div></div>
+      <div class="section-label">Top Stories</div>
+      <div class="story-grid" id="top-stories"></div>
+    </div>
+
+    <!-- PAGE 2 : SECTOR DESK -->
+    <div class="page-view" id="page2">
+      <div class="section-label">Charts, Hand-Drawn</div>
+      <div class="chart-row">
+        <div class="chart-panel"><h4>Sentiment split</h4><canvas id="sentimentCanvas" width="320" height="220"></canvas></div>
+        <div class="chart-panel"><h4>Stories by sector</h4><canvas id="sectorCanvas" width="320" height="220"></canvas></div>
+      </div>
+      <div class="section-label">Sector Breakdown</div>
+      <div class="sector-tabs" id="sector-tabs"></div>
+      <div class="story-grid" id="sector-stories"></div>
+    </div>
+
+    <!-- PAGE 3 : AI DESK -->
+    <div class="page-view" id="page3">
+      <div class="section-label">AI in Finance</div>
+      <div class="story-grid" id="ai-stories"></div>
+    </div>
+
+    <!-- PAGE 4 : TRADING NOTES -->
+    <div class="page-view" id="page4">
+      <div class="section-label">How Each Sector Typically Moves</div>
+      <div id="mechanism-notes"></div>
+      <div class="disclaimer-box" id="disclaimer-box"></div>
+    </div>
+
+  </div>
+</main>
+
+<footer>THE DAILY PLANET — built by Vivek · refreshes every 2 hours via GitHub Actions · zero-cost stack</footer>
+
+<script>
+const roughColors = { Bullish: '#3c6e47', Bearish: '#a8402c', Neutral: '#b8892f' };
+
+async function loadData() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.getElementById('loading').innerText =
+      "Couldn't load data.json yet — run the update workflow once from the Actions tab.";
+  }
+}
+
+function storyCard(a) {
+  const impact = a.market_impact || {};
+  return `
+    <div class="story">
+      <div class="tape"></div>
+      <h3><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></h3>
+      <div class="plain-note">✎ ${a.plain_english || ''}</div>
+      <div class="impact-note"><b>Why it matters:</b> ${impact.explanation || ''}<br><b>Watch:</b> ${impact.watch || ''}</div>
+      <div class="story-meta">
+        <span class="tag ${a.sentiment.label}">${a.sentiment.label}</span>
+        <span>${a.source}</span>
+        <span>${a.sector}</span>
+      </div>
+    </div>`;
+}
+
+function drawSketchyBars(canvasId, labels, values, colorFn) {
+  const canvas = document.getElementById(canvasId);
+  const rc = rough.canvas(canvas);
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const max = Math.max(...values, 1);
+  const barW = (canvas.width - 40) / values.length;
+  const baseY = canvas.height - 34;
+
+  values.forEach((v, i) => {
+    const h = (v / max) * (baseY - 20);
+    const x = 20 + i * barW + barW * 0.15;
+    const w = barW * 0.7;
+    rc.rectangle(x, baseY - h, w, h, {
+      fill: colorFn(i), fillStyle: 'hachure', hachureGap: 5, roughness: 2.2, stroke: '#26313d', strokeWidth: 1.5
+    });
+    ctx.font = '11px Kalam, cursive';
+    ctx.fillStyle = '#26313d';
+    ctx.textAlign = 'center';
+    ctx.fillText(String(v), x + w / 2, baseY - h - 6);
+    ctx.save();
+    ctx.translate(x + w / 2, baseY + 14);
+    if (labels[i].length > 10) ctx.rotate(-0.5);
+    ctx.font = '9px "Special Elite", monospace';
+    ctx.fillText(labels[i].slice(0, 14), 0, 0);
+    ctx.restore();
+  });
+  // baseline
+  rc.line(15, baseY, canvas.width - 10, baseY, { stroke: '#26313d', roughness: 1.5, strokeWidth: 1.5 });
+}
+
+function render(data) {
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('content').style.display = 'block';
+
+  const dt = new Date(data.generated_at_utc);
+  document.getElementById('dateline').innerText =
+    'EDITION GENERATED ' + dt.toUTCString().replace(' GMT', ' UTC');
+
+  const snap = data.index_snapshot || {};
+  const snapKeys = Object.keys(snap);
+  document.getElementById('index-strip').innerHTML = snapKeys.map((name, i) => {
+    const d = snap[name];
+    const dir = d.change >= 0 ? 'up' : 'down';
+    const arrow = d.change >= 0 ? '▲' : '▼';
+    const tilt = (i % 2 === 0) ? '-1.5deg' : '1.5deg';
+    return `<div class="index-chip" style="--tilt:${tilt}"><b>${name}</b> ${d.price.toLocaleString('en-IN')}
+      <span class="${dir}">${arrow} ${Math.abs(d.pct)}%</span></div>`;
+  }).join('');
+
+  const label = data.overall_sentiment.label.split(' ')[0];
+  const stampEl = document.getElementById('mood-stamp');
+  stampEl.innerText = data.overall_sentiment.label.toUpperCase();
+  stampEl.className = 'mood-stamp ' + label;
+
+  document.getElementById('top-stories').innerHTML = data.top_stories.map(storyCard).join('');
+
+  // sentiment chart
+  const sc = data.sentiment_counts || {Bullish:0, Bearish:0, Neutral:0};
+  drawSketchyBars('sentimentCanvas', ['Bullish','Bearish','Neutral'], [sc.Bullish, sc.Bearish, sc.Neutral],
+    (i) => [roughColors.Bullish, roughColors.Bearish, roughColors.Neutral][i]);
+
+  // sector chart
+  const secCounts = data.sector_counts || {};
+  const secLabels = Object.keys(secCounts);
+  const secValues = Object.values(secCounts);
+  drawSketchyBars('sectorCanvas', secLabels, secValues, () => '#b8892f');
+
+  // sector tabs + stories
+  const sectors = Object.keys(data.sectors);
+  const tabsEl = document.getElementById('sector-tabs');
+  const storiesEl = document.getElementById('sector-stories');
+  function showSector(name) {
+    storiesEl.innerHTML = data.sectors[name].map(storyCard).join('') ||
+      '<p style="font-family:Kalam,cursive;">No stories tagged for this sector right now.</p>';
+    [...tabsEl.children].forEach(btn => btn.classList.toggle('active', btn.dataset.sector === name));
+  }
+  tabsEl.innerHTML = sectors.map(s => `<button class="sector-tab" data-sector="${s}">${s} (${data.sectors[s].length})</button>`).join('');
+  [...tabsEl.children].forEach(btn => btn.addEventListener('click', () => showSector(btn.dataset.sector)));
+  if (sectors.length) showSector(sectors[0]);
+
+  // AI desk
+  document.getElementById('ai-stories').innerHTML =
+    data.ai_in_finance.length ? data.ai_in_finance.map(storyCard).join('')
+    : '<p style="font-family:Kalam,cursive;">No AI-tagged finance stories in this edition.</p>';
+
+  // Trading notes page — mechanism reference, built from whatever sectors appeared today
+  const mechEl = document.getElementById('mechanism-notes');
+  mechEl.innerHTML = sectors.map(s => {
+    const sample = data.sectors[s][0];
+    const impact = sample.market_impact || {};
+    return `<div class="mech-card">
+      <h4>${s}</h4>
+      <p>${(impact.explanation || '').split('. ').slice(0,2).join('. ')}.</p>
+      <div class="watch">Watch: ${impact.watch || ''}</div>
+    </div>`;
+  }).join('');
+  document.getElementById('disclaimer-box').innerText =
+    data.disclaimer || 'This explains mechanism, not a trade signal — always do your own research.';
+}
+
+// page tab switching
+document.querySelectorAll('.page-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.page-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.page-view').forEach(p => p.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById(tab.dataset.page).classList.add('active');
+  });
+});
+
+loadData();
+</script>
+
+</body>
+</html>
