@@ -1,93 +1,63 @@
 {
-  "generated_at_utc": "2026-08-10T23:54:36.392050+00:00",
+  "generated_at_utc": "2026-08-11T04:51:31.759727+00:00",
   "overall_sentiment": {
     "label": "Bullish",
-    "score": 7
+    "score": 34
   },
   "total_articles": 64,
   "top_stories": [
     {
-      "id": "70fd507ea4",
-      "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
-      "summary": "The Nasdaq closed lower as investors worried about the Strait of Hormuz. U.S. crude oil prices jumped significantly amid the ongoing Middle East crisis. Intel shares fell after the company announced plans for a large share sale. Traders are now less confident about a Federal Rese",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-expectations-of-hormuz-deal-fade/articleshow/133135481.cms",
+      "id": "884c24baaa",
+      "title": "US Stock Market: JP Morgan raises S&amp;P 500 year-end target to 8,000 on AI, earnings optimism",
+      "summary": "J.P. Morgan raised its S&amp;P 500 year-end target to 8,000, citing stronger corporate earnings and growing confidence in AI investments. The brokerage also raised its 2026 and 2027 earnings forecasts, while maintaining a 20-times valuation multiple amid risks from higher rates a",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jp-morgan-raises-sp-500-year-end-target-to-8000-on-ai-earnings-optimism/articleshow/133142288.cms",
       "source": "Economic Times Markets",
-      "published": "Tue, 11 Aug 2026 01:38:58 +0530",
+      "published": "Tue, 11 Aug 2026 10:13:34 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 1
+      },
+      "is_ai_related": true,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+    },
+    {
+      "id": "de68f59e99",
+      "title": "Shankesh Jewellers IPO to open on August 18; price band fixed at Rs 88-93/share",
+      "summary": "Shankesh Jewellers has officially unveiled its Rs 367 crore IPO, which will be available from August 18 to 20. The equity share price has been set between Rs 88 and Rs 93. Anticipated proceeds will be utilized for working capital needs as well as debt repayment. Shares are expect",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shankesh-jewellers-ipo-to-open-on-august-18-price-band-fixed-at-rs-88-93/share/articleshow/133142277.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 10:11:17 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": false,
+      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+    },
+    {
+      "id": "a0c6ff918f",
+      "title": "Rupee falls 8 paise to 95.38 against US dollar in early trade",
+      "summary": "In early trading on Tuesday, the rupee fell by eight paise against the US dollar, closing at 95.30 from the previous day. Ongoing tensions in West Asia have heightened market anxiety, leading to soaring crude oil prices. This uncertainty pressured domestic equity markets as well.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-8-paise-to-95-38-against-us-dollar-in-early-trade/articleshow/133142299.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 10:10:18 +0530",
       "sector": "Energy & Oil-Gas",
       "sentiment": {
         "label": "Bullish",
-        "score": 3
+        "score": 1
       },
       "is_ai_related": false,
       "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
     },
     {
-      "id": "c8739eeecc",
-      "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
-      "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+      "id": "f55b1dec3d",
+      "title": "Dhoot, Milky Mist or Molbio? What should investors pick in Rs 7,000 crore IPO rush this week",
+      "summary": "This week, India's IPO market shines brightly as five firms successfully raise over Rs 7,000 crore. Analysts highlight Dhoot Transmission and Molbio Diagnostics as the leading choices for savvy investors. Milky Mist Dairy Food stands out as a reliable option for branded food cons",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-milky-mist-or-molbio-what-should-investors-pick-in-rs-7000-crore-ipo-rush-this-week/articleshow/133142167.cms",
       "source": "Economic Times Markets",
-      "published": "Tue, 11 Aug 2026 01:18:39 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-    },
-    {
-      "id": "a79a7dafdc",
-      "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
-      "summary": "Oil prices rose significantly as Iran and the United States exchanged compensation demands. Prospects for reopening the Strait of Hormuz dimmed due to these escalating tensions. Ukraine continued to strike Russian refineries and tankers, further impacting supply. Saudi Aramco pos",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
-      "source": "Economic Times Markets",
-      "published": "Tue, 11 Aug 2026 00:41:43 +0530",
-      "sector": "Energy & Oil-Gas",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": false,
-      "plain_english": "In simple terms: not a big mover either way for energy and oil/gas companies right now."
-    },
-    {
-      "id": "854932ddf2",
-      "title": "US bonds fall as markets weight inflation, Middle East risks",
-      "summary": "As treasury yields climbed on Monday, investors geared up for significant inflation data due later this week. The ongoing geopolitical tensions in the Middle East have added an extra layer of uncertainty to the markets. Traders are particularly focused on the upcoming consumer an",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
-      "source": "Economic Times Markets",
-      "published": "Tue, 11 Aug 2026 00:07:29 +0530",
-      "sector": "Global & Macro",
-      "sentiment": {
-        "label": "Bearish",
-        "score": -1
-      },
-      "is_ai_related": false,
-      "plain_english": "In simple terms: this is a warning sign — FIIs, the rupee, and the broader Indian market may come under pressure."
-    },
-    {
-      "id": "a88a393c7d",
-      "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
-      "summary": "Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer and board represent",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
-      "source": "Economic Times Markets",
-      "published": "Mon, 10 Aug 2026 23:25:44 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Bullish",
-        "score": 2
-      },
-      "is_ai_related": false,
-      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-    },
-    {
-      "id": "3b7507be3c",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "summary": "Indian stock markets opened muted this week as global worries tempered investor sentiment. Strong first-quarter earnings provided some support, offsetting geopolitical tensions. Analysts noted softer US jobs data, shifting focus to inflation readings for rate direction.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
-      "source": "Economic Times Markets",
-      "published": "Mon, 10 Aug 2026 21:41:26 +0530",
+      "published": "Tue, 11 Aug 2026 10:05:07 +0530",
       "sector": "General Markets",
       "sentiment": {
         "label": "Bullish",
@@ -97,219 +67,187 @@
       "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
     },
     {
-      "id": "e20e62e43d",
-      "title": "Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO",
-      "summary": "Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The ₹1,553 crore issue offers shares priced at ₹133-140, with a minimum investment of ₹14,980. The IPO closes August 13, targeting a listing on August 18.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
+      "id": "4abc3968ec",
+      "title": "BSE shares to join rival NSE's benchmark index Nifty 50. What this means for shareholders",
+      "summary": "BSE will replace Wipro in the Nifty 50 from September 30, with Nuvama estimating $695 million inflows into BSE and $240 million outflows from Wipro. BSE shares are up 37% in 2026 despite a 6% monthly decline.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-to-join-rival-nses-benchmark-index-nifty-50-what-this-means-for-shareholders/articleshow/133142094.cms",
       "source": "Economic Times Markets",
-      "published": "Mon, 10 Aug 2026 21:31:48 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": false,
-      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-    },
-    {
-      "id": "d15fe10f69",
-      "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list",
-      "summary": "NSE Indices announced major semi-annual rejig changes across Nifty 500, Nifty 100 and Nifty Next 50, effective September 30. BSE, Polycab, Hitachi Energy India, Vodafone Idea and Wipro will enter key indices, while several companies face exclusion.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms",
-      "source": "Economic Times Markets",
-      "published": "Mon, 10 Aug 2026 20:58:40 +0530",
+      "published": "Tue, 11 Aug 2026 10:00:28 +0530",
       "sector": "IT & Technology",
       "sentiment": {
-        "label": "Neutral",
-        "score": 0
+        "label": "Bearish",
+        "score": -1
       },
       "is_ai_related": false,
-      "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
+      "plain_english": "In simple terms: this is a warning sign — IT/software companies may come under pressure."
+    },
+    {
+      "id": "57deb4f05a",
+      "title": "Retail investors make Rs 18,000 crore bold contra bet on 6 falling bluechip stocks. Will it pay off?",
+      "summary": "In a bold move, retail investors invested a whopping Rs 18,000 crore in six blue-chip stocks that were on a downward trend. They scooped up shares of Infosys, Reliance Industries, TCS, Wipro, HCL Technologies, and ITC during the June quarter. While retail players flocked to these",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-make-rs-18000-crore-bold-contra-bet-on-6-falling-bluechip-stocks-will-it-pay-off/articleshow/133142033.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 09:54:35 +0530",
+      "sector": "IT & Technology",
+      "sentiment": {
+        "label": "Bearish",
+        "score": -1
+      },
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is a warning sign — IT/software companies may come under pressure."
+    },
+    {
+      "id": "b1256937da",
+      "title": "Global Market: South Korean shares rise for second day as Samsung Electronics gains",
+      "summary": "South Korean shares extended gains for a second straight session, led by Samsung Electronics, while strong export growth provided further support. However, uncertainty over the Middle East conflict and concerns surrounding the Strait of Hormuz kept investor sentiment cautious.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-rise-for-second-day-as-samsung-electronics-gains/articleshow/133142001.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 09:50:22 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 5
+      },
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+    },
+    {
+      "id": "95f250254c",
+      "title": "Bharat Forge among 4 F&amp;O stocks with sharp rise in futures open interest",
+      "summary": "On August 10, four stocks in the NSE F&amp;O pack recorded a rise of more than 10% in futures open interest compared with the previous trading session. A sharp increase in futures open interest indicates growing participation in the derivatives market, with traders either initiat",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/133141960.cms",
+      "source": "Economic Times Markets",
+      "published": "Tue, 11 Aug 2026 09:43:39 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 2
+      },
+      "is_ai_related": false,
+      "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
     }
   ],
   "sectors": {
-    "Energy & Oil-Gas": [
+    "General Markets": [
       {
-        "id": "70fd507ea4",
-        "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
-        "summary": "The Nasdaq closed lower as investors worried about the Strait of Hormuz. U.S. crude oil prices jumped significantly amid the ongoing Middle East crisis. Intel shares fell after the company announced plans for a large share sale. Traders are now less confident about a Federal Rese",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-expectations-of-hormuz-deal-fade/articleshow/133135481.cms",
+        "id": "884c24baaa",
+        "title": "US Stock Market: JP Morgan raises S&amp;P 500 year-end target to 8,000 on AI, earnings optimism",
+        "summary": "J.P. Morgan raised its S&amp;P 500 year-end target to 8,000, citing stronger corporate earnings and growing confidence in AI investments. The brokerage also raised its 2026 and 2027 earnings forecasts, while maintaining a 20-times valuation multiple amid risks from higher rates a",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jp-morgan-raises-sp-500-year-end-target-to-8000-on-ai-earnings-optimism/articleshow/133142288.cms",
         "source": "Economic Times Markets",
-        "published": "Tue, 11 Aug 2026 01:38:58 +0530",
-        "sector": "Energy & Oil-Gas",
+        "published": "Tue, 11 Aug 2026 10:13:34 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": true,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "de68f59e99",
+        "title": "Shankesh Jewellers IPO to open on August 18; price band fixed at Rs 88-93/share",
+        "summary": "Shankesh Jewellers has officially unveiled its Rs 367 crore IPO, which will be available from August 18 to 20. The equity share price has been set between Rs 88 and Rs 93. Anticipated proceeds will be utilized for working capital needs as well as debt repayment. Shares are expect",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shankesh-jewellers-ipo-to-open-on-august-18-price-band-fixed-at-rs-88-93/share/articleshow/133142277.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 10:11:17 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "f55b1dec3d",
+        "title": "Dhoot, Milky Mist or Molbio? What should investors pick in Rs 7,000 crore IPO rush this week",
+        "summary": "This week, India's IPO market shines brightly as five firms successfully raise over Rs 7,000 crore. Analysts highlight Dhoot Transmission and Molbio Diagnostics as the leading choices for savvy investors. Milky Mist Dairy Food stands out as a reliable option for branded food cons",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-milky-mist-or-molbio-what-should-investors-pick-in-rs-7000-crore-ipo-rush-this-week/articleshow/133142167.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 10:05:07 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "b1256937da",
+        "title": "Global Market: South Korean shares rise for second day as Samsung Electronics gains",
+        "summary": "South Korean shares extended gains for a second straight session, led by Samsung Electronics, while strong export growth provided further support. However, uncertainty over the Middle East conflict and concerns surrounding the Strait of Hormuz kept investor sentiment cautious.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-rise-for-second-day-as-samsung-electronics-gains/articleshow/133142001.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:50:22 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 5
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "95f250254c",
+        "title": "Bharat Forge among 4 F&amp;O stocks with sharp rise in futures open interest",
+        "summary": "On August 10, four stocks in the NSE F&amp;O pack recorded a rise of more than 10% in futures open interest compared with the previous trading session. A sharp increase in futures open interest indicates growing participation in the derivatives market, with traders either initiat",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/133141960.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:43:39 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "8344b2132d",
+        "title": "US Stock Market: Berkshire shares rally on strong Q2 results, accelerating capital deployment",
+        "summary": "Berkshire Hathaway shares hit their highest level since Warren Buffett announced his CEO departure in 2025 after successor Greg Abel accelerated capital deployment. Cash fell to $364.7 billion as Berkshire repurchased $4.5 billion of shares and invested $23.5 billion in stocks. S",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-berkshire-shares-rally-on-strong-q2-results-accelerating-capital-deployment/articleshow/133141816.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:37:10 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "93bcea80ad",
+        "title": "Molbio IPO Day 2: GMP hits at 17% listing gains. Should you bid?",
+        "summary": "The Molbio Diagnostics IPO entered its second day with strong investor interest, as the grey market premium (GMP) climbed to 17% from 15% earlier. The issue was subscribed 83% on Day 1, with retail investors subscribing to 77% of their quota. The Rs 939.70-crore IPO comprises a R",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-ipo-day-2-gmp-hits-at-17-listing-gains-should-you-bid/articleshow/133141414.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:33:12 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "17d58047c9",
+        "title": "Lalithaa Jewellery Mart IPO price band fixed at Rs 190-201 for Rs 1,700 crore IPO; issue opens on August 17",
+        "summary": "Lalithaa Jewellery Mart has set the price band for its Rs 1,700-crore IPO at Rs 190-201 per share. The issue comprises a Rs 1,200-crore fresh issue and a Rs 500-crore OFS by promoter Kiran Kumar Jain. With 61 stores across southern India and a strong presence in Tier II and III c",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-price-band-fixed-at-rs-190-201-for-rs-1700-crore-ipo-issue-opens-on-august-17/articleshow/133141350.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:10:15 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
           "score": 3
         },
         "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
-      },
-      {
-        "id": "a79a7dafdc",
-        "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
-        "summary": "Oil prices rose significantly as Iran and the United States exchanged compensation demands. Prospects for reopening the Strait of Hormuz dimmed due to these escalating tensions. Ukraine continued to strike Russian refineries and tankers, further impacting supply. Saudi Aramco pos",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
-        "source": "Economic Times Markets",
-        "published": "Tue, 11 Aug 2026 00:41:43 +0530",
-        "sector": "Energy & Oil-Gas",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for energy and oil/gas companies right now."
-      },
-      {
-        "id": "2048370cc1",
-        "title": "Europe Gas Prices Surge as Hormuz Deal Prospects Remain Murky",
-        "summary": "European natural gas prices jumped as discussions between Iran and Oman to reopen the Strait of Hormuz failed to convince traders that a deal would lead to a quick resumption of global LNG flows.",
-        "link": "https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html",
-        "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 02:50:40 +0530",
-        "sector": "Energy & Oil-Gas",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
-      },
-      {
-        "id": "7fef27b67e",
-        "title": "US Emergency Oil Reserves Hit 1983 Lows As Inventories Feel Squeeze Of Iran War",
-        "summary": "US SPR falls below 300 million barrels for the first time since 1983 as Iran war disrupts global oil supplies.",
-        "link": "https://www.ndtvprofit.com/markets/us-emergency-oil-reserves-hit-1983-lows-as-inventories-feel-squeeze-of-iran-war-11891959#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:28:33 +0530",
-        "sector": "Energy & Oil-Gas",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — energy and oil/gas companies may come under pressure."
-      }
-    ],
-    "General Markets": [
-      {
-        "id": "c8739eeecc",
-        "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
-        "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
-        "source": "Economic Times Markets",
-        "published": "Tue, 11 Aug 2026 01:18:39 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "a88a393c7d",
-        "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
-        "summary": "Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer and board represent",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 23:25:44 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
         "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "3b7507be3c",
-        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-        "summary": "Indian stock markets opened muted this week as global worries tempered investor sentiment. Strong first-quarter earnings provided some support, offsetting geopolitical tensions. Analysts noted softer US jobs data, shifting focus to inflation readings for rate direction.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 21:41:26 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "e20e62e43d",
-        "title": "Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO",
-        "summary": "Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The ₹1,553 crore issue offers shares priced at ₹133-140, with a minimum investment of ₹14,980. The IPO closes August 13, targeting a listing on August 18.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 21:31:48 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "892af6ccee",
-        "title": "Intel shares drop 5% after announcing $15 billion offering to support AI growth",
-        "summary": "Intel shares fell over 5% after the semiconductor giant announced a $15 billion common stock offering to fund capital needs and support AI-driven growth opportunities. The offering aims to strengthen its balance sheet while expanding capacity for rising AI compute demand.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-shares-drop-5-after-announcing-15-billion-offering-to-support-ai-growth/articleshow/133111917.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 20:14:24 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": true,
-        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "5e91adf828",
-        "title": "High margin debt! JPMorgan CEO Jamie Dimon fires a warning shot for Wall Street investors",
-        "summary": "JPMorgan CEO Jamie Dimon warned that record margin debt and hidden leverage across financial markets could increase the risk of a sudden disruption. While stopping short of calling it systemic, he cautioned that forced selling after market declines could amplify volatility.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-margin-debt-jpmorgan-ceo-jamie-dimon-fires-a-warning-shot-for-wall-street-investors/articleshow/133111344.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 20:02:47 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
-      },
-      {
-        "id": "d13391ebc0",
-        "title": "US stocks: Retail investors sold SpaceX shares for first time on Friday",
-        "summary": "For the first time since its launch, retail investors sold off SpaceX shares, coinciding with a rebound towards its IPO price. This change reflects a reevaluation of risk versus reward, prompting some to take profits. Since mid-July, the company's stock has struggled below the IP",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-retail-investors-sold-spacex-shares-for-first-time-on-friday/articleshow/133110913.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 19:51:59 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "6473e08e27",
-        "title": "Quote of the day by Philip Fisher: \"Change creates opportunities to grow, but it also creates opportunities to slip\"",
-        "summary": "Philip Fisher’s investment wisdom highlights change as both an opportunity and a risk. Progress requires adaptability, continuous learning and disciplined decision-making. Whether in investing, business or life, success depends on embracing change while carefully managing uncerta",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-philip-fisher-change-creates-opportunities-to-grow-but-it-also-creates-opportunities-to-slip/articleshow/133110805.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 19:49:11 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
         "id": "7457dad3f8",
@@ -477,12 +415,42 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "6bc7051392",
-        "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
-        "summary": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
-        "link": "https://www.livemint.com/market/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound-11786404145539.html",
+        "id": "fa0b64f746",
+        "title": "LEAP India IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
+        "summary": "LEAP India IPO GMP today: According to Investorgain, the company shares are available at a premium of  ₹13 in the grey market today",
+        "link": "https://www.livemint.com/market/ipo/leap-india-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786421955009.html",
         "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 04:52:25 +0530",
+        "published": "Tue, 11 Aug 2026 10:17:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "dc73872db8",
+        "title": "Milky Mist IPO Day 1: Issue booked 5% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
+        "summary": "The Milky Mist Dairy Food IPO is set for August 11-13, priced at  ₹133-140 per share. The company raised  ₹465.30 crore from anchor investors, aiming to fund expansion and repay borrowings.",
+        "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-milky-mist-ipo-subscription-status-milky-mist-ipo-details-milky-mist-ipo-review-milky-mist-ipo-11786421264864.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 10:02:13 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "365194b83e",
+        "title": "Stocks to buy for short term: Mphasis, Asian Paints among 6 stocks experts recommend buying today for next 1-2 weeks",
+        "summary": "Experts recommend six stocks to buy for the next 1-2 weeks, including Mphasis and Asian Paints, backed by strong technical indicators and bullish trends. Discover the stocks showing potential for upside and how to navigate current market conditions.",
+        "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mphasis-asian-paints-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11786418195442.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 10:00:57 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
@@ -492,12 +460,42 @@
         "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
-        "id": "39207746eb",
-        "title": "Wheat Climbs With USDA Seen Tightening Global Grain Supply",
-        "summary": "Wheat was higher as traders braced for the US Department of Agriculture’s monthly supply demand report that’s expected to show declining domestic and world grain supplies.",
-        "link": "https://www.livemint.com/market/wheat-climbs-with-usda-seen-tightening-global-grain-supply-11786396412346.html",
+        "id": "6bcfb70748",
+        "title": "Dhoot Transmission IPO Day 2 LIVE: GMP, subscription, review, other details. Apply or not?",
+        "summary": "Dhoot Transmission IPO GMP: According to Investorgain, the company shares are available at a premium of  ₹250 in the grey market today",
+        "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-day-2-live-gmp-subscription-review-other-details-apply-or-not-11786420827823.html",
         "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 02:43:31 +0530",
+        "published": "Tue, 11 Aug 2026 09:46:11 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "2bc97331da",
+        "title": "MCX gold jumps over  ₹1,55,100 per 10 grams, silver trades above  ₹2,39,400 per kg; Middle East, US inflation in focus",
+        "summary": "MCX gold October futures jumped to  ₹1,55,124 per 10 grams, while MCX silver September futures rose to  ₹2,39,400 per kg in the morning trade.",
+        "link": "https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-grams-silver-trades-above-2-39-000-per-kg-middle-east-us-inflation-in-focus-11786418608520.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 09:07:32 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "684ef62dbe",
+        "title": "Lalithaa Jewellery Mart IPO: Price band set at  ₹190-201 per share; check key dates, issue details",
+        "summary": "Lalithaa Jewellery Mart has set its IPO price band at  ₹190 to  ₹201, with subscription from 17 to 19 August. Allocation for anchor investors is on 14 August, and shares are expected to be listed on BSE and NSE on 24 August.",
+        "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-price-band-set-at-rs-190-201-per-share-check-key-dates-issue-details-11786417826251.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 08:55:00 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -507,12 +505,12 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "5047cde038",
-        "title": "Yen Weakens 1%, Erases Half of US-Japan Intervention Gains",
-        "summary": "The yen extended its losses, erasing half of the gains triggered when authorities from the US and Japan intervened in the foreign-exchange market to support the currency.",
-        "link": "https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-intervention-gains-11786394040377.html",
+        "id": "834135df50",
+        "title": "Raja Venkatraman recommends three stocks for 11 August",
+        "summary": "Market expert Raja Venkatraman shares his top stock picks for 11 August. Here’s his technical outlook and trade strategy.",
+        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-11-august-11786363211870.html",
         "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 02:03:59 +0530",
+        "published": "Tue, 11 Aug 2026 08:48:48 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -522,27 +520,57 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "9761eb88ba",
-        "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
-        "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
-        "link": "https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html",
+        "id": "02c4940468",
+        "title": "Sunshine Pictures IPO price band fixed at  ₹342- ₹360 per share. Check date, size, &amp; other key details",
+        "summary": "Sunshine Pictures IPO: The company has fixed the price band for its IPO at  ₹342 to  ₹360 per equity share, with a face value of  ₹10 per share.",
+        "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-price-band-fixed-at-342-360-per-share-check-date-size-other-key-details-11786417042713.html",
         "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 00:42:25 +0530",
+        "published": "Tue, 11 Aug 2026 08:47:23 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bearish",
-          "score": -2
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "7c9d1f5d80",
-        "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
-        "summary": "Zen Technologies secured a  ₹295 crore order from the Ministry of Defence for simulators, enhancing its order pipeline, which totals  ₹1,239.02 crore. The revenue outlook is positive as new products and Air Force training offerings are in development, despite a decline in profits",
-        "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
+        "id": "abc32ae39b",
+        "title": "Q1 results 2026: RVNL to MRF among companies to declare Q1 results today; full list here",
+        "summary": "Q1 results 2026: Rail Vikas Nigam, MRF, Zydus Lifesciences, NBCC (India), Senco Gold, Manappuram Finance are the companies to report their Q1 results FY27 today.",
+        "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-rvnl-to-mrf-among-companies-to-declare-q1-results-today-full-list-here-11786415475275.html",
         "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 22:49:03 +0530",
+        "published": "Tue, 11 Aug 2026 08:24:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "3cc8d25fb5",
+        "title": "Shankesh Jewellers IPO price band fixed at  ₹88- ₹93 per share; issue date, key details here",
+        "summary": "Ahead of the issue launch, the company has fixed the price band at  ₹88 to  ₹93 per share. The book-build issue combines a fresh issue of 29,482,000 shares and an offer for sale (OFS) of 10,000,000 shares.",
+        "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-price-band-fixed-at-88-93-per-share-issue-date-key-details-here-11786416026785.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 08:23:24 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
+      },
+      {
+        "id": "0c2defc1e4",
+        "title": "Ideaforge Technology Share Price Slides 5% Even As Q1 Net Loss Narrows, Revenue Soars",
+        "summary": "Ideaforge shares decline",
+        "link": "https://www.ndtvprofit.com/markets/ideaforge-technology-share-price-slides-even-as-q1-net-loss-narrows-revenue-soars-11892858#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:39:54 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
@@ -552,57 +580,27 @@
         "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
-        "id": "3685a4ca8f",
-        "title": "Intel plans $15 billion share sale as turnaround rally lifts stock",
-        "summary": "Intel is investing heavily in new facilities and advanced packaging capabilities as it seeks to challenge industry leaders such as TSMC in contract chip manufacturing",
-        "link": "https://www.livemint.com/market/stock-market-news/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock-11786381678993.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 22:47:31 +0530",
+        "id": "2427b6b0e3",
+        "title": "Stock Jumps 19%: Kolte-Patil Developers Hits Fresh 52-Week High After Q1 Net Profit Surges 8X",
+        "summary": "Kolte-Patil Developers Q1 Results",
+        "link": "https://www.ndtvprofit.com/markets/stock-jumps-19-percent-kolte-patil-developers-hits-fresh-52-week-high-after-q1-net-profit-surges-8x-11892853#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:39:23 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 1
+          "score": 2
         },
         "is_ai_related": false,
         "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
       },
       {
-        "id": "2615ba8f61",
-        "title": "This new-age tech stock hits over 4-year high, recovers 70% from March lows. Are you holding it?",
-        "summary": "One97 Communications, parent of Paytm, saw a 10% share increase to  ₹1,598 after Bernstein raised its target price to  ₹2,200, citing potential UPI fee benefits.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/paytm-share-price-hits-over-4-year-high-recovers-70-from-march-lows-are-you-holding-it-11786366609923.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 22:02:20 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "b1f1b9ed49",
-        "title": "Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years",
-        "summary": "The company's shares have maintained a strong winning run for over a year, hitting record highs repeatedly and ending several months with gains. The sustained rally has turned the stock into one of the biggest wealth creators.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 20:32:56 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 5
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "a9f1e36c54",
-        "title": "Sebi proposes more room for companies to spread out debt repayments",
-        "summary": "Aimed at helping companies avoid liquidity pinches, Sebi's consultation paper suggests higher redemption limits for private debt while easing listing rules on past unlisted issues.",
-        "link": "https://www.livemint.com/market/bonds/sebi-proposes-more-room-for-companies-to-spread-out-debt-repayments-11786364257580.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 18:29:35 +0530",
+        "id": "b905b6b737",
+        "title": "Airports Damaged, Buildings Collapse, People Scream: Viral Videos Capture Colombia Earthquake's Devastating Impact",
+        "summary": "Viral videos show devastation caused by massive earthquake in Colombia",
+        "link": "https://www.ndtvprofit.com/world/airports-damaged-buildings-collapse-people-scream-viral-videos-capture-colombia-earthquakes-devastating-impact-11892620#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:31:10 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -612,87 +610,12 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "fb84e7bc45",
-        "title": "Penny stock under  ₹10 to be in focus on Tuesday; here's why",
-        "summary": "A-1 Limited has received a supply order from Solar Group worth  ₹38.70 crore for acids and industrial chemicals, to be executed by October 31, 2026. This order enhances revenue visibility and reinforces A-1's role in the domestic chemical supply chain.",
-        "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-to-be-in-focus-on-tuesday-heres-why-11786362729114.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 17:57:06 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "5f32eb3dcc",
-        "title": "How A Karnataka Tax Reform Turned Into A Beer Boom For United Breweries",
-        "summary": "ABV-based tax changes in Karataka have pushed beer growth for UBL past 50% in some months, and it says the model could spread to more states.",
-        "link": "https://www.ndtvprofit.com/business/united-breweries-q1-earnings-concall-karnataka-tax-reform-turns-helps-beer-sales-boom-11882533#publisher=newsstand",
+        "id": "4eb9797638",
+        "title": "Surya Grahan 2026: Is Solar Eclipse On August 12 or 13? Check Date, Time, Visibility In India",
+        "summary": "The Total Solar Eclipse 2026 falls on August 12 globally",
+        "link": "https://www.ndtvprofit.com/trending/surya-grahan-2026-is-solar-eclipse-on-august-12-or-13-check-date-time-visibility-in-india-11872961#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:31:26 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
-      },
-      {
-        "id": "82b4d96e53",
-        "title": "Abu Dhabi Rolls Out Free Tourist Visa Programme For Indian Travellers Until Oct 31",
-        "summary": "Indian passport holders can get UAE entry visas at no extra cost when booking eligible Abu Dhabi stays.",
-        "link": "https://www.ndtvprofit.com/lifestyle/abu-dhabi-rolls-out-free-tourist-visa-programme-for-indian-travellers-until-oct-31-11891874#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:27:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "3cfe898cb3",
-        "title": "India, South Africa-Led SACU Group May Ink Terms Of Reference For Negotiating Trade Pact On Aug 12",
-        "summary": "Under such pacts, two trading partners provide duty concessions to each other on goods to boost two-way commerce.",
-        "link": "https://www.ndtvprofit.com/economy/india-south-africa-led-sacu-group-may-ink-terms-of-reference-for-negotiating-trade-pact-on-aug-12-11891932#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:18:56 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "cd7d0df26d",
-        "title": "Akshay Kumar To Play Rajesh Khanna In Farhan Akhtar's RD Burman Biopic? All You Need To Know",
-        "summary": "Akshay Kumar is reportedly set to play Rajesh Khanna in Neeraj Pandey's upcoming RD Burman biopic.",
-        "link": "https://www.ndtvprofit.com/lifestyle/akshay-kumar-to-play-rajesh-khanna-in-farhan-akhtars-rd-burman-biopic-all-you-need-to-know-11891735#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:14:59 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-      },
-      {
-        "id": "d0cfe785f6",
-        "title": "Ola Electric Narrows June Quarter Loss, But Auditor Flags Rs 57 Crore Penalty Reversal: Report",
-        "summary": "Ola Electric posted a consolidated net loss of Rs 336 crore for April-June.",
-        "link": "https://www.ndtvprofit.com/business/ola-electric-narrows-june-quarter-loss-but-auditor-flags-rs-57-crore-penalty-reversal-report-11891838#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:11:44 +0530",
+        "published": "Tue, 11 Aug 2026 09:29:35 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
@@ -702,12 +625,42 @@
         "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
       },
       {
-        "id": "370e58a4a0",
-        "title": "'China's Stalingrad': Viral Posts Highlight Chinese Alarm Over India's 17-Fold Solar Boom",
-        "summary": "India's solar boom is fuelling fresh debate over China's dominance in PV manufacturing.",
-        "link": "https://www.ndtvprofit.com/business/chinas-stalingrad-viral-posts-highlight-chinese-alarm-over-indias-17-fold-solar-boom-11891692#publisher=newsstand",
+        "id": "5389ba1d52",
+        "title": "'Spider-Man: Brand New Day' Box Office Collection Day 12: Tom Holland Film Slows In India, Soars Worldwide",
+        "summary": "The film has reportedly grossed $1.67 billion worldwide in just 12 days.",
+        "link": "https://www.ndtvprofit.com/lifestyle/spider-man-brand-new-day-box-office-collection-day-12-tom-holland-film-slows-in-india-soars-worldwide-check-monday-earnings-11892658#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:10:02 +0530",
+        "published": "Tue, 11 Aug 2026 09:27:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+      },
+      {
+        "id": "b70c7273ca",
+        "title": "Zee Entertainment Share Price Falls Over 4% As Q1 Bottom-Line Nearly Halves",
+        "summary": "Zee Entertainment Q1 Impact",
+        "link": "https://www.ndtvprofit.com/markets/zee-entertainment-share-price-falls-as-q1-net-profit-nearly-halves-11892815#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:26:24 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
+      },
+      {
+        "id": "053d25c84f",
+        "title": "Palghar Earthquake: Two Back-to-Back Tremors Shake Jawhar, Spark Concern Among Residents",
+        "summary": "Two tremors hit Palghar's Jawhar, as panic among residents increase",
+        "link": "https://www.ndtvprofit.com/india/palghar-earthquake-two-back-to-back-tremors-shake-jawhar-spark-concern-among-residents-11892663#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:26:21 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -717,12 +670,27 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "ca187fe3ad",
-        "title": "Milky Mist Dairy Food Raises Rs 465 Crore From Anchor Investors",
-        "summary": "Of the total anchor allocation, 1.54 crore shares, or 46.27%, were allotted to nine domestic mutual funds through 13 schemes.",
-        "link": "https://www.ndtvprofit.com/markets/milky-mist-dairy-food-raises-rs-465-crore-from-anchor-investors-11891883#publisher=newsstand",
+        "id": "56243c0d3c",
+        "title": "Trump Media Losses Hit $238 Million As Firm Pivots To Fast Feeds",
+        "summary": "Trump Media & Technology Group Corp. reported a second-quarter loss of $238 million, driven by plummeting prices of the cryptocurrencies it owns, according to a statement Monday.",
+        "link": "https://www.ndtvprofit.com/business/trump-media-losses-hit-238-million-as-firm-pivots-to-fast-feeds-11892810#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:03:17 +0530",
+        "published": "Tue, 11 Aug 2026 09:26:20 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — the overall market may come under pressure."
+      },
+      {
+        "id": "794da560e1",
+        "title": "Shiprocket IPO: GMP, Price Band, Dates to Review — 10 Key Things To Know Ahead Of Issue Opening",
+        "summary": "Shiprocket IPO price band is set at Rs 92 to Rs 97 per share.",
+        "link": "https://www.ndtvprofit.com/markets/shiprocket-ipo-gmp-price-band-dates-to-review-10-key-things-to-know-ahead-of-issue-opening-11892811#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:23:34 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -732,27 +700,27 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "506ec27920",
-        "title": "Milky Mist Dairy Food Raises Rs 465 Crore From Anchor Investors",
-        "summary": "Of the total anchor allocation, 1.54 crore shares, or 46.27%, were allotted to nine domestic mutual funds through 13 schemes.",
-        "link": "https://www.ndtvprofit.com/markets/milky-mist-dairy-food-raises-rs-465-crore-from-anchor-investors-11891877#publisher=newsstand",
+        "id": "dc8e9ae931",
+        "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
+        "summary": "A Google DeepMind spokesperson said the company aims to \"recruit and hire the most qualified talent at Google DeepMind\" and denied that the company's systems filter out applicants incorrectly.",
+        "link": "https://www.ndtvprofit.com/technology/googles-ai-team-tells-job-seekers-its-hr-filters-are-unreliable-11892794#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:01:08 +0530",
+        "published": "Tue, 11 Aug 2026 09:17:39 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false,
+        "is_ai_related": true,
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       },
       {
-        "id": "437a55a70f",
-        "title": "Reliance Retail Unit In Maharashtra Under FDA Scrutiny After Complaint Of 'Fungus, Live Larvae' In Kaju Katli",
-        "summary": "The FDA seized 54 boxes of Kaju Katli from a Reliance Retail outlet in Maharashtra after a consumer complaint.",
-        "link": "https://www.ndtvprofit.com/india/reliance-retail-unit-in-maharashtra-under-fda-scrutiny-after-for-fungus-live-larvae-in-kaju-katli-11891345#publisher=newsstand",
+        "id": "a98505cdf6",
+        "title": "Siemens Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
+        "summary": "Siemens' Q1FY27 results will be declared today",
+        "link": "https://www.ndtvprofit.com/markets/siemens-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11889834#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 22:57:36 +0530",
+        "published": "Tue, 11 Aug 2026 09:16:57 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -762,21 +730,130 @@
         "plain_english": "In simple terms: not a big mover either way for the overall market right now."
       }
     ],
-    "Global & Macro": [
+    "Energy & Oil-Gas": [
       {
-        "id": "854932ddf2",
-        "title": "US bonds fall as markets weight inflation, Middle East risks",
-        "summary": "As treasury yields climbed on Monday, investors geared up for significant inflation data due later this week. The ongoing geopolitical tensions in the Middle East have added an extra layer of uncertainty to the markets. Traders are particularly focused on the upcoming consumer an",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
+        "id": "a0c6ff918f",
+        "title": "Rupee falls 8 paise to 95.38 against US dollar in early trade",
+        "summary": "In early trading on Tuesday, the rupee fell by eight paise against the US dollar, closing at 95.30 from the previous day. Ongoing tensions in West Asia have heightened market anxiety, leading to soaring crude oil prices. This uncertainty pressured domestic equity markets as well.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-8-paise-to-95-38-against-us-dollar-in-early-trade/articleshow/133142299.cms",
         "source": "Economic Times Markets",
-        "published": "Tue, 11 Aug 2026 00:07:29 +0530",
-        "sector": "Global & Macro",
+        "published": "Tue, 11 Aug 2026 10:10:18 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
+      },
+      {
+        "id": "fba9dc6af3",
+        "title": "Adani Energy to Adani Ports: Adani Group shares rise as the US Court dismisses criminal case against Gautam Adani",
+        "summary": "Adani Group stocks like Adani Enterprises, Adani Energy Solutions, Adani Ports, Adani Total Gas were trading higher after the the US Court dismisses criminal case against Gautam Adani.",
+        "link": "https://www.livemint.com/market/stock-market-news/adani-power-to-adani-ports-adani-group-shares-rise-as-the-us-court-dismisses-criminal-case-against-gautam-adani-11786422001690.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 09:58:50 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 5
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
+      },
+      {
+        "id": "34668c55a8",
+        "title": "Nikkei, Kospi to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
+        "summary": "Global markets: The US equities equities were little changed on Monday, as crude oil extended its rally amid fading hopes of reopening of the Strait of Hormuz",
+        "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-equity-heatmap-you-must-know-before-the-opening-bell-of-the-indian-stock-market-11786417558377.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 09:17:48 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
+      },
+      {
+        "id": "e2d30223f7",
+        "title": "$85 Crude Won't Derail India: Motilal Oswal's Ajay Khandelwal Sees 6.5% Growth, 1.5% CAD",
+        "summary": "Motilal Oswal's Ajay Khandelwal",
+        "link": "https://www.ndtvprofit.com/markets/85-crude-wont-derail-india-motilal-oswals-ajay-khandelwal-sees-6-5-percent-growth-1-5-percent-cad-11892793#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:21:24 +0530",
+        "sector": "Energy & Oil-Gas",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — energy and oil/gas companies look stronger after this."
+      }
+    ],
+    "IT & Technology": [
+      {
+        "id": "4abc3968ec",
+        "title": "BSE shares to join rival NSE's benchmark index Nifty 50. What this means for shareholders",
+        "summary": "BSE will replace Wipro in the Nifty 50 from September 30, with Nuvama estimating $695 million inflows into BSE and $240 million outflows from Wipro. BSE shares are up 37% in 2026 despite a 6% monthly decline.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-to-join-rival-nses-benchmark-index-nifty-50-what-this-means-for-shareholders/articleshow/133142094.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 10:00:28 +0530",
+        "sector": "IT & Technology",
         "sentiment": {
           "label": "Bearish",
           "score": -1
         },
         "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — FIIs, the rupee, and the broader Indian market may come under pressure."
+        "plain_english": "In simple terms: this is a warning sign — IT/software companies may come under pressure."
+      },
+      {
+        "id": "57deb4f05a",
+        "title": "Retail investors make Rs 18,000 crore bold contra bet on 6 falling bluechip stocks. Will it pay off?",
+        "summary": "In a bold move, retail investors invested a whopping Rs 18,000 crore in six blue-chip stocks that were on a downward trend. They scooped up shares of Infosys, Reliance Industries, TCS, Wipro, HCL Technologies, and ITC during the June quarter. While retail players flocked to these",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-make-rs-18000-crore-bold-contra-bet-on-6-falling-bluechip-stocks-will-it-pay-off/articleshow/133142033.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:54:35 +0530",
+        "sector": "IT & Technology",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — IT/software companies may come under pressure."
+      }
+    ],
+    "Global & Macro": [
+      {
+        "id": "8528d26e93",
+        "title": "Gold prices rise Rs 6,600/10g in 3 days; silver jumps Rs 16,200/kg ahead of US inflation data. Big rally brewing?",
+        "summary": "Gold and silver prices surged on the MCX, with silver gaining over 7% in three days and gold rising more than 4%, as investors awaited US inflation data and assessed the outlook for Federal Reserve policy. Geopolitical tensions and uncertainty over the Strait of Hormuz also suppo",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6600/10g-in-3-days-silver-jumps-rs-16200/kg-ahead-of-us-inflation-data-big-rally-brewing/articleshow/133141863.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:42:05 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 5
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — FIIs, the rupee, and the broader Indian market look stronger after this."
+      },
+      {
+        "id": "6f21e287d4",
+        "title": "Sensex falls over 300 points, Nifty below 24,550 as oil prices rise. What lies ahead?",
+        "summary": "On Tuesday, Indian stock markets experienced a downturn influenced by increasing oil prices and escalating tensions in the Middle East. Nevertheless, the broader markets displayed resilience as small and midcap indices thrived. Foreign institutional investors found encouragement ",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-points-nifty-below-24550-as-oil-prices-rise-what-lies-ahead/articleshow/133141558.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:27:00 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — FIIs, the rupee, and the broader Indian market look stronger after this."
       },
       {
         "id": "5e291aa3cd",
@@ -809,12 +886,12 @@
         "plain_english": "In simple terms: not a big mover either way for FIIs, the rupee, and the broader Indian market right now."
       },
       {
-        "id": "5f25ef4bcc",
-        "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
-        "summary": "GLOBAL-PRECIOUS/ (UPDATE 8):PRECIOUS-Gold climbs to nine-week high on buying momentum as inflation data looms",
-        "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
+        "id": "ca32e33c66",
+        "title": "Buy or sell: Gift Nifty signals a flat start. Vaishali Parekh recommends three intraday stocks to buy today",
+        "summary": "Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today — Apl Apollo Tubes, Tata Consumer Products, and NRB Bearings",
+        "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-flat-start-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11786413762159.html",
         "source": "LiveMint Markets",
-        "published": "Tue, 11 Aug 2026 00:44:25 +0530",
+        "published": "Tue, 11 Aug 2026 08:27:28 +0530",
         "sector": "Global & Macro",
         "sentiment": {
           "label": "Neutral",
@@ -824,83 +901,53 @@
         "plain_english": "In simple terms: not a big mover either way for FIIs, the rupee, and the broader Indian market right now."
       },
       {
-        "id": "97f09bf809",
-        "title": "Wall Street slips ahead of inflation data, crude oil surges",
-        "summary": "As of 12:43 p.m. Eastern Time, the S&amp;amp;P 500 fell 0.1%, the Dow Jones Industrial Average fell 0.2%, and the Nasdaq Composite was 0.5% lower.",
-        "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html",
+        "id": "a75fbd0bad",
+        "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 11 August 2026",
+        "summary": "On 11 August, Indian stocks may decline as global cues are mixed. Nifty 50 and Sensex closed flat previously, and market analysts suggest key trading ranges while recommending stocks like TVS Motor Company and Shriram Finance.",
+        "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-11-august-2026-11786380082239.html",
         "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 19:41:04 +0530",
+        "published": "Tue, 11 Aug 2026 08:22:50 +0530",
         "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is good news — FIIs, the rupee, and the broader Indian market look stronger after this."
-      }
-    ],
-    "IT & Technology": [
-      {
-        "id": "d15fe10f69",
-        "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list",
-        "summary": "NSE Indices announced major semi-annual rejig changes across Nifty 500, Nifty 100 and Nifty Next 50, effective September 30. BSE, Polycab, Hitachi Energy India, Vodafone Idea and Wipro will enter key indices, while several companies face exclusion.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 20:58:40 +0530",
-        "sector": "IT & Technology",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
-      },
-      {
-        "id": "57457156ec",
-        "title": "Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion",
-        "summary": "Wipro will exit India's benchmark Nifty index, while BSE Ltd will enter. These changes will take effect from September 30, 2026, after market close. BSE's inclusion follows its six-month average free-float market cap crossing the required threshold.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rejig-it-major-wipro-to-move-out-of-benchmark-index-after-bse-gets-inclusion/articleshow/133111972.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 20:16:56 +0530",
-        "sector": "IT & Technology",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
-      },
-      {
-        "id": "c4ec9bf8f0",
-        "title": "TCS Receives Employee Data Leak Alerts; Says No Impact To Customer Info",
-        "summary": "It added that the information referenced appears to be over four years old and \"limited to basic employee information\".",
-        "link": "https://www.ndtvprofit.com/business/tcs-receives-employee-data-leak-alerts-says-no-impact-to-customer-info-11891915#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:14:16 +0530",
-        "sector": "IT & Technology",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for IT/software companies right now."
-      }
-    ],
-    "Banking & Financials": [
-      {
-        "id": "d502171416",
-        "title": "Fusion Finance turns profitable as asset quality improves sharply",
-        "summary": "Fusion Finance reported a Rs 62.4 crore Q1 profit, reversing a year-ago loss, as improving asset quality lifted performance. Gross NPA declined to 2.5%, while net interest margin improved. A strong capital adequacy ratio and higher AUM further strengthened the lender’s balance sh",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/fusion-finance-turns-profitable-as-asset-quality-improves-sharply/articleshow/133110875.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 19:50:36 +0530",
-        "sector": "Banking & Financials",
         "sentiment": {
           "label": "Bearish",
           "score": -1
         },
         "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — banks and lenders may come under pressure."
+        "plain_english": "In simple terms: this is a warning sign — FIIs, the rupee, and the broader Indian market may come under pressure."
+      }
+    ],
+    "Telecom": [
+      {
+        "id": "e9ab955f5e",
+        "title": "Vodafone Idea shares jump 3% after Q1 net loss narrows. What is Nomura saying?",
+        "summary": "Vodafone Idea’s Q1 loss narrowed sharply to Rs 3,754 crore from Rs 6,608 crore a year ago, while revenue rose 6% YoY to Rs 11,689 crore. EBITDA grew 9% to Rs 5,034 crore, with margin improving to 43.1%, while ARPU jumped 10.2% to Rs 195.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-jump-3-after-q1-net-loss-narrows-what-is-nomura-saying/articleshow/133141850.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:37:55 +0530",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for telecom companies right now."
+      }
+    ],
+    "Banking & Financials": [
+      {
+        "id": "940e157520",
+        "title": "State Bank of India taps dollar bond market with five-year issue: Report",
+        "summary": "The State Bank of India is set to tap into the dollar debt market, aiming to raise a minimum of $500 million by issuing five-year bonds. Marketing for this public offering is underway, with expectations to finalize the sale within the week. This move follows a previous postponeme",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-taps-dollar-bond-market-with-five-year-issue-report/articleshow/133141420.cms",
+        "source": "Economic Times Markets",
+        "published": "Tue, 11 Aug 2026 09:16:35 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: not a big mover either way for banks and lenders right now."
       },
       {
         "id": "2f554f4f77",
@@ -948,12 +995,42 @@
         "plain_english": "In simple terms: not a big mover either way for banks and lenders right now."
       },
       {
-        "id": "74082b6059",
-        "title": "Naresh Goyal Moves Special Court, Seeks Discharge From Money Laundering Case Connected To Rs 539 Crore Bank Fraud",
-        "summary": "The businessman was arrested in September 2023 by the ED, which claimed he had laundered money.",
-        "link": "https://www.ndtvprofit.com/india/naresh-goyal-moves-special-court-seeks-discharge-from-money-laundering-case-connected-to-rs-539-crore-bank-fraud-11891882#publisher=newsstand",
+        "id": "0509f56724",
+        "title": "Rupee opens 9 paise lower at 95.39 against US dollar",
+        "summary": "The rupee opened lower at 95.39 against the US dollar on 11 August due to high oil prices and U.S.-Iran tensions, with RBI interventions supporting it. Market experts highlight financial pressures from rising bond yields and geopolitical issues affecting the currency's stability.",
+        "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-9-paise-lower-at-95-39-against-us-dollar-11786419156023.html",
+        "source": "LiveMint Markets",
+        "published": "Tue, 11 Aug 2026 09:04:39 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is good news — banks and lenders look stronger after this."
+      },
+      {
+        "id": "19df64e3d4",
+        "title": "Stock Market Crash Live: Nifty Below 24,500, Sensex Drops 300 Points; Laser Power, Triveni Turbine Fall Up To 7%",
+        "summary": "Nifty IT gained 0.86%, while Nifty Metal rose 0.18% and Nifty Realty advanced 0.07%. Nifty Financial Services fell 0.68%, followed by Nifty Bank at 0.62% and Nifty PSU Bank at 0.55%.",
+        "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-fno-expiry-us-iran-tensions-q1-results-gift-nifty-11892510#publisher=newsstand",
         "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:02:57 +0530",
+        "published": "Tue, 11 Aug 2026 09:41:02 +0530",
+        "sector": "Banking & Financials",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "plain_english": "In simple terms: this is a warning sign — banks and lenders may come under pressure."
+      },
+      {
+        "id": "e1c3388e18",
+        "title": "NSE IPO: SBI Capital Markets Now A Seller — Three Things To Note From Latest SEBI Filing",
+        "summary": "NSE's fourth-largest shareholder joins the offer for sale two months after the DRHP, but the total size of India's biggest IPO stays unchanged.",
+        "link": "https://www.ndtvprofit.com/markets/nse-ipo-sebi-filing-shows-sbi-capital-markets-now-a-seller-three-things-to-note-11892801#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:20:32 +0530",
         "sector": "Banking & Financials",
         "sentiment": {
           "label": "Neutral",
@@ -961,68 +1038,6 @@
         },
         "is_ai_related": false,
         "plain_english": "In simple terms: not a big mover either way for banks and lenders right now."
-      }
-    ],
-    "Telecom": [
-      {
-        "id": "9348e0372c",
-        "title": "Vodafone Idea Q1 Results: Loss narrows to Rs 3,754 crore; revenue rises 6% YoY",
-        "summary": "Vodafone Idea Q1 Results: Debt-ridden telco Vodafone Idea on Monday narrowed its consolidated losses in the first quarter to Rs 3,754 crore. The loss stood at Rs 6,608 crore in the last year quarter. Revenue from operations increased 6% YoY to Rs 11,689 crore.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vodafone-idea-q1-results-loss-narrows-to-rs-3754-crore-revenue-rises-6-yoy/articleshow/133110086.cms",
-        "source": "Economic Times Markets",
-        "published": "Mon, 10 Aug 2026 19:30:34 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
-      },
-      {
-        "id": "c0dfb359d3",
-        "title": "Vodafone Idea Q1 Results: Net loss narrows to  ₹3,754 crore, ARPU rises to  ₹195; key highlights",
-        "summary": "Vodafone Idea reported a net loss of  ₹3,754 crore for the June quarter, improving from a loss of  ₹6,608 crore a year ago. The consolidated revenue rose to  ₹11,689 crore, a 2.4% increase from  ₹11,023 crore in June 2025.",
-        "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-q1-results-net-loss-narrows-to-rs-3-754-crore-arpu-rises-to-rs-195-key-highlights-11786369911587.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 19:37:26 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
-      },
-      {
-        "id": "1469cdebfc",
-        "title": "Vodafone Idea Raises Rs 6,400 Crore, Kicks Off Rs 45,000 Crore Capex Plan",
-        "summary": "Vi secures Rs 6,400 crore funding, places Rs 9,000 crore capex orders for expansion.",
-        "link": "https://www.ndtvprofit.com/business/vodafone-idea-raises-rs-6-400-crore-kicks-off-rs-45-000-crore-capex-plan-11891889#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:13:53 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for telecom companies right now."
-      },
-      {
-        "id": "b00c8ac9df",
-        "title": "Q1 Results Updates: Vodafone Idea Swings To Net Loss, Zee Entertainment Profit Falls 47%",
-        "summary": "Q1 Results Live Updates: Market participants are keeping a close watch on major companies such as Vodafone Idea, Hindustan Copper, and others.",
-        "link": "https://www.ndtvprofit.com/markets/q1-results-live-updates-vodafone-idea-bharat-forge-info-edge-hindustan-copper-bosch-among-250-companies-to-announce-earnings-today-11888284#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:09:32 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -3
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: this is a warning sign — telecom companies may come under pressure."
       }
     ],
     "Pharma & Healthcare": [
@@ -1042,16 +1057,16 @@
         "plain_english": "In simple terms: this is good news — drug and healthcare companies look stronger after this."
       },
       {
-        "id": "7b4bcbcca3",
-        "title": "Gland Pharma Q1 Results: Net profit jumps 47% YoY to  ₹317 crore; CDMO revenue rises 20%",
-        "summary": "Gland Pharma's Q1 FY27 net profit grew 47% YoY to  ₹317 crore, despite a 14% sequential decline. Revenue rose 20% YoY to  ₹1,800 crore, driven by CDMO and B2B businesses, with strong contributions from the US and Europe markets.",
-        "link": "https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html",
-        "source": "LiveMint Markets",
-        "published": "Mon, 10 Aug 2026 16:45:19 +0530",
+        "id": "7298d6770e",
+        "title": "Gland Pharma Shares Surge Nearly 10% In Trade: What's Driving The Rally?",
+        "summary": "Gland Pharma shares soared as much as 9.80% in early trade before dropping a little to trade 7.9% higher.",
+        "link": "https://www.ndtvprofit.com/markets/gland-pharma-shares-surges-nearly-10-in-trade-q1-whats-driving-the-rally-11892821#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "published": "Tue, 11 Aug 2026 09:32:11 +0530",
         "sector": "Pharma & Healthcare",
         "sentiment": {
           "label": "Bullish",
-          "score": 3
+          "score": 2
         },
         "is_ai_related": false,
         "plain_english": "In simple terms: this is good news — drug and healthcare companies look stronger after this."
@@ -1089,47 +1104,17 @@
         },
         "is_ai_related": false,
         "plain_english": "In simple terms: not a big mover either way for real estate and infrastructure firms right now."
-      },
-      {
-        "id": "eefef87e78",
-        "title": "Gulf Projects Drive Trump’s Foreign Real Estate Income Up 71% to $59.5 Million",
-        "summary": "UAE, Saudi Arabia and Qatar emerged as key sources of Trump's overseas real estate licensing income",
-        "link": "https://www.ndtvprofit.com/business/gulf-projects-drive-trump-s-foreign-real-estate-income-up-71-to-59-5-million-11891743#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "published": "Mon, 10 Aug 2026 23:17:57 +0530",
-        "sector": "Realty & Infra",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "plain_english": "In simple terms: not a big mover either way for real estate and infrastructure firms right now."
       }
     ]
   },
   "ai_in_finance": [
     {
-      "id": "c8739eeecc",
-      "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
-      "summary": "Microsoft plans to launch its new Maia 300 AI chip this autumn.  The company is securing production capacity for over 300,000 chips by 2027.  This move aims to reduce reliance on Nvidia's expensive processors.  Microsoft also seeks to attract major cloud customers like Anthropic.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+      "id": "884c24baaa",
+      "title": "US Stock Market: JP Morgan raises S&amp;P 500 year-end target to 8,000 on AI, earnings optimism",
+      "summary": "J.P. Morgan raised its S&amp;P 500 year-end target to 8,000, citing stronger corporate earnings and growing confidence in AI investments. The brokerage also raised its 2026 and 2027 earnings forecasts, while maintaining a 20-times valuation multiple amid risks from higher rates a",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jp-morgan-raises-sp-500-year-end-target-to-8000-on-ai-earnings-optimism/articleshow/133142288.cms",
       "source": "Economic Times Markets",
-      "published": "Tue, 11 Aug 2026 01:18:39 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
-    },
-    {
-      "id": "892af6ccee",
-      "title": "Intel shares drop 5% after announcing $15 billion offering to support AI growth",
-      "summary": "Intel shares fell over 5% after the semiconductor giant announced a $15 billion common stock offering to fund capital needs and support AI-driven growth opportunities. The offering aims to strengthen its balance sheet while expanding capacity for rising AI compute demand.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-shares-drop-5-after-announcing-15-billion-offering-to-support-ai-growth/articleshow/133111917.cms",
-      "source": "Economic Times Markets",
-      "published": "Mon, 10 Aug 2026 20:14:24 +0530",
+      "published": "Tue, 11 Aug 2026 10:13:34 +0530",
       "sector": "General Markets",
       "sentiment": {
         "label": "Bullish",
@@ -1137,39 +1122,54 @@
       },
       "is_ai_related": true,
       "plain_english": "In simple terms: this is good news — the overall market look stronger after this."
+    },
+    {
+      "id": "dc8e9ae931",
+      "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
+      "summary": "A Google DeepMind spokesperson said the company aims to \"recruit and hire the most qualified talent at Google DeepMind\" and denied that the company's systems filter out applicants incorrectly.",
+      "link": "https://www.ndtvprofit.com/technology/googles-ai-team-tells-job-seekers-its-hr-filters-are-unreliable-11892794#publisher=newsstand",
+      "source": "NDTV Profit Markets",
+      "published": "Tue, 11 Aug 2026 09:17:39 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "plain_english": "In simple terms: not a big mover either way for the overall market right now."
     }
   ],
   "sentiment_counts": {
-    "Bullish": 16,
-    "Bearish": 14,
-    "Neutral": 34
+    "Bullish": 25,
+    "Bearish": 12,
+    "Neutral": 27
   },
   "sector_counts": {
+    "General Markets": 40,
     "Energy & Oil-Gas": 4,
-    "General Markets": 38,
-    "Global & Macro": 5,
-    "IT & Technology": 3,
-    "Banking & Financials": 5,
-    "Telecom": 4,
+    "IT & Technology": 2,
+    "Global & Macro": 6,
+    "Telecom": 1,
+    "Banking & Financials": 7,
     "Pharma & Healthcare": 2,
     "FMCG": 1,
-    "Realty & Infra": 2
+    "Realty & Infra": 1
   },
   "index_snapshot": {
     "NIFTY 50": {
-      "price": 24583.8,
-      "change": 13.15,
-      "pct": 0.05
+      "price": 24466.9,
+      "change": -116.9,
+      "pct": -0.48
     },
     "SENSEX": {
-      "price": 78542.44,
-      "change": 43.27,
-      "pct": 0.06
+      "price": 78189.53,
+      "change": -352.91,
+      "pct": -0.45
     },
     "BANK NIFTY": {
-      "price": 57686.95,
-      "change": -59.5,
-      "pct": -0.1
+      "price": 57177.75,
+      "change": -509.2,
+      "pct": -0.88
     }
   }
 }
