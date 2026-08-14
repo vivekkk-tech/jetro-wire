@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-13T20:03:53.517291+00:00",
-  "edition_date": "Thursday, August 13, 2026",
-  "jetro_score": 100,
+  "generated_at_utc": "2026-08-14T00:09:48.038581+00:00",
+  "edition_date": "Friday, August 14, 2026",
+  "jetro_score": 92,
   "jetro_label": "Strong Bullish",
   "mood_word": "Happy",
   "mood_phrase": "Buying Interest",
@@ -205,35 +205,6 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
-        "id": "cfa634be9e",
-        "title": "Indian bonds mirror gains in Treasuries as oil slips",
-        "summary": "Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors seem relieved about the likelihood of less aggressive interest rate increases f",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 17:52:46 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
         "id": "2c554bf20b",
         "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
         "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
@@ -431,27 +402,55 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "bc2997a2b4",
-        "title": "After a Q1 high, Hindustan Aeronautics eyes growth wings from Tejas",
-        "summary": "To sustain the Q1 revenue growth, the state-owned aerospace and defence company is pinning its hopes on the delivery of its Tejas MK1A and HTT-40, an indigenously developed training aircraft.",
-        "link": "https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html",
-        "source": "LiveMint Markets",
+        "id": "2ddd0d1c48",
+        "title": "US stocks: S&amp;P 500 notches record-high close as rate-hike worries ease",
+        "summary": "The S&amp;P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminished. Memory chip giants Sandisk and Micron Technology reported impressive increase",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms"
           }
         ],
-        "published": "Thu, 13 Aug 2026 16:30:51 +0530",
+        "published": "Fri, 14 Aug 2026 01:39:01 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 2
+          "score": 1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. To sustain the Q1 revenue growth, the state-owned aerospace and defence company is pinning its hopes on the delivery of its Tejas MK1A and HTT-40, an indigenously developed training aircraft.",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The S&amp;P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminishe",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "63bbaad3ea",
+        "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+        "summary": "Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies.  Shareholder support for special executive awards is showing si",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 01:27:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -480,34 +479,6 @@
         "page": "stock_market",
         "jetro_impact": "Positive For Indian Stocks",
         "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Sensex gained 114 points while Nifty fell over 40 points on expiry day, reflecting divergent benchmark moves. Softer inflation supported sentiment, but elevated crude prices and geopolitical risks kep",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "07d6a6cd9d",
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P, Nasdaq gain as investors assess Middle East deal; crude prices dip",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 17:51:53 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive.",
         "means_for_you": [
           "Broad market tailwind — most sectors may benefit, not just one."
         ],
@@ -600,6 +571,62 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "cbbae4b465",
+        "title": "Gold Declines as Sliding Inflation Reinforces Fed Hold Bets",
+        "summary": "Gold fell below $4,400 an ounce as signs of easing inflation bolstered expectations that the US Federal Reserve will hold interest rates steady next month.",
+        "link": "https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:58:42 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Gold fell below $4,400 an ounce as signs of easing inflation bolstered expectations that the US Federal Reserve will hold interest rates steady next month.",
+        "means_for_you": [
+          "Broad market headwind — consider being selective rather than aggressive today."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "0d5957235e",
+        "title": "ASX Shares Jump Most in Six Years After Upbeat Listings Outlook",
+        "summary": "ASX Ltd. shares capped their best day in six years after Australia’s main exchange operator gave a positive outlook on its listings business ahead of Anthony Attia’s arrival as the firm’s chief executive officer next month.",
+        "link": "https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:51:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. ASX Ltd. shares capped their best day in six years after Australia’s main exchange operator gave a positive outlook on its listings business ahead of Anthony Attia’s arrival as the firm’s chief execut",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "80fdabfa6d",
         "title": "BlackRock’s Rieder Says Yen Rebound Hinges on BOJ Hawkishness",
         "summary": "Supporting the yen will take more than government intervention and will need hawkish signals from the Bank of Japan, said Rick Rieder, chief investment officer for global fixed income at BlackRock Inc.",
@@ -655,35 +682,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "d1d311aa46",
-        "title": "Tata Motors PV Q1 results: Net profit drops to  ₹775 crore on weak JLR sales; revenue rises 9%",
-        "summary": "Tata Motors Passenger Vehicles reported weak Q1 FY27 results with a net profit of  ₹775 crore, down from  ₹3,924 crore last year. Despite a 9% year-on-year increase in revenue to  ₹94,827 crore, sequentially it fell by 10%.",
-        "link": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 16:13:33 +0530",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for cars & vehicles — sentiment turned more negative. Tata Motors Passenger Vehicles reported weak Q1 FY27 results with a net profit of  ₹775 crore, down from  ₹3,924 crore last year. Despite a 9% year-on-year increase in revenue to  ₹94,827 crore, seque",
-        "means_for_you": [
-          "Weak sales can flag softer consumer demand economy-wide.",
-          "Auto and auto-ancillary stocks may see selling pressure."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
       },
       {
         "id": "c52fac66ea",
@@ -1137,6 +1135,34 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "22b518f114",
+        "title": "Cloudy Yen Outlook Raises the Bar for Japan’s Earnings Beats",
+        "summary": "The risk that Japan takes more steps to bolster the yen is taking some of the shine off corporate earnings, as investors weigh the impact of any turnaround in the currency on exporters’ profits.",
+        "link": "https://www.livemint.com/market/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats-11786662091686.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats-11786662091686.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:31:31 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The risk that Japan takes more steps to bolster the yen is taking some of the shine off corporate earnings, as investors weigh the impact of any turnaround in the currency on exporters’ profits.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "0669db8985",
         "title": "Dollar mixed after flat PPI, rate hike bets cool",
         "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar mixed after flat PPI, rate hike bets cool",
@@ -1339,18 +1365,46 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "466ceb4f6a",
-        "title": "Tata Trusts initiates process of selecting Tata Sons Chairman",
-        "summary": "Tata Trusts said the Sir Dorabji Tata Trust trustees have resolved to set up a selection committee to recommend Tata Sons’ new chairman.",
-        "link": "https://yourstory.com/2026/08/tata-trusts-initiates-process-of-selecting-tata-sons-chairman",
+        "id": "715603fd6d",
+        "title": "Amagi net profit surges to Rs 34 Cr in Q1",
+        "summary": "The SaaS company's revenues touched Rs 437 crore during the quarter, a year-on-year growth of 32.4%, its highest quarterly revenue till date.",
+        "link": "https://yourstory.com/2026/08/amagi-net-profit-surges-to-rs-34-cr-in-q1",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/tata-trusts-initiates-process-of-selecting-tata-sons-chairman"
+            "url": "https://yourstory.com/2026/08/amagi-net-profit-surges-to-rs-34-cr-in-q1"
           }
         ],
-        "published": "Thu, 13 Aug 2026 09:57:12 GMT",
+        "published": "Thu, 13 Aug 2026 16:20:54 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The SaaS company's revenues touched Rs 437 crore during the quarter, a year-on-year growth of 32.4%, its highest quarterly revenue till date.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ef245066d5",
+        "title": "Startup news and updates: Daily roundup (August 13, 2026)",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, August 13, 2026.\n\nIndian fabric continues to remain a top draw as investors have kept the pace in fund raise, YourStory brings you today’s headlines with the l",
+        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-13-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-13-2026"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 14:14:58 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1359,7 +1413,63 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Tata Trusts said the Sir Dorabji Tata Trust trustees have resolved to set up a selection committee to recommend Tata Sons’ new chairman.",
+        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, August 13, 2026.\n\nIndian fabric continues to remain a top draw as investors hav",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0586dacd37",
+        "title": "5 Books that reveal the meaning of true independence",
+        "summary": "Discover 5 books that explore personal freedom, self-discovery, breaking limitations, and the journey toward living a more authentic life.",
+        "link": "https://yourstory.com/2026/07/books-search-personal-freedom",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/07/books-search-personal-freedom"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 12:40:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 5 books that explore personal freedom, self-discovery, breaking limitations, and the journey toward living a more authentic life.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e2c0f551af",
+        "title": "Veranda Learning Q1 FY27 profit surges 5.7X to Rs 34 Cr",
+        "summary": "The Chennai-based education company achieved both top-line and bottom-line growth, driven by momentum in the commerce and government test-prep segments and disciplined cost management.",
+        "link": "https://yourstory.com/2026/08/veranda-learning-q1-fy27-profit-surges-57x-to-rs-34-cr",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/veranda-learning-q1-fy27-profit-surges-57x-to-rs-34-cr"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 13:14:10 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Chennai-based education company achieved both top-line and bottom-line growth, driven by momentum in the commerce and government test-prep segments and disciplined cost management.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1396,62 +1506,6 @@
         "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
-        "id": "715603fd6d",
-        "title": "Amagi net profit surges to Rs 34 Cr in Q1",
-        "summary": "The SaaS company's revenues touched Rs 437 crore during the quarter, a year-on-year growth of 32.4%, its highest quarterly revenue till date.",
-        "link": "https://yourstory.com/2026/08/amagi-net-profit-surges-to-rs-34-cr-in-q1",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/amagi-net-profit-surges-to-rs-34-cr-in-q1"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 16:20:54 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The SaaS company's revenues touched Rs 437 crore during the quarter, a year-on-year growth of 32.4%, its highest quarterly revenue till date.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "0586dacd37",
-        "title": "5 Books that reveal the meaning of true independence",
-        "summary": "Discover 5 books that explore personal freedom, self-discovery, breaking limitations, and the journey toward living a more authentic life.",
-        "link": "https://yourstory.com/2026/07/books-search-personal-freedom",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/07/books-search-personal-freedom"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 12:40:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 5 books that explore personal freedom, self-discovery, breaking limitations, and the journey toward living a more authentic life.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "ebe2604a1b",
         "title": "Decoding Cashfree Payments' 0% payment gateway fee offer, and why it's a no-brainer for early-stage businesses",
         "summary": "",
@@ -1473,6 +1527,90 @@
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for general markets right now.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "51d4b28137",
+        "title": "FirstCry parent Brainbees cuts Q1 FY27 loss 34% to Rs 44 Cr; revenue grows 13%",
+        "summary": "The India business of the omnichannel kids’ products retailer’ grew 18% y-o-y, its strongest growth in seven quarters.",
+        "link": "https://yourstory.com/2026/08/firstcry-parent-brainbees-cuts-q1-fy27-loss-revenue-grows-13",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/firstcry-parent-brainbees-cuts-q1-fy27-loss-revenue-grows-13"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 15:42:17 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The India business of the omnichannel kids’ products retailer’ grew 18% y-o-y, its strongest growth in seven quarters.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1c998d976c",
+        "title": "Life after Chandra: Could a next-gen Tata be groomed for the top job?",
+        "summary": "Who could lead Tata Group after N Chandrasekaran? Explore the succession race and whether Leah, Maya or Neville Tata could emerge as future leaders.",
+        "link": "https://yourstory.com/2026/08/tata-next-gen-succession-top-job",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/tata-next-gen-succession-top-job"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 14:14:06 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Who could lead Tata Group after N Chandrasekaran? Explore the succession race and whether Leah, Maya or Neville Tata could emerge as future leaders.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "85fffc4771",
+        "title": "Centricity raises Rs 280 Cr in Series A led by SMBC Asia Rising Fund",
+        "summary": "Centricity will use this funding for strengthening tech stack, expanding distribution network and deepen market reach.",
+        "link": "https://yourstory.com/2026/08/centricity-raises-rs-280-crore-series-a-smbc-asia-rising-fund",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/centricity-raises-rs-280-crore-series-a-smbc-asia-rising-fund"
+          }
+        ],
+        "published": "Thu, 13 Aug 2026 14:04:07 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Centricity will use this funding for strengthening tech stack, expanding distribution network and deepen market reach.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1508,55 +1646,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "e2c0f551af",
-        "title": "Veranda Learning Q1 FY27 profit surges 5.7X to Rs 34 Cr",
-        "summary": "The Chennai-based education company achieved both top-line and bottom-line growth, driven by momentum in the commerce and government test-prep segments and disciplined cost management.",
-        "link": "https://yourstory.com/2026/08/veranda-learning-q1-fy27-profit-surges-57x-to-rs-34-cr",
+        "id": "466ceb4f6a",
+        "title": "Tata Trusts initiates process of selecting Tata Sons Chairman",
+        "summary": "Tata Trusts said the Sir Dorabji Tata Trust trustees have resolved to set up a selection committee to recommend Tata Sons’ new chairman.",
+        "link": "https://yourstory.com/2026/08/tata-trusts-initiates-process-of-selecting-tata-sons-chairman",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/veranda-learning-q1-fy27-profit-surges-57x-to-rs-34-cr"
+            "url": "https://yourstory.com/2026/08/tata-trusts-initiates-process-of-selecting-tata-sons-chairman"
           }
         ],
-        "published": "Thu, 13 Aug 2026 13:14:10 GMT",
+        "published": "Thu, 13 Aug 2026 09:57:12 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 2
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Chennai-based education company achieved both top-line and bottom-line growth, driven by momentum in the commerce and government test-prep segments and disciplined cost management.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "51d4b28137",
-        "title": "FirstCry parent Brainbees cuts Q1 FY27 loss 34% to Rs 44 Cr; revenue grows 13%",
-        "summary": "The India business of the omnichannel kids’ products retailer’ grew 18% y-o-y, its strongest growth in seven quarters.",
-        "link": "https://yourstory.com/2026/08/firstcry-parent-brainbees-cuts-q1-fy27-loss-revenue-grows-13",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/firstcry-parent-brainbees-cuts-q1-fy27-loss-revenue-grows-13"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 15:42:17 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The India business of the omnichannel kids’ products retailer’ grew 18% y-o-y, its strongest growth in seven quarters.",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Tata Trusts said the Sir Dorabji Tata Trust trustees have resolved to set up a selection committee to recommend Tata Sons’ new chairman.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1593,34 +1703,6 @@
         "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
-        "id": "fdf0fd486b",
-        "title": "Vayudh builds nano surveillance drones for the Indian armed forces",
-        "summary": "The defence arm of IIT Delhi's BotLab Dynamics develops small reconnaissance drones and swarm systems, and has raised $10 million to scale manufacturing.",
-        "link": "https://yourstory.com/2026/08/vayudh-nano-surveillance-drones",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/vayudh-nano-surveillance-drones"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 05:44:15 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The defence arm of IIT Delhi's BotLab Dynamics develops small reconnaissance drones and swarm systems, and has raised $10 million to scale manufacturing.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "f6560737f6",
         "title": "An earthquake gives you mere seconds of warning. A Roorkee company is building the sensors that will act as the first responders",
         "summary": "Seismic Hazard and Risk Investigations makes warning systems that respond to an earthquake early.",
@@ -1649,18 +1731,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "970b5171fc",
-        "title": "MumbaiSemi builds the receiver chip that lets a device use India's navigation satellites",
-        "summary": "The IIT Bombay spinout designs a single radio chip that tunes to NavIC, GPS, Galileo and BeiDou.",
-        "link": "https://yourstory.com/2026/08/mumbaisemi-navigation-receiver-chip",
+        "id": "9f21d3588c",
+        "title": "Iindepro Dynamics makes the electric motors that spin a drone's propellers",
+        "summary": "The Rajkot-based company designs and manufactures brushless motors for unmanned aircraft, in a component category India buys almost entirely from abroad.",
+        "link": "https://yourstory.com/2026/08/iindepro-dynamics-drone-motors",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/mumbaisemi-navigation-receiver-chip"
+            "url": "https://yourstory.com/2026/08/iindepro-dynamics-drone-motors"
           }
         ],
-        "published": "Thu, 13 Aug 2026 05:47:41 GMT",
+        "published": "Thu, 13 Aug 2026 05:45:13 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1669,7 +1751,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The IIT Bombay spinout designs a single radio chip that tunes to NavIC, GPS, Galileo and BeiDou.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Rajkot-based company designs and manufactures brushless motors for unmanned aircraft, in a component category India buys almost entirely from abroad.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1677,27 +1759,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "a8028b4c5f",
-        "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
-        "summary": "Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India.",
-        "link": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
+        "id": "0a113d145b",
+        "title": "Gurutvaa Systems builds the anti-drone equipment that Indian forces use to jam intruding drones",
+        "summary": "The Pune-based company makes DRONAAM, a modular counter-drone system carried as a rifle or a backpack, and has been delivering it to the Indian Air Force since 2022.",
+        "link": "https://yourstory.com/2026/08/gurutvaa-systems-anti-drone-equipment",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/stroke-recovery-movement-device"
+            "url": "https://yourstory.com/2026/08/gurutvaa-systems-anti-drone-equipment"
           }
         ],
-        "published": "Thu, 13 Aug 2026 14:10:41 GMT",
+        "published": "Thu, 13 Aug 2026 05:46:46 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Pune-based company makes DRONAAM, a modular counter-drone system carried as a rifle or a backpack, and has been delivering it to the Indian Air Force since 2022.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1705,46 +1787,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2b6715519d",
-        "title": "MedevPlus makes a portable eye scanner for screening outside hospitals",
-        "summary": "MedevPlus has developed a portable optical coherence tomography device for retinal screening and is extending the same imaging technology to veterinary and industrial use.",
-        "link": "https://yourstory.com/2026/08/medevplus-portable-eye-scanner",
-        "source": "YourStory",
+        "id": "2dcfdd1323",
+        "title": "Rapido Bags Karnataka Cab Aggregator Licence Till 2031",
+        "summary": "Mobility unicorn Rapido has secured the cab aggregator licence from the Karnataka State Transport Authority.  Granted under the Karnataka On-Demand&#8230;",
+        "link": "https://inc42.com/buzz/rapido-bags-karnataka-cab-aggregator-licence-till-2031/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/medevplus-portable-eye-scanner"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/rapido-bags-karnataka-cab-aggregator-licence-till-2031/"
           }
         ],
-        "published": "Thu, 13 Aug 2026 14:11:09 GMT",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for medicine & pharma right now. MedevPlus has developed a portable optical coherence tomography device for retinal screening and is extending the same imaging technology to veterinary and industrial use.",
-        "means_for_you": [
-          "Good news here is usually stock-specific — check which company before acting."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      },
-      {
-        "id": "1c998d976c",
-        "title": "Life after Chandra: Could a next-gen Tata be groomed for the top job?",
-        "summary": "Who could lead Tata Group after N Chandrasekaran? Explore the succession race and whether Leah, Maya or Neville Tata could emerge as future leaders.",
-        "link": "https://yourstory.com/2026/08/tata-next-gen-succession-top-job",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/tata-next-gen-succession-top-job"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 14:14:06 GMT",
+        "published": "Thu, 13 Aug 2026 20:17:40 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1753,7 +1807,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Who could lead Tata Group after N Chandrasekaran? Explore the succession race and whether Leah, Maya or Neville Tata could emerge as future leaders.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Mobility unicorn Rapido has secured the cab aggregator licence from the Karnataka State Transport Authority.  Granted under the Karnataka On-Demand&#8230;",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -2152,34 +2206,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "31ebebefee",
-        "title": "D2C Brand Scrubsy Nets $3 Mn To Expand Home Cleaning Offerings",
-        "summary": "D2C home-cleaning startup Scrubsy has raised ₹27 Cr ($3 Mn) in a seed round led by V3 Ventures. Founded in&#8230;",
-        "link": "https://inc42.com/buzz/d2c-brand-scrubsy-nets-3-mn-to-expand-home-cleaning-offerings/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/d2c-brand-scrubsy-nets-3-mn-to-expand-home-cleaning-offerings/"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 08:16:26 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. D2C home-cleaning startup Scrubsy has raised ₹27 Cr ($3 Mn) in a seed round led by V3 Ventures. Founded in&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
@@ -2238,39 +2264,67 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "14fdfad535",
-        "title": "SpaceX shares gain 35% after lock-up expiry, climb back above IPO price",
-        "summary": "SpaceX shares gained over 30% following the expiration of lock-up restrictions, increasing market value by $500 billion. Investors remain optimistic despite fears of selling pressure.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 17:49:59 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. SpaceX shares gained over 30% following the expiration of lock-up restrictions, increasing market value by $500 billion. Investors remain optimistic despite fears of selling pressure.&amp;nbsp;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
   "sectors": {
     "General Markets": [
+      {
+        "id": "2ddd0d1c48",
+        "title": "US stocks: S&amp;P 500 notches record-high close as rate-hike worries ease",
+        "summary": "The S&amp;P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminished. Memory chip giants Sandisk and Micron Technology reported impressive increase",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 01:39:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The S&amp;P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminishe",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "63bbaad3ea",
+        "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+        "summary": "Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies.  Shareholder support for special executive awards is showing si",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 01:27:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
       {
         "id": "c52fac66ea",
         "title": "Fed’s Barkin says rate hike an ‘open question’; Hammack backs increase on inflation concerns",
@@ -2748,6 +2802,62 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "0d5957235e",
+        "title": "ASX Shares Jump Most in Six Years After Upbeat Listings Outlook",
+        "summary": "ASX Ltd. shares capped their best day in six years after Australia’s main exchange operator gave a positive outlook on its listings business ahead of Anthony Attia’s arrival as the firm’s chief executive officer next month.",
+        "link": "https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:51:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. ASX Ltd. shares capped their best day in six years after Australia’s main exchange operator gave a positive outlook on its listings business ahead of Anthony Attia’s arrival as the firm’s chief execut",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "22b518f114",
+        "title": "Cloudy Yen Outlook Raises the Bar for Japan’s Earnings Beats",
+        "summary": "The risk that Japan takes more steps to bolster the yen is taking some of the shine off corporate earnings, as investors weigh the impact of any turnaround in the currency on exporters’ profits.",
+        "link": "https://www.livemint.com/market/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats-11786662091686.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats-11786662091686.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:31:31 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The risk that Japan takes more steps to bolster the yen is taking some of the shine off corporate earnings, as investors weigh the impact of any turnaround in the currency on exporters’ profits.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "0669db8985",
         "title": "Dollar mixed after flat PPI, rate hike bets cool",
         "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar mixed after flat PPI, rate hike bets cool",
@@ -2858,34 +2968,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "bc2997a2b4",
-        "title": "After a Q1 high, Hindustan Aeronautics eyes growth wings from Tejas",
-        "summary": "To sustain the Q1 revenue growth, the state-owned aerospace and defence company is pinning its hopes on the delivery of its Tejas MK1A and HTT-40, an indigenously developed training aircraft.",
-        "link": "https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 16:30:51 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. To sustain the Q1 revenue growth, the state-owned aerospace and defence company is pinning its hopes on the delivery of its Tejas MK1A and HTT-40, an indigenously developed training aircraft.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "Global & Macro": [
@@ -2946,34 +3028,6 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "07d6a6cd9d",
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P, Nasdaq gain as investors assess Middle East deal; crude prices dip",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 17:51:53 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive.",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
         "id": "5e291aa3cd",
         "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
         "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
@@ -3025,6 +3079,34 @@
         "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
         "means_for_you": [
           "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "cbbae4b465",
+        "title": "Gold Declines as Sliding Inflation Reinforces Fed Hold Bets",
+        "summary": "Gold fell below $4,400 an ounce as signs of easing inflation bolstered expectations that the US Federal Reserve will hold interest rates steady next month.",
+        "link": "https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html"
+          }
+        ],
+        "published": "Fri, 14 Aug 2026 04:58:42 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Gold fell below $4,400 an ounce as signs of easing inflation bolstered expectations that the US Federal Reserve will hold interest rates steady next month.",
+        "means_for_you": [
+          "Broad market headwind — consider being selective rather than aggressive today."
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
@@ -3378,66 +3460,6 @@
         "watch": "Realty Index, DLF, cement and construction names"
       }
     ],
-    "Energy & Oil": [
-      {
-        "id": "cfa634be9e",
-        "title": "Indian bonds mirror gains in Treasuries as oil slips",
-        "summary": "Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors seem relieved about the likelihood of less aggressive interest rate increases f",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms"
-          }
-        ],
-        "published": "Thu, 13 Aug 2026 17:52:46 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "2d82016381",
-        "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores",
-        "summary": "A wave of Middle Eastern crude is making its way to US shores, offering some respite to a market squeezed by wartime demand for American exports.",
-        "link": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html"
-          }
-        ],
-        "published": "Fri, 14 Aug 2026 00:15:37 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. A wave of Middle Eastern crude is making its way to US shores, offering some respite to a market squeezed by wartime demand for American exports.",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
     "Medicine & Pharma": [
       {
         "id": "2c554bf20b",
@@ -3498,39 +3520,67 @@
         "watch": "HUL, ITC, Nestle India, Britannia, Nifty FMCG"
       }
     ],
-    "Cars & Vehicles": [
+    "Energy & Oil": [
       {
-        "id": "d1d311aa46",
-        "title": "Tata Motors PV Q1 results: Net profit drops to  ₹775 crore on weak JLR sales; revenue rises 9%",
-        "summary": "Tata Motors Passenger Vehicles reported weak Q1 FY27 results with a net profit of  ₹775 crore, down from  ₹3,924 crore last year. Despite a 9% year-on-year increase in revenue to  ₹94,827 crore, sequentially it fell by 10%.",
-        "link": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html",
+        "id": "2d82016381",
+        "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores",
+        "summary": "A wave of Middle Eastern crude is making its way to US shores, offering some respite to a market squeezed by wartime demand for American exports.",
+        "link": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html"
+            "url": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html"
           }
         ],
-        "published": "Thu, 13 Aug 2026 16:13:33 +0530",
-        "sector": "Cars & Vehicles",
+        "published": "Fri, 14 Aug 2026 00:15:37 +0530",
+        "sector": "Energy & Oil",
         "sentiment": {
-          "label": "Bearish",
-          "score": -1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for cars & vehicles — sentiment turned more negative. Tata Motors Passenger Vehicles reported weak Q1 FY27 results with a net profit of  ₹775 crore, down from  ₹3,924 crore last year. Despite a 9% year-on-year increase in revenue to  ₹94,827 crore, seque",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. A wave of Middle Eastern crude is making its way to US shores, offering some respite to a market squeezed by wartime demand for American exports.",
         "means_for_you": [
-          "Weak sales can flag softer consumer demand economy-wide.",
-          "Auto and auto-ancillary stocks may see selling pressure."
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
         ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       }
     ]
   },
   "ai_in_finance": [
+    {
+      "id": "63bbaad3ea",
+      "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+      "summary": "Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies.  Shareholder support for special executive awards is showing si",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+      "source": "Economic Times Markets",
+      "sources": [
+        {
+          "name": "Economic Times Markets",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms"
+        }
+      ],
+      "published": "Fri, 14 Aug 2026 01:27:09 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bearish",
+        "score": -1
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "jetro_impact": "Negative For Indian Stocks",
+      "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Elon Musk's compensation is setting new benchmarks for S&amp;P 500 executive pay.  Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor",
+      "means_for_you": [
+        "Watch the index reaction rather than acting on this story alone."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
     {
       "id": "2657d3996a",
       "title": "US stocks: Cerebras slumps 12% as mixed quarterly results test AI growth narrative",
@@ -3587,34 +3637,6 @@
       ],
       "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
       "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-    },
-    {
-      "id": "a8028b4c5f",
-      "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
-      "summary": "Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India.",
-      "link": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/08/stroke-recovery-movement-device"
-        }
-      ],
-      "published": "Thu, 13 Aug 2026 14:10:41 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for general markets right now. Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India.",
-      "means_for_you": [
-        "Watch the index reaction rather than acting on this story alone."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
     },
     {
       "id": "ee6453bb39",
