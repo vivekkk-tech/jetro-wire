@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Market Desk — Indian Markets</title>
+<style>
+:root{--bg:#f5f5f2;--card:#fff;--ink:#171717;--muted:#666;--line:#ddd;--blue:#173b63;--green:#176b45;--red:#9d302b;--amber:#8a6500}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
+header{background:var(--card);border-bottom:3px solid var(--ink);padding:24px 18px 16px}
+.wrap{max-width:1120px;margin:auto}.brand{font-family:Georgia,serif;font-size:42px;font-weight:700}.tag{color:var(--muted);font-size:13px;margin-top:5px}
+.meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:18px;padding-top:10px;border-top:1px solid var(--line);font-size:12px}.meta b{font-size:14px}
+nav{background:var(--card);border-bottom:1px solid var(--line);padding:10px 18px}.tabs{max-width:1120px;margin:auto;display:flex;gap:8px;flex-wrap:wrap}.tab{border:1px solid var(--line);background:#fff;padding:8px 12px;border-radius:5px;cursor:pointer;font-weight:700}.tab.active{background:var(--ink);color:#fff}
+main{max-width:1120px;margin:auto;padding:20px 18px 60px}.page{display:none}.page.active{display:block}
+h1,h2,h3{font-family:Georgia,serif}.section-title{border-bottom:2px solid var(--ink);padding-bottom:8px;margin:28px 0 14px}.grid{display:grid;grid-template-columns:1.5fr 1fr;gap:18px}.cards{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.card,.lead,.impact-box{background:var(--card);border:1px solid var(--line);padding:17px;border-radius:6px}.lead{border-top:5px solid var(--blue)}
+.kicker{text-transform:uppercase;font-size:10px;font-weight:800;color:var(--muted);letter-spacing:.6px}.title{font:700 23px/1.25 Georgia,serif;margin:8px 0 10px}.card .title{font-size:17px}.summary{font-size:13px;line-height:1.55}.source{font-size:11px;color:var(--muted);margin:8px 0 12px}.source a{color:inherit}
+.impact{margin-top:14px;padding:12px;background:#f2f5f8;border-left:4px solid var(--blue)}.impact b{display:block;font-size:11px;text-transform:uppercase;margin-bottom:5px}.direction{font-weight:800;font-size:12px}.positive{color:var(--green)}.negative{color:var(--red)}.unclear{color:var(--amber)}
+.chips{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.chip{font-size:10px;border:1px solid var(--line);padding:4px 7px;border-radius:20px;color:var(--muted)}
+.index-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:18px}.index{background:#fff;border:1px solid var(--line);padding:12px}.index .name{font-size:11px;color:var(--muted)}.index .price{font-size:19px;font-weight:800;margin:3px 0}.up{color:var(--green)}.down{color:var(--red)}.flat{color:var(--muted)}
+.note{font-size:11px;color:var(--muted);line-height:1.5}.why{margin-top:8px;font-size:12px;line-height:1.5}
+@media(max-width:800px){.grid,.cards{grid-template-columns:1fr}.index-grid{grid-template-columns:1fr 1fr}.brand{font-size:34px}}
+@media(max-width:500px){.index-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<div class="brand">MARKET DESK</div>
+<div class="tag">Indian market news, explained without hype or sentiment labels.</div>
+<div class="meta"><span>EDITION <b id="date">—</b></span><span>ARTICLES <b id="count">—</b></span><span>METHOD <b>FACT → MECHANISM → IMPACT</b></span></div>
+</div></header>
+<nav><div class="tabs">
+<button class="tab active" data-page="market">Market</button><button class="tab" data-page="startups">Startups</button><button class="tab" data-page="deals">PE / M&A / IB</button>
+</div></nav>
+<main>
+<section id="market" class="page active">
+<div id="indices"></div>
+<h2 class="section-title">What matters today</h2>
+<div class="grid"><div id="lead"></div><aside id="impact"></aside></div>
+<h2 class="section-title">More market news</h2><div class="cards" id="marketCards"></div>
+<h2 class="section-title">Sector watch</h2><div class="cards" id="sectorCards"></div>
+</section>
+<section id="startups" class="page"><h2 class="section-title">Indian startup ecosystem</h2><div class="cards" id="startupCards"></div></section>
+<section id="deals" class="page"><h2 class="section-title">PE, M&A and investment banking</h2><div class="cards" id="dealCards"></div></section>
+<p class="note" id="disclaimer"></p>
+</main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+function dirClass(d){return d&&d.toLowerCase().includes('positive')?'positive':d&&d.toLowerCase().includes('negative')?'negative':'unclear'}
+function impactHTML(a){
+ if(!a||!a.market_impact)return '';
+ const m=a.market_impact;
+ return `<div class="impact"><b>Market impact</b><span class="direction ${dirClass(m.direction)}">${esc(m.direction)}</span><div class="why"><b>Why:</b> ${esc(m.mechanism)}</div><div class="chips"><span class="chip">Confidence: ${esc(m.confidence)}</span><span class="chip">Horizon: ${esc(m.horizon)}</span></div></div>`
+}
+function card(a){return `<article class="card"><div class="kicker">${esc(a.sector)} · ${esc(a.source)}</div><div class="title"><a href="${esc(a.link)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(a.title)}</a></div><div class="source">${a.published?esc(a.published):'Publication time not supplied by feed'}</div><div class="summary">${esc(a.summary)}</div>${impactHTML(a)}</article>`}
+function lead(a){
+ if(!a)return '<div class="card">No verified lead story available yet.</div>';
+ return `<article class="lead"><div class="kicker">Lead story · ${esc(a.sector)}</div><div class="title">${esc(a.title)}</div><div class="source">${esc(a.source)} · ${a.published?esc(a.published):'Publication time not supplied by feed'} · <a href="${esc(a.link)}" target="_blank">Original source</a></div><div class="summary"><b>What happened:</b><br>${esc(a.summary)}</div>${impactHTML(a)}<div class="why"><b>What to watch:</b> ${a.watch.map(esc).join(', ')}</div></article>`
+}
+function indices(data){
+ const arr=Object.entries(data.index_snapshot||{}); if(!arr.length)return '';
+ return `<div class="index-grid">${arr.map(([n,d])=>`<div class="index"><div class="name">${esc(n)}</div><div class="price">${d.price}</div><div class="${d.pct>0?'up':d.pct<0?'down':'flat'}">${d.pct>0?'+':''}${d.pct}%</div></div>`).join('')}</div>`
+}
+function sectorCards(data){
+ const arr=Object.entries(data.sector_performance||{});
+ return arr.map(([n,d])=>`<div class="card"><div class="kicker">Sector performance</div><div class="title">${esc(n)}</div><div class="${d.pct>0?'up':d.pct<0?'down':'flat'}" style="font-weight:800">${d.pct>0?'+':''}${d.pct}%</div><div class="note">This is the actual sector-index move fetched by the engine. It is not inferred from article sentiment.</div></div>`).join('')
+}
+function render(data){
+ document.getElementById('date').textContent=data.edition_date||'—';document.getElementById('count').textContent=data.article_count??'—';
+ document.getElementById('indices').innerHTML=indices(data);
+ document.getElementById('lead').innerHTML=lead(data.lead_story);
+ document.getElementById('impact').innerHTML=data.lead_story?`<div class="impact-box"><h3>Why this can move the market</h3><div class="summary">${esc(data.lead_story.market_impact?.mechanism||'The available facts are not enough to establish a clear market mechanism.')}</div><div class="chips"><span class="chip">Direction: ${esc(data.lead_story.market_impact?.direction||'Unclear')}</span><span class="chip">Confidence: ${esc(data.lead_story.market_impact?.confidence||'Low')}</span><span class="chip">Horizon: ${esc(data.lead_story.market_impact?.horizon||'Near term')}</span></div><p class="note">This is an interpretation of the mechanism, not a trading signal.</p></div>`:'';
+ document.getElementById('marketCards').innerHTML=(data.pages?.stock_market||[]).map(card).join('')||'<div class="note">No additional market stories.</div>';
+ document.getElementById('sectorCards').innerHTML=sectorCards(data);
+ document.getElementById('startupCards').innerHTML=(data.pages?.startups||[]).map(card).join('')||'<div class="note">No startup stories.</div>';
+ document.getElementById('dealCards').innerHTML=(data.pages?.pe_ib||[]).map(card).join('')||'<div class="note">No PE/M&A/IB stories.</div>';
+ document.getElementById('disclaimer').textContent=data.disclaimer||'';
+}
+fetch('data.json?t='+Date.now()).then(r=>r.json()).then(render).catch(()=>document.querySelector('main').innerHTML='<p>Data update unavailable. Run the news update workflow.</p>');
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));document.querySelectorAll('.page').forEach(x=>x.classList.remove('active'));b.classList.add('active');document.getElementById(b.dataset.page).classList.add('active')});
+</script>
+</body></html>
