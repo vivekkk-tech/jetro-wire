@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T19:18:19.570887+00:00",
+  "generated_at_utc": "2026-08-18T20:55:01.325986+00:00",
   "edition_date": "Tuesday, August 18, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -384,6 +384,35 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "357c1bc101",
+        "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
+        "summary": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets ",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms"
+          }
+        ],
+        "published": "Wed, 19 Aug 2026 01:39:53 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the b",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "265da82850",
         "title": "US single-family housing starts slide in July",
         "summary": "The U.S. witnessed a notable decline in single-family homebuilding last month, primarily due to elevated mortgage rates. An increase in unsold new homes exacerbated this downturn. However, there was a slight uptick in permits for future construction of single-family homes. The ov",
@@ -490,6 +519,34 @@
         "page": "stock_market",
         "jetro_impact": "Negative For Indian Stocks",
         "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Ashok Leyland's June-quarter has an unusual contradiction. The company sold 48,763 commercial vehicles, its highest-ever first-quarter volume, and revenue from operations rose 10.43% to Rs. 9,634 cror",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "059e382a6b",
+        "title": "30-year Treasury yields at highest level since 2007 amid Iran worries, broader selloff",
+        "summary": "U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. Inflation expectations remained heightened, as shown by breakeven rates. Moreover",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 20:15:46 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. I",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -666,63 +723,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2b4a17c346",
-        "title": "US yields rise amid Iran worries, broader selloff",
-        "summary": "U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. Inflation expectations remained heightened, as shown by breakeven rates. Moreover",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 20:15:46 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. I",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2b216751d2",
-        "title": "Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe",
-        "summary": "Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concerns of potential fraud. The firm is collaborating with regulators to rectify the ",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 20:13:22 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concer",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "806bc030a2",
@@ -1235,18 +1235,18 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "30c488bc24",
-        "title": "Why it’s important to understand fertility testing before beginning IVF treatment",
-        "summary": "Why it’s important to understand fertility testing before beginning IVF treatment \n\n\n\n\nStarting IVF treatment is an important step in the journey towards parenthood. Before recommending a treatment plan, fertility specialists conduct a comprehensive fertility assessment to unders",
-        "link": "https://yourstory.com/2026/08/why-important-understand-fertility-testing-before-beginning-ivf-treatment",
+        "id": "2ee061bc97",
+        "title": "HoverIt builds loitering munitions and surveillance drones in Lucknow",
+        "summary": "The company designs and manufactures unmanned systems ranging from compact surveillance drones to strike platforms and flew India's first jet-powered loitering munition this month.",
+        "link": "https://yourstory.com/2026/08/hoverit-loitering-munitions-surveillance-drones",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/why-important-understand-fertility-testing-before-beginning-ivf-treatment"
+            "url": "https://yourstory.com/2026/08/hoverit-loitering-munitions-surveillance-drones"
           }
         ],
-        "published": "Tue, 18 Aug 2026 09:09:46 GMT",
+        "published": "Tue, 18 Aug 2026 15:46:44 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1255,7 +1255,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Why it’s important to understand fertility testing before beginning IVF treatment \n\n\n\n\nStarting IVF treatment is an important step in the journey towards parenthood. Before recommending a treatment pl",
+        "in_simple_words": "Not a big mover either way for general markets right now. The company designs and manufactures unmanned systems ranging from compact surveillance drones to strike platforms and flew India's first jet-powered loitering munition this month.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1319,18 +1319,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "e11935822a",
-        "title": "7 Books that teach lessons from people who changed the world",
-        "summary": "Discover seven inspiring books that reveal the wisdom, courage, and leadership of people who transformed the world and left lasting legacies.",
-        "link": "https://yourstory.com/2026/08/lessons-from-people-changed-world",
+        "id": "30c488bc24",
+        "title": "Why it’s important to understand fertility testing before beginning IVF treatment",
+        "summary": "Why it’s important to understand fertility testing before beginning IVF treatment \n\n\n\n\nStarting IVF treatment is an important step in the journey towards parenthood. Before recommending a treatment plan, fertility specialists conduct a comprehensive fertility assessment to unders",
+        "link": "https://yourstory.com/2026/08/why-important-understand-fertility-testing-before-beginning-ivf-treatment",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/lessons-from-people-changed-world"
+            "url": "https://yourstory.com/2026/08/why-important-understand-fertility-testing-before-beginning-ivf-treatment"
           }
         ],
-        "published": "Tue, 18 Aug 2026 10:30:00 GMT",
+        "published": "Tue, 18 Aug 2026 09:09:46 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1339,119 +1339,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover seven inspiring books that reveal the wisdom, courage, and leadership of people who transformed the world and left lasting legacies.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5592ab791a",
-        "title": "5 Books that explain why we compare ourselves with others",
-        "summary": "Explore 5 insightful books that explain why we compare ourselves with others and how to build confidence beyond external validation.",
-        "link": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others"
-          }
-        ],
-        "published": "Mon, 17 Aug 2026 14:10:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore 5 insightful books that explain why we compare ourselves with others and how to build confidence beyond external validation.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2ee061bc97",
-        "title": "HoverIt builds loitering munitions and surveillance drones in Lucknow",
-        "summary": "The company designs and manufactures unmanned systems ranging from compact surveillance drones to strike platforms and flew India's first jet-powered loitering munition this month.",
-        "link": "https://yourstory.com/2026/08/hoverit-loitering-munitions-surveillance-drones",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/hoverit-loitering-munitions-surveillance-drones"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 15:46:44 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The company designs and manufactures unmanned systems ranging from compact surveillance drones to strike platforms and flew India's first jet-powered loitering munition this month.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b5acb0927c",
-        "title": "Geospatial startup NeoGeo raises $20M from Neev II Fund and Aavishkaar Capital",
-        "summary": "NeoGeo said it will primarily use this funding towards R&amp;D, marketing, and hiring.",
-        "link": "https://yourstory.com/2026/08/geospatial-startup-neogeo-20-million-neev-ii-fund-aavishkaar-capital",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/geospatial-startup-neogeo-20-million-neev-ii-fund-aavishkaar-capital"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 12:30:29 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. NeoGeo said it will primarily use this funding towards R&amp;D, marketing, and hiring.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "76b9ee76a8",
-        "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
-        "summary": "As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom priority.",
-        "link": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 05:45:56 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom",
+        "in_simple_words": "Not a big mover either way for general markets right now. Why it’s important to understand fertility testing before beginning IVF treatment \n\n\n\n\nStarting IVF treatment is an important step in the journey towards parenthood. Before recommending a treatment pl",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1487,47 +1375,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "016317fd6d",
-        "title": "10 ways to create 10 lakh entrepreneurs",
-        "summary": "Building India's Next 10 Lakh Entrepreneurs, a new policy framework, proposes a National Entrepreneurship Mission built by connecting the startup, MSME, research and credit schemes India already runs",
-        "link": "https://yourstory.com/2026/08/-10-ways-to-create-10-lakh-entrepreneurs",
+        "id": "e11935822a",
+        "title": "7 Books that teach lessons from people who changed the world",
+        "summary": "Discover seven inspiring books that reveal the wisdom, courage, and leadership of people who transformed the world and left lasting legacies.",
+        "link": "https://yourstory.com/2026/08/lessons-from-people-changed-world",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/-10-ways-to-create-10-lakh-entrepreneurs"
+            "url": "https://yourstory.com/2026/08/lessons-from-people-changed-world"
           }
         ],
-        "published": "Tue, 18 Aug 2026 02:00:00 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Building India's Next 10 Lakh Entrepreneurs, a new policy framework, proposes a National Entrepreneurship Mission built by connecting the startup, MSME, research and credit schemes India already runs",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "74e6ed2164",
-        "title": "Startup news and updates: daily roundup (August 18, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, August 18, 2026.",
-        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-18-2026",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-18-2026"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 09:12:32 GMT",
+        "published": "Tue, 18 Aug 2026 10:30:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1536,7 +1395,35 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, August 18, 2026.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover seven inspiring books that reveal the wisdom, courage, and leadership of people who transformed the world and left lasting legacies.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "76b9ee76a8",
+        "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
+        "summary": "As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom priority.",
+        "link": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 05:45:56 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1572,6 +1459,63 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "9da2ec9ef7",
+        "title": "Delectrik builds flow batteries that store renewable power for far longer than its counterparts",
+        "summary": "The Gurugram-based company has won the contract for India's first utility-scale vanadium flow battery, a 100 MWh system for NTPC at the Khavda solar park in Gujarat.",
+        "link": "https://yourstory.com/2026/08/delectrik-long-duration-flow-batteries",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/delectrik-long-duration-flow-batteries"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 15:45:35 GMT",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. The Gurugram-based company has won the contract for India's first utility-scale vanadium flow battery, a 100 MWh system for NTPC at the Khavda solar park in Gujarat.",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "5592ab791a",
+        "title": "5 Books that explain why we compare ourselves with others",
+        "summary": "Explore 5 insightful books that explain why we compare ourselves with others and how to build confidence beyond external validation.",
+        "link": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others"
+          }
+        ],
+        "published": "Mon, 17 Aug 2026 14:10:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore 5 insightful books that explain why we compare ourselves with others and how to build confidence beyond external validation.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "d799a21c37",
         "title": "7 Books that explore the connection between dreams & reality",
         "summary": "Discover 7 thought-provoking books that explore the connection between dreams and reality, revealing how imagination shapes human experience.",
@@ -1593,6 +1537,34 @@
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 thought-provoking books that explore the connection between dreams and reality, revealing how imagination shapes human experience.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f52b7bfdb1",
+        "title": "Indian deeptech investments reach $11.4B: Report",
+        "summary": "The IVCA Bharat DeepTech Report 2026 reveals record cumulative funding, highlighting a strategic shift towards scientific innovation and industrial segments despite a broader market slowdown in startup investments.",
+        "link": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report"
+          }
+        ],
+        "published": "Mon, 17 Aug 2026 13:29:33 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The IVCA Bharat DeepTech Report 2026 reveals record cumulative funding, highlighting a strategic shift towards scientific innovation and industrial segments despite a broader market slowdown in startu",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1649,6 +1621,34 @@
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for general markets right now. While there’s life, there’s hope” reminds us that setbacks are not endings. Discover how hope gives us strength to keep moving forward.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b098ea21bc",
+        "title": "Startup news and updates: daily roundup (August 17, 2026)",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, August 17, 2026.",
+        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-17-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-17-2026"
+          }
+        ],
+        "published": "Mon, 17 Aug 2026 13:38:04 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, August 17, 2026.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -2250,6 +2250,211 @@
     ]
   },
   "sectors": {
+    "Banks & Money": [
+      {
+        "id": "357c1bc101",
+        "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
+        "summary": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets ",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms"
+          }
+        ],
+        "published": "Wed, 19 Aug 2026 01:39:53 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the b",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "59cc356f69",
+        "title": "Sakarni Plaster to invest Rs 450 cr on expansion; to set up 2 building material plants",
+        "summary": "Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, while also expanding the capacities of existing plants to cater to rising demand. ",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 21:37:04 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, wh",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "25b1730ecd",
+        "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
+        "summary": "US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;amp;P 500 is expected to post its third consecutive day of losses, with individual stocks like Nvidia falling sharply.",
+        "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 18:36:19 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;amp;P 500 is expected to post its third consecut",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "da43093ed4",
+        "title": "Small-cap stock under  ₹50 Tiger Logistics jumps 4% after RBI compounding order",
+        "summary": "In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Management Act, 1999 (FEMA).",
+        "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html"
+          }
+        ],
+        "published": "Tue, 18 Aug 2026 13:34:55 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Manage",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      }
+    ],
     "Real Estate/Housing": [
       {
         "id": "62cd5f9c75",
@@ -2420,211 +2625,6 @@
         "watch": "Realty Index, DLF, cement and construction names"
       }
     ],
-    "Banks & Money": [
-      {
-        "id": "59cc356f69",
-        "title": "Sakarni Plaster to invest Rs 450 cr on expansion; to set up 2 building material plants",
-        "summary": "Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, while also expanding the capacities of existing plants to cater to rising demand. ",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 21:37:04 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, wh",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2b216751d2",
-        "title": "Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe",
-        "summary": "Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concerns of potential fraud. The firm is collaborating with regulators to rectify the ",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 20:13:22 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concer",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2f554f4f77",
-        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "means_for_you": [
-          "Borrowing costs could tick up — factor this into EMI planning.",
-          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "f5e03c6451",
-        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
-        "summary": "Net premium income rose to Rs 14,788 crore",
-        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
-        "means_for_you": [
-          "Borrowing costs could tick up — factor this into EMI planning.",
-          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "47b61ce2c0",
-        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
-        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "25b1730ecd",
-        "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
-        "summary": "US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;amp;P 500 is expected to post its third consecutive day of losses, with individual stocks like Nvidia falling sharply.",
-        "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 18:36:19 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;amp;P 500 is expected to post its third consecut",
-        "means_for_you": [
-          "Borrowing costs could tick up — factor this into EMI planning.",
-          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "da43093ed4",
-        "title": "Small-cap stock under  ₹50 Tiger Logistics jumps 4% after RBI compounding order",
-        "summary": "In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Management Act, 1999 (FEMA).",
-        "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html"
-          }
-        ],
-        "published": "Tue, 18 Aug 2026 13:34:55 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Manage",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      }
-    ],
     "General Markets": [
       {
         "id": "d703c07d63",
@@ -2683,27 +2683,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2b4a17c346",
-        "title": "US yields rise amid Iran worries, broader selloff",
+        "id": "059e382a6b",
+        "title": "30-year Treasury yields at highest level since 2007 amid Iran worries, broader selloff",
         "summary": "U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. Inflation expectations remained heightened, as shown by breakeven rates. Moreover",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
         "source": "Economic Times Markets",
         "sources": [
           {
             "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms"
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms"
           }
         ],
         "published": "Tue, 18 Aug 2026 20:15:46 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bearish",
+          "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. I",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. I",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
