@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T19:44:44.845312+00:00",
+  "generated_at_utc": "2026-08-24T21:05:45.686577+00:00",
   "edition_date": "Monday, August 24, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -28,24 +28,52 @@
     }
   },
   "biggest_story": {
-    "sector": "Banks & Money",
-    "title": "India's house price growth slows to 3.6% in Q1 FY27: RBI",
+    "sector": "Global & Macro",
+    "title": "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
     "sources": [
       {
         "name": "Economic Times Markets",
-        "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-house-price-growth-slows-to-3-6-in-q1-fy27-rbi/articleshow/133472740.cms"
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms"
       }
     ],
-    "what_happened": "In the first quarter of this year, the growth rate of house prices in India decelerated to 3.6 percent compared to the previous year, down from 4.5 percent in the last quarter. However, there was a quarterly increase of 1.1 percent in the All-India House Price Index, primarily th",
-    "why_it_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+    "what_happened": "Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidia’",
+    "why_it_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
     "means_for_you": [
-      "Home loan / EMI rates are unlikely to rise from here.",
-      "Banking stocks in a portfolio may see near-term support."
+      "Broad market headwind — consider being selective rather than aggressive today."
     ],
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-house-price-growth-slows-to-3-6-in-q1-fy27-rbi/articleshow/133472740.cms"
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms"
   },
   "pages": {
     "stock_market": [
+      {
+        "id": "499a9fda5b",
+        "title": "India's house price growth slows to 3.6% in Q1 FY27: RBI",
+        "summary": "In the first quarter of this year, the growth rate of house prices in India decelerated to 3.6 percent compared to the previous year, down from 4.5 percent in the last quarter. However, there was a quarterly increase of 1.1 percent in the All-India House Price Index, primarily th",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-house-price-growth-slows-to-3-6-in-q1-fy27-rbi/articleshow/133472740.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-house-price-growth-slows-to-3-6-in-q1-fy27-rbi/articleshow/133472740.cms"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 21:24:31 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. In the first quarter of this year, the growth rate of house prices in India decelerated to 3.6 percent compared to the previous year, down from 4.5 percent in the last quarter. However, there was a qu",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
       {
         "id": "528bb9285a",
         "title": "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
@@ -1210,6 +1238,90 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "27ba5ad958",
+        "title": "AI’s new cost equation: Why token economics matters",
+        "summary": "At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasingly important.",
+        "link": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 11:05:03 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasin",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "85056b4615",
+        "title": "From pilot to platform: A practical playbook for Gemini Enterprise",
+        "summary": "Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment.",
+        "link": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 07:32:11 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "85ef30d1c5",
+        "title": "Titan puts lasting recognition at the heart of its Diwali gifting campaign",
+        "summary": "With ‘The Joy That Lasts’, Titan Corporate Gifting offers curated and customized gifting options for employees, channel partners, and business stakeholders.",
+        "link": "https://yourstory.com/2026/08/titan-puts-lasting-recognition-at-the-heart-of-its-diwali-gifting-campaign",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/titan-puts-lasting-recognition-at-the-heart-of-its-diwali-gifting-campaign"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 13:08:10 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. With ‘The Joy That Lasts’, Titan Corporate Gifting offers curated and customized gifting options for employees, channel partners, and business stakeholders.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "8172c24096",
         "title": "From income to long-term opportunity: The rise of expertise-led side hustles",
         "summary": "Professionals are increasingly turning their skills, networks, and experience into additional income streams, especially in areas such as financial and insurance advisory.\n\n\n\nSomething has changed in the way working professionals in India think about earning and financial securit",
@@ -1231,6 +1343,91 @@
         "page": "startups",
         "jetro_impact": "Positive For Indian Stocks",
         "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Professionals are increasingly turning their skills, networks, and experience into additional income streams, especially in areas such as financial and insurance advisory.\n\n\n\nSomething has changed in",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "09793709b0",
+        "title": "Why Learning to Sit Alone Can Change the Way We Live",
+        "summary": "Blaise Pascal’s insight about solitude reveals why constant distraction can prevent self-reflection, clarity, and a deeper understanding of ourselves.",
+        "link": "https://yourstory.com/2026/08/avoid-sitting-alone",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/avoid-sitting-alone"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 03:30:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Blaise Pascal’s insight about solitude reveals why constant distraction can prevent self-reflection, clarity, and a deeper understanding of ourselves.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0bbbaeb250",
+        "title": "When payments grow beyond the gateway",
+        "summary": "Accepting payments is only the beginning. As businesses grow, recurring billing, settlements, reconciliation, payouts and compliance create a new layer of operational complexity—one that calls for a more connected approach.",
+        "link": "https://yourstory.com/2026/08/payments-grow-beyond-the-gateway",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/payments-grow-beyond-the-gateway"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 08:41:44 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Accepting payments is only the beginning. As businesses grow, recurring billing, settlements, reconciliation, payouts and compliance create a new layer of operational complexity—one that calls for a m",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "3e64ee27c0",
+        "title": "Instant loan in India: Who really delivers instant sanction and same-day disbursal?",
+        "summary": "From medical emergencies to urgent travel, speed matters. Here’s how digital personal loans and pre-approved offers are reshaping access to funds — and what borrowers should know before applying.",
+        "link": "https://yourstory.com/2026/08/instant-loan-in-india-who-really-delivers-instant-sanction-and-same-day-disbursal",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/instant-loan-in-india-who-really-delivers-instant-sanction-and-same-day-disbursal"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 06:35:05 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. From medical emergencies to urgent travel, speed matters. Here’s how digital personal loans and pre-approved offers are reshaping access to funds — and what borrowers should know before applying.",
         "means_for_you": [
           "Home loan / EMI rates are unlikely to rise from here.",
           "Banking stocks in a portfolio may see near-term support."
@@ -1267,83 +1464,55 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d0182e99d4",
-        "title": "Third Wave Coffee raises Rs 408 Cr in funding round led by WestBridge Capital",
-        "summary": "WestBridge Capital is a key investor in Third Wave Coffee\n\nThird Wave Coffee will use this funding for geographic expansion, deepen its presence in existing markets and scale new growth categories\n\nThird Wave Coffee, the homegrown coffee and food QSR brand, has raised Rs 408 cror",
-        "link": "https://yourstory.com/2026/08/third-wave-coffee-raises-rs-408-cr-led-by-westbridge-capital",
+        "id": "5bf88c492d",
+        "title": "Context is the new intelligence in agentic AI",
+        "summary": "At DevSparks Hyderabad 2026, UBS CTO Elango Somasundaram explored what comes after copilots: agentic AI that understands context, connects the dots, and orchestrates enterprise workflows.",
+        "link": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/third-wave-coffee-raises-rs-408-cr-led-by-westbridge-capital"
+            "url": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai"
           }
         ],
-        "published": "Mon, 24 Aug 2026 06:46:42 GMT",
+        "published": "Mon, 24 Aug 2026 05:45:07 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
           "score": 1
         },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. WestBridge Capital is a key investor in Third Wave Coffee\n\nThird Wave Coffee will use this funding for geographic expansion, deepen its presence in existing markets and scale new growth categories\n\nTh",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "0bbbaeb250",
-        "title": "When payments grow beyond the gateway",
-        "summary": "Accepting payments is only the beginning. As businesses grow, recurring billing, settlements, reconciliation, payouts and compliance create a new layer of operational complexity—one that calls for a more connected approach.",
-        "link": "https://yourstory.com/2026/08/payments-grow-beyond-the-gateway",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/payments-grow-beyond-the-gateway"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 08:41:44 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Accepting payments is only the beginning. As businesses grow, recurring billing, settlements, reconciliation, payouts and compliance create a new layer of operational complexity—one that calls for a m",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "27ba5ad958",
-        "title": "AI’s new cost equation: Why token economics matters",
-        "summary": "At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasingly important.",
-        "link": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 11:05:03 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
         "is_ai_related": true,
         "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. At DevSparks Hyderabad 2026, UBS CTO Elango Somasundaram explored what comes after copilots: agentic AI that understands context, connects the dots, and orchestrates enterprise workflows.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b7eb826c59",
+        "title": "Skincare startup Asaya bags Rs 88 Cr in Series A round",
+        "summary": "Asaya will utilise funding towards R&amp;D, product line expansion including quick commerce and expanding the team.",
+        "link": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 06:06:14 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasin",
+        "in_simple_words": "Not a big mover either way for general markets right now. Asaya will utilise funding towards R&amp;D, product line expansion including quick commerce and expanding the team.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1379,27 +1548,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "089753e32d",
-        "title": "Big cheques remain scarce for startups; Trademark dispute between Matrimony.com & Jodi365",
-        "summary": "VC inflow remains rangebound, and one-off large deals are propping up India's startup funding. Meanwhile, in a trademark dispute between Matrimony.com and Jodi365, the Supreme Court has asked the companies to explore settlement.",
-        "link": "https://yourstory.com/2026/08/big-cheques-scarce-for-startups-trademark-dispute-matrimonycom-jodi365",
+        "id": "9a7cc9e5ea",
+        "title": "This book examines how Indian companies turned crisis into growth",
+        "summary": "BOOK-COMPANIES\n03:36 PM, 23 Aug 2026  440 Words \nNew Delhi, Aug 23 (PTI) A new book, \"The Art of Enduring: How Great Companies Turn Crisis into Opportunity\", examines how five Indian companies turned disruption into an opportunity to build businesses capable of enduring and compo",
+        "link": "https://yourstory.com/2026/08/book-how-indian-companies-turned-crisis-into-growth",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/big-cheques-scarce-for-startups-trademark-dispute-matrimonycom-jodi365"
+            "url": "https://yourstory.com/2026/08/book-how-indian-companies-turned-crisis-into-growth"
           }
         ],
-        "published": "Mon, 24 Aug 2026 02:00:00 GMT",
+        "published": "Sun, 23 Aug 2026 10:34:44 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 1
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. VC inflow remains rangebound, and one-off large deals are propping up India's startup funding. Meanwhile, in a trademark dispute between Matrimony.com and Jodi365, the Supreme Court has asked the comp",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. BOOK-COMPANIES\n03:36 PM, 23 Aug 2026  440 Words \nNew Delhi, Aug 23 (PTI) A new book, \"The Art of Enduring: How Great Companies Turn Crisis into Opportunity\", examines how five Indian companies turned",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1435,175 +1604,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "beb4a1d3e6",
-        "title": "QpiAI to install 8-qubit quantum computer at PDEU in Gujarat",
-        "summary": "QpiAI and PDEU have signed an MoU to establish a Quantum Centre of Excellence, with an 8-qubit system supporting quantum education, training and research in Gujarat.",
-        "link": "https://yourstory.com/2026/08/qpiai-to-install-8-qubit-quantum-computer-pdeu-gujarat",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/qpiai-to-install-8-qubit-quantum-computer-pdeu-gujarat"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 14:09:23 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. QpiAI and PDEU have signed an MoU to establish a Quantum Centre of Excellence, with an 8-qubit system supporting quantum education, training and research in Gujarat.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "09793709b0",
-        "title": "Why Learning to Sit Alone Can Change the Way We Live",
-        "summary": "Blaise Pascal’s insight about solitude reveals why constant distraction can prevent self-reflection, clarity, and a deeper understanding of ourselves.",
-        "link": "https://yourstory.com/2026/08/avoid-sitting-alone",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/avoid-sitting-alone"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 03:30:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Blaise Pascal’s insight about solitude reveals why constant distraction can prevent self-reflection, clarity, and a deeper understanding of ourselves.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "85ef30d1c5",
-        "title": "Titan puts lasting recognition at the heart of its Diwali gifting campaign",
-        "summary": "With ‘The Joy That Lasts’, Titan Corporate Gifting offers curated and customized gifting options for employees, channel partners, and business stakeholders.",
-        "link": "https://yourstory.com/2026/08/titan-puts-lasting-recognition-at-the-heart-of-its-diwali-gifting-campaign",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/titan-puts-lasting-recognition-at-the-heart-of-its-diwali-gifting-campaign"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 13:08:10 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. With ‘The Joy That Lasts’, Titan Corporate Gifting offers curated and customized gifting options for employees, channel partners, and business stakeholders.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "85056b4615",
-        "title": "From pilot to platform: A practical playbook for Gemini Enterprise",
-        "summary": "Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment.",
-        "link": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 07:32:11 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2648da36c1",
-        "title": "TCS acquires Porsche’s IT arm for €320M; bags €1.25B deal",
-        "summary": "The partnership between Porsche and TCS will see both companies jointly working on AI led solutions for automotive sector.",
-        "link": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 15:08:55 GMT",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for it & software right now. The partnership between Porsche and TCS will see both companies jointly working on AI led solutions for automotive sector.",
-        "means_for_you": [
-          "IT names may see renewed buying interest.",
-          "A stronger rupee outlook usually follows good IT export data."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
-      {
-        "id": "9a7cc9e5ea",
-        "title": "This book examines how Indian companies turned crisis into growth",
-        "summary": "BOOK-COMPANIES\n03:36 PM, 23 Aug 2026  440 Words \nNew Delhi, Aug 23 (PTI) A new book, \"The Art of Enduring: How Great Companies Turn Crisis into Opportunity\", examines how five Indian companies turned disruption into an opportunity to build businesses capable of enduring and compo",
-        "link": "https://yourstory.com/2026/08/book-how-indian-companies-turned-crisis-into-growth",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/book-how-indian-companies-turned-crisis-into-growth"
-          }
-        ],
-        "published": "Sun, 23 Aug 2026 10:34:44 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. BOOK-COMPANIES\n03:36 PM, 23 Aug 2026  440 Words \nNew Delhi, Aug 23 (PTI) A new book, \"The Art of Enduring: How Great Companies Turn Crisis into Opportunity\", examines how five Indian companies turned",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "f48f0d4865",
         "title": "UPI completes 10 years, clocks nearly 13,000-fold rise in transaction volume",
         "summary": "Transactions on the UPI platforms which now hosts 703 banks crossed Rs 24,162 crore in FY26 rising from the level of Rs 1.78 crore in FY17",
@@ -1631,6 +1631,34 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "85bb890262",
+        "title": "NSDC launches nationwide cloud, AI skilling initiative",
+        "summary": "NSDC has launched a nationwide cloud and AI skilling initiative to train 1.5 lakh learners, including 10,000 participants through AWS re/Start. The programme aims to expand access to job-ready tech skills, particularly for youth in Tier II and Tier III cities.",
+        "link": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 05:49:18 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. NSDC has launched a nationwide cloud and AI skilling initiative to train 1.5 lakh learners, including 10,000 participants through AWS re/Start. The programme aims to expand access to job-ready tech sk",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "b85c2c55ee",
@@ -2116,34 +2144,6 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "9416ac98dc",
-        "title": "Global Markets: Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
-        "summary": "Shein is set to launch its Hong Kong IPO with an ambitious goal of raising up to $1.8 billion. However, the company's valuation has plummeted to about 70% below its highs in private markets. Investor appetite is being hampered by slower growth and increased competition. In the of",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-fast-fashion-giant-shein-shrinks-value-to-up-to-27-billion-in-hong-kong-ipo/articleshow/133466240.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-fast-fashion-giant-shein-shrinks-value-to-up-to-27-billion-in-hong-kong-ipo/articleshow/133466240.cms"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 18:06:02 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Shein is set to launch its Hong Kong IPO with an ambitious goal of raising up to $1.8 billion. However, the company's valuation has plummeted to about 70% below its highs in private markets. Investor",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "5a6b05996d",
         "title": "Shein IPO: Fast fashion retailer eyes $27 billion price tag in long-awaited Hong Kong listing — What we know",
         "summary": "Shein Global Holdings is looking to raise as much as $1.8 billion in its Hong Kong initial public offering, as it enters the final leg of its long-winded journey to go public, as per a Bloomberg report.&amp;nbsp;",
@@ -2258,6 +2258,176 @@
     ]
   },
   "sectors": {
+    "Global & Macro": [
+      {
+        "id": "f22c26539e",
+        "title": "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
+        "summary": "Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidia’",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 01:48:24 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -4
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting politi",
+        "means_for_you": [
+          "Broad market headwind — consider being selective rather than aggressive today."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "c1f1d2ef43",
+        "title": "US stocks today: US stocks slip as Iran tensions test rally in a high-stakes week for markets",
+        "summary": "Wall Street started the week under pressure as Iran tensions, rising Treasury yields and Nvidia earnings weighed on sentiment. The S&amp;P 500 and Nasdaq fell, while the Dow gained. Investors are also watching Jackson Hole, Fed signals and the PCE inflation report for clues on in",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 19:10:46 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Wall Street started the week under pressure as Iran tensions, rising Treasury yields and Nvidia earnings weighed on sentiment. The S&amp;P 500 and Nasdaq fell, while the Dow gained. Investors are also",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "6e8ec0c0b3",
+        "title": "Wall Street stocks mostly fall as Iran tensions, Nvidia earnings in focus; Marvell and Micron drop 6% each",
+        "summary": "As of 11:15 a.m. Eastern Time, the S&amp;amp;P 500 slipped 0.4%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% lower.",
+        "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 19:32:07 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. As of 11:15 a.m. Eastern Time, the S&amp;amp;P 500 slipped 0.4%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% lower.",
+        "means_for_you": [
+          "Broad market headwind — consider being selective rather than aggressive today."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "528bb9285a",
+        "title": "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
+        "summary": "The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index declined 0.21%.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html"
+          }
+        ],
+        "published": "Mon, 24 Aug 2026 15:36:23 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index de",
+        "means_for_you": [
+          "Broad market headwind — consider being selective rather than aggressive today."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      }
+    ],
     "General Markets": [
       {
         "id": "fe3bb99372",
@@ -3114,148 +3284,6 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
-    "Global & Macro": [
-      {
-        "id": "c1f1d2ef43",
-        "title": "US stocks today: US stocks slip as Iran tensions test rally in a high-stakes week for markets",
-        "summary": "Wall Street started the week under pressure as Iran tensions, rising Treasury yields and Nvidia earnings weighed on sentiment. The S&amp;P 500 and Nasdaq fell, while the Dow gained. Investors are also watching Jackson Hole, Fed signals and the PCE inflation report for clues on in",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 19:10:46 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Wall Street started the week under pressure as Iran tensions, rising Treasury yields and Nvidia earnings weighed on sentiment. The S&amp;P 500 and Nasdaq fell, while the Dow gained. Investors are also",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "5e291aa3cd",
-        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "806bc030a2",
-        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "6e8ec0c0b3",
-        "title": "Wall Street stocks mostly fall as Iran tensions, Nvidia earnings in focus; Marvell and Micron drop 6% each",
-        "summary": "As of 11:15 a.m. Eastern Time, the S&amp;amp;P 500 slipped 0.4%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% lower.",
-        "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 19:32:07 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. As of 11:15 a.m. Eastern Time, the S&amp;amp;P 500 slipped 0.4%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% lower.",
-        "means_for_you": [
-          "Broad market headwind — consider being selective rather than aggressive today."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "528bb9285a",
-        "title": "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
-        "summary": "The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index declined 0.21%.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html"
-          }
-        ],
-        "published": "Mon, 24 Aug 2026 15:36:23 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index de",
-        "means_for_you": [
-          "Broad market headwind — consider being selective rather than aggressive today."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      }
-    ],
     "Real Estate/Housing": [
       {
         "id": "5bef12724b",
@@ -3436,6 +3464,34 @@
   },
   "ai_in_finance": [
     {
+      "id": "f22c26539e",
+      "title": "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
+      "summary": "Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidia’",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
+      "source": "Economic Times Markets",
+      "sources": [
+        {
+          "name": "Economic Times Markets",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms"
+        }
+      ],
+      "published": "Tue, 25 Aug 2026 01:48:24 +0530",
+      "sector": "Global & Macro",
+      "sentiment": {
+        "label": "Bearish",
+        "score": -4
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "jetro_impact": "Highly Negative For Indian Stocks",
+      "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting politi",
+      "means_for_you": [
+        "Broad market headwind — consider being selective rather than aggressive today."
+      ],
+      "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+      "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+    },
+    {
       "id": "27ba5ad958",
       "title": "AI’s new cost equation: Why token economics matters",
       "summary": "At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasingly important.",
@@ -3464,19 +3520,47 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "2648da36c1",
-      "title": "TCS acquires Porsche’s IT arm for €320M; bags €1.25B deal",
-      "summary": "The partnership between Porsche and TCS will see both companies jointly working on AI led solutions for automotive sector.",
-      "link": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal",
+      "id": "5bf88c492d",
+      "title": "Context is the new intelligence in agentic AI",
+      "summary": "At DevSparks Hyderabad 2026, UBS CTO Elango Somasundaram explored what comes after copilots: agentic AI that understands context, connects the dots, and orchestrates enterprise workflows.",
+      "link": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai",
       "source": "YourStory",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal"
+          "url": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai"
         }
       ],
-      "published": "Mon, 24 Aug 2026 15:08:55 GMT",
-      "sector": "IT & Software",
+      "published": "Mon, 24 Aug 2026 05:45:07 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 1
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "jetro_impact": "Positive For Indian Stocks",
+      "in_simple_words": "This is good news for general markets — sentiment turned more positive. At DevSparks Hyderabad 2026, UBS CTO Elango Somasundaram explored what comes after copilots: agentic AI that understands context, connects the dots, and orchestrates enterprise workflows.",
+      "means_for_you": [
+        "Watch the index reaction rather than acting on this story alone."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "85bb890262",
+      "title": "NSDC launches nationwide cloud, AI skilling initiative",
+      "summary": "NSDC has launched a nationwide cloud and AI skilling initiative to train 1.5 lakh learners, including 10,000 participants through AWS re/Start. The programme aims to expand access to job-ready tech skills, particularly for youth in Tier II and Tier III cities.",
+      "link": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative"
+        }
+      ],
+      "published": "Mon, 24 Aug 2026 05:49:18 GMT",
+      "sector": "General Markets",
       "sentiment": {
         "label": "Neutral",
         "score": 0
@@ -3484,13 +3568,12 @@
       "is_ai_related": true,
       "page": "startups",
       "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for it & software right now. The partnership between Porsche and TCS will see both companies jointly working on AI led solutions for automotive sector.",
+      "in_simple_words": "Not a big mover either way for general markets right now. NSDC has launched a nationwide cloud and AI skilling initiative to train 1.5 lakh learners, including 10,000 participants through AWS re/Start. The programme aims to expand access to job-ready tech sk",
       "means_for_you": [
-        "IT names may see renewed buying interest.",
-        "A stronger rupee outlook usually follows good IT export data."
+        "Watch the index reaction rather than acting on this story alone."
       ],
-      "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-      "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
     },
     {
       "id": "235f12c11b",
@@ -3618,7 +3701,7 @@
     },
     "BANK NIFTY": {
       "price": 57525.95,
-      "change": -236.0,
+      "change": -235.95,
       "pct": -0.41
     }
   },
@@ -3627,13 +3710,13 @@
   "editorial": {
     "why_market_moved": {
       "headline": "NIFTY fell 0.14% — WHY?",
-      "what_happened": "India's house price growth slows to 3.6% in Q1 FY27: RBI",
+      "what_happened": "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
       "numbers_changed": "NIFTY -0.14%, SENSEX -0.22%, Bank Nifty -0.41%",
       "sectors_affected": "Banks & Money, IT & Software, Cars & Vehicles, Medicine & Pharma, Energy & Oil, Real Estate/Housing",
-      "companies_that_matter": "HDFC Bank, ICICI Bank, SBI, Bank Nifty",
-      "market_impact": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+      "companies_that_matter": "Nifty 50, Sensex, USD-INR, India VIX",
+      "market_impact": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
       "what_could_change_view": "A reversal in FII/DII flows or a surprise RBI/global rate move.",
-      "why_investor_should_care": "This is good news for banks & money — sentiment turned more positive. In the first quarter of this year, the growth rate of house prices in India decelerated to 3.6 percent compared to the previous year, down from 4.5 percent in the last quarter. However, there was a qu"
+      "why_investor_should_care": "This is a caution sign for global & macro — sentiment turned more negative. Wall Street’s S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting politi"
     },
     "money_trail": {
       "fii": "Not mentioned in today's headlines — check NSE provisional data directly.",
@@ -3646,9 +3729,9 @@
       "sensex_dir": "down",
       "banknifty_dir": "down",
       "reasons": [
+        "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
         "India's house price growth slows to 3.6% in Q1 FY27: RBI",
-        "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
-        "US stocks today: US stocks slip as Iran tensions test rally in a high-stakes week for markets"
+        "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine"
       ],
       "winners": [
         "Real Estate/Housing (0.6%)",
@@ -3673,12 +3756,12 @@
     },
     "news_impact_chain": {
       "chain": [
-        "India's house price growth slows to 3.6% in Q1 FY27: RBI",
-        "Banks & Money",
+        "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
+        "Global & Macro",
         "Revenue/cost pressure",
         "Profit impact",
         "Valuation reaction",
-        "Watch: HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "Watch: Nifty 50, Sensex, USD-INR, India VIX"
       ]
     },
     "company_of_the_day": null,
@@ -3710,9 +3793,9 @@
       }
     ],
     "what_could_go_wrong": {
-      "story": "India's house price growth slows to 3.6% in Q1 FY27: RBI",
+      "story": "US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
       "bull_case": [
-        "HDFC Bank, ICICI Bank, SBI, Bank Nifty could see continued support."
+        "Domestic buying continues to offset FII selling."
       ],
       "bear_case": [
         "A reversal in the underlying driver could unwind today's move quickly."
