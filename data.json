@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T17:45:22.173942+00:00",
+  "generated_at_utc": "2026-08-25T19:46:18.305628+00:00",
   "edition_date": "Tuesday, August 25, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -443,6 +443,35 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "9d94ab4583",
+        "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
+        "summary": "Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely.  Brent crude and West Texas Intermediate both reached their lowest levels since mid-August.  The sanctions announcement was less aggressive than anticipated by many market participants.  Ho",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 23:35:05 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely.  Brent crude and West Texas Intermediate both reached their lowest levels since mid-August.  The sanctions an",
+        "means_for_you": [
+          "Rising crude can pressure the rupee and add to inflation worries.",
+          "Energy-heavy portfolios may see near-term volatility."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
         "id": "44129c73f3",
         "title": "Sterling hovers near six-month high underpinned by BoE rate hike expectations",
         "summary": "The pound is maintaining its position close to a six-month peak against the dollar, buoyed by expectations of interest rate hikes. However, analysts predict a minor decline in currency value as year-end economic data rolls in. Attention turns to soaring government debt ahead of t",
@@ -549,6 +578,34 @@
         "page": "stock_market",
         "jetro_impact": "Positive For Indian Stocks",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e08fcd3675",
+        "title": "Short Squeeze in US Swaps, Options Shows ‘Bessent Put’ at Work",
+        "summary": "Treasury Secretary Scott Bessent’s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and positioning show that it’s having an impact.",
+        "link": "https://www.livemint.com/market/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work-11787685652584.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work-11787685652584.html"
+          }
+        ],
+        "published": "Wed, 26 Aug 2026 00:50:52 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Treasury Secretary Scott Bessent’s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -666,34 +723,6 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "43e3f5bd27",
-        "title": "Why did FACT, RCF, NFL and other fertiliser stocks rally up to 14% today? Explained",
-        "summary": "Fertiliser stocks, including FACT and Rashtriya Chemicals, rose up to 13% on August 25 after Russia assured India of uninterrupted energy and fertiliser supplies during Jaishankar's meeting with Putin, signaling deepening economic ties ahead of the BRICS summit.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-did-fact-rcf-nfl-and-other-fertiliser-stocks-rally-up-to-14-today-explained-11787647466905.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/why-did-fact-rcf-nfl-and-other-fertiliser-stocks-rally-up-to-14-today-explained-11787647466905.html"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 14:49:29 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Fertiliser stocks, including FACT and Rashtriya Chemicals, rose up to 13% on August 25 after Russia assured India of uninterrupted energy and fertiliser supplies during Jaishankar's meeting with Putin",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "e20352833d",
@@ -1090,6 +1119,34 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "0881138226",
+        "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "summary": "GLOBAL-FOREX/ (UPDATE 6, GRAPHICS):FOREX-Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "link": "https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html"
+          }
+        ],
+        "published": "Wed, 26 Aug 2026 00:38:30 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX/ (UPDATE 6, GRAPHICS):FOREX-Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "baeb47893e",
         "title": "Stock market open or closed tomorrow on Eid Milad-un-Nabi 2026? Check NSE, BSE trading offs calendar",
         "summary": "Despite Eid Milad-un-Nabi, BSE and NSE will operate on August 26, with normal trading but deferred settlements to August 27. The next holiday is Ganesh Chaturthi on September 14. Continuous trading is expected with no interruptions planned in September 2026.",
@@ -1205,34 +1262,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d366b212e8",
-        "title": "5 Books that explain why wisdom matters more than knowledge",
-        "summary": "Explore 5 insightful books that reveal why wisdom, judgment, and life experience matter more than simply acquiring knowledge.",
-        "link": "https://yourstory.com/2026/08/5-books-wisdom-over-knowledge",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/5-books-wisdom-over-knowledge"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 05:00:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore 5 insightful books that reveal why wisdom, judgment, and life experience matter more than simply acquiring knowledge.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "cb8a24737d",
         "title": "Building the logistics backbone for India's next growth phase",
         "summary": "As manufacturing expands and global supply chains evolve, India's logistics ecosystem is becoming a strategic advantage. Infrastructure, technology, and integrated platforms are helping businesses move goods faster, smarter, and more efficiently.",
@@ -1318,18 +1347,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "f2f3207f5b",
-        "title": "Airbound raises $37M to scale autonomous drone delivery in India",
-        "summary": "Bengaluru-based Airbound will use its Series A funding to expand aircraft engineering, manufacturing and commercial operations as drone delivery moves towards wider adoption in India.",
-        "link": "https://yourstory.com/2026/08/airbound-raises-37-million-scale-autonomous-drone-delivery-india",
+        "id": "d366b212e8",
+        "title": "5 Books that explain why wisdom matters more than knowledge",
+        "summary": "Explore 5 insightful books that reveal why wisdom, judgment, and life experience matter more than simply acquiring knowledge.",
+        "link": "https://yourstory.com/2026/08/5-books-wisdom-over-knowledge",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/airbound-raises-37-million-scale-autonomous-drone-delivery-india"
+            "url": "https://yourstory.com/2026/08/5-books-wisdom-over-knowledge"
           }
         ],
-        "published": "Tue, 25 Aug 2026 05:23:09 GMT",
+        "published": "Tue, 25 Aug 2026 05:00:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1338,7 +1367,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bengaluru-based Airbound will use its Series A funding to expand aircraft engineering, manufacturing and commercial operations as drone delivery moves towards wider adoption in India.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore 5 insightful books that reveal why wisdom, judgment, and life experience matter more than simply acquiring knowledge.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1346,112 +1375,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "ffc62695bf",
-        "title": "4 Books that explore what it means to live a good life",
-        "summary": "Discover 4 thought-provoking books that explore purpose, happiness, virtue, and meaning while offering practical lessons for living well.",
-        "link": "https://yourstory.com/2026/08/live-good-life",
+        "id": "9d489003b3",
+        "title": "LEAD’s FY26 revenue rises 10% to Rs 387 Cr; losses narrow over 20%",
+        "summary": "The Mumbai-based firm’s focus on costs and operating scale triggered a 7x surge in operating profit, before employee stock options and depreciation, which jumped to Rs 30.19 crore from Rs 4.03 crore.",
+        "link": "https://yourstory.com/2026/08/edtech-lead-fy26-revenue-rises-387-crore-losses-narrow-over-20-percent",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/live-good-life"
+            "url": "https://yourstory.com/2026/08/edtech-lead-fy26-revenue-rises-387-crore-losses-narrow-over-20-percent"
           }
         ],
-        "published": "Tue, 25 Aug 2026 10:10:00 GMT",
+        "published": "Tue, 25 Aug 2026 14:07:16 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 3
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 4 thought-provoking books that explore purpose, happiness, virtue, and meaning while offering practical lessons for living well.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b192da0183",
-        "title": "Germany’s Infineon is acquiring Bengaluru’s C2i Semiconductors",
-        "summary": "Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads intensify electricity and power-delivery challenges.",
-        "link": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 14:18:48 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads intensify electricity and",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "44f4ada27f",
-        "title": "Serendipity Space is building satellites that make medicines in orbit and bring them back",
-        "summary": "The Bhubaneswar-based company grows drug crystals in microgravity, where the absence of gravity may produce purer forms than are possible on Earth.",
-        "link": "https://yourstory.com/2026/08/serendipity-space-drug-manufacturing-satellites",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/serendipity-space-drug-manufacturing-satellites"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 03:57:02 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. The Bhubaneswar-based company grows drug crystals in microgravity, where the absence of gravity may produce purer forms than are possible on Earth.",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "bc2f917059",
-        "title": "After losing his 42-store brand, Nagmani Roy empowered 1,700 Bihar women",
-        "summary": "After his retail business shut, Nagmani Roy returned to Bihar and helped 1,700 women turn traditional skills into livelihoods.",
-        "link": "https://yourstory.com/2026/08/nagmani-roy-earthomadic-bihar-women-artisans-rural-livelihoods",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/nagmani-roy-earthomadic-bihar-women-artisans-rural-livelihoods"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 13:19:36 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. After his retail business shut, Nagmani Roy returned to Bihar and helped 1,700 women turn traditional skills into livelihoods.",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Mumbai-based firm’s focus on costs and operating scale triggered a 7x surge in operating profit, before employee stock options and depreciation, which jumped to Rs 30.19 crore from Rs 4.03 crore.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1488,27 +1432,84 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "9d489003b3",
-        "title": "LEAD’s FY26 revenue rises 10% to Rs 387 Cr; losses narrow over 20%",
-        "summary": "The Mumbai-based firm’s focus on costs and operating scale triggered a 7x surge in operating profit, before employee stock options and depreciation, which jumped to Rs 30.19 crore from Rs 4.03 crore.",
-        "link": "https://yourstory.com/2026/08/edtech-lead-fy26-revenue-rises-387-crore-losses-narrow-over-20-percent",
+        "id": "a520de78f6",
+        "title": "Kedaara Capital invests $200M in Tynor Orthotics",
+        "summary": "The investment by Kedaara Capital provides the support to growth aspirations of Tynor and deepen its brand presence.",
+        "link": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/edtech-lead-fy26-revenue-rises-387-crore-losses-narrow-over-20-percent"
+            "url": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics"
           }
         ],
-        "published": "Tue, 25 Aug 2026 14:07:16 GMT",
+        "published": "Tue, 25 Aug 2026 06:51:12 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 3
+          "score": 1
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Mumbai-based firm’s focus on costs and operating scale triggered a 7x surge in operating profit, before employee stock options and depreciation, which jumped to Rs 30.19 crore from Rs 4.03 crore.",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The investment by Kedaara Capital provides the support to growth aspirations of Tynor and deepen its brand presence.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "44f4ada27f",
+        "title": "Serendipity Space is building satellites that make medicines in orbit and bring them back",
+        "summary": "The Bhubaneswar-based company grows drug crystals in microgravity, where the absence of gravity may produce purer forms than are possible on Earth.",
+        "link": "https://yourstory.com/2026/08/serendipity-space-drug-manufacturing-satellites",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/serendipity-space-drug-manufacturing-satellites"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 03:57:02 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The Bhubaneswar-based company grows drug crystals in microgravity, where the absence of gravity may produce purer forms than are possible on Earth.",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "ffc62695bf",
+        "title": "4 Books that explore what it means to live a good life",
+        "summary": "Discover 4 thought-provoking books that explore purpose, happiness, virtue, and meaning while offering practical lessons for living well.",
+        "link": "https://yourstory.com/2026/08/live-good-life",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/live-good-life"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 10:10:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 4 thought-provoking books that explore purpose, happiness, virtue, and meaning while offering practical lessons for living well.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1544,27 +1545,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "a520de78f6",
-        "title": "Kedaara Capital invests $200M in Tynor Orthotics",
-        "summary": "The investment by Kedaara Capital provides the support to growth aspirations of Tynor and deepen its brand presence.",
-        "link": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics",
+        "id": "bc2f917059",
+        "title": "After losing his 42-store brand, Nagmani Roy empowered 1,700 Bihar women",
+        "summary": "After his retail business shut, Nagmani Roy returned to Bihar and helped 1,700 women turn traditional skills into livelihoods.",
+        "link": "https://yourstory.com/2026/08/nagmani-roy-earthomadic-bihar-women-artisans-rural-livelihoods",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics"
+            "url": "https://yourstory.com/2026/08/nagmani-roy-earthomadic-bihar-women-artisans-rural-livelihoods"
           }
         ],
-        "published": "Tue, 25 Aug 2026 06:51:12 GMT",
+        "published": "Tue, 25 Aug 2026 13:19:36 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The investment by Kedaara Capital provides the support to growth aspirations of Tynor and deepen its brand presence.",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. After his retail business shut, Nagmani Roy returned to Bihar and helped 1,700 women turn traditional skills into livelihoods.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1572,18 +1573,75 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "b96bac571f",
-        "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria’s road to gold",
-        "summary": "Nvidia is reportedly in talks to invest in Perplexity in a funding round that would value the AI startup at more than $30 billion, over 50% higher than its previous valuation.",
-        "link": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
+        "id": "7b3eee7a88",
+        "title": "How Tejaswini's MurariJyoti Welfare Foundation is transforming women's lives in Bihar",
+        "summary": "Tejaswini's MurariJyoti Welfare Foundation has reached 3,500 people in Bihar with menstrual, diabetes and cervical cancer care.",
+        "link": "https://yourstory.com/2026/08/tejaswini-murarijyoti-welfare-foundation-bihar-women-health",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity"
+            "url": "https://yourstory.com/2026/08/tejaswini-murarijyoti-welfare-foundation-bihar-women-health"
           }
         ],
-        "published": "Tue, 25 Aug 2026 02:00:00 GMT",
+        "published": "Tue, 25 Aug 2026 04:32:26 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Tejaswini's MurariJyoti Welfare Foundation has reached 3,500 people in Bihar with menstrual, diabetes and cervical cancer care.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e585f4309e",
+        "title": "EV startup MATTER raises $25M to scale electric motorcycle business",
+        "summary": "Ahmedabad-based MATTER will use the funding to scale manufacturing, expand distribution and launch four new motorcycles as India’s electric two-wheeler market grows rapidly.",
+        "link": "https://yourstory.com/2026/08/ev-startup-matter-raises-25-million-scale-electric-motorcycle-business",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/ev-startup-matter-raises-25-million-scale-electric-motorcycle-business"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 06:45:34 GMT",
+        "sector": "Cars & Vehicles",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for cars & vehicles right now. Ahmedabad-based MATTER will use the funding to scale manufacturing, expand distribution and launch four new motorcycles as India’s electric two-wheeler market grows rapidly.",
+        "means_for_you": [
+          "Strong demand signals often spill into FMCG and cement a few sessions later.",
+          "Auto stocks may see momentum buying."
+        ],
+        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
+        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+      },
+      {
+        "id": "b192da0183",
+        "title": "Germany’s Infineon is acquiring Bengaluru’s C2i Semiconductors",
+        "summary": "Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads intensify electricity and power-delivery challenges.",
+        "link": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 14:18:48 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1592,7 +1650,7 @@
         "is_ai_related": true,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Nvidia is reportedly in talks to invest in Perplexity in a funding round that would value the AI startup at more than $30 billion, over 50% higher than its previous valuation.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads intensify electricity and",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1600,19 +1658,19 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "bf0fdcd333",
-        "title": "Startup news and updates: daily roundup (August 25, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, August 25, 2026",
-        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-25-2026",
+        "id": "a43d66136b",
+        "title": "SoftBank pares nearly 2.6% stake in Lenskart for Rs 2,888 Cr",
+        "summary": "In the latest transaction, SoftBank Group, through its affiliate SVF II Lightbulb (Cayman) Ltd, offloaded 4.5 crore equity shares in 22 tranches, amounting to a 2.58% stake in Lenskart.",
+        "link": "https://yourstory.com/2026/08/softbank-pares-nearly-26-pc-stake-in-lenskart-for-rs-2888-cr",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-25-2026"
+            "url": "https://yourstory.com/2026/08/softbank-pares-nearly-26-pc-stake-in-lenskart-for-rs-2888-cr"
           }
         ],
-        "published": "Tue, 25 Aug 2026 09:44:44 GMT",
-        "sector": "General Markets",
+        "published": "Tue, 25 Aug 2026 05:31:47 GMT",
+        "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
           "score": 0
@@ -1620,12 +1678,13 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, August 25, 2026",
+        "in_simple_words": "Not a big mover either way for banks & money right now. In the latest transaction, SoftBank Group, through its affiliate SVF II Lightbulb (Cayman) Ltd, offloaded 4.5 crore equity shares in 22 tranches, amounting to a 2.58% stake in Lenskart.",
         "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "794a32e258",
@@ -2162,34 +2221,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "28da189092",
-        "title": "Block deal ahead! Ribbit Capital likely to offload 1.6% stake in Groww for Rs 1,914 crore",
-        "summary": "Groww may see a Rs 1,914 crore block deal as investor Ribbit Capital reportedly plans to sell around 1.6% stake at Rs 195 per share. Groww shares rose 3.33% Tuesday, while strong Q1FY27 earnings showed robust profit and revenue growth.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-ribbit-capital-to-likely-offload-1-6-stake-in-groww-for-rs-1914-crore/articleshow/133510922.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-ribbit-capital-to-likely-offload-1-6-stake-in-groww-for-rs-1914-crore/articleshow/133510922.cms"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 18:05:15 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Groww may see a Rs 1,914 crore block deal as investor Ribbit Capital reportedly plans to sell around 1.6% stake at Rs 195 per share. Groww shares rose 3.33% Tuesday, while strong Q1FY27 earnings showe",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "ab8a40ccef",
         "title": "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
         "summary": "The government's active disinvestment drive targets  ₹80,000 crore for FY27, having raised  ₹52,000 crore so far.&amp;nbsp;",
@@ -2216,38 +2247,41 @@
         ],
         "why_matters": "PSU stocks react to government policy, budget allocations, and disinvestment news more than quarterly earnings alone.",
         "watch": "PSU Bank Index, disinvestment-linked names"
-      },
-      {
-        "id": "2b3311ddd1",
-        "title": "Vishal Mega Mart gets a 5-year vote of confidence",
-        "summary": "Gunender Kapur’s reappointment eases a key investor concern, but promoter stake sales, intensifying competition and a richer valuation could test the stock’s next leg of growth.",
-        "link": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 15:10:20 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Gunender Kapur’s reappointment eases a key investor concern, but promoter stake sales, intensifying competition and a richer valuation could test the stock’s next leg of growth.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
   "sectors": {
+    "Energy & Oil": [
+      {
+        "id": "9d94ab4583",
+        "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
+        "summary": "Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely.  Brent crude and West Texas Intermediate both reached their lowest levels since mid-August.  The sanctions announcement was less aggressive than anticipated by many market participants.  Ho",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms"
+          }
+        ],
+        "published": "Tue, 25 Aug 2026 23:35:05 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely.  Brent crude and West Texas Intermediate both reached their lowest levels since mid-August.  The sanctions an",
+        "means_for_you": [
+          "Rising crude can pressure the rupee and add to inflation worries.",
+          "Energy-heavy portfolios may see near-term volatility."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      }
+    ],
     "Global & Macro": [
       {
         "id": "e20352833d",
@@ -3131,6 +3165,62 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "e08fcd3675",
+        "title": "Short Squeeze in US Swaps, Options Shows ‘Bessent Put’ at Work",
+        "summary": "Treasury Secretary Scott Bessent’s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and positioning show that it’s having an impact.",
+        "link": "https://www.livemint.com/market/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work-11787685652584.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work-11787685652584.html"
+          }
+        ],
+        "published": "Wed, 26 Aug 2026 00:50:52 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Treasury Secretary Scott Bessent’s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0881138226",
+        "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "summary": "GLOBAL-FOREX/ (UPDATE 6, GRAPHICS):FOREX-Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "link": "https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html"
+          }
+        ],
+        "published": "Wed, 26 Aug 2026 00:38:30 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX/ (UPDATE 6, GRAPHICS):FOREX-Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "baeb47893e",
         "title": "Stock market open or closed tomorrow on Eid Milad-un-Nabi 2026? Check NSE, BSE trading offs calendar",
         "summary": "Despite Eid Milad-un-Nabi, BSE and NSE will operate on August 26, with normal trading but deferred settlements to August 27. The next holiday is Ganesh Chaturthi on September 14. Continuous trading is expected with no interruptions planned in September 2026.",
@@ -3236,34 +3326,6 @@
         "page": "stock_market",
         "jetro_impact": "Highly Negative For Indian Stocks",
         "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. While the active client count fell by a fifth, equity derivatives turnover declined by just 5%, with much of this being accounted for by a sharp fall in individual futures turnover.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "43e3f5bd27",
-        "title": "Why did FACT, RCF, NFL and other fertiliser stocks rally up to 14% today? Explained",
-        "summary": "Fertiliser stocks, including FACT and Rashtriya Chemicals, rose up to 13% on August 25 after Russia assured India of uninterrupted energy and fertiliser supplies during Jaishankar's meeting with Putin, signaling deepening economic ties ahead of the BRICS summit.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-did-fact-rcf-nfl-and-other-fertiliser-stocks-rally-up-to-14-today-explained-11787647466905.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/why-did-fact-rcf-nfl-and-other-fertiliser-stocks-rally-up-to-14-today-explained-11787647466905.html"
-          }
-        ],
-        "published": "Tue, 25 Aug 2026 14:49:29 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Fertiliser stocks, including FACT and Rashtriya Chemicals, rose up to 13% on August 25 after Russia assured India of uninterrupted energy and fertiliser supplies during Jaishankar's meeting with Putin",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -3471,34 +3533,6 @@
       "page": "startups",
       "jetro_impact": "Neutral For Indian Stocks",
       "in_simple_words": "Not a big mover either way for general markets right now. Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads intensify electricity and",
-      "means_for_you": [
-        "Watch the index reaction rather than acting on this story alone."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "b96bac571f",
-      "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria’s road to gold",
-      "summary": "Nvidia is reportedly in talks to invest in Perplexity in a funding round that would value the AI startup at more than $30 billion, over 50% higher than its previous valuation.",
-      "link": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity"
-        }
-      ],
-      "published": "Tue, 25 Aug 2026 02:00:00 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for general markets right now. Nvidia is reportedly in talks to invest in Perplexity in a funding round that would value the AI startup at more than $30 billion, over 50% higher than its previous valuation.",
       "means_for_you": [
         "Watch the index reaction rather than acting on this story alone."
       ],
