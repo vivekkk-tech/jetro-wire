@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-29T16:08:12.748371+00:00",
+  "generated_at_utc": "2026-08-29T18:08:01.236382+00:00",
   "edition_date": "Saturday, August 29, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -1261,27 +1261,27 @@
     ],
     "startups": [
       {
-        "id": "47736f11d6",
-        "title": "Why logistics AI is becoming the bext big bet for investors",
-        "summary": "AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
-        "link": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
+        "id": "acece62781",
+        "title": "Temasek backs Singapore Airlines' investments in Air India",
+        "summary": "A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
+        "link": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-"
+            "url": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india"
           }
         ],
-        "published": "Sat, 29 Aug 2026 02:30:00 GMT",
+        "published": "Sat, 29 Aug 2026 12:08:13 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bearish",
+          "score": -1
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1317,18 +1317,131 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "3a1546d0f6",
-        "title": "Startup news and updates: Daily roundup (August 28, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, August 28, 2026.",
-        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-28-2026",
+        "id": "47736f11d6",
+        "title": "Why logistics AI is becoming the bext big bet for investors",
+        "summary": "AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+        "link": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-28-2026"
+            "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-"
           }
         ],
-        "published": "Fri, 28 Aug 2026 10:41:43 GMT",
+        "published": "Sat, 29 Aug 2026 02:30:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "867e129ba0",
+        "title": "Infosys Public Services CEO Lax Gopisetty unreachable after devastating Nepal floods",
+        "summary": "Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
+        "link": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods"
+          }
+        ],
+        "published": "Sat, 29 Aug 2026 11:45:28 GMT",
+        "sector": "IT & Software",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for it & software right now. Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
+        "means_for_you": [
+          "IT names may see renewed buying interest.",
+          "A stronger rupee outlook usually follows good IT export data."
+        ],
+        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
+        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+      },
+      {
+        "id": "fc0d8c9c4d",
+        "title": "Jio Platforms secures Sebi nod for $3.8B IPO, India's biggest ever",
+        "summary": "The company plans to issue up to 27 crore fresh equity shares, equivalent to about 2.9% of its post-issue equity base, according to its draft prospectus. The offering could value Jio Platforms at about $137 billion, people familiar with the matter said.",
+        "link": "https://yourstory.com/2026/08/jio-platforms-gets-sebi-nod-for-38-bn-ipo-set-to-be-indias-biggest",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/jio-platforms-gets-sebi-nod-for-38-bn-ipo-set-to-be-indias-biggest"
+          }
+        ],
+        "published": "Sat, 29 Aug 2026 04:22:40 GMT",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for telecom right now. The company plans to issue up to 27 crore fresh equity shares, equivalent to about 2.9% of its post-issue equity base, according to its draft prospectus. The offering could value Jio Platforms at abou",
+        "means_for_you": [
+          "Tariff hikes usually help telecom revenue and stock price together."
+        ],
+        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
+        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
+      },
+      {
+        "id": "3b11427400",
+        "title": "From Sarvam AI co-founder to IBM CEO, meet the 10 Indians and people of Indian origin on TIME100 AI 2026",
+        "summary": "TIME published the fourth edition of its TIME100 AI list on August 27, naming 100 people it considers the most influential in artificial intelligence across four categories: Leaders, Innovators, Shapers and Thinkers.\n\nTen Indians and people of Indian origin feature on TIME's 2026",
+        "link": "https://yourstory.com/2026/08/10-indians-and-indian-origin-names-on-time100-ai-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/10-indians-and-indian-origin-names-on-time100-ai-2026"
+          }
+        ],
+        "published": "Fri, 28 Aug 2026 16:05:33 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. TIME published the fourth edition of its TIME100 AI list on August 27, naming 100 people it considers the most influential in artificial intelligence across four categories: Leaders, Innovators, Shape",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "00adef7cfa",
+        "title": "66 artists, 10 venues: Contemporary Now art festival wraps up third edition in Chennai",
+        "summary": "In this photo essay, we showcase highlights from this outstanding arts festival in Chennai, along with curator insights.",
+        "link": "https://yourstory.com/2026/08/contemporary-now-art-festival-chennai-creativity-photography",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/contemporary-now-art-festival-chennai-creativity-photography"
+          }
+        ],
+        "published": "Sat, 29 Aug 2026 01:40:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1337,63 +1450,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, August 28, 2026.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2ac2f3e2e2",
-        "title": "Meesho sees 36% rise in Rakhi orders as non-metro India drives festive shopping",
-        "summary": "Non-metro locations accounted for 73% of all Rakhi orders this season for Meesho.",
-        "link": "https://yourstory.com/2026/08/meesho-sees-rise-rakhi-orders-non-metro-india-festive-shopping",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/meesho-sees-rise-rakhi-orders-non-metro-india-festive-shopping"
-          }
-        ],
-        "published": "Fri, 28 Aug 2026 08:19:43 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Non-metro locations accounted for 73% of all Rakhi orders this season for Meesho.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b11274fa95",
-        "title": "7 Books that uncover truths you were never meant to know",
-        "summary": "Explore 7 eye-opening books that challenge assumptions and reveal hidden truths about power, society, history, and human behavior.",
-        "link": "https://yourstory.com/2026/08/7-books-that-reveal-hidden-truths",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/7-books-that-reveal-hidden-truths"
-          }
-        ],
-        "published": "Fri, 28 Aug 2026 13:00:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore 7 eye-opening books that challenge assumptions and reveal hidden truths about power, society, history, and human behavior.",
+        "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase highlights from this outstanding arts festival in Chennai, along with curator insights.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1429,18 +1486,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d4a7358f53",
-        "title": "How Minus Degre is turning plastic waste into eco-friendly materials",
-        "summary": "Ghaziabad-based Minus Degre recycles plastic waste into Eco-Panel, a material that can be moulded into products ranging from key chains to furniture, and has worked with the Bihar and Uttar Pradesh governments.",
-        "link": "https://yourstory.com/2026/08/how-minus-degre-is-turning-plastic-waste-into-eco-friendly-materials",
+        "id": "5d5223c3e6",
+        "title": "Delhivery makes \"nominal adjustment\" to customer pricing amid rising costs",
+        "summary": "The Gurugram-based logistics company said increases in manpower, fuel, air movement and other network costs have driven the pricing change.",
+        "link": "https://yourstory.com/2026/08/delhivery-makes-nominal-adjustment-to-customer-pricing-amid-rising-costs",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/how-minus-degre-is-turning-plastic-waste-into-eco-friendly-materials"
+            "url": "https://yourstory.com/2026/08/delhivery-makes-nominal-adjustment-to-customer-pricing-amid-rising-costs"
           }
         ],
-        "published": "Sat, 29 Aug 2026 01:25:00 GMT",
+        "published": "Fri, 28 Aug 2026 16:44:46 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1449,7 +1506,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Ghaziabad-based Minus Degre recycles plastic waste into Eco-Panel, a material that can be moulded into products ranging from key chains to furniture, and has worked with the Bihar and Uttar Pradesh go",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Gurugram-based logistics company said increases in manpower, fuel, air movement and other network costs have driven the pricing change.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1457,18 +1514,46 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "00adef7cfa",
-        "title": "66 artists, 10 venues: Contemporary Now art festival wraps up third edition in Chennai",
-        "summary": "In this photo essay, we showcase highlights from this outstanding arts festival in Chennai, along with curator insights.",
-        "link": "https://yourstory.com/2026/08/contemporary-now-art-festival-chennai-creativity-photography",
+        "id": "5edb8aa3a9",
+        "title": "Can a cheek swab screen for 7,442 genetic disorders?",
+        "summary": "SugarStrings says its proprietary machine learning-based crawler identifies novel mutations with 94.89% accuracy, allowing it to analyse genetic data across more diverse populations.",
+        "link": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/contemporary-now-art-festival-chennai-creativity-photography"
+            "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders"
           }
         ],
-        "published": "Sat, 29 Aug 2026 01:40:00 GMT",
+        "published": "Sat, 29 Aug 2026 03:15:36 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. SugarStrings says its proprietary machine learning-based crawler identifies novel mutations with 94.89% accuracy, allowing it to analyse genetic data across more diverse populations.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2948866f8b",
+        "title": "IIT Madras Global launches ‘Bharat Ascend’ to build next generation of innovators and entrepreneurs",
+        "summary": "Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
+        "link": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs"
+          }
+        ],
+        "published": "Sat, 29 Aug 2026 10:26:59 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1477,7 +1562,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase highlights from this outstanding arts festival in Chennai, along with curator insights.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1541,47 +1626,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "867e129ba0",
-        "title": "Infosys Public Services CEO Lax Gopisetty unreachable after devastating Nepal floods",
-        "summary": "Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
-        "link": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods",
+        "id": "b11274fa95",
+        "title": "7 Books that uncover truths you were never meant to know",
+        "summary": "Explore 7 eye-opening books that challenge assumptions and reveal hidden truths about power, society, history, and human behavior.",
+        "link": "https://yourstory.com/2026/08/7-books-that-reveal-hidden-truths",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods"
+            "url": "https://yourstory.com/2026/08/7-books-that-reveal-hidden-truths"
           }
         ],
-        "published": "Sat, 29 Aug 2026 11:45:28 GMT",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for it & software right now. Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
-        "means_for_you": [
-          "IT names may see renewed buying interest.",
-          "A stronger rupee outlook usually follows good IT export data."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
-      {
-        "id": "2948866f8b",
-        "title": "IIT Madras Global launches ‘Bharat Ascend’ to build next generation of innovators and entrepreneurs",
-        "summary": "Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
-        "link": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 10:26:59 GMT",
+        "published": "Fri, 28 Aug 2026 13:00:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1590,7 +1646,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore 7 eye-opening books that challenge assumptions and reveal hidden truths about power, society, history, and human behavior.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1598,74 +1654,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "acece62781",
-        "title": "Temasek backs Singapore Airlines' investments in Air India",
-        "summary": "A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
-        "link": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india",
+        "id": "d4a7358f53",
+        "title": "How Minus Degre is turning plastic waste into eco-friendly materials",
+        "summary": "Ghaziabad-based Minus Degre recycles plastic waste into Eco-Panel, a material that can be moulded into products ranging from key chains to furniture, and has worked with the Bihar and Uttar Pradesh governments.",
+        "link": "https://yourstory.com/2026/08/how-minus-degre-is-turning-plastic-waste-into-eco-friendly-materials",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india"
+            "url": "https://yourstory.com/2026/08/how-minus-degre-is-turning-plastic-waste-into-eco-friendly-materials"
           }
         ],
-        "published": "Sat, 29 Aug 2026 12:08:13 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5edb8aa3a9",
-        "title": "Can a cheek swab screen for 7,442 genetic disorders?",
-        "summary": "SugarStrings says its proprietary machine learning-based crawler identifies novel mutations with 94.89% accuracy, allowing it to analyse genetic data across more diverse populations.",
-        "link": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 03:15:36 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. SugarStrings says its proprietary machine learning-based crawler identifies novel mutations with 94.89% accuracy, allowing it to analyse genetic data across more diverse populations.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "7bd0835e3d",
-        "title": "Flipkart Minutes cashes in on last-minute festive shopping, sees 3X spike during Raksha Bandhan",
-        "summary": "Gen Z shopper accounted for 40% of customers during the festive period. Rakhis, maang tikkas, precious earrings, gold and silver coins and bars, and pooja thaali sets were the popular categories on the quick-commerce platform.",
-        "link": "https://yourstory.com/2026/08/flipkart-minutes-last-minute-shopping-3x-spike-during-raksha-bandhan",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/flipkart-minutes-last-minute-shopping-3x-spike-during-raksha-bandhan"
-          }
-        ],
-        "published": "Fri, 28 Aug 2026 08:33:34 GMT",
+        "published": "Sat, 29 Aug 2026 01:25:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1674,7 +1674,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Gen Z shopper accounted for 40% of customers during the festive period. Rakhis, maang tikkas, precious earrings, gold and silver coins and bars, and pooja thaali sets were the popular categories on th",
+        "in_simple_words": "Not a big mover either way for general markets right now. Ghaziabad-based Minus Degre recycles plastic waste into Eco-Panel, a material that can be moulded into products ranging from key chains to furniture, and has worked with the Bihar and Uttar Pradesh go",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -3558,6 +3558,34 @@
       "page": "startups",
       "jetro_impact": "Neutral For Indian Stocks",
       "in_simple_words": "Not a big mover either way for general markets right now. AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+      "means_for_you": [
+        "Watch the index reaction rather than acting on this story alone."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "3b11427400",
+      "title": "From Sarvam AI co-founder to IBM CEO, meet the 10 Indians and people of Indian origin on TIME100 AI 2026",
+      "summary": "TIME published the fourth edition of its TIME100 AI list on August 27, naming 100 people it considers the most influential in artificial intelligence across four categories: Leaders, Innovators, Shapers and Thinkers.\n\nTen Indians and people of Indian origin feature on TIME's 2026",
+      "link": "https://yourstory.com/2026/08/10-indians-and-indian-origin-names-on-time100-ai-2026",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/08/10-indians-and-indian-origin-names-on-time100-ai-2026"
+        }
+      ],
+      "published": "Fri, 28 Aug 2026 16:05:33 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "jetro_impact": "Neutral For Indian Stocks",
+      "in_simple_words": "Not a big mover either way for general markets right now. TIME published the fourth edition of its TIME100 AI list on August 27, naming 100 people it considers the most influential in artificial intelligence across four categories: Leaders, Innovators, Shape",
       "means_for_you": [
         "Watch the index reaction rather than acting on this story alone."
       ],
