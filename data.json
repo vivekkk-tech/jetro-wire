@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-31T18:08:08.428973+00:00",
+  "generated_at_utc": "2026-08-31T20:08:19.782356+00:00",
   "edition_date": "Monday, August 31, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -46,32 +46,32 @@
   "pages": {
     "stock_market": [
       {
-        "id": "737892f286",
-        "title": "US Fed chair Kevin Warsh tells G20 that past global savings glut is turning into investment surge",
-        "summary": "Federal Reserve Chairman Kevin Warsh highlighted a remarkable surge in global investments that is driving robust economic growth across the globe. The reversal of previous savings gluts marks a crucial shift in economic dynamics. Warsh emphasized that the notion of secular stagna",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-tells-g20-that-past-global-savings-glut-is-turning-into-investment-surge/articleshow/133655513.cms",
-        "source": "Economic Times Markets",
+        "id": "379cddadcb",
+        "title": "Chicago wheat falls on selling pressure after recent highs",
+        "summary": "GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Chicago wheat falls on selling pressure after recent highs",
+        "link": "https://www.livemint.com/market/chicago-wheat-falls-on-selling-pressure-after-recent-highs-11788203489599.html",
+        "source": "LiveMint Markets",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-tells-g20-that-past-global-savings-glut-is-turning-into-investment-surge/articleshow/133655513.cms"
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/chicago-wheat-falls-on-selling-pressure-after-recent-highs-11788203489599.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 19:39:57 +0530",
-        "sector": "Global & Macro",
+        "published": "Tue, 01 Sep 2026 00:41:29 +0530",
+        "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 4
+          "label": "Bearish",
+          "score": -4
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Federal Reserve Chairman Kevin Warsh highlighted a remarkable surge in global investments that is driving robust economic growth across the globe. The reversal of previous savings gluts marks a crucia",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Chicago wheat falls on selling pressure after recent highs",
         "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
+          "Watch the index reaction rather than acting on this story alone."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "5904ed0eaf",
@@ -128,35 +128,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "abdf0f02ad",
-        "title": "US Stocks Today: US stocks fall as Iran war escalation sends oil prices up",
-        "summary": "US stock indexes declined as oil prices rose due to escalating US-Iran conflict. Inflation concerns grew after Fed Chair Kevin Warsh's hawkish remarks at Jackson Hole. Traders now anticipate a higher probability of a Federal Reserve rate hike in September. Energy stocks gained wh",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 19:12:06 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. US stock indexes declined as oil prices rose due to escalating US-Iran conflict. Inflation concerns grew after Fed Chair Kevin Warsh's hawkish remarks at Jackson Hole. Traders now anticipate a higher",
-        "means_for_you": [
-          "Rising crude can pressure the rupee and add to inflation worries.",
-          "Energy-heavy portfolios may see near-term volatility."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "2c554bf20b",
@@ -300,6 +271,34 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "c46307b8c7",
+        "title": "Stocks to watch and why on September 1: PVR INOX, E2E Networks, NCC, Brigade Enterprises, Time Technoplast and more",
+        "summary": "On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
+        "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 23:40:28 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
+        "means_for_you": [
+          "Steady/falling rates support real estate and home-buying sentiment."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
         "id": "ca7c5a00d5",
         "title": "NSE: Historic  ₹39,718 crore single-day turnover in Closing Auction Session - Massive surge, MSCI index review and more",
         "summary": "The National Stock Exchange of India registered  ₹39,718 crore in turnover during its first major Closing Auction Session on August 31, representing 22% of its cash market turnover. This surge was driven by the MSCI August 2026 Index Review, with 98,000 investors participating.",
@@ -326,6 +325,64 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "554ae866fa",
+        "title": "US 10-year Treasury yield tops 19-month high as oil prices fuel rate-hike bets",
+        "summary": "US Treasury yields rose significantly, with the 10-year rate exceeding 4.75 percent.  Rising oil prices and persistent inflation fueled expectations of a Federal Reserve rate increase.  Short-term yields surged after Fed Chairman Kevin Warsh signaled potential action to control i",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:27:27 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. US Treasury yields rose significantly, with the 10-year rate exceeding 4.75 percent.  Rising oil prices and persistent inflation fueled expectations of a Federal Reserve rate increase.  Short-term yie",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "1cc85c12af",
+        "title": "Longer-dated US Treasury yields climb as Iran and US restart military attacks",
+        "summary": "Treasury yields increased as U.S. and Iran hostilities escalated. Crude oil prices surged, fueling inflation worries and complicating Fed outlook. Investors now anticipate a potential September interest rate hike by the Federal Reserve. Federal Reserve Chair Kevin Warsh's comment",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/longer-dated-us-treasury-yields-climb-as-iran-and-us-restart-military-attacks/articleshow/133660629.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/longer-dated-us-treasury-yields-climb-as-iran-and-us-restart-military-attacks/articleshow/133660629.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 23:37:31 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Treasury yields increased as U.S. and Iran hostilities escalated. Crude oil prices surged, fueling inflation worries and complicating Fed outlook. Investors now anticipate a potential September intere",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "80fc00a998",
@@ -499,6 +556,34 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "5ba662765d",
+        "title": "Yen Breach of 160 Revives Japan Intervention Watch Ahead of BOJ",
+        "summary": "The yen’s breach of 160 versus the dollar underscores the currency’s vulnerability to further weakness and the risk that authorities enter the market again to slow its decline.",
+        "link": "https://www.livemint.com/market/yen-breach-of-160-revives-japan-intervention-watch-ahead-of-boj-11788203980597.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-breach-of-160-revives-japan-intervention-watch-ahead-of-boj-11788203980597.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:49:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The yen’s breach of 160 versus the dollar underscores the currency’s vulnerability to further weakness and the risk that authorities enter the market again to slow its decline.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "a9af5caa90",
         "title": "PVR INOX buyback approved: From price per share to record date - what investors need to know",
         "summary": "PVR INOX announced a buyback of up to 20.68 lakh equity shares at  ₹1,450 each, amounting to  ₹300 crore. The buyback begins on 4 September, with promoters participating. Recent gains in share value align with improved financial performance, including a net profit of  ₹56.5 crore",
@@ -529,7 +614,7 @@
       {
         "id": "db5ac18b90",
         "title": "Wall Street slips as renewed US-Iran strikes push crude oil higher, energy and chip stocks rise",
-        "summary": "At 09:54 a.m. the Dow Jones Industrial Average fell 0.65%, the S&amp;amp;P 500 shed 0.40%, the Nasdaq Composite lost 0.29%",
+        "summary": "As of 1:20 p.m. Eastern Time, the S&amp;amp;P 500 index fell 0.5%. The Dow Jones Industrial Average fell 0.6%, and the Nasdaq fell 0.4%",
         "link": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html",
         "source": "LiveMint Markets",
         "sources": [
@@ -547,7 +632,7 @@
         "is_ai_related": false,
         "page": "stock_market",
         "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. At 09:54 a.m. the Dow Jones Industrial Average fell 0.65%, the S&amp;amp;P 500 shed 0.40%, the Nasdaq Composite lost 0.29%",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. As of 1:20 p.m. Eastern Time, the S&amp;amp;P 500 index fell 0.5%. The Dow Jones Industrial Average fell 0.6%, and the Nasdaq fell 0.4%",
         "means_for_you": [
           "Lower crude is generally good for India's inflation and the rupee too.",
           "Oil marketing companies may see margin improvement."
@@ -577,91 +662,6 @@
         "page": "stock_market",
         "jetro_impact": "Positive For Indian Stocks",
         "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Asian equities closed lower on August 31 due to rising Middle East tensions and sharp crude oil price increases. Japan's Nikkei 225 fell 0.14%, while South Korea’s Kospi gained 0.46%. Global bond yiel",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "6a1de09c2c",
-        "title": "From entry to exit — how Apple stock price and valuation changed under Tim Cook as Apple CEO | Data details here",
-        "summary": "Tim Cook will step down as Apple's CEO on 1 September 2026, transitioning to executive chairman. John Ternus will succeed him after a 15-year tenure that saw Apple’s revenue grow fourfold and its market value soar to approximately $4.67 trillion.",
-        "link": "https://www.livemint.com/market/stock-market-news/from-entry-to-exit-how-apple-stock-price-and-valuation-changed-under-tim-cook-as-apple-ceo-data-details-here-11788168871086.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/from-entry-to-exit-how-apple-stock-price-and-valuation-changed-under-tim-cook-as-apple-ceo-data-details-here-11788168871086.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:47:51 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Tim Cook will step down as Apple's CEO on 1 September 2026, transitioning to executive chairman. John Ternus will succeed him after a 15-year tenure that saw Apple’s revenue grow fourfold and its mark",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "1f15b75a4a",
-        "title": "Adani Power, Adani Enterprises to Adani Energy: Gautam Adani-owned stocks crash up to 8% in trade today; here's why",
-        "summary": "Adani Group stocks faced significant selling pressure on Monday amidst MSCI index reshuffling. Adani Enterprises dropped over 8%, with all major group companies declining. Broader Indian markets also weakened, reflecting caution among investors before MSCI changes and external ec",
-        "link": "https://www.livemint.com/market/stock-market-news/adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-heres-why-11788173294982.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-heres-why-11788173294982.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:44:17 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Adani Group stocks faced significant selling pressure on Monday amidst MSCI index reshuffling. Adani Enterprises dropped over 8%, with all major group companies declining. Broader Indian markets also",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5077094248",
-        "title": "From PB Fintech to Axis Bank- SAMCO Securities' expert recommends 5 stocks to buy now for long term",
-        "summary": "Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fintech and Axis Bank, which show strong technical momentum.",
-        "link": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 15:32:28 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fint",
         "means_for_you": [
           "Home loan / EMI rates are unlikely to rise from here.",
           "Banking stocks in a portfolio may see near-term support."
@@ -1092,6 +1092,63 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "abbd74d9de",
+        "title": "Dollar slips, with traders already eyeing Friday jobs data",
+        "summary": "GLOBAL-FOREX:Dollar slips, with traders already eyeing Friday jobs data",
+        "link": "https://www.livemint.com/market/dollar-slips-with-traders-already-eyeing-friday-jobs-data-11788204409382.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-slips-with-traders-already-eyeing-friday-jobs-data-11788204409382.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:56:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX:Dollar slips, with traders already eyeing Friday jobs data",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e9e575ce08",
+        "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+        "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+        "link": "https://www.livemint.com/market/wall-street-dips-as-spiking-crude-prices-revive-fears-of-inflation-rate-hike-11788201047391.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/wall-street-dips-as-spiking-crude-prices-revive-fears-of-inflation-rate-hike-11788201047391.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:00:47 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
         "id": "c17a2741ac",
         "title": "From Truth Social to AI: Trump-linked Yorkville America to expand beyond America First-themed ETFs",
         "summary": "Yorkville America plans broader ETF lineup with AI, digital economy and macro-focused products.",
@@ -1118,34 +1175,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "f7edfacf51",
-        "title": "Bernstein reshuffles India model portfolio: Adani Ports, Eternal, Paytm in, DMart out; sets Nifty 50 target at 26,000",
-        "summary": "Bernstein has updated its India model portfolio, adding Adani Ports, Eternal, and Paytm, while removing DMart. This reflects the brokerage's view on India's economy, emphasizing how government support and distortions create both opportunities and risks for investors.",
-        "link": "https://www.livemint.com/market/stock-market-news/bernstein-reshuffles-india-model-portfolio-adani-ports-eternal-paytm-in-dmart-out-sets-nifty-50-target-at-26000-11788171871076.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/bernstein-reshuffles-india-model-portfolio-adani-ports-eternal-paytm-in-dmart-out-sets-nifty-50-target-at-26000-11788171871076.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:05:11 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Bernstein has updated its India model portfolio, adding Adani Ports, Eternal, and Paytm, while removing DMart. This reflects the brokerage's view on India's economy, emphasizing how government support",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       }
     ],
     "startups": [
@@ -1178,27 +1207,83 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "eba6cd5ee8",
-        "title": "Bharat Innovates: Building the ecosystem for India’s deeptech future",
-        "summary": "India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the ecosystem needs next: stronger research commercialisation, industry adoption, an",
-        "link": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future",
+        "id": "53071f6275",
+        "title": "How new broadcast technology is changing the way fans watch cricket",
+        "summary": "The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to engage with the game.\n\nCricket broadcasting has come a long way since the BBC showed matches from a sin",
+        "link": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future"
+            "url": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket"
           }
         ],
-        "published": "Mon, 31 Aug 2026 09:47:08 GMT",
+        "published": "Mon, 31 Aug 2026 13:17:55 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to engage with the game.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "8251c4f6f3",
+        "title": "From Patna’s Settlements to Cancer Care and AI: The Story of Gautam Gauri",
+        "summary": "Discover how Gautam Gauri transformed personal loss into purpose, advancing education, cancer care, and AI-driven access in Bihar.",
+        "link": "https://yourstory.com/2026/08/story-gautam-gauri",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/story-gautam-gauri"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:33:22 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Discover how Gautam Gauri transformed personal loss into purpose, advancing education, cancer care, and AI-driven access in Bihar.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "82ef5b687c",
+        "title": "Jagdish Farshan raises Rs 43.5 Cr led by Sharrp Ventures",
+        "summary": "This Gujarat based regional snack brand will use this capital for expansion related activities.",
+        "link": "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 12:49:55 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. This Gujarat based regional snack brand will use this capital for expansion related activities.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1227,6 +1312,174 @@
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for general markets right now. Tim Cook, once Steve Jobs’ operations man who made Apple’s ‘trains run on time’, turned India from a market of promise into a key centre for sales and production. His successor must now take that two-",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "7ea259034b",
+        "title": "From roots to returns: Why Indian real estate is drawing NRI interest",
+        "summary": "As India's real estate market expands, overseas Indians are looking beyond the traditional idea of owning a home back home. Infrastructure-led growth, organized retail, and new mixed-use destinations are opening up a wider investment opportunity.",
+        "link": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 10:50:42 GMT",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. As India's real estate market expands, overseas Indians are looking beyond the traditional idea of owning a home back home. Infrastructure-led growth, organized retail, and new mixed-use destinations",
+        "means_for_you": [
+          "Steady/falling rates support real estate and home-buying sentiment."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "5d929211af",
+        "title": "From theory to practice: building customer agents with Google's no-code tools",
+        "summary": "Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months.",
+        "link": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 08:02:08 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d13b0ecd2b",
+        "title": "Zomato tightens food safety norms, bans imitation cheese and paneer",
+        "summary": "Zomato warned that restaurant partners who are non-compliant to the new rule will be delisted from the platform.",
+        "link": "https://yourstory.com/2026/08/zomato-bans-analogue-dishes-on-its-platform",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/zomato-bans-analogue-dishes-on-its-platform"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:49:24 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Zomato warned that restaurant partners who are non-compliant to the new rule will be delisted from the platform.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f00e977715",
+        "title": "Close to half the merchants not willing to pay MDR on UPI: Survey",
+        "summary": "LocalCircles surveyed 32,796 people across districts for this study. MDR is a fee paid by businesses to payment processors for accepting digital payments.",
+        "link": "https://yourstory.com/2026/08/close-to-half-the-merchants-not-willing-to-pay-mdr-on-upi-survey",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/close-to-half-the-merchants-not-willing-to-pay-mdr-on-upi-survey"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:35:16 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. LocalCircles surveyed 32,796 people across districts for this study. MDR is a fee paid by businesses to payment processors for accepting digital payments.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "447ae78881",
+        "title": "Startup news and updates: Daily roundup (August 31, 2026)",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, August 31, 2026.",
+        "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-31-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-31-2026"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 12:47:53 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, August 31, 2026.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "eba6cd5ee8",
+        "title": "Bharat Innovates: Building the ecosystem for India’s deeptech future",
+        "summary": "India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the ecosystem needs next: stronger research commercialisation, industry adoption, an",
+        "link": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:47:08 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1263,46 +1516,47 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "5d929211af",
-        "title": "From theory to practice: building customer agents with Google's no-code tools",
-        "summary": "Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months.",
-        "link": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
+        "id": "6bf2fe6c05",
+        "title": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",
+        "summary": "The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency Resolution Process.",
+        "link": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools"
+            "url": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt"
           }
         ],
-        "published": "Mon, 31 Aug 2026 08:02:08 GMT",
-        "sector": "General Markets",
+        "published": "Sun, 30 Aug 2026 11:16:59 GMT",
+        "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months.",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency",
         "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "53071f6275",
-        "title": "How new broadcast technology is changing the way fans watch cricket",
-        "summary": "The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to engage with the game.\n\nCricket broadcasting has come a long way since the BBC showed matches from a sin",
-        "link": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
+        "id": "167af20aaa",
+        "title": "10 Lessons from The Midnight Library about second chances",
+        "summary": "Discover 10 powerful lessons from The Midnight Library about second chances, regret, self-acceptance, and finding meaning in life.",
+        "link": "https://yourstory.com/2026/08/10-lessons-from-the-midnight-library",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket"
+            "url": "https://yourstory.com/2026/08/10-lessons-from-the-midnight-library"
           }
         ],
-        "published": "Mon, 31 Aug 2026 13:17:55 GMT",
+        "published": "Mon, 31 Aug 2026 07:00:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1311,35 +1565,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to engage with the game.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "42ece1d755",
-        "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
-        "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
-        "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 03:10:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 10 powerful lessons from The Midnight Library about second chances, regret, self-acceptance, and finding meaning in life.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1375,46 +1601,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "7ea259034b",
-        "title": "From roots to returns: Why Indian real estate is drawing NRI interest",
-        "summary": "As India's real estate market expands, overseas Indians are looking beyond the traditional idea of owning a home back home. Infrastructure-led growth, organized retail, and new mixed-use destinations are opening up a wider investment opportunity.",
-        "link": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest",
+        "id": "42ece1d755",
+        "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
+        "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
+        "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest"
+            "url": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:50:42 GMT",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. As India's real estate market expands, overseas Indians are looking beyond the traditional idea of owning a home back home. Infrastructure-led growth, organized retail, and new mixed-use destinations",
-        "means_for_you": [
-          "Steady/falling rates support real estate and home-buying sentiment."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "c7836da26f",
-        "title": "How Minus Degre turns plastic waste into eco-friendly materials; 5 organisations taking healthcare to rural India",
-        "summary": "Minus Degre company converts plastic waste into eco-friendly materials to manufacture products for businesses and consumers. Also read about five organisations that are taking healthcare closer to rural India with telemedicine centres and maternal and child programmes.",
-        "link": "https://yourstory.com/2026/08/minus-degre-turns-plastic-waste-into-eco-friendly-materials-organisations-taking-healthcare-to-rural-india",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/minus-degre-turns-plastic-waste-into-eco-friendly-materials-organisations-taking-healthcare-to-rural-india"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 02:00:00 GMT",
+        "published": "Mon, 31 Aug 2026 03:10:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1423,7 +1621,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Minus Degre company converts plastic waste into eco-friendly materials to manufacture products for businesses and consumers. Also read about five organisations that are taking healthcare closer to rur",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1431,18 +1629,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "167af20aaa",
-        "title": "10 Lessons from The Midnight Library about second chances",
-        "summary": "Discover 10 powerful lessons from The Midnight Library about second chances, regret, self-acceptance, and finding meaning in life.",
-        "link": "https://yourstory.com/2026/08/10-lessons-from-the-midnight-library",
-        "source": "YourStory",
+        "id": "da393075e2",
+        "title": "BNP Paribas & Millennium Sell 10 Cr Eternal Shares In ₹3,265 Cr Block Deals",
+        "summary": "French financial services giant BNP Paribas and US-based hedge fund Millennium Management sold over 9.9 Cr shares of listed foodtech&#8230;",
+        "link": "https://inc42.com/buzz/bnp-paribas-millennium-sell-10-cr-eternal-shares-in-%e2%82%b93265-cr-block-deals/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/10-lessons-from-the-midnight-library"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/bnp-paribas-millennium-sell-10-cr-eternal-shares-in-%e2%82%b93265-cr-block-deals/"
           }
         ],
-        "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+        "published": "Mon, 31 Aug 2026 19:31:47 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1451,148 +1649,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 10 powerful lessons from The Midnight Library about second chances, regret, self-acceptance, and finding meaning in life.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "8251c4f6f3",
-        "title": "From Patna’s Settlements to Cancer Care and AI: The Story of Gautam Gauri",
-        "summary": "Discover how Gautam Gauri transformed personal loss into purpose, advancing education, cancer care, and AI-driven access in Bihar.",
-        "link": "https://yourstory.com/2026/08/story-gautam-gauri",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/story-gautam-gauri"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 13:33:22 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Discover how Gautam Gauri transformed personal loss into purpose, advancing education, cancer care, and AI-driven access in Bihar.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "936f865d2e",
-        "title": "Services, automation, credit: Test your business creativity with Edition 247 of our weekly quiz!",
-        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 247th quiz. Ready?",
-        "link": "https://yourstory.com/2026/08/services-automation-credit-business-creativity-entrepreneur-quiz",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/services-automation-credit-business-creativity-entrepreneur-quiz"
-          }
-        ],
-        "published": "Sun, 30 Aug 2026 02:50:00 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 247th quiz. Ready?",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "75cc66ec7a",
-        "title": "Govt notifies Rs 1,27,500-cr Semicon 2.0",
-        "summary": "The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
-        "link": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 08:23:23 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "f8d3810130",
-        "title": "Smartworks to invest Rs 600 Cr in FY27 to expand biz, meet rising demand for managed office spaces",
-        "summary": "The Gurugram-based listed realty firm has signed up more than 3.5 million square feet of space, which is either under construction or coming up for construction.",
-        "link": "https://yourstory.com/2026/08/smartworks-to-invest-rs-600-cr-in-fy27-to-expand-biz-meet-rising-demand-for-managed-office-spaces",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/smartworks-to-invest-rs-600-cr-in-fy27-to-expand-biz-meet-rising-demand-for-managed-office-spaces"
-          }
-        ],
-        "published": "Sun, 30 Aug 2026 11:35:10 GMT",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. The Gurugram-based listed realty firm has signed up more than 3.5 million square feet of space, which is either under construction or coming up for construction.",
-        "means_for_you": [
-          "Steady/falling rates support real estate and home-buying sentiment."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "82ef5b687c",
-        "title": "Jagdish Farshan raises Rs 43.5 Cr led by Sharrp Ventures",
-        "summary": "This Gujarat based regional snack brand will use this capital for expansion related activities.",
-        "link": "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 12:49:55 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. This Gujarat based regional snack brand will use this capital for expansion related activities.",
+        "in_simple_words": "Not a big mover either way for general markets right now. French financial services giant BNP Paribas and US-based hedge fund Millennium Management sold over 9.9 Cr shares of listed foodtech&#8230;",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1992,34 +2049,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2bc36a0435",
-        "title": "YOGa Bags ₹20 Cr From Info Edge, Others To Scale Clean-Air Solutions",
-        "summary": "Clean tech startup YOGa Clean Air has raised ₹20 Cr (around $2.1 Mn) in its Series A round, in a&#8230;",
-        "link": "https://inc42.com/buzz/yoga-bags-%e2%82%b920-cr-from-info-edge-others-to-scale-clean-air-solutions/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/yoga-bags-%e2%82%b920-cr-from-info-edge-others-to-scale-clean-air-solutions/"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 05:30:13 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Clean tech startup YOGa Clean Air has raised ₹20 Cr (around $2.1 Mn) in its Series A round, in a&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
@@ -2219,38 +2248,128 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
+      }
+    ]
+  },
+  "sectors": {
+    "Energy & Oil": [
+      {
+        "id": "554ae866fa",
+        "title": "US 10-year Treasury yield tops 19-month high as oil prices fuel rate-hike bets",
+        "summary": "US Treasury yields rose significantly, with the 10-year rate exceeding 4.75 percent.  Rising oil prices and persistent inflation fueled expectations of a Federal Reserve rate increase.  Short-term yields surged after Fed Chairman Kevin Warsh signaled potential action to control i",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:27:27 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. US Treasury yields rose significantly, with the 10-year rate exceeding 4.75 percent.  Rising oil prices and persistent inflation fueled expectations of a Federal Reserve rate increase.  Short-term yie",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
-        "id": "ef55aa75fb",
-        "title": "Hy-Tech Engineers IPO listing tomorrow. Here's what GMP signals ahead of debut",
-        "summary": "The issue witnessed an overwhelming response from investors, with the IPO subscribed a whopping 244.41 times.",
-        "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11788167550471.html",
+        "id": "1cc85c12af",
+        "title": "Longer-dated US Treasury yields climb as Iran and US restart military attacks",
+        "summary": "Treasury yields increased as U.S. and Iran hostilities escalated. Crude oil prices surged, fueling inflation worries and complicating Fed outlook. Investors now anticipate a potential September interest rate hike by the Federal Reserve. Federal Reserve Chair Kevin Warsh's comment",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/longer-dated-us-treasury-yields-climb-as-iran-and-us-restart-military-attacks/articleshow/133660629.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/longer-dated-us-treasury-yields-climb-as-iran-and-us-restart-military-attacks/articleshow/133660629.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 23:37:31 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Treasury yields increased as U.S. and Iran hostilities escalated. Crude oil prices surged, fueling inflation worries and complicating Fed outlook. Investors now anticipate a potential September intere",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "e9e575ce08",
+        "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+        "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+        "link": "https://www.livemint.com/market/wall-street-dips-as-spiking-crude-prices-revive-fears-of-inflation-rate-hike-11788201047391.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11788167550471.html"
+            "url": "https://www.livemint.com/market/wall-street-dips-as-spiking-crude-prices-revive-fears-of-inflation-rate-hike-11788201047391.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 15:05:22 +0530",
-        "sector": "General Markets",
+        "published": "Tue, 01 Sep 2026 00:00:47 +0530",
+        "sector": "Energy & Oil",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
-        "page": "pe_ib",
+        "page": "stock_market",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The issue witnessed an overwhelming response from investors, with the IPO subscribed a whopping 244.41 times.",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
         "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "db5ac18b90",
+        "title": "Wall Street slips as renewed US-Iran strikes push crude oil higher, energy and chip stocks rise",
+        "summary": "As of 1:20 p.m. Eastern Time, the S&amp;amp;P 500 index fell 0.5%. The Dow Jones Industrial Average fell 0.6%, and the Nasdaq fell 0.4%",
+        "link": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 19:27:00 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. As of 1:20 p.m. Eastern Time, the S&amp;amp;P 500 index fell 0.5%. The Dow Jones Industrial Average fell 0.6%, and the Nasdaq fell 0.4%",
+        "means_for_you": [
+          "Lower crude is generally good for India's inflation and the rupee too.",
+          "Oil marketing companies may see margin improvement."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       }
-    ]
-  },
-  "sectors": {
+    ],
     "Banks & Money": [
       {
         "id": "61137e1e12",
@@ -2454,35 +2573,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "5077094248",
-        "title": "From PB Fintech to Axis Bank- SAMCO Securities' expert recommends 5 stocks to buy now for long term",
-        "summary": "Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fintech and Axis Bank, which show strong technical momentum.",
-        "link": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 15:32:28 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fint",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "Real Estate/Housing": [
@@ -2536,6 +2626,34 @@
         "page": "stock_market",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "means_for_you": [
+          "Steady/falling rates support real estate and home-buying sentiment."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "c46307b8c7",
+        "title": "Stocks to watch and why on September 1: PVR INOX, E2E Networks, NCC, Brigade Enterprises, Time Technoplast and more",
+        "summary": "On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
+        "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 23:40:28 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
         "means_for_you": [
           "Steady/falling rates support real estate and home-buying sentiment."
         ],
@@ -2993,6 +3111,90 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "abbd74d9de",
+        "title": "Dollar slips, with traders already eyeing Friday jobs data",
+        "summary": "GLOBAL-FOREX:Dollar slips, with traders already eyeing Friday jobs data",
+        "link": "https://www.livemint.com/market/dollar-slips-with-traders-already-eyeing-friday-jobs-data-11788204409382.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-slips-with-traders-already-eyeing-friday-jobs-data-11788204409382.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:56:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX:Dollar slips, with traders already eyeing Friday jobs data",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "5ba662765d",
+        "title": "Yen Breach of 160 Revives Japan Intervention Watch Ahead of BOJ",
+        "summary": "The yen’s breach of 160 versus the dollar underscores the currency’s vulnerability to further weakness and the risk that authorities enter the market again to slow its decline.",
+        "link": "https://www.livemint.com/market/yen-breach-of-160-revives-japan-intervention-watch-ahead-of-boj-11788203980597.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-breach-of-160-revives-japan-intervention-watch-ahead-of-boj-11788203980597.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:49:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The yen’s breach of 160 versus the dollar underscores the currency’s vulnerability to further weakness and the risk that authorities enter the market again to slow its decline.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "379cddadcb",
+        "title": "Chicago wheat falls on selling pressure after recent highs",
+        "summary": "GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Chicago wheat falls on selling pressure after recent highs",
+        "link": "https://www.livemint.com/market/chicago-wheat-falls-on-selling-pressure-after-recent-highs-11788203489599.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/chicago-wheat-falls-on-selling-pressure-after-recent-highs-11788203489599.html"
+          }
+        ],
+        "published": "Tue, 01 Sep 2026 00:41:29 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Chicago wheat falls on selling pressure after recent highs",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "ad1c48ad5d",
         "title": "E2E Networks bags  ₹1,000 crore NVIDIA Blackwell cloud GPU deal from sovereign AI firm",
         "summary": "E2E Networks, an AI hyperscale cloud platform, gained investor interest after securing a long-term cloud GPU contract worth  ₹1,000 crore, expected to last until June 2029. The company reported strong quarterly revenue growth and was added to the MSCI Global Small Cap Index.",
@@ -3103,93 +3305,39 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "6a1de09c2c",
-        "title": "From entry to exit — how Apple stock price and valuation changed under Tim Cook as Apple CEO | Data details here",
-        "summary": "Tim Cook will step down as Apple's CEO on 1 September 2026, transitioning to executive chairman. John Ternus will succeed him after a 15-year tenure that saw Apple’s revenue grow fourfold and its market value soar to approximately $4.67 trillion.",
-        "link": "https://www.livemint.com/market/stock-market-news/from-entry-to-exit-how-apple-stock-price-and-valuation-changed-under-tim-cook-as-apple-ceo-data-details-here-11788168871086.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/from-entry-to-exit-how-apple-stock-price-and-valuation-changed-under-tim-cook-as-apple-ceo-data-details-here-11788168871086.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:47:51 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Tim Cook will step down as Apple's CEO on 1 September 2026, transitioning to executive chairman. John Ternus will succeed him after a 15-year tenure that saw Apple’s revenue grow fourfold and its mark",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "1f15b75a4a",
-        "title": "Adani Power, Adani Enterprises to Adani Energy: Gautam Adani-owned stocks crash up to 8% in trade today; here's why",
-        "summary": "Adani Group stocks faced significant selling pressure on Monday amidst MSCI index reshuffling. Adani Enterprises dropped over 8%, with all major group companies declining. Broader Indian markets also weakened, reflecting caution among investors before MSCI changes and external ec",
-        "link": "https://www.livemint.com/market/stock-market-news/adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-heres-why-11788173294982.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-heres-why-11788173294982.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:44:17 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Adani Group stocks faced significant selling pressure on Monday amidst MSCI index reshuffling. Adani Enterprises dropped over 8%, with all major group companies declining. Broader Indian markets also",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
-    "Global & Macro": [
+    "Medicine & Pharma": [
       {
-        "id": "737892f286",
-        "title": "US Fed chair Kevin Warsh tells G20 that past global savings glut is turning into investment surge",
-        "summary": "Federal Reserve Chairman Kevin Warsh highlighted a remarkable surge in global investments that is driving robust economic growth across the globe. The reversal of previous savings gluts marks a crucial shift in economic dynamics. Warsh emphasized that the notion of secular stagna",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-tells-g20-that-past-global-savings-glut-is-turning-into-investment-surge/articleshow/133655513.cms",
-        "source": "Economic Times Markets",
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+        "source": "Moneycontrol",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-tells-g20-that-past-global-savings-glut-is-turning-into-investment-surge/articleshow/133655513.cms"
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 19:39:57 +0530",
-        "sector": "Global & Macro",
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Medicine & Pharma",
         "sentiment": {
           "label": "Bullish",
-          "score": 4
+          "score": 2
         },
         "is_ai_related": false,
         "page": "stock_market",
         "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Federal Reserve Chairman Kevin Warsh highlighted a remarkable surge in global investments that is driving robust economic growth across the globe. The reversal of previous savings gluts marks a crucia",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
         "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
+          "Good news here is usually stock-specific — check which company before acting."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      }
+    ],
+    "Global & Macro": [
       {
         "id": "5e291aa3cd",
         "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -3245,124 +3393,6 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "f7edfacf51",
-        "title": "Bernstein reshuffles India model portfolio: Adani Ports, Eternal, Paytm in, DMart out; sets Nifty 50 target at 26,000",
-        "summary": "Bernstein has updated its India model portfolio, adding Adani Ports, Eternal, and Paytm, while removing DMart. This reflects the brokerage's view on India's economy, emphasizing how government support and distortions create both opportunities and risks for investors.",
-        "link": "https://www.livemint.com/market/stock-market-news/bernstein-reshuffles-india-model-portfolio-adani-ports-eternal-paytm-in-dmart-out-sets-nifty-50-target-at-26000-11788171871076.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/bernstein-reshuffles-india-model-portfolio-adani-ports-eternal-paytm-in-dmart-out-sets-nifty-50-target-at-26000-11788171871076.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 16:05:11 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Bernstein has updated its India model portfolio, adding Adani Ports, Eternal, and Paytm, while removing DMart. This reflects the brokerage's view on India's economy, emphasizing how government support",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      }
-    ],
-    "Energy & Oil": [
-      {
-        "id": "abdf0f02ad",
-        "title": "US Stocks Today: US stocks fall as Iran war escalation sends oil prices up",
-        "summary": "US stock indexes declined as oil prices rose due to escalating US-Iran conflict. Inflation concerns grew after Fed Chair Kevin Warsh's hawkish remarks at Jackson Hole. Traders now anticipate a higher probability of a Federal Reserve rate hike in September. Energy stocks gained wh",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 19:12:06 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. US stock indexes declined as oil prices rose due to escalating US-Iran conflict. Inflation concerns grew after Fed Chair Kevin Warsh's hawkish remarks at Jackson Hole. Traders now anticipate a higher",
-        "means_for_you": [
-          "Rising crude can pressure the rupee and add to inflation worries.",
-          "Energy-heavy portfolios may see near-term volatility."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "db5ac18b90",
-        "title": "Wall Street slips as renewed US-Iran strikes push crude oil higher, energy and chip stocks rise",
-        "summary": "At 09:54 a.m. the Dow Jones Industrial Average fell 0.65%, the S&amp;amp;P 500 shed 0.40%, the Nasdaq Composite lost 0.29%",
-        "link": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 19:27:00 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. At 09:54 a.m. the Dow Jones Industrial Average fell 0.65%, the S&amp;amp;P 500 shed 0.40%, the Nasdaq Composite lost 0.29%",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
-    "Medicine & Pharma": [
-      {
-        "id": "2c554bf20b",
-        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
-        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
-        "means_for_you": [
-          "Good news here is usually stock-specific — check which company before acting."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
       }
     ],
     "FMCG": [
@@ -3482,34 +3512,6 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "75cc66ec7a",
-      "title": "Govt notifies Rs 1,27,500-cr Semicon 2.0",
-      "summary": "The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
-      "link": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops"
-        }
-      ],
-      "published": "Mon, 31 Aug 2026 08:23:23 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for general markets right now. The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
-      "means_for_you": [
-        "Watch the index reaction rather than acting on this story alone."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
       "id": "057365b34d",
       "title": "[Update] ESDS IPO Subscribed 18.3X On Day 2; NII Portion Booked 51X",
       "summary": "Update &#124; August 31, 17:00 IST Enterprise cloud and AI company ESDS Software Solution’s IPO was subscribed 18.34X by the&#8230;",
@@ -3581,7 +3583,7 @@
       "banknifty_dir": "up",
       "reasons": [
         "Adani group stocks face heavy selling pressure; Adani Enterprises tumbles nearly 8%",
-        "US Fed chair Kevin Warsh tells G20 that past global savings glut is turning into investment surge",
+        "Chicago wheat falls on selling pressure after recent highs",
         "NCDEX launches Chennai rainfall futures to hedge monsoon risks"
       ],
       "winners": [
