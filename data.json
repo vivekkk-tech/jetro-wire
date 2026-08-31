@@ -1,78 +1,50 @@
 {
-  "generated_at_utc": "2026-08-31T08:08:44.347020+00:00",
+  "generated_at_utc": "2026-08-31T10:08:24.363895+00:00",
   "edition_date": "Monday, August 31, 2026",
   "sector_performance": {
     "Banks & Money": {
-      "pct": -0.15,
-      "status": "Steady"
-    },
-    "IT & Software": {
-      "pct": -1.42,
-      "status": "Slightly Low"
-    },
-    "Cars & Vehicles": {
-      "pct": 0.1,
+      "pct": 0.92,
       "status": "Growing"
     },
-    "Medicine & Pharma": {
-      "pct": -0.6,
+    "IT & Software": {
+      "pct": -0.29,
       "status": "Steady"
     },
+    "Cars & Vehicles": {
+      "pct": -0.04,
+      "status": "Steady"
+    },
+    "Medicine & Pharma": {
+      "pct": 0.72,
+      "status": "Growing"
+    },
     "Energy & Oil": {
-      "pct": -0.66,
+      "pct": -0.14,
       "status": "Steady"
     },
     "Real Estate/Housing": {
-      "pct": -1.42,
-      "status": "Slightly Low"
+      "pct": -0.52,
+      "status": "Steady"
     }
   },
   "biggest_story": {
-    "sector": "General Markets",
-    "title": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
+    "sector": "Metals & Mining",
+    "title": "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
     "sources": [
       {
-        "name": "Economic Times Markets",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms"
+        "name": "LiveMint Markets",
+        "url": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vedanta-to-nalco-why-are-metal-stocks-falling-today-us-fed-signals-rate-hike-gold-rate-silver-rate-11788164854766.html"
       }
     ],
-    "what_happened": "US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on the Federal Reserve’s interest-rate path, while Broadcom’s outlook could determ",
-    "why_it_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+    "what_happened": "Hindustan Zinc fell as much as 4.7% to its day's low of  ₹592.05. NALCO declined 3.8% to  ₹369, while Vedanta dropped 3.7% to  ₹276.50. Hindalco shed 3% to  ₹1,005.30. Hind Copper also declined 2.5% to  ₹520.20 during the session.",
+    "why_it_matters": "Metals move with global commodity cycles and China demand more than domestic headlines.",
     "means_for_you": [
-      "Watch the index reaction rather than acting on this story alone."
+      "Global demand weakness can pressure these stocks regardless of Indian data."
     ],
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms"
+    "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vedanta-to-nalco-why-are-metal-stocks-falling-today-us-fed-signals-rate-hike-gold-rate-silver-rate-11788164854766.html"
   },
   "pages": {
     "stock_market": [
-      {
-        "id": "18c319b5b3",
-        "title": "Jefferies initiates coverage on Leela Hotels with Buy rating, sees 22% upside",
-        "summary": "Jefferies initiated coverage on Leela Hotels with a Buy rating and a Rs 675 target, citing India’s premiumisation trend, rising luxury travel demand and the company’s owned-led expansion strategy. The brokerage expects strong revenue and earnings growth through FY29, supported by",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-leela-hotels-with-buy-rating-sees-22-upside/articleshow/133642668.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-leela-hotels-with-buy-rating-sees-22-upside/articleshow/133642668.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:46:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Jefferies initiated coverage on Leela Hotels with a Buy rating and a Rs 675 target, citing India’s premiumisation trend, rising luxury travel demand and the company’s owned-led expansion strategy. The",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
       {
         "id": "e8b3622075",
         "title": "Sterlite Tech stock has surged 7x. Is the rally running ahead of earnings?",
@@ -102,19 +74,48 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "9ba2c285ea",
-        "title": "Nomura initiates coverage on Clean Max Enviro with Buy call. Check upside potential, key reasons",
-        "summary": "Nomura initiated coverage on Clean Max Enviro Energy Solutions with a Buy rating and a Rs 1,510 target, implying 21% upside, citing strong growth prospects in India’s C&amp;I renewable energy market. The brokerage expects revenue and EBITDA to grow at CAGRs of 39% and 50%, respec",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-clean-max-enviro-with-buy-call-check-upside-potential-key-reasons/articleshow/133643047.cms",
+        "id": "5ec6f966da",
+        "title": "Global Market: China, Hong Kong stocks slip as weak economic data and property overhaul weigh",
+        "summary": "Chinese and Hong Kong stocks declined as weak economic data highlighted a fragile recovery, while new measures to reform China’s housing presale system triggered a sharp selloff in property shares. Gold stocks also weakened after hawkish Fed signals, while strong first-half earni",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-weak-economic-data-and-property-overhaul-weigh/articleshow/133648638.cms",
         "source": "Economic Times Markets",
         "sources": [
           {
             "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-clean-max-enviro-with-buy-call-check-upside-potential-key-reasons/articleshow/133643047.cms"
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-weak-economic-data-and-property-overhaul-weigh/articleshow/133648638.cms"
           }
         ],
-        "published": "Mon, 31 Aug 2026 11:08:28 +0530",
-        "sector": "Energy & Oil",
+        "published": "Mon, 31 Aug 2026 15:01:14 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Chinese and Hong Kong stocks declined as weak economic data highlighted a fragile recovery, while new measures to reform China’s housing presale system triggered a sharp selloff in property shares. Go",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "9cfbcf2c02",
+        "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
+        "summary": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hold calls on Dixon and Syrma SGS Technology. It expects stronger competition for m",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:36:57 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
           "score": 3
@@ -122,69 +123,69 @@
         "is_ai_related": false,
         "page": "stock_market",
         "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Nomura initiated coverage on Clean Max Enviro Energy Solutions with a Buy rating and a Rs 1,510 target, implying 21% upside, citing strong growth prospects in India’s C&amp;I renewable energy market.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hol",
         "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "4406553409",
+        "title": "Multibagger stock hits record high, logging 5% intraday gain despite weak trends on Dalal Street",
+        "summary": "Multibagger stock: Ratnveer Precision Engineering share price surged as much as 5%, hitting a new record high of  ₹314.90 during Monday's trading session ahead of the rights issue.",
+        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ratnveer-precision-engineering-hits-record-high-logging-5-intraday-gain-11788166459346.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ratnveer-precision-engineering-hits-record-high-logging-5-intraday-gain-11788166459346.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:50:07 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Multibagger stock: Ratnveer Precision Engineering share price surged as much as 5%, hitting a new record high of  ₹314.90 during Monday's trading session ahead of the rights issue.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d2cc061815",
+        "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
+        "summary": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallcap 100 indices. Influenced by ",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:34:46 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negat",
+        "means_for_you": [
+          "Rising crude can pressure the rupee and add to inflation worries.",
+          "Energy-heavy portfolios may see near-term volatility."
         ],
         "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
         "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "faebbb322a",
-        "title": "IGL shares jump 3% after CNG price hike in Delhi NCR. What lies ahead?",
-        "summary": "IGL shares witnessed an uptick on Monday after the company hiked CNG prices by Rs 3.89 per kg in Delhi-NCR, citing higher imported LNG costs. The increase marks the fifth price hike this year. Citi retained its Buy rating on IGL, saying the latest hike could improve realisations ",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-shares-jump-3-after-cng-price-hike-in-delhi-ncr-what-lies-ahead/articleshow/133643841.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/igl-shares-jump-3-after-cng-price-hike-in-delhi-ncr-what-lies-ahead/articleshow/133643841.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:37:43 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. IGL shares witnessed an uptick on Monday after the company hiked CNG prices by Rs 3.89 per kg in Delhi-NCR, citing higher imported LNG costs. The increase marks the fifth price hike this year. Citi re",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "84f9f7fd94",
-        "title": "Ather Energy shares rally 4% after launch of Konarc electric scooter at Rs 99,999. Buy, sell or hold the stock?",
-        "summary": "Ather Energy shares rose after the company launched its new Konarc electric scooter at a starting price of ₹99,999. The model will be offered in six variants across the S and Z lines, with IDC ranges of up to 200 km. Ather Energy shares have gained 132% over the past six months.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:27:03 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ather Energy shares rose after the company launched its new Konarc electric scooter at a starting price of ₹99,999. The model will be offered in six variants across the S and Z lines, with IDC ranges",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "2c554bf20b",
@@ -328,6 +329,34 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "e8b7c81ef7",
+        "title": "Balrampur Chini, Shree Renuka Sugars to Mawana Sugars: Sugar stocks rise up to 11%. Do you own any of these?",
+        "summary": "Balrampur Chini Mills emerged as the top gainer among the stocks, climbing 10%, touching an intraday high of  ₹738 per share.",
+        "link": "https://www.livemint.com/market/stock-market-news/balrampur-chini-shree-renuka-sugars-to-mawana-sugars-sugar-stocks-rise-up-to-11-do-you-own-any-of-these-11788161963599.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/balrampur-chini-shree-renuka-sugars-to-mawana-sugars-sugar-stocks-rise-up-to-11-do-you-own-any-of-these-11788161963599.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:00:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Balrampur Chini Mills emerged as the top gainer among the stocks, climbing 10%, touching an intraday high of  ₹738 per share.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "960810ca86",
         "title": "Rising US bond yields or oil prices at $90 per barrel- Which is the bigger risk for stock markets?",
         "summary": "As US bond yields rise and oil prices hover around $90 per barrel, analysts debate which factor poses a greater threat to the Indian stock market. Insights reveal that while yields impact sentiment, oil prices have direct consequences, especially if they soar above $100.",
@@ -357,90 +386,32 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "71c8ffe45d",
-        "title": "Emerging-Market Stocks Fall as Warsh Stokes Fed Rate-Hike Bets",
-        "summary": "Emerging-market equities and currencies declined as investors weighed the prospect of higher US interest rates following hawkish comments from Federal Reserve Chair Kevin Warsh.",
-        "link": "https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html",
-        "source": "LiveMint Markets",
+        "id": "2af212d26d",
+        "title": "Why India’s new closing auction is agonising traders: Q&amp;A",
+        "summary": "India’s new 20-minute closing auction system is facing renewed scrutiny after the Sensex briefly plunged nearly 3% during Thursday’s session, highlighting concerns over thin liquidity and price volatility. Introduced on August 3 to improve price discovery and align India with glo",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-new-closing-auction-is-agonising-traders-qa/articleshow/133648125.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-new-closing-auction-is-agonising-traders-qa/articleshow/133648125.cms"
           }
         ],
-        "published": "Mon, 31 Aug 2026 11:39:09 +0530",
-        "sector": "General Markets",
+        "published": "Mon, 31 Aug 2026 14:40:54 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Bearish",
-          "score": -2
+          "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Emerging-market equities and currencies declined as investors weighed the prospect of higher US interest rates following hawkish comments from Federal Reserve Chair Kevin Warsh.",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. India’s new 20-minute closing auction system is facing renewed scrutiny after the Sensex briefly plunged nearly 3% during Thursday’s session, highlighting concerns over thin liquidity and price volati",
         "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
+          "Broad market headwind — consider being selective rather than aggressive today."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "32da197c12",
-        "title": "China’s August LNG Imports Set to Drop as High Prices Hit Demand",
-        "summary": "China’s imports of liquefied natural gas are set to drop this month from a year earlier, according to ship-tracking data, as higher prices triggered by the war in the Middle East weighed on consumption.",
-        "link": "https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:56:15 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. China’s imports of liquefied natural gas are set to drop this month from a year earlier, according to ship-tracking data, as higher prices triggered by the war in the Middle East weighed on consumptio",
-        "means_for_you": [
-          "Rising crude can pressure the rupee and add to inflation worries.",
-          "Energy-heavy portfolios may see near-term volatility."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "91bc4f452c",
-        "title": "Zee Entertainment share price crashes over 14%- Here's why",
-        "summary": "Zee shares are witnessing a heavy selloff after Canara Bank, Union Bank of India, and LIC Housing Finance said they will challenge the NCLT order approving a repayment plan proposed by Essel Group founder Subhash Chandra.",
-        "link": "https://www.livemint.com/market/stock-market-news/zee-entertainment-share-price-crashes-over-14-heres-why-11788153072072.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/zee-entertainment-share-price-crashes-over-14-heres-why-11788153072072.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:50:04 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Zee shares are witnessing a heavy selloff after Canara Bank, Union Bank of India, and LIC Housing Finance said they will challenge the NCLT order approving a repayment plan proposed by Essel Group fou",
-        "means_for_you": [
-          "Borrowing costs could tick up — factor this into EMI planning.",
-          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
         "id": "f743958bdd",
@@ -473,7 +444,7 @@
       },
       {
         "id": "02772ce4c8",
-        "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to  Rs 100-500 crore from MEIL",
+        "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to  Rs 500 crore from MEIL",
         "summary": "Transformers and Rectifiers shares rallied on Monday after the company secured a large order from MEIL for manufacturing transformers and related work. Valued at Rs 100 crore to Rs 500 crore, excluding GST, the order is scheduled for execution over 35 months and is expected to st",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/transformers-and-rectifiers-shares-rally-8-after-receiving-order-worth-up-to-rs-100-500-crore-from-meil/articleshow/133645581.cms",
         "source": "Economic Times Markets",
@@ -498,34 +469,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b2ae64106c",
-        "title": "Hindustan Zinc, Vedanta, Nalco and other metal stocks slide up to 5%. Here's why",
-        "summary": "Metal stocks tumbled up to 5% on Monday, with the Nifty Metal index falling over 2% amid a decline in metal prices and rising expectations of higher-for-longer US interest rates. Profit booking after the index’s strong August rally also weighed on sentiment, while Jefferies remai",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vedanta-nalco-and-other-metal-stocks-slide-up-to-5-heres-why/articleshow/133642626.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vedanta-nalco-and-other-metal-stocks-slide-up-to-5-heres-why/articleshow/133642626.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:43:04 +0530",
-        "sector": "Metals & Mining",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for metals & mining — sentiment turned more positive. Metal stocks tumbled up to 5% on Monday, with the Nifty Metal index falling over 2% amid a decline in metal prices and rising expectations of higher-for-longer US interest rates. Profit booking after",
-        "means_for_you": [
-          "Global commodity strength is driving this, not just local factors."
-        ],
-        "why_matters": "Metals move with global commodity cycles and China demand more than domestic headlines.",
-        "watch": "Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       },
       {
         "id": "7457dad3f8",
@@ -613,6 +556,63 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "5077094248",
+        "title": "From PB Fintech to Axis Bank- SAMCO Securities' expert recommends 5 stocks to buy now for long term",
+        "summary": "Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fintech and Axis Bank, which show strong technical momentum.",
+        "link": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 15:32:28 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fint",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "fd57fb48a5",
+        "title": "A cog in the wheel for office leasing",
+        "summary": "India’s office leasing momentum weakened in Q1FY27 as the West Asia war delayed deals. Gross absorption fell 6% and net absorption 21%. However, lower supply eased vacancy, while GCC demand and strong REIT occupancy supported rental growth.",
+        "link": "https://www.livemint.com/market/mark-to-market/office-leasing-india-west-asia-war-11788160806410.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/mark-to-market/office-leasing-india-west-asia-war-11788160806410.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:21:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s office leasing momentum weakened in Q1FY27 as the West Asia war delayed deals. Gross absorption fell 6% and net absorption 21%. However, lower supply eased vacancy, while GCC demand and strong",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "ff5805729d",
         "title": "Gold and Silver ETFs crash up to 4% | Top losers, gainers, reasons you should know",
         "summary": "Gold and silver ETFs experienced significant declines on August 31, driven by hawkish Federal Reserve comments and rising bond yields, increasing inflation concerns amid geopolitical tensions.&amp;nbsp;",
@@ -670,61 +670,89 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "224b5fdb79",
-        "title": "Knowledge Realty Trust OFS opens today: From floor price to issue size, key things investors must know",
-        "summary": "Units of Knowledge Realty Trust Ltd. dropped 2.5% on August 31 after Blackstone-linked entities announced an OFS. The floor price is set at  ₹108, potentially raising up to  ₹11,988 crore for the trust.",
-        "link": "https://www.livemint.com/market/stock-market-news/knowledge-realty-trust-ofs-opens-today-from-floor-price-to-issue-size-key-things-investors-must-know-11788153177748.html",
-        "source": "LiveMint Markets",
+        "id": "5460b305b3",
+        "title": "Global Market: European central bankers leave Jackson Hole uneasy over US policy shifts",
+        "summary": "European central bankers left the Jackson Hole symposium concerned that recent US Treasury interventions could strain long-standing norms of global financial cooperation. Unannounced yen intervention, Treasury bond buybacks and uncertainty over Fed dollar swap lines have raised c",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-central-bankers-leave-jackson-hole-uneasy-over-us-policy-shifts/articleshow/133648588.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/knowledge-realty-trust-ofs-opens-today-from-floor-price-to-issue-size-key-things-investors-must-know-11788153177748.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-central-bankers-leave-jackson-hole-uneasy-over-us-policy-shifts/articleshow/133648588.cms"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:55:09 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for real estate/housing — sentiment turned more negative. Units of Knowledge Realty Trust Ltd. dropped 2.5% on August 31 after Blackstone-linked entities announced an OFS. The floor price is set at  ₹108, potentially raising up to  ₹11,988 crore for the trus",
-        "means_for_you": [
-          "Rate worries can cool real estate and construction stocks quickly."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "b49a0c5d38",
-        "title": "HDFC Bank shares gain as focus turns to CEO succession",
-        "summary": "An expedited search for the next HDFC Bank CEO will reduce uncertainty, analysts say, even as the lender weighs an insider and an &amp;nbsp;outsider for the top job.",
-        "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-gain-as-focus-turns-to-ceo-succession-11788151482890.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-gain-as-focus-turns-to-ceo-succession-11788151482890.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:21:16 +0530",
+        "published": "Mon, 31 Aug 2026 14:59:36 +0530",
         "sector": "Banks & Money",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. An expedited search for the next HDFC Bank CEO will reduce uncertainty, analysts say, even as the lender weighs an insider and an &amp;nbsp;outsider for the top job.",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. European central bankers left the Jackson Hole symposium concerned that recent US Treasury interventions could strain long-standing norms of global financial cooperation. Unannounced yen intervention,",
         "means_for_you": [
           "Home loan / EMI rates are unlikely to rise from here.",
           "Banking stocks in a portfolio may see near-term support."
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "d5e84e4d4b",
+        "title": "US Stock Market: Barclays turns hawkish on Fed, sees two rate hikes in 2026",
+        "summary": "Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for unchanged rates. The shift follows hawkish remarks from Fed Chair Kevin Warsh an",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:07:41 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "21f853a7f5",
+        "title": "G20, US Jobs Data, Rate Decisions: 5 key global market triggers this week",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/g20-us-jobs-data-rate-decisions-5-key-global-market-triggers-this-week/slideshow/133647015.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/g20-us-jobs-data-rate-decisions-5-key-global-market-triggers-this-week/slideshow/133647015.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:32:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "cd128b5cf8",
@@ -806,63 +834,6 @@
         "page": "stock_market",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for banks & money right now. Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against admitted creditor clai",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2398c654a1",
-        "title": "Nvidia stock under pressure. What’s behind the pullback?",
-        "summary": "Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:59:55 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "e2fa94b5a5",
-        "title": "US Stock Market: Warsh signals Fed may need to raise rates if inflation remains elevated",
-        "summary": "Fed Chair Kevin Warsh signalled that the US central bank could raise interest rates if inflation fails to move closer to its 2% target, triggering a sharp shift in market expectations. Treasury yields climbed as investors raised bets on a September rate hike, with upcoming inflat",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warsh-signals-fed-may-need-to-raise-rates-if-inflation-remains-elevated/articleshow/133642733.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warsh-signals-fed-may-need-to-raise-rates-if-inflation-remains-elevated/articleshow/133642733.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:53:00 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Fed Chair Kevin Warsh signalled that the US central bank could raise interest rates if inflation fails to move closer to its 2% target, triggering a sharp shift in market expectations. Treasury yields",
         "means_for_you": [
           "Home loan / EMI rates are unlikely to rise from here.",
           "Banking stocks in a portfolio may see near-term support."
@@ -1180,6 +1151,34 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "40491ca6f6",
+        "title": "Expert view: Range-bound market may impact domestic capital inflows, says Samco Mutual Fund's CIO",
+        "summary": "Expert view: Samco Mutual Fund's CIO emphasises the importance of diversification and long-term investment strategies. As volatility looms, he reassures investors about the resilience of domestic capital inflows and highlights promising sectors beyond just AI-focused companies.",
+        "link": "https://www.livemint.com/market/stock-market-news/expert-view-range-bound-market-may-impact-domestic-capital-inflows-says-samco-mutual-funds-cio-11788167267325.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/expert-view-range-bound-market-may-impact-domestic-capital-inflows-says-samco-mutual-funds-cio-11788167267325.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:51:45 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Expert view: Samco Mutual Fund's CIO emphasises the importance of diversification and long-term investment strategies. As volatility looms, he reassures investors about the resilience of domestic capi",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "ef1e8745cf",
         "title": "Stocks to buy for short term: 24,400 key hurdle for Nifty 50, says Anand Rathi's Jigar Patel, suggests 3 stock picks",
         "summary": "Stocks to buy for short term: Jigar Patel from Anand Rathi presents key insights on Nifty 50's pivotal support levels and forecasts rewarding stock picks. Discover promising opportunities for short-term investments.",
@@ -1206,66 +1205,37 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
+      }
+    ],
+    "startups": [
       {
-        "id": "697482dd46",
-        "title": "MSCI Rejig: Adani Energy, Lenskart, Groww to see inflows; Reliance weight trimmed",
-        "summary": "The MSCI index reshuffle will highlight several Indian stocks as portfolio adjustments take effect on September 1. This could lead to increased trading volume and volatility, especially in low liquidity stocks, marking the first major test of India's new closing auction system.",
-        "link": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-energy-lenskart-groww-to-see-inflows-reliance-weight-trimmed-11788149469073.html",
-        "source": "LiveMint Markets",
+        "id": "42ece1d755",
+        "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
+        "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
+        "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
+        "source": "YourStory",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-energy-lenskart-groww-to-see-inflows-reliance-weight-trimmed-11788149469073.html"
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:04:08 +0530",
+        "published": "Mon, 31 Aug 2026 03:10:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
-        "page": "stock_market",
+        "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The MSCI index reshuffle will highlight several Indian stocks as portfolio adjustments take effect on September 1. This could lead to increased trading volume and volatility, especially in low liquidi",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
       },
-      {
-        "id": "64ebf8d23c",
-        "title": "Asian Refiners Scoop Up Argentinian Oil as Iran War Hits Supply",
-        "summary": "Asian refiners have increased purchases of Argentinian crude as the Iran war disrupts supply from the Middle East and drives competition for barrels from other regions.",
-        "link": "https://www.livemint.com/market/asian-refiners-scoop-up-argentinian-oil-as-iran-war-hits-supply-11788149934114.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/asian-refiners-scoop-up-argentinian-oil-as-iran-war-hits-supply-11788149934114.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 09:48:53 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Asian refiners have increased purchases of Argentinian crude as the Iran war disrupts supply from the Middle East and drives competition for barrels from other regions.",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
-    "startups": [
       {
         "id": "6ae20726d9",
         "title": "Pet insurance guide: Why every pet owner should consider coverage",
@@ -1296,18 +1266,18 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "10fad5e156",
-        "title": "Online grocery venture Satvacart shuts down after 12-year run",
-        "summary": "Founder Rahul Saxena said the company explored fresh funding and acquisition opportunities before deciding to wind down operations.",
-        "link": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run",
+        "id": "06ff97fd3b",
+        "title": "NIIF raises Rs 19,000 cr as first close in second fund",
+        "summary": "The second fund of NIIF was anchored by the Union government with participation from overseas sovereign funds and Indian financial institutions.",
+        "link": "https://yourstory.com/2026/08/niif-raises-rs-19000-cr-as-first-close-in-second-fund",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run"
+            "url": "https://yourstory.com/2026/08/niif-raises-rs-19000-cr-as-first-close-in-second-fund"
           }
         ],
-        "published": "Sun, 30 Aug 2026 10:14:58 GMT",
+        "published": "Mon, 31 Aug 2026 08:45:28 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1316,7 +1286,64 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Founder Rahul Saxena said the company explored fresh funding and acquisition opportunities before deciding to wind down operations.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The second fund of NIIF was anchored by the Union government with participation from overseas sovereign funds and Indian financial institutions.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "6bf2fe6c05",
+        "title": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",
+        "summary": "The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency Resolution Process.",
+        "link": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt"
+          }
+        ],
+        "published": "Sun, 30 Aug 2026 11:16:59 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "eba6cd5ee8",
+        "title": "Bharat Innovates: Building the ecosystem for India’s deeptech future",
+        "summary": "India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the ecosystem needs next: stronger research commercialisation, industry adoption, an",
+        "link": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-deeptech-future"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:47:08 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s deeptech ecosystem is moving from promise to global relevance, with 4,000+ startups and growing support from academia, industry, policy, and capital. Bharat Innovates 2026 highlights what the",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1352,6 +1379,34 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "75cc66ec7a",
+        "title": "Government notifies Rs 1.27L-cr Semicon 2.0 with eligibility norms, sops",
+        "summary": "The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
+        "link": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 08:23:23 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "5d929211af",
         "title": "From theory to practice: building customer agents with Google's no-code tools",
         "summary": "Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months.",
@@ -1380,55 +1435,27 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "42ece1d755",
-        "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
-        "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
-        "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
+        "id": "acece62781",
+        "title": "Temasek backs Singapore Airlines' investments in Air India",
+        "summary": "A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
+        "link": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius"
+            "url": "https://yourstory.com/2026/08/temasek-backs-singapore-airlines-investments-in-air-india"
           }
         ],
-        "published": "Mon, 31 Aug 2026 03:10:00 GMT",
+        "published": "Sat, 29 Aug 2026 12:08:13 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bearish",
+          "score": -1
         },
         "is_ai_related": false,
         "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "47736f11d6",
-        "title": "Why logistics AI is becoming the bext big bet for investors",
-        "summary": "AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
-        "link": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 02:30:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. A statement from Temasek, which is a stakeholder in Singapore Airlines, comes against the backdrop of concerns raised in certain quarters about the carrier's investment in the loss-making Air India.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1465,47 +1492,18 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "6bf2fe6c05",
-        "title": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",
-        "summary": "The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency Resolution Process.",
-        "link": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt",
+        "id": "10fad5e156",
+        "title": "Online grocery venture Satvacart shuts down after 12-year run",
+        "summary": "Founder Rahul Saxena said the company explored fresh funding and acquisition opportunities before deciding to wind down operations.",
+        "link": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt"
+            "url": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run"
           }
         ],
-        "published": "Sun, 30 Aug 2026 11:16:59 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. The container glass manufacturer has issued the notice under Section 8 of the Insolvency and Bankruptcy Code, a mandatory step before filing an application for commencement of the Corporate Insolvency",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "dc70917d74",
-        "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
-        "summary": "Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brands and shoppers.\n\nMyntra brought together leading fashion, beauty, and lifestyle brands at its flagsh",
-        "link": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 04:30:00 GMT",
+        "published": "Sun, 30 Aug 2026 10:14:58 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1514,63 +1512,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brands and shoppers.\n\nMyn",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c7836da26f",
-        "title": "How Minus Degre turns plastic waste into eco-friendly materials; 5 organisations taking healthcare to rural India",
-        "summary": "Minus Degre company converts plastic waste into eco-friendly materials to manufacture products for businesses and consumers. Also read about five organisations that are taking healthcare closer to rural India with telemedicine centres and maternal and child programmes.",
-        "link": "https://yourstory.com/2026/08/minus-degre-turns-plastic-waste-into-eco-friendly-materials-organisations-taking-healthcare-to-rural-india",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/minus-degre-turns-plastic-waste-into-eco-friendly-materials-organisations-taking-healthcare-to-rural-india"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 02:00:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Minus Degre company converts plastic waste into eco-friendly materials to manufacture products for businesses and consumers. Also read about five organisations that are taking healthcare closer to rur",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "48c79db864",
-        "title": "Narrate the story behind the brand: Gifts World Expo highlights shifting customer expectations",
-        "summary": "In this photo essay, we showcase more highlights from a leading gifting platform at Palace Grounds, Bengaluru.",
-        "link": "https://yourstory.com/2026/08/brand-story-gifts-exhibition-customer-photography",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/brand-story-gifts-exhibition-customer-photography"
-          }
-        ],
-        "published": "Sun, 30 Aug 2026 02:45:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase more highlights from a leading gifting platform at Palace Grounds, Bengaluru.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Founder Rahul Saxena said the company explored fresh funding and acquisition opportunities before deciding to wind down operations.",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1606,18 +1548,158 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
-        "id": "a161307cf2",
-        "title": "(Weekly funding roundup Aug 22-28) Marginal rise in VC inflow",
-        "summary": "The total funding for the week was $245 million across 27 deals, compared to $187 million raised in the previous week.",
-        "link": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-22-28-marginal-rise-in-vc-inflow",
+        "id": "dc70917d74",
+        "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
+        "summary": "Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brands and shoppers.\n\nMyntra brought together leading fashion, beauty, and lifestyle brands at its flagsh",
+        "link": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-22-28-marginal-rise-in-vc-inflow"
+            "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce"
           }
         ],
-        "published": "Sat, 29 Aug 2026 06:10:55 GMT",
+        "published": "Sat, 29 Aug 2026 04:30:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brands and shoppers.\n\nMyn",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "024a5ccf34",
+        "title": "AssessPrep turns test scores into data schools can use; VC inflow into startups sees marginal rise",
+        "summary": "AssessPrep uses AI to create, grade, and analyse tests, helping schools see where students are struggling, and not just what they scored. Venture capital funding into Indian startups rose marginally in the last week of August.",
+        "link": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow"
+          }
+        ],
+        "published": "Sun, 30 Aug 2026 02:00:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. AssessPrep uses AI to create, grade, and analyse tests, helping schools see where students are struggling, and not just what they scored. Venture capital funding into Indian startups rose marginally i",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d13b0ecd2b",
+        "title": "Zomato bans analogue dishes on its platform",
+        "summary": "Zomato warned that restaurant partners who are non-compliant to the new rule will be delisted from the platform.",
+        "link": "https://yourstory.com/2026/08/zomato-bans-analogue-dishes-on-its-platform",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/08/zomato-bans-analogue-dishes-on-its-platform"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:49:24 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Zomato warned that restaurant partners who are non-compliant to the new rule will be delisted from the platform.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f39b9b4eb0",
+        "title": "Zomato Lays Off 240 Employees, Shuts Hyderabad Customer Support Operations",
+        "summary": "Eternal’s food delivery business Zomato has fired around 240 employees as it shuts down its customer support operations in Hyderabad,&#8230;",
+        "link": "https://inc42.com/buzz/zomato-lays-off-240-employees-shuts-hyderabad-customer-support-operations/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/zomato-lays-off-240-employees-shuts-hyderabad-customer-support-operations/"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:38:22 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Eternal’s food delivery business Zomato has fired around 240 employees as it shuts down its customer support operations in Hyderabad,&#8230;",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ae6201553f",
+        "title": "Pernia’s Pop-Up Parent IPO: Issue Subscribed 8% On Day 1 Till Now",
+        "summary": "Pernia’s Pop Up Shop parent Purple Style Labs’ initial public offering (IPO) got off to a subdued investor on the&#8230;",
+        "link": "https://inc42.com/buzz/pernias-pop-up-parent-ipo-issue-subscribed-8-on-day-1-till-now/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/pernias-pop-up-parent-ipo-issue-subscribed-8-on-day-1-till-now/"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 09:35:22 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Pernia’s Pop Up Shop parent Purple Style Labs’ initial public offering (IPO) got off to a subdued investor on the&#8230;",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d4917515e6",
+        "title": "Zomato Bans Sale Of Analogue Dishes On Its Platform",
+        "summary": "Amid growing concerns over analogue paneer, Zomato has announced a zero-tolerance policy against the sale of dishes containing analogue dairy&#8230;",
+        "link": "https://inc42.com/buzz/zomato-bans-sale-of-analogue-dishes-on-its-platform/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/zomato-bans-sale-of-analogue-dishes-on-its-platform/"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 08:38:24 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
@@ -1626,7 +1708,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The total funding for the week was $245 million across 27 deals, compared to $187 million raised in the previous week.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Amid growing concerns over analogue paneer, Zomato has announced a zero-tolerance policy against the sale of dishes containing analogue dairy&#8230;",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1634,18 +1716,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2948866f8b",
-        "title": "IIT Madras Global launches ‘Bharat Ascend’ to build next generation of innovators and entrepreneurs",
-        "summary": "Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
-        "link": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs",
-        "source": "YourStory",
+        "id": "c6a8f43a2a",
+        "title": "Online Grocery Startup Satvacart Shuts Down After 12-Year Run",
+        "summary": "Gurugram-based online grocery startup Satvacart has shut down after 12 years of operations and disbanded its team after failing to&#8230;",
+        "link": "https://inc42.com/buzz/online-grocery-startup-satvacart-shuts-down-after-12-year-run/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/online-grocery-startup-satvacart-shuts-down-after-12-year-run/"
           }
         ],
-        "published": "Sat, 29 Aug 2026 10:26:59 GMT",
+        "published": "Mon, 31 Aug 2026 08:23:04 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1654,7 +1736,7 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bharat Ascend will create structured national pathway for innovators, helping bridge the gap between an idea its first prototype and its first customer, and a startup and its first global market.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gurugram-based online grocery startup Satvacart has shut down after 12 years of operations and disbanded its team after failing to&#8230;",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -1662,19 +1744,19 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "867e129ba0",
-        "title": "Infosys Public Services CEO Lax Gopisetty unreachable after devastating Nepal floods",
-        "summary": "Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
-        "link": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods",
-        "source": "YourStory",
+        "id": "a3f3dc0972",
+        "title": "State Street Closes ₹580 Cr Investment In Groww AMC",
+        "summary": "Global asset manager State Street Investment Management has completed its ₹580 Cr strategic investment in Groww’s mutual fund arm Groww&#8230;",
+        "link": "https://inc42.com/buzz/state-street-closes-%e2%82%b9580-cr-investment-in-groww-amc/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/08/infosys-public-services-ceo-lax-gopisetty-unreachable-nepal-floods"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/state-street-closes-%e2%82%b9580-cr-investment-in-groww-amc/"
           }
         ],
-        "published": "Sat, 29 Aug 2026 11:45:28 GMT",
-        "sector": "IT & Software",
+        "published": "Mon, 31 Aug 2026 07:53:01 +0000",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
@@ -1682,13 +1764,12 @@
         "is_ai_related": false,
         "page": "startups",
         "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for it & software right now. Gopisetty was visiting the region in a personal capacity, the IT company said in a statement, adding that its immediate priority was to ensure his safety and well-being.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Global asset manager State Street Investment Management has completed its ₹580 Cr strategic investment in Groww’s mutual fund arm Groww&#8230;",
         "means_for_you": [
-          "IT names may see renewed buying interest.",
-          "A stronger rupee outlook usually follows good IT export data."
+          "Watch the index reaction rather than acting on this story alone."
         ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "e795ed026a",
@@ -1970,150 +2051,65 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "e8f8e314e4",
-        "title": "Ola Electric Secures Centre’s ₹95.81 Cr Incentive Under PLI-Auto Scheme",
-        "summary": "Electric two-wheeler maker Ola Electric has secured a ₹95.81 Cr incentive under the government’s Production Linked Incentive (PLI) Scheme from&#8230;",
-        "link": "https://inc42.com/buzz/ola-electric-secures-centres-%e2%82%b995-81-cr-incentive-under-pli-auto-scheme/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/ola-electric-secures-centres-%e2%82%b995-81-cr-incentive-under-pli-auto-scheme/"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 13:53:36 +0000",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for cars & vehicles right now. Electric two-wheeler maker Ola Electric has secured a ₹95.81 Cr incentive under the government’s Production Linked Incentive (PLI) Scheme from&#8230;",
-        "means_for_you": [
-          "Strong demand signals often spill into FMCG and cement a few sessions later.",
-          "Auto stocks may see momentum buying."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
-      },
-      {
-        "id": "cd98feb968",
-        "title": "New-Age Tech Stocks See Mixed Week; Ather Rallies 10%, Shiprocket Falls 9%",
-        "summary": "Investor sentiment towards new-age tech stocks remained subdued this week even as the IPO pipeline continued to expand. Shiprocket, LEAP&#8230;",
-        "link": "https://inc42.com/buzz/new-age-tech-stocks-see-mixed-week-ather-rallies-10-shiprocket-falls-9/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/new-age-tech-stocks-see-mixed-week-ather-rallies-10-shiprocket-falls-9/"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 12:59:30 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Investor sentiment towards new-age tech stocks remained subdued this week even as the IPO pipeline continued to expand. Shiprocket, LEAP&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "0d52403be1",
-        "title": "Meta’s $18 Bn Settlement: Why Should Teen Safety Stop At The US Border?",
-        "summary": "Earlier this week, Meta agreed to pay approximately $18 Bn to settle lawsuits brought by a bipartisan group of 52&#8230;",
-        "link": "https://inc42.com/features/metas-18-bn-settlement-why-should-teen-safety-stop-at-the-us-border/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/features/metas-18-bn-settlement-why-should-teen-safety-stop-at-the-us-border/"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 11:40:07 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Earlier this week, Meta agreed to pay approximately $18 Bn to settle lawsuits brought by a bipartisan group of 52&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "fd085ca135",
-        "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-        "summary": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;",
-        "link": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 10:55:59 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "66d3be8873",
-        "title": "Ather Launches Konarc Escooter At ₹99,999, Offers Up To 200 Km Range",
-        "summary": "EV maker Ather Energy has launched its new Konarc electric scooter at a starting price of ₹99,999 as it looks&#8230;",
-        "link": "https://inc42.com/buzz/ather-launches-konarc-escooter-at-%e2%82%b999999-offers-up-to-200-km-range/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/ather-launches-konarc-escooter-at-%e2%82%b999999-offers-up-to-200-km-range/"
-          }
-        ],
-        "published": "Sat, 29 Aug 2026 08:33:06 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. EV maker Ather Energy has launched its new Konarc electric scooter at a starting price of ₹99,999 as it looks&#8230;",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
+      {
+        "id": "5222e20f32",
+        "title": "Northern Arc Capital jumps 10% after Rs 335-crore block deal. Should you buy?",
+        "summary": "Northern Arc Capital shares surged after 1.21 crore shares changed hands in a large block deal during the morning session. The stock hit an intraday high of ₹315 and remained above its opening price and VWAP around noon, indicating that the early gains held through the session.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/northern-arc-capital-jumps-10-after-rs-335-crore-block-deal-should-you-buy/articleshow/133648534.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/northern-arc-capital-jumps-10-after-rs-335-crore-block-deal-should-you-buy/articleshow/133648534.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:57:52 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Northern Arc Capital shares surged after 1.21 crore shares changed hands in a large block deal during the morning session. The stock hit an intraday high of ₹315 and remained above its opening price a",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "58b8632de8",
+        "title": "Priority Jewels IPO Day 2: Issue book over 15 times so far, GMP signals 23% listing gain. Should you subscribe?",
+        "summary": "Priority Jewels IPO has attracted strong demand on Day 2, with the issue subscribed 15.61 times. The IPO is also commanding a 23% grey market premium, signalling potential listing gains. With the issue fully priced at 20.5x FY26 P/E, Anand Rathi has recommended subscribing to the",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-2-issue-book-over-15-times-so-far-gmp-signals-23-listing-gain-should-you-subscribe/articleshow/133646567.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-2-issue-book-over-15-times-so-far-gmp-signals-23-listing-gain-should-you-subscribe/articleshow/133646567.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:28:52 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Priority Jewels IPO has attracted strong demand on Day 2, with the issue subscribed 15.61 times. The IPO is also commanding a 23% grey market premium, signalling potential listing gains. With the issu",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
       {
         "id": "b777df07f9",
         "title": "Augmont Enterprises shares drop 2% after listing at 22% premium. Buy, sell or hold the stock?",
@@ -2143,27 +2139,83 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "30041f42ab",
-        "title": "Tempsens Instruments shares slide over 4% on profit booking after record listing",
-        "summary": "Tempsens Instruments shares fell over 4% on Monday as investors booked profits after the stock’s blockbuster debut on Friday. The shares had listed at a premium of more than 111% over the IPO price following strong demand for the Rs 650-crore issue, which was subscribed 184 times",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/tempsens-instruments-shares-slide-over-4-on-profit-booking-after-record-listing/articleshow/133643263.cms",
-        "source": "Economic Times Markets",
+        "id": "ef55aa75fb",
+        "title": "Hy-Tech Engineers IPO listing tomorrow. Here's what GMP signals ahead of debut",
+        "summary": "The issue witnessed an overwhelming response from investors, with the IPO subscribed a whopping 244.41 times.",
+        "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11788167550471.html",
+        "source": "LiveMint Markets",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/tempsens-instruments-shares-slide-over-4-on-profit-booking-after-record-listing/articleshow/133643263.cms"
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11788167550471.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 11:21:52 +0530",
+        "published": "Mon, 31 Aug 2026 15:05:22 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "pe_ib",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Tempsens Instruments shares fell over 4% on Monday as investors booked profits after the stock’s blockbuster debut on Friday. The shares had listed at a premium of more than 111% over the IPO price fo",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. The issue witnessed an overwhelming response from investors, with the IPO subscribed a whopping 244.41 times.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "00caf2574b",
+        "title": "Symbiotec Pharmalab IPO listing tomorrow: Here’s what GMP hints ahead of debut",
+        "summary": "Symbiotec Pharmalab IPO, which was oversubscribed 73.63 times by non-institutional investors, will list on 1 September. The grey market premium is currently +203, indicating a potential listing price above the IPO price of  ₹988.",
+        "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11788164947496.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11788164947496.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:29:28 +0530",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for medicine & pharma right now. Symbiotec Pharmalab IPO, which was oversubscribed 73.63 times by non-institutional investors, will list on 1 September. The grey market premium is currently +203, indicating a potential listing price",
+        "means_for_you": [
+          "Good news here is usually stock-specific — check which company before acting."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      },
+      {
+        "id": "50b6fd15c9",
+        "title": "Ather Energy share price hits lifetime high | Delivers 423% returns from IPO price",
+        "summary": "Ather Energy shares rose nearly 4% to a record  ₹1,679 following the launch of its mass-market scooter, Ather Konarc, priced from  ₹99,999. The Konarc aims to attract a wider audience and expands Ather's product range beyond premium models.",
+        "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-hits-lifetime-high-delivers-423-returns-from-ipo-price-11788162211726.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-hits-lifetime-high-delivers-423-returns-from-ipo-price-11788162211726.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:40:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Ather Energy shares rose nearly 4% to a record  ₹1,679 following the launch of its mass-market scooter, Ather Konarc, priced from  ₹99,999. The Konarc aims to attract a wider audience and expands Athe",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -2197,67 +2249,69 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "41022384e4",
-        "title": "Augmont Enterprises share price jumps over 29% from IPO price on listing day: Should you buy, sell or hold?",
-        "summary": "On August 31, 2026, Augmont Enterprises listed its shares at a premium of 21.95%. Despite a strong debut, analysts advise caution due to governance risks and high valuations, recommending partial profit booking for investors and monitoring stock movements around  ₹1,000.",
-        "link": "https://www.livemint.com/market/stock-market-news/augmont-enterprises-share-price-jumps-over-29-from-ipo-price-on-listing-day-should-you-buy-sell-or-hold-11788154843956.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/augmont-enterprises-share-price-jumps-over-29-from-ipo-price-on-listing-day-should-you-buy-sell-or-hold-11788154843956.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:36:49 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 6
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. On August 31, 2026, Augmont Enterprises listed its shares at a premium of 21.95%. Despite a strong debut, analysts advise caution due to governance risks and high valuations, recommending partial prof",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "8af117256a",
-        "title": "Augmont IPO listing: Shares list at a 22% premium on NSE, extend gains despite weak stock market sentiment",
-        "summary": "Augmont IPO listing: Augmont Enterprises shares listed at  ₹961 on the NSE, up 21.95% from the issue price of  ₹788, while on the BSE, they debuted at  ₹956, up 21.32% from the issue price.",
-        "link": "https://www.livemint.com/market/ipo/augmont-ipo-listing-shares-list-at-a-22-premium-on-nse-11788150034600.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/ipo/augmont-ipo-listing-shares-list-at-a-22-premium-on-nse-11788150034600.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:00:42 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Augmont IPO listing: Augmont Enterprises shares listed at  ₹961 on the NSE, up 21.95% from the issue price of  ₹788, while on the BSE, they debuted at  ₹956, up 21.32% from the issue price.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
   "sectors": {
     "Banks & Money": [
+      {
+        "id": "5ec6f966da",
+        "title": "Global Market: China, Hong Kong stocks slip as weak economic data and property overhaul weigh",
+        "summary": "Chinese and Hong Kong stocks declined as weak economic data highlighted a fragile recovery, while new measures to reform China’s housing presale system triggered a sharp selloff in property shares. Gold stocks also weakened after hawkish Fed signals, while strong first-half earni",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-weak-economic-data-and-property-overhaul-weigh/articleshow/133648638.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-weak-economic-data-and-property-overhaul-weigh/articleshow/133648638.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 15:01:14 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Chinese and Hong Kong stocks declined as weak economic data highlighted a fragile recovery, while new measures to reform China’s housing presale system triggered a sharp selloff in property shares. Go",
+        "means_for_you": [
+          "Borrowing costs could tick up — factor this into EMI planning.",
+          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "5460b305b3",
+        "title": "Global Market: European central bankers leave Jackson Hole uneasy over US policy shifts",
+        "summary": "European central bankers left the Jackson Hole symposium concerned that recent US Treasury interventions could strain long-standing norms of global financial cooperation. Unannounced yen intervention, Treasury bond buybacks and uncertainty over Fed dollar swap lines have raised c",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-central-bankers-leave-jackson-hole-uneasy-over-us-policy-shifts/articleshow/133648588.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-central-bankers-leave-jackson-hole-uneasy-over-us-policy-shifts/articleshow/133648588.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:59:36 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for banks & money right now. European central bankers left the Jackson Hole symposium concerned that recent US Treasury interventions could strain long-standing norms of global financial cooperation. Unannounced yen intervention,",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
       {
         "id": "f743958bdd",
         "title": "Jefferies cuts HDFC Bank share price target but retains Buy after CEO opts out of new term. Here’s why",
@@ -2338,35 +2392,6 @@
         "page": "stock_market",
         "jetro_impact": "Neutral For Indian Stocks",
         "in_simple_words": "Not a big mover either way for banks & money right now. Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against admitted creditor clai",
-        "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "e2fa94b5a5",
-        "title": "US Stock Market: Warsh signals Fed may need to raise rates if inflation remains elevated",
-        "summary": "Fed Chair Kevin Warsh signalled that the US central bank could raise interest rates if inflation fails to move closer to its 2% target, triggering a sharp shift in market expectations. Treasury yields climbed as investors raised bets on a September rate hike, with upcoming inflat",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warsh-signals-fed-may-need-to-raise-rates-if-inflation-remains-elevated/articleshow/133642733.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warsh-signals-fed-may-need-to-raise-rates-if-inflation-remains-elevated/articleshow/133642733.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:53:00 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Fed Chair Kevin Warsh signalled that the US central bank could raise interest rates if inflation fails to move closer to its 2% target, triggering a sharp shift in market expectations. Treasury yields",
         "means_for_you": [
           "Home loan / EMI rates are unlikely to rise from here.",
           "Banking stocks in a portfolio may see near-term support."
@@ -2462,6 +2487,35 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "5077094248",
+        "title": "From PB Fintech to Axis Bank- SAMCO Securities' expert recommends 5 stocks to buy now for long term",
+        "summary": "Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fintech and Axis Bank, which show strong technical momentum.",
+        "link": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 15:32:28 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Stocks to buy for the long term: The Indian stock market is range-bound amid geopolitical concerns, but experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fint",
+        "means_for_you": [
+          "Home loan / EMI rates are unlikely to rise from here.",
+          "Banking stocks in a portfolio may see near-term support."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "960810ca86",
         "title": "Rising US bond yields or oil prices at $90 per barrel- Which is the bigger risk for stock markets?",
         "summary": "As US bond yields rise and oil prices hover around $90 per barrel, analysts debate which factor poses a greater threat to the Indian stock market. Insights reveal that while yields impact sentiment, oil prices have direct consequences, especially if they soar above $100.",
@@ -2518,70 +2572,238 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
+      }
+    ],
+    "Global & Macro": [
       {
-        "id": "91bc4f452c",
-        "title": "Zee Entertainment share price crashes over 14%- Here's why",
-        "summary": "Zee shares are witnessing a heavy selloff after Canara Bank, Union Bank of India, and LIC Housing Finance said they will challenge the NCLT order approving a repayment plan proposed by Essel Group founder Subhash Chandra.",
-        "link": "https://www.livemint.com/market/stock-market-news/zee-entertainment-share-price-crashes-over-14-heres-why-11788153072072.html",
-        "source": "LiveMint Markets",
+        "id": "2af212d26d",
+        "title": "Why India’s new closing auction is agonising traders: Q&amp;A",
+        "summary": "India’s new 20-minute closing auction system is facing renewed scrutiny after the Sensex briefly plunged nearly 3% during Thursday’s session, highlighting concerns over thin liquidity and price volatility. Introduced on August 3 to improve price discovery and align India with glo",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-new-closing-auction-is-agonising-traders-qa/articleshow/133648125.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/zee-entertainment-share-price-crashes-over-14-heres-why-11788153072072.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-new-closing-auction-is-agonising-traders-qa/articleshow/133648125.cms"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:50:04 +0530",
-        "sector": "Banks & Money",
+        "published": "Mon, 31 Aug 2026 14:40:54 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Bearish",
-          "score": -2
+          "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Zee shares are witnessing a heavy selloff after Canara Bank, Union Bank of India, and LIC Housing Finance said they will challenge the NCLT order approving a repayment plan proposed by Essel Group fou",
+        "jetro_impact": "Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. India’s new 20-minute closing auction system is facing renewed scrutiny after the Sensex briefly plunged nearly 3% during Thursday’s session, highlighting concerns over thin liquidity and price volati",
         "means_for_you": [
-          "Borrowing costs could tick up — factor this into EMI planning.",
-          "Banking stocks may see pressure; avoid fresh entries until it stabilises."
+          "Broad market headwind — consider being selective rather than aggressive today."
         ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "b49a0c5d38",
-        "title": "HDFC Bank shares gain as focus turns to CEO succession",
-        "summary": "An expedited search for the next HDFC Bank CEO will reduce uncertainty, analysts say, even as the lender weighs an insider and an &amp;nbsp;outsider for the top job.",
-        "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-gain-as-focus-turns-to-ceo-succession-11788151482890.html",
+        "id": "d5e84e4d4b",
+        "title": "US Stock Market: Barclays turns hawkish on Fed, sees two rate hikes in 2026",
+        "summary": "Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for unchanged rates. The shift follows hawkish remarks from Fed Chair Kevin Warsh an",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:07:41 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "e8b3622075",
+        "title": "Sterlite Tech stock has surged 7x. Is the rally running ahead of earnings?",
+        "summary": "Sterlite Technologies has surged 7x in 2026 on strong US demand, FII buying and big orders. But with margins already normalized from the US tariff impact and valuations stretched, has the stock already priced in the good news?",
+        "link": "https://www.livemint.com/market/mark-to-market/sterlite-technologies-stl-optical-fibre-data-centres-hyperscalers-fii-buying-order-book-ebitda-margin-us-market-11788158932334.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-gain-as-focus-turns-to-ceo-succession-11788151482890.html"
+            "url": "https://www.livemint.com/market/mark-to-market/sterlite-technologies-stl-optical-fibre-data-centres-hyperscalers-fii-buying-order-book-ebitda-margin-us-market-11788158932334.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:21:16 +0530",
-        "sector": "Banks & Money",
+        "published": "Mon, 31 Aug 2026 13:29:03 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Bullish",
-          "score": 1
+          "score": 4
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. An expedited search for the next HDFC Bank CEO will reduce uncertainty, analysts say, even as the lender weighs an insider and an &amp;nbsp;outsider for the top job.",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Sterlite Technologies has surged 7x in 2026 on strong US demand, FII buying and big orders. But with margins already normalized from the US tariff impact and valuations stretched, has the stock alread",
         "means_for_you": [
-          "Home loan / EMI rates are unlikely to rise from here.",
-          "Banking stocks in a portfolio may see near-term support."
+          "Broad market tailwind — most sectors may benefit, not just one."
         ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "ef1e8745cf",
+        "title": "Stocks to buy for short term: 24,400 key hurdle for Nifty 50, says Anand Rathi's Jigar Patel, suggests 3 stock picks",
+        "summary": "Stocks to buy for short term: Jigar Patel from Anand Rathi presents key insights on Nifty 50's pivotal support levels and forecasts rewarding stock picks. Discover promising opportunities for short-term investments.",
+        "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-24-400-key-hurdle-for-nifty-50-says-anand-rathis-jigar-patel-suggests-3-stock-picks-11788155193981.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-24-400-key-hurdle-for-nifty-50-says-anand-rathis-jigar-patel-suggests-3-stock-picks-11788155193981.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 11:39:30 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Stocks to buy for short term: Jigar Patel from Anand Rathi presents key insights on Nifty 50's pivotal support levels and forecasts rewarding stock picks. Discover promising opportunities for short-te",
+        "means_for_you": [
+          "Broad market tailwind — most sectors may benefit, not just one."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       }
     ],
     "General Markets": [
       {
+        "id": "9cfbcf2c02",
+        "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
+        "summary": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hold calls on Dixon and Syrma SGS Technology. It expects stronger competition for m",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:36:57 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hol",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "21f853a7f5",
+        "title": "G20, US Jobs Data, Rate Decisions: 5 key global market triggers this week",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/g20-us-jobs-data-rate-decisions-5-key-global-market-triggers-this-week/slideshow/133647015.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/g20-us-jobs-data-rate-decisions-5-key-global-market-triggers-this-week/slideshow/133647015.cms"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 13:32:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "02772ce4c8",
-        "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to  Rs 100-500 crore from MEIL",
+        "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to  Rs 500 crore from MEIL",
         "summary": "Transformers and Rectifiers shares rallied on Monday after the company secured a large order from MEIL for manufacturing transformers and related work. Valued at Rs 100 crore to Rs 500 crore, excluding GST, the order is scheduled for execution over 35 months and is expected to st",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/transformers-and-rectifiers-shares-rally-8-after-receiving-order-worth-up-to-rs-100-500-crore-from-meil/articleshow/133645581.cms",
         "source": "Economic Times Markets",
@@ -2601,146 +2823,6 @@
         "page": "stock_market",
         "jetro_impact": "Positive For Indian Stocks",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Transformers and Rectifiers shares rallied on Monday after the company secured a large order from MEIL for manufacturing transformers and related work. Valued at Rs 100 crore to Rs 500 crore, excludin",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "2398c654a1",
-        "title": "Nvidia stock under pressure. What’s behind the pullback?",
-        "summary": "Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:59:55 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "faebbb322a",
-        "title": "IGL shares jump 3% after CNG price hike in Delhi NCR. What lies ahead?",
-        "summary": "IGL shares witnessed an uptick on Monday after the company hiked CNG prices by Rs 3.89 per kg in Delhi-NCR, citing higher imported LNG costs. The increase marks the fifth price hike this year. Citi retained its Buy rating on IGL, saying the latest hike could improve realisations ",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-shares-jump-3-after-cng-price-hike-in-delhi-ncr-what-lies-ahead/articleshow/133643841.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/igl-shares-jump-3-after-cng-price-hike-in-delhi-ncr-what-lies-ahead/articleshow/133643841.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:37:43 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. IGL shares witnessed an uptick on Monday after the company hiked CNG prices by Rs 3.89 per kg in Delhi-NCR, citing higher imported LNG costs. The increase marks the fifth price hike this year. Citi re",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "84f9f7fd94",
-        "title": "Ather Energy shares rally 4% after launch of Konarc electric scooter at Rs 99,999. Buy, sell or hold the stock?",
-        "summary": "Ather Energy shares rose after the company launched its new Konarc electric scooter at a starting price of ₹99,999. The model will be offered in six variants across the S and Z lines, with IDC ranges of up to 200 km. Ather Energy shares have gained 132% over the past six months.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:27:03 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ather Energy shares rose after the company launched its new Konarc electric scooter at a starting price of ₹99,999. The model will be offered in six variants across the S and Z lines, with IDC ranges",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "1e30f01ec4",
-        "title": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-        "summary": "US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on the Federal Reserve’s interest-rate path, while Broadcom’s outlook could determ",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:01:38 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 5
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "18c319b5b3",
-        "title": "Jefferies initiates coverage on Leela Hotels with Buy rating, sees 22% upside",
-        "summary": "Jefferies initiated coverage on Leela Hotels with a Buy rating and a Rs 675 target, citing India’s premiumisation trend, rising luxury travel demand and the company’s owned-led expansion strategy. The brokerage expects strong revenue and earnings growth through FY29, supported by",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-leela-hotels-with-buy-rating-sees-22-upside/articleshow/133642668.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-leela-hotels-with-buy-rating-sees-22-upside/articleshow/133642668.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:46:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Jefferies initiated coverage on Leela Hotels with a Buy rating and a Rs 675 target, citing India’s premiumisation trend, rising luxury travel demand and the company’s owned-led expansion strategy. The",
         "means_for_you": [
           "Watch the index reaction rather than acting on this story alone."
         ],
@@ -3056,6 +3138,118 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "40491ca6f6",
+        "title": "Expert view: Range-bound market may impact domestic capital inflows, says Samco Mutual Fund's CIO",
+        "summary": "Expert view: Samco Mutual Fund's CIO emphasises the importance of diversification and long-term investment strategies. As volatility looms, he reassures investors about the resilience of domestic capital inflows and highlights promising sectors beyond just AI-focused companies.",
+        "link": "https://www.livemint.com/market/stock-market-news/expert-view-range-bound-market-may-impact-domestic-capital-inflows-says-samco-mutual-funds-cio-11788167267325.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/expert-view-range-bound-market-may-impact-domestic-capital-inflows-says-samco-mutual-funds-cio-11788167267325.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:51:45 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Neutral For Indian Stocks",
+        "in_simple_words": "Not a big mover either way for general markets right now. Expert view: Samco Mutual Fund's CIO emphasises the importance of diversification and long-term investment strategies. As volatility looms, he reassures investors about the resilience of domestic capi",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "4406553409",
+        "title": "Multibagger stock hits record high, logging 5% intraday gain despite weak trends on Dalal Street",
+        "summary": "Multibagger stock: Ratnveer Precision Engineering share price surged as much as 5%, hitting a new record high of  ₹314.90 during Monday's trading session ahead of the rights issue.",
+        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ratnveer-precision-engineering-hits-record-high-logging-5-intraday-gain-11788166459346.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ratnveer-precision-engineering-hits-record-high-logging-5-intraday-gain-11788166459346.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:50:07 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Multibagger stock: Ratnveer Precision Engineering share price surged as much as 5%, hitting a new record high of  ₹314.90 during Monday's trading session ahead of the rights issue.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "fd57fb48a5",
+        "title": "A cog in the wheel for office leasing",
+        "summary": "India’s office leasing momentum weakened in Q1FY27 as the West Asia war delayed deals. Gross absorption fell 6% and net absorption 21%. However, lower supply eased vacancy, while GCC demand and strong REIT occupancy supported rental growth.",
+        "link": "https://www.livemint.com/market/mark-to-market/office-leasing-india-west-asia-war-11788160806410.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/mark-to-market/office-leasing-india-west-asia-war-11788160806410.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:21:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s office leasing momentum weakened in Q1FY27 as the West Asia war delayed deals. Gross absorption fell 6% and net absorption 21%. However, lower supply eased vacancy, while GCC demand and strong",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e8b7c81ef7",
+        "title": "Balrampur Chini, Shree Renuka Sugars to Mawana Sugars: Sugar stocks rise up to 11%. Do you own any of these?",
+        "summary": "Balrampur Chini Mills emerged as the top gainer among the stocks, climbing 10%, touching an intraday high of  ₹738 per share.",
+        "link": "https://www.livemint.com/market/stock-market-news/balrampur-chini-shree-renuka-sugars-to-mawana-sugars-sugar-stocks-rise-up-to-11-do-you-own-any-of-these-11788161963599.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/balrampur-chini-shree-renuka-sugars-to-mawana-sugars-sugar-stocks-rise-up-to-11-do-you-own-any-of-these-11788161963599.html"
+          }
+        ],
+        "published": "Mon, 31 Aug 2026 14:00:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "jetro_impact": "Highly Positive For Indian Stocks",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Balrampur Chini Mills emerged as the top gainer among the stocks, climbing 10%, touching an intraday high of  ₹738 per share.",
+        "means_for_you": [
+          "Watch the index reaction rather than acting on this story alone."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "9931f333a3",
         "title": "Small-cap IT stock associates with Mahesh Babu Foundation. Do you own?",
         "summary": "Blue Cloud Softech Solutions share price was trading marginally lower on Monday amid sell-off on Dalal Street. The small-cap IT stock opened at  ₹20.25 on BSE today, as compared to previous close of  ₹20.21 on Friday.",
@@ -3082,21 +3276,23 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
+      }
+    ],
+    "Energy & Oil": [
       {
-        "id": "71c8ffe45d",
-        "title": "Emerging-Market Stocks Fall as Warsh Stokes Fed Rate-Hike Bets",
-        "summary": "Emerging-market equities and currencies declined as investors weighed the prospect of higher US interest rates following hawkish comments from Federal Reserve Chair Kevin Warsh.",
-        "link": "https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html",
-        "source": "LiveMint Markets",
+        "id": "d2cc061815",
+        "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
+        "summary": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallcap 100 indices. Influenced by ",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms"
           }
         ],
-        "published": "Mon, 31 Aug 2026 11:39:09 +0530",
-        "sector": "General Markets",
+        "published": "Mon, 31 Aug 2026 14:34:46 +0530",
+        "sector": "Energy & Oil",
         "sentiment": {
           "label": "Bearish",
           "score": -2
@@ -3104,43 +3300,14 @@
         "is_ai_related": false,
         "page": "stock_market",
         "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Emerging-market equities and currencies declined as investors weighed the prospect of higher US interest rates following hawkish comments from Federal Reserve Chair Kevin Warsh.",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negat",
         "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
+          "Rising crude can pressure the rupee and add to inflation worries.",
+          "Energy-heavy portfolios may see near-term volatility."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
-      {
-        "id": "697482dd46",
-        "title": "MSCI Rejig: Adani Energy, Lenskart, Groww to see inflows; Reliance weight trimmed",
-        "summary": "The MSCI index reshuffle will highlight several Indian stocks as portfolio adjustments take effect on September 1. This could lead to increased trading volume and volatility, especially in low liquidity stocks, marking the first major test of India's new closing auction system.",
-        "link": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-energy-lenskart-groww-to-see-inflows-reliance-weight-trimmed-11788149469073.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-energy-lenskart-groww-to-see-inflows-reliance-weight-trimmed-11788149469073.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:04:08 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for general markets right now. The MSCI index reshuffle will highlight several Indian stocks as portfolio adjustments take effect on September 1. This could lead to increased trading volume and volatility, especially in low liquidi",
-        "means_for_you": [
-          "Watch the index reaction rather than acting on this story alone."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      }
-    ],
-    "Energy & Oil": [
       {
         "id": "d81955e74b",
         "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount",
@@ -3169,123 +3336,6 @@
         ],
         "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
         "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "9ba2c285ea",
-        "title": "Nomura initiates coverage on Clean Max Enviro with Buy call. Check upside potential, key reasons",
-        "summary": "Nomura initiated coverage on Clean Max Enviro Energy Solutions with a Buy rating and a Rs 1,510 target, implying 21% upside, citing strong growth prospects in India’s C&amp;I renewable energy market. The brokerage expects revenue and EBITDA to grow at CAGRs of 39% and 50%, respec",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-clean-max-enviro-with-buy-call-check-upside-potential-key-reasons/articleshow/133643047.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-clean-max-enviro-with-buy-call-check-upside-potential-key-reasons/articleshow/133643047.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:08:28 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Nomura initiated coverage on Clean Max Enviro Energy Solutions with a Buy rating and a Rs 1,510 target, implying 21% upside, citing strong growth prospects in India’s C&amp;I renewable energy market.",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "32da197c12",
-        "title": "China’s August LNG Imports Set to Drop as High Prices Hit Demand",
-        "summary": "China’s imports of liquefied natural gas are set to drop this month from a year earlier, according to ship-tracking data, as higher prices triggered by the war in the Middle East weighed on consumption.",
-        "link": "https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:56:15 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. China’s imports of liquefied natural gas are set to drop this month from a year earlier, according to ship-tracking data, as higher prices triggered by the war in the Middle East weighed on consumptio",
-        "means_for_you": [
-          "Rising crude can pressure the rupee and add to inflation worries.",
-          "Energy-heavy portfolios may see near-term volatility."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "64ebf8d23c",
-        "title": "Asian Refiners Scoop Up Argentinian Oil as Iran War Hits Supply",
-        "summary": "Asian refiners have increased purchases of Argentinian crude as the Iran war disrupts supply from the Middle East and drives competition for barrels from other regions.",
-        "link": "https://www.livemint.com/market/asian-refiners-scoop-up-argentinian-oil-as-iran-war-hits-supply-11788149934114.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/asian-refiners-scoop-up-argentinian-oil-as-iran-war-hits-supply-11788149934114.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 09:48:53 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Asian refiners have increased purchases of Argentinian crude as the Iran war disrupts supply from the Middle East and drives competition for barrels from other regions.",
-        "means_for_you": [
-          "Lower crude is generally good for India's inflation and the rupee too.",
-          "Oil marketing companies may see margin improvement."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
-    "Metals & Mining": [
-      {
-        "id": "b2ae64106c",
-        "title": "Hindustan Zinc, Vedanta, Nalco and other metal stocks slide up to 5%. Here's why",
-        "summary": "Metal stocks tumbled up to 5% on Monday, with the Nifty Metal index falling over 2% amid a decline in metal prices and rising expectations of higher-for-longer US interest rates. Profit booking after the index’s strong August rally also weighed on sentiment, while Jefferies remai",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vedanta-nalco-and-other-metal-stocks-slide-up-to-5-heres-why/articleshow/133642626.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vedanta-nalco-and-other-metal-stocks-slide-up-to-5-heres-why/articleshow/133642626.cms"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 10:43:04 +0530",
-        "sector": "Metals & Mining",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Positive For Indian Stocks",
-        "in_simple_words": "This is good news for metals & mining — sentiment turned more positive. Metal stocks tumbled up to 5% on Monday, with the Nifty Metal index falling over 2% amid a decline in metal prices and rising expectations of higher-for-longer US interest rates. Profit booking after",
-        "means_for_you": [
-          "Global commodity strength is driving this, not just local factors."
-        ],
-        "why_matters": "Metals move with global commodity cycles and China demand more than domestic headlines.",
-        "watch": "Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       }
     ],
     "Medicine & Pharma": [
@@ -3316,120 +3366,6 @@
         ],
         "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
         "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      }
-    ],
-    "Global & Macro": [
-      {
-        "id": "5e291aa3cd",
-        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "806bc030a2",
-        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "e8b3622075",
-        "title": "Sterlite Tech stock has surged 7x. Is the rally running ahead of earnings?",
-        "summary": "Sterlite Technologies has surged 7x in 2026 on strong US demand, FII buying and big orders. But with margins already normalized from the US tariff impact and valuations stretched, has the stock already priced in the good news?",
-        "link": "https://www.livemint.com/market/mark-to-market/sterlite-technologies-stl-optical-fibre-data-centres-hyperscalers-fii-buying-order-book-ebitda-margin-us-market-11788158932334.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/mark-to-market/sterlite-technologies-stl-optical-fibre-data-centres-hyperscalers-fii-buying-order-book-ebitda-margin-us-market-11788158932334.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 13:29:03 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Highly Positive For Indian Stocks",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Sterlite Technologies has surged 7x in 2026 on strong US demand, FII buying and big orders. But with margins already normalized from the US tariff impact and valuations stretched, has the stock alread",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "ef1e8745cf",
-        "title": "Stocks to buy for short term: 24,400 key hurdle for Nifty 50, says Anand Rathi's Jigar Patel, suggests 3 stock picks",
-        "summary": "Stocks to buy for short term: Jigar Patel from Anand Rathi presents key insights on Nifty 50's pivotal support levels and forecasts rewarding stock picks. Discover promising opportunities for short-term investments.",
-        "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-24-400-key-hurdle-for-nifty-50-says-anand-rathis-jigar-patel-suggests-3-stock-picks-11788155193981.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-24-400-key-hurdle-for-nifty-50-says-anand-rathis-jigar-patel-suggests-3-stock-picks-11788155193981.html"
-          }
-        ],
-        "published": "Mon, 31 Aug 2026 11:39:30 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "jetro_impact": "Neutral For Indian Stocks",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Stocks to buy for short term: Jigar Patel from Anand Rathi presents key insights on Nifty 50's pivotal support levels and forecasts rewarding stock picks. Discover promising opportunities for short-te",
-        "means_for_you": [
-          "Broad market tailwind — most sectors may benefit, not just one."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector, and shows up first at the opening bell.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       }
     ],
     "FMCG": [
@@ -3490,88 +3426,62 @@
         ],
         "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
         "watch": "Realty Index, DLF, cement and construction names"
-      },
+      }
+    ],
+    "Metals & Mining": [
       {
-        "id": "224b5fdb79",
-        "title": "Knowledge Realty Trust OFS opens today: From floor price to issue size, key things investors must know",
-        "summary": "Units of Knowledge Realty Trust Ltd. dropped 2.5% on August 31 after Blackstone-linked entities announced an OFS. The floor price is set at  ₹108, potentially raising up to  ₹11,988 crore for the trust.",
-        "link": "https://www.livemint.com/market/stock-market-news/knowledge-realty-trust-ofs-opens-today-from-floor-price-to-issue-size-key-things-investors-must-know-11788153177748.html",
+        "id": "922a19d3f7",
+        "title": "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
+        "summary": "Hindustan Zinc fell as much as 4.7% to its day's low of  ₹592.05. NALCO declined 3.8% to  ₹369, while Vedanta dropped 3.7% to  ₹276.50. Hindalco shed 3% to  ₹1,005.30. Hind Copper also declined 2.5% to  ₹520.20 during the session.",
+        "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vedanta-to-nalco-why-are-metal-stocks-falling-today-us-fed-signals-rate-hike-gold-rate-silver-rate-11788164854766.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/knowledge-realty-trust-ofs-opens-today-from-floor-price-to-issue-size-key-things-investors-must-know-11788153177748.html"
+            "url": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vedanta-to-nalco-why-are-metal-stocks-falling-today-us-fed-signals-rate-hike-gold-rate-silver-rate-11788164854766.html"
           }
         ],
-        "published": "Mon, 31 Aug 2026 10:55:09 +0530",
-        "sector": "Real Estate/Housing",
+        "published": "Mon, 31 Aug 2026 14:22:22 +0530",
+        "sector": "Metals & Mining",
         "sentiment": {
           "label": "Bearish",
-          "score": -1
+          "score": -4
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "jetro_impact": "Negative For Indian Stocks",
-        "in_simple_words": "This is a caution sign for real estate/housing — sentiment turned more negative. Units of Knowledge Realty Trust Ltd. dropped 2.5% on August 31 after Blackstone-linked entities announced an OFS. The floor price is set at  ₹108, potentially raising up to  ₹11,988 crore for the trus",
+        "jetro_impact": "Highly Negative For Indian Stocks",
+        "in_simple_words": "This is a caution sign for metals & mining — sentiment turned more negative. Hindustan Zinc fell as much as 4.7% to its day's low of  ₹592.05. NALCO declined 3.8% to  ₹369, while Vedanta dropped 3.7% to  ₹276.50. Hindalco shed 3% to  ₹1,005.30. Hind Copper also declined 2.5% t",
         "means_for_you": [
-          "Rate worries can cool real estate and construction stocks quickly."
+          "Global demand weakness can pressure these stocks regardless of Indian data."
         ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
+        "why_matters": "Metals move with global commodity cycles and China demand more than domestic headlines.",
+        "watch": "Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       }
     ]
   },
   "ai_in_finance": [
     {
-      "id": "2398c654a1",
-      "title": "Nvidia stock under pressure. What’s behind the pullback?",
-      "summary": "Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms",
-      "source": "Economic Times Markets",
+      "id": "75cc66ec7a",
+      "title": "Government notifies Rs 1.27L-cr Semicon 2.0 with eligibility norms, sops",
+      "summary": "The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
+      "link": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
+      "source": "YourStory",
       "sources": [
         {
-          "name": "Economic Times Markets",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops"
         }
       ],
-      "published": "Mon, 31 Aug 2026 11:59:55 +0530",
+      "published": "Mon, 31 Aug 2026 08:23:23 GMT",
       "sector": "General Markets",
       "sentiment": {
         "label": "Neutral",
         "score": 0
       },
       "is_ai_related": true,
-      "page": "stock_market",
+      "page": "startups",
       "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for general markets right now. Nvidia has paused some deals under a new financing initiative for AI cloud companies.",
-      "means_for_you": [
-        "Watch the index reaction rather than acting on this story alone."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "1e30f01ec4",
-      "title": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-      "summary": "US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on the Federal Reserve’s interest-rate path, while Broadcom’s outlook could determ",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms",
-      "source": "Economic Times Markets",
-      "sources": [
-        {
-          "name": "Economic Times Markets",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms"
-        }
-      ],
-      "published": "Mon, 31 Aug 2026 11:01:38 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Bullish",
-        "score": 5
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "jetro_impact": "Highly Positive For Indian Stocks",
-      "in_simple_words": "This is good news for general markets — sentiment turned more positive. US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on",
+      "in_simple_words": "Not a big mover either way for general markets right now. The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory.",
       "means_for_you": [
         "Watch the index reaction rather than acting on this story alone."
       ],
@@ -3607,27 +3517,27 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "47736f11d6",
-      "title": "Why logistics AI is becoming the bext big bet for investors",
-      "summary": "AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
-      "link": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
+      "id": "024a5ccf34",
+      "title": "AssessPrep turns test scores into data schools can use; VC inflow into startups sees marginal rise",
+      "summary": "AssessPrep uses AI to create, grade, and analyse tests, helping schools see where students are struggling, and not just what they scored. Venture capital funding into Indian startups rose marginally in the last week of August.",
+      "link": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow",
       "source": "YourStory",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-"
+          "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow"
         }
       ],
-      "published": "Sat, 29 Aug 2026 02:30:00 GMT",
+      "published": "Sun, 30 Aug 2026 02:00:00 GMT",
       "sector": "General Markets",
       "sentiment": {
-        "label": "Neutral",
-        "score": 0
+        "label": "Bullish",
+        "score": 1
       },
       "is_ai_related": true,
       "page": "startups",
-      "jetro_impact": "Neutral For Indian Stocks",
-      "in_simple_words": "Not a big mover either way for general markets right now. AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action.",
+      "jetro_impact": "Positive For Indian Stocks",
+      "in_simple_words": "This is good news for general markets — sentiment turned more positive. AssessPrep uses AI to create, grade, and analyse tests, helping schools see where students are struggling, and not just what they scored. Venture capital funding into Indian startups rose marginally i",
       "means_for_you": [
         "Watch the index reaction rather than acting on this story alone."
       ],
@@ -3666,33 +3576,33 @@
   ],
   "index_snapshot": {
     "NIFTY 50": {
-      "price": 24065.45,
-      "change": -110.2,
-      "pct": -0.46
+      "price": 24080.4,
+      "change": -95.25,
+      "pct": -0.39
     },
     "SENSEX": {
-      "price": 76986.5,
-      "change": -278.01,
-      "pct": -0.36
+      "price": 76834.93,
+      "change": -429.58,
+      "pct": -0.56
     },
     "BANK NIFTY": {
-      "price": 57407.75,
-      "change": -88.55,
-      "pct": -0.15
+      "price": 58024.95,
+      "change": 528.65,
+      "pct": 0.92
     }
   },
   "total_articles": 79,
   "disclaimer": "Daily Planet explains the mechanism behind each story — not a buy/sell signal. Always do your own research before trading.",
   "editorial": {
     "why_market_moved": {
-      "headline": "NIFTY fell 0.46% — WHY?",
-      "what_happened": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-      "numbers_changed": "NIFTY -0.46%, SENSEX -0.36%, Bank Nifty -0.15%",
+      "headline": "NIFTY fell 0.39% — WHY?",
+      "what_happened": "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
+      "numbers_changed": "NIFTY -0.39%, SENSEX -0.56%, Bank Nifty 0.92%",
       "sectors_affected": "Banks & Money, IT & Software, Cars & Vehicles, Medicine & Pharma, Energy & Oil, Real Estate/Housing",
-      "companies_that_matter": "Nifty 50, Sensex",
-      "market_impact": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "companies_that_matter": "Tata Steel, JSW Steel, Hindalco, Nifty Metal",
+      "market_impact": "Metals move with global commodity cycles and China demand more than domestic headlines.",
       "what_could_change_view": "A reversal in FII/DII flows or a surprise RBI/global rate move.",
-      "why_investor_should_care": "This is good news for general markets — sentiment turned more positive. US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on"
+      "why_investor_should_care": "This is a caution sign for metals & mining — sentiment turned more negative. Hindustan Zinc fell as much as 4.7% to its day's low of  ₹592.05. NALCO declined 3.8% to  ₹369, while Vedanta dropped 3.7% to  ₹276.50. Hindalco shed 3% to  ₹1,005.30. Hind Copper also declined 2.5% t"
     },
     "money_trail": {
       "fii": "Not mentioned in today's headlines — check NSE provisional data directly.",
@@ -3703,19 +3613,20 @@
     "one_minute_market": {
       "nifty_dir": "down",
       "sensex_dir": "down",
-      "banknifty_dir": "down",
+      "banknifty_dir": "up",
       "reasons": [
-        "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-        "Jefferies initiates coverage on Leela Hotels with Buy rating, sees 22% upside",
-        "Sterlite Tech stock has surged 7x. Is the rally running ahead of earnings?"
+        "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
+        "Sterlite Tech stock has surged 7x. Is the rally running ahead of earnings?",
+        "Global Market: China, Hong Kong stocks slip as weak economic data and property overhaul weigh"
       ],
       "winners": [
-        "Cars & Vehicles (0.1%)"
+        "Banks & Money (0.92%)",
+        "Medicine & Pharma (0.72%)"
       ],
       "losers": [
-        "Energy & Oil (-0.66%)",
-        "IT & Software (-1.42%)",
-        "Real Estate/Housing (-1.42%)"
+        "Energy & Oil (-0.14%)",
+        "IT & Software (-0.29%)",
+        "Real Estate/Housing (-0.52%)"
       ],
       "tomorrow_watch": [
         "FII/DII provisional data",
@@ -3730,23 +3641,23 @@
     },
     "news_impact_chain": {
       "chain": [
-        "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-        "General Markets",
+        "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
+        "Metals & Mining",
         "Revenue/cost pressure",
         "Profit impact",
         "Valuation reaction",
-        "Watch: Nifty 50, Sensex"
+        "Watch: Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       ]
     },
     "company_of_the_day": null,
     "five_numbers": [
       {
-        "value": "24,065.45",
+        "value": "24,080.4",
         "label": "NIFTY 50",
-        "why": "Moved -0.46% today — the main barometer of Indian equities."
+        "why": "Moved -0.39% today — the main barometer of Indian equities."
       },
       {
-        "value": "₹95.16",
+        "value": "₹95.15",
         "label": "USD/INR",
         "why": "A weaker rupee raises import costs; a stronger rupee eases them."
       },
@@ -3767,9 +3678,9 @@
       }
     ],
     "what_could_go_wrong": {
-      "story": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
+      "story": "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
       "bull_case": [
-        "Nifty 50, Sensex could see continued support."
+        "Domestic buying continues to offset FII selling."
       ],
       "bear_case": [
         "A reversal in the underlying driver could unwind today's move quickly."
