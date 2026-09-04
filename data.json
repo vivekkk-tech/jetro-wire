@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-03T22:14:39.687234+00:00",
-  "edition_date": "Thursday, September 03, 2026",
+  "generated_at_utc": "2026-09-04T00:23:00.673931+00:00",
+  "edition_date": "Friday, September 04, 2026",
   "sector_performance": {
     "Banks & Money": {
       "pct": -0.05,
@@ -28,50 +28,23 @@
     }
   },
   "biggest_story": {
-    "sector": "Energy & Oil",
-    "title": "India bonds pare gains as oil spike tames FCNR boost",
+    "sector": "General Markets",
+    "title": "Canadas TSX rises, markets assess rate-hike bets",
     "sources": [
       {
-        "name": "Economic Times Markets",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-bonds-pare-gains-as-oil-spike-tames-fcnr-boost/articleshow/133736102.cms"
+        "name": "LiveMint Markets",
+        "url": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html"
       }
     ],
-    "what_happened": "Early Thursday trading saw Indian government bonds lose their initial gains as stronger dollar inflows were overshadowed by soaring oil prices. Traders covering short positions led to better performance in shorter maturities. Abundant liquidity helped reduce overnight indexed swa",
-    "why_it_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+    "what_happened": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets",
+    "why_it_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
     "means_for_you": [
-      "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+      "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
     ],
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-bonds-pare-gains-as-oil-spike-tames-fcnr-boost/articleshow/133736102.cms"
+    "link": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html"
   },
   "pages": {
     "stock_market": [
-      {
-        "id": "8bdab4919f",
-        "title": "Canadas TSX rises, markets assess rate-hike bets",
-        "summary": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets",
-        "link": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html"
-          }
-        ],
-        "published": "Fri, 04 Sep 2026 02:16:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
       {
         "id": "5c96ed0734",
         "title": "Snowflake stock hovers near 5-year high: How strong AI demand sparked a 26% share rally",
@@ -98,33 +71,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "91bf0b65c1",
-        "title": "US stock market today: Wall Street futures mixed after tech- led rally; Snowflake shares jump 24%",
-        "summary": "US stock futures showed mixed results on September 3, following gains in major indices. Bond yields fell, while inflation concerns lingered, as traders anticipated interest-rate hikes from central banks amid rising oil prices.",
-        "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-mixed-after-tech-led-rally-snowflake-shares-jump-24-11788431365723.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-mixed-after-tech-led-rally-snowflake-shares-jump-24-11788431365723.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:16:18 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. US stock futures showed mixed results on September 3, following gains in major indices. Bond yields fell, while inflation concerns lingered, as traders anticipated interest-rate hikes from central ban",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "4bade1f5bc",
@@ -292,6 +238,33 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "b5b5f718f6",
+        "title": "Oil Heads for Biggest Weekly Gain Since July on Iran War Risks",
+        "summary": "Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+        "link": "https://www.livemint.com/market/oil-heads-for-biggest-weekly-gain-since-july-on-iran-war-risks-11788479903594.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-heads-for-biggest-weekly-gain-since-july-on-iran-war-risks-11788479903594.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 05:28:23 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
         "id": "88c930151d",
         "title": "US yields decline as Waller comments dent rate hike expectations",
         "summary": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields decline as Waller comments dent rate hike expectations",
@@ -345,6 +318,33 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "1bf4251b62",
+        "title": "Centre sees no cost pain for RBI on dollar deluge",
+        "summary": "The Reserve Bank of India anticipates minimal costs from significant forex inflows.  High interest rates on US treasuries are expected to offset hedging expenses.  These record inflows will also reduce currency intervention costs for the central bank.  Economists suggest hedging ",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/centre-sees-no-cost-pain-for-rbi-on-dollar-deluge/articleshow/133748939.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/centre-sees-no-cost-pain-for-rbi-on-dollar-deluge/articleshow/133748939.cms"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 05:30:00 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. The Reserve Bank of India anticipates minimal costs from significant forex inflows.  High interest rates on US treasuries are expected to offset hedging expenses.  These record inflows will also reduc",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "41531ce306",
@@ -593,33 +593,6 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
-        "id": "2c049a54fe",
-        "title": "Prestige Estates to develop Gurugram housing project with Rs 5,600 cr revenue potential",
-        "summary": "Prestige Estates has finalized a significant joint development agreement for a housing project in Gurugram, aiming to generate an impressive revenue of Rs 5,600 crore. This development will span across a substantial 17.14-acre land parcel in Sector 109. As part of their growth st",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-to-develop-gurugram-housing-project-with-rs-5600-cr-revenue-potential/articleshow/133736125.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-to-develop-gurugram-housing-project-with-rs-5600-cr-revenue-potential/articleshow/133736125.cms"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:48:45 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Prestige Estates has finalized a significant joint development agreement for a housing project in Gurugram, aiming to generate an impressive revenue of Rs 5,600 crore. This development will span acros",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
         "id": "7457dad3f8",
         "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
         "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
@@ -697,6 +670,61 @@
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "98eb8d7b5d",
+        "title": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
+        "summary": "A further unwind of sizable short positions could accelerate the yen’s gains if it strengthens past 155 per dollar, according to JPMorgan Chase &amp; Co. strategists.",
+        "link": "https://www.livemint.com/market/yens-103-billion-short-risks-unwind-below-155-jpmorgan-says-11788480450157.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yens-103-billion-short-risks-unwind-below-155-jpmorgan-says-11788480450157.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 05:37:29 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. A further unwind of sizable short positions could accelerate the yen’s gains if it strengthens past 155 per dollar, according to JPMorgan Chase &amp; Co. strategists.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f6a0dedfc1",
+        "title": "Yen Rallies as Intervention, BOJ Rate Risk Weigh on Traders",
+        "summary": "The yen strengthened 2% Thursday, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the market to boost the currency.",
+        "link": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-traders-11788476981657.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-traders-11788476981657.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 04:39:41 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The yen strengthened 2% Thursday, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the ma",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -1107,6 +1135,33 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "e328ff351c",
+        "title": "Yen Rallies as Intervention, BOJ Rate Risk Weigh on Wary Traders",
+        "summary": "The yen jumped sharply for a second day, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the market to boost the currency.",
+        "link": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-wary-traders-11788476981201.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-wary-traders-11788476981201.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 04:39:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The yen jumped sharply for a second day, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "cfe4ded3f7",
         "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
         "summary": "USA-STOCKS/ (UPDATE 6):US STOCKS-Wall Street ends sharply higher as Waller remarks ease rate hike fears",
@@ -1267,87 +1322,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "535e7fc886",
-        "title": "Closing auction yet to find its feet, a month after rollout",
-        "summary": "Low participation, abrupt price swings refuse to go away, a month after Sebi introduced the closing auction session framework for better price transparency",
-        "link": "https://www.livemint.com/market/closing-auction-yet-to-find-its-feet-a-month-after-rollout-markets-trading-11788435629662.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/closing-auction-yet-to-find-its-feet-a-month-after-rollout-markets-trading-11788435629662.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 19:07:16 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Low participation, abrupt price swings refuse to go away, a month after Sebi introduced the closing auction session framework for better price transparency",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "275ab115e3",
-        "title": "Sebi proposes net settlement of funds for mutual fund trades",
-        "summary": "Sebi's proposal aims to reduce temporary liquidity requirements and improving settlement efficiency for mutual fund schemes",
-        "link": "https://www.livemint.com/market/sebi-proposes-net-settlement-of-funds-for-mutual-fund-trades-11788435356566.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/sebi-proposes-net-settlement-of-funds-for-mutual-fund-trades-11788435356566.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:44:02 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Sebi's proposal aims to reduce temporary liquidity requirements and improving settlement efficiency for mutual fund schemes",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b07f204d7a",
-        "title": "Netflix stock down 38% from its record high; is it the right time to buy?",
-        "summary": "As Netflix's stock plunges 38% from its peak, market experts examine the factors influencing this decline and the potential for a rebound. With mixed signals on earnings and competitive pressure, investors are left questioning whether this is the right time to buy or wait for mor",
-        "link": "https://www.livemint.com/market/stock-market-news/netflix-stock-down-38-from-its-record-high-is-it-the-right-time-to-buy-11788436567099.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/netflix-stock-down-38-from-its-record-high-is-it-the-right-time-to-buy-11788436567099.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:35:13 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. As Netflix's stock plunges 38% from its peak, market experts examine the factors influencing this decline and the potential for a rebound. With mixed signals on earnings and competitive pressure, inve",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "621ca3352a",
@@ -1730,6 +1704,33 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "07312515e5",
+        "title": "TechSparks 2026: Priyank Kharge, Krishna Byre Gowda, Sameer Nigam, Pramod Varma, and more to take the stage",
+        "summary": "Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at YourStory's flagship TechSparks summit this October.",
+        "link": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 02:00:00 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at YourStory's flagship T",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "1a74d62799",
         "title": "Government-school teachers are ready for AI, survey finds",
         "summary": "A JanAI survey finds 72% of government-school teachers support AI, while gaps in training, privacy and institutional support remain.",
@@ -1750,6 +1751,33 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. A JanAI survey finds 72% of government-school teachers support AI, while gaps in training, privacy and institutional support remain.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "aeed98028f",
+        "title": "Why does stopping mid-chapter feel so wrong to your brain",
+        "summary": "Discover the psychology behind why stopping mid-chapter feels so frustrating and how your brain's craving for closure keeps you turning pages.",
+        "link": "https://yourstory.com/2026/09/stopping-mid-chapter-brain",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/stopping-mid-chapter-brain"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 13:10:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover the psychology behind why stopping mid-chapter feels so frustrating and how your brain's craving for closure keeps you turning pages.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1784,234 +1812,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "eea31ed289",
-        "title": "The Ayurveda Co shuts down after raising Rs 125 Cr; co-founder says it expanded too fast",
-        "summary": "The D2C Ayurveda brand stopped operations in July 2025 and has since liquidated its assets. Co-founder Param Bhargava said the company expanded too quickly and built out its senior team before the business was ready.",
-        "link": "https://yourstory.com/2026/09/the-ayurveda-co-shuts-down-after-raising-125-cr-founder-says-it-expanded-too-fast",
+        "id": "4a447d60d4",
+        "title": "Zerodha gets SEBI nod to enter investment banking business",
+        "summary": "Zerodha has received SEBI approval to enter merchant banking, expanding into IPOs and equity fundraising as it diversifies beyond broking amid changing industry economics and rising primary-market activity.",
+        "link": "https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/the-ayurveda-co-shuts-down-after-raising-125-cr-founder-says-it-expanded-too-fast"
+            "url": "https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business"
           }
         ],
-        "published": "Thu, 03 Sep 2026 12:55:15 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The D2C Ayurveda brand stopped operations in July 2025 and has since liquidated its assets. Co-founder Param Bhargava said the company expanded too quickly and built out its senior team before the bus",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "9690a815b1",
-        "title": "Adobe acquires Indian AI startup Rilo",
-        "summary": "Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
-        "link": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 06:03:16 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "381881db6d",
-        "title": "Amazon India adds 160,000 seasonal jobs; JioHotstar goes global",
-        "summary": "The temporary jobs created by Amazon India includes both direct and indirect work opportunities across 400 cities in the country.",
-        "link": "https://yourstory.com/2026/09/amazon-india-adds-160000-seasonal-jobs-jiohotstar",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/amazon-india-adds-160000-seasonal-jobs-jiohotstar"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 02:00:00 GMT",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for telecom right now. The temporary jobs created by Amazon India includes both direct and indirect work opportunities across 400 cities in the country.",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
-      {
-        "id": "2988edc690",
-        "title": "Indian employees are taking the lead in defining the future of work: Microsoft study",
-        "summary": "The Microsoft 2026 Work Trend Index reveals that India leads global AI adoption through frontier professionals who combine agent automation with strong human judgement. Despite rapid adoption of highly automated systems, Indian workers refuse to hand over final responsibility, sa",
-        "link": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 13:12:02 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Microsoft 2026 Work Trend Index reveals that India leads global AI adoption through frontier professionals who combine agent automation with strong human judgement. Despite rapid adoption of highl",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "08b132b321",
-        "title": "HDB region can drive Karnataka’s tech-led growth, says Priyank Kharge",
-        "summary": "The HDB region is being positioned as a technology and manufacturing corridor under Karnataka’s Beyond Bengaluru push, with focus on startups, deep tech, ESDM, EVs and advanced engineering.",
-        "link": "https://yourstory.com/2026/09/hdb-region-karnataka-tech-led-growth-priyank-kharge",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/hdb-region-karnataka-tech-led-growth-priyank-kharge"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 14:43:04 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The HDB region is being positioned as a technology and manufacturing corridor under Karnataka’s Beyond Bengaluru push, with focus on startups, deep tech, ESDM, EVs and advanced engineering.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "09986f0b02",
-        "title": "VLCC raises Rs 110 Cr in funding from BlackSoil Capital",
-        "summary": "VLCC will use this funding round to support its growth activities and expansion of its business.",
-        "link": "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 08:00:31 GMT",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. VLCC will use this funding round to support its growth activities and expansion of its business.",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "aeed98028f",
-        "title": "Why does stopping mid-chapter feel so wrong to your brain",
-        "summary": "Discover the psychology behind why stopping mid-chapter feels so frustrating and how your brain's craving for closure keeps you turning pages.",
-        "link": "https://yourstory.com/2026/09/stopping-mid-chapter-brain",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/stopping-mid-chapter-brain"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 13:10:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover the psychology behind why stopping mid-chapter feels so frustrating and how your brain's craving for closure keeps you turning pages.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "1308c20153",
-        "title": "AMD, Delhi University partner to train 10,000 students in AI",
-        "summary": "The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
-        "link": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 14:38:00 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "07312515e5",
-        "title": "TechSparks 2026: Priyank Kharge, Krishna Byre Gowda, Sameer Nigam, Pramod Varma, and more to take the stage",
-        "summary": "Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at YourStory's flagship TechSparks summit this October.",
-        "link": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 02:00:00 GMT",
+        "published": "Wed, 02 Sep 2026 15:15:12 GMT",
         "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
@@ -2019,7 +1831,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at YourStory's flagship T",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Zerodha has received SEBI approval to enter merchant banking, expanding into IPOs and equity fundraising as it diversifies beyond broking amid changing industry economics and rising primary-market act",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -2054,6 +1866,87 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "302cd0e7e5",
+        "title": "Piyush Goyal discusses power, regulatory issues with data centre industry",
+        "summary": "The roundtable brought together representatives from the Central and State Governments, CEOs and senior representatives of global hyperscalers, data centre developers and operators, investors, infrastructure providers and other key stakeholders.",
+        "link": "https://yourstory.com/2026/09/data-centre-industry-piyush-goyal-power-availability-regulatory-issues",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/data-centre-industry-piyush-goyal-power-availability-regulatory-issues"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 04:48:31 GMT",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. The roundtable brought together representatives from the Central and State Governments, CEOs and senior representatives of global hyperscalers, data centre developers and operators, investors, infrast",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "50eda64963",
+        "title": "Cradlewise raises $12M in Series A led by 3one4 Capital,  Prudent Investment Management",
+        "summary": "The Series A round will help Cradlewise expand its infant sleep product business across new channels and international markets.",
+        "link": "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 08:00:59 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Series A round will help Cradlewise expand its infant sleep product business across new channels and international markets.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1308c20153",
+        "title": "AMD, Delhi University partner to train 10,000 students in AI",
+        "summary": "The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
+        "link": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 14:38:00 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "55778c367d",
         "title": "Startup news and updates: Daily roundup (September 3, 2026)",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, September 3, 2026.",
@@ -2081,31 +1974,139 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "4a447d60d4",
-        "title": "Zerodha gets SEBI nod to enter investment banking business",
-        "summary": "Zerodha has received SEBI approval to enter merchant banking, expanding into IPOs and equity fundraising as it diversifies beyond broking amid changing industry economics and rising primary-market activity.",
-        "link": "https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business",
+        "id": "c57aef942f",
+        "title": "Kalaari Capital opens applications for investor fellowship programme",
+        "summary": "The fellowship programme provides participants exposure to different aspects of venture investing and helps build their analytical, research and writing capabilities.",
+        "link": "https://yourstory.com/2026/09/kalaari-capital-opens-applications-for-investor-fellowship-programme",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business"
+            "url": "https://yourstory.com/2026/09/kalaari-capital-opens-applications-for-investor-fellowship-programme"
           }
         ],
-        "published": "Wed, 02 Sep 2026 15:15:12 GMT",
-        "sector": "Banks & Money",
+        "published": "Thu, 03 Sep 2026 14:20:33 GMT",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Zerodha has received SEBI approval to enter merchant banking, expanding into IPOs and equity fundraising as it diversifies beyond broking amid changing industry economics and rising primary-market act",
+        "in_simple_words": "Not a big mover either way for general markets right now. The fellowship programme provides participants exposure to different aspects of venture investing and helps build their analytical, research and writing capabilities.",
         "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2988edc690",
+        "title": "Indian employees are taking the lead in defining the future of work: Microsoft study",
+        "summary": "The Microsoft 2026 Work Trend Index reveals that India leads global AI adoption through frontier professionals who combine agent automation with strong human judgement. Despite rapid adoption of highly automated systems, Indian workers refuse to hand over final responsibility, sa",
+        "link": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 13:12:02 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The Microsoft 2026 Work Trend Index reveals that India leads global AI adoption through frontier professionals who combine agent automation with strong human judgement. Despite rapid adoption of highl",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "9690a815b1",
+        "title": "Adobe acquires Indian AI startup Rilo",
+        "summary": "Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
+        "link": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 06:03:16 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "eea31ed289",
+        "title": "The Ayurveda Co shuts down after raising Rs 125 Cr; co-founder says it expanded too fast",
+        "summary": "The D2C Ayurveda brand stopped operations in July 2025 and has since liquidated its assets. Co-founder Param Bhargava said the company expanded too quickly and built out its senior team before the business was ready.",
+        "link": "https://yourstory.com/2026/09/the-ayurveda-co-shuts-down-after-raising-125-cr-founder-says-it-expanded-too-fast",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/the-ayurveda-co-shuts-down-after-raising-125-cr-founder-says-it-expanded-too-fast"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 12:55:15 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The D2C Ayurveda brand stopped operations in July 2025 and has since liquidated its assets. Co-founder Param Bhargava said the company expanded too quickly and built out its senior team before the bus",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "77d842d53a",
+        "title": "Leanwatts Bags $2 Mn To Build Portable EV Chargers In India",
+        "summary": "Clean tech startup Leanwatts, which manufactures EV chargers, has raised $2 Mn (around ₹18 Cr) in its seed funding round&#8230;",
+        "link": "https://inc42.com/buzz/leanwatts-bags-2-mn-to-build-portable-ev-chargers-in-india/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/leanwatts-bags-2-mn-to-build-portable-ev-chargers-in-india/"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 22:17:58 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Clean tech startup Leanwatts, which manufactures EV chargers, has raised $2 Mn (around ₹18 Cr) in its seed funding round&#8230;",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "12bd2e7034",
@@ -2485,36 +2486,36 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
+      }
+    ],
+    "pe_ib": [
       {
-        "id": "e9e531dba0",
-        "title": "Everstone Capital-Backed Wingify Ropes In Ex-Dayforce Mehernaz Dalal As CFO",
-        "summary": "SaaS major Wingify has appointed former Dayforce APAC CFO Mehernaz Dalal its new CFO, effective immediately. Dalal most recently has&#8230;",
-        "link": "https://inc42.com/buzz/everstone-capital-backed-wingify-ropes-in-ex-dayforce-mehernaz-dalal-as-cfo/",
-        "source": "Inc42",
+        "id": "50a3707fe2",
+        "title": "SC clears NSE settlement, paving way for mega IPO",
+        "summary": "In a pivotal decision, the Supreme Court has validated the National Stock Exchange’s settlement concerning the co-location and dark fibre matters. This marks a crucial step forward as the exchange readies for its initial public offering, expected to attract nearly thirty-one thou",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sc-clears-nse-settlement-paving-way-for-mega-ipo/articleshow/133748533.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/everstone-capital-backed-wingify-ropes-in-ex-dayforce-mehernaz-dalal-as-cfo/"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sc-clears-nse-settlement-paving-way-for-mega-ipo/articleshow/133748533.cms"
           }
         ],
-        "published": "Thu, 03 Sep 2026 09:43:35 +0000",
-        "sector": "General Markets",
+        "published": "Fri, 04 Sep 2026 05:41:58 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. SaaS major Wingify has appointed former Dayforce APAC CFO Mehernaz Dalal its new CFO, effective immediately. Dalal most recently has&#8230;",
+        "page": "pe_ib",
+        "in_simple_words": "Not a big mover either way for global & macro right now. In a pivotal decision, the Supreme Court has validated the National Stock Exchange’s settlement concerning the co-location and dark fibre matters. This marks a crucial step forward as the exchange rea",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      }
-    ],
-    "pe_ib": [
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
       {
         "id": "5a7381744c",
         "title": "Gland Pharma shares: Promoter Fosun Pharma likely to divest 5% equity worth Rs 2,279 crore via block deal",
@@ -2543,18 +2544,18 @@
         "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
       },
       {
-        "id": "67435314a7",
-        "title": "Pranav Constructions IPO: Price band set in range of  ₹118–124; check key dates, other IPO details",
-        "summary": "Pranav Constructions has priced its  ₹351-crore IPO between  ₹118–124 per share, opening September 7. The issue includes fresh equity and an offer for sale, with 120 shares required per application, and funds will support redevelopment projects and repay debts.",
-        "link": "https://www.livemint.com/market/ipo/pranav-constructions-ipo-price-band-set-in-range-of-rs-118-124-check-key-dates-other-ipo-details-11788430609199.html",
+        "id": "c3b3e51d94",
+        "title": "Hong Kong’s Picky IPO Issuers Rewrite Playbook for Allocations",
+        "summary": "Hong Kong’s boom in initial public offerings has turned getting shares in the hottest deals into something of an invitation-only affair.",
+        "link": "https://www.livemint.com/market/ipo/hong-kong-s-picky-ipo-issuers-rewrite-playbook-for-allocations-11788478258733.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/ipo/pranav-constructions-ipo-price-band-set-in-range-of-rs-118-124-check-key-dates-other-ipo-details-11788430609199.html"
+            "url": "https://www.livemint.com/market/ipo/hong-kong-s-picky-ipo-issuers-rewrite-playbook-for-allocations-11788478258733.html"
           }
         ],
-        "published": "Thu, 03 Sep 2026 16:20:29 +0530",
+        "published": "Fri, 04 Sep 2026 05:00:58 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -2562,7 +2563,7 @@
         },
         "is_ai_related": false,
         "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for general markets right now. Pranav Constructions has priced its  ₹351-crore IPO between  ₹118–124 per share, opening September 7. The issue includes fresh equity and an offer for sale, with 120 shares required per application, a",
+        "in_simple_words": "Not a big mover either way for general markets right now. Hong Kong’s boom in initial public offerings has turned getting shares in the hottest deals into something of an invitation-only affair.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2572,6 +2573,226 @@
     ]
   },
   "sectors": {
+    "Banks & Money": [
+      {
+        "id": "1bf4251b62",
+        "title": "Centre sees no cost pain for RBI on dollar deluge",
+        "summary": "The Reserve Bank of India anticipates minimal costs from significant forex inflows.  High interest rates on US treasuries are expected to offset hedging expenses.  These record inflows will also reduce currency intervention costs for the central bank.  Economists suggest hedging ",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/centre-sees-no-cost-pain-for-rbi-on-dollar-deluge/articleshow/133748939.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/centre-sees-no-cost-pain-for-rbi-on-dollar-deluge/articleshow/133748939.cms"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 05:30:00 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. The Reserve Bank of India anticipates minimal costs from significant forex inflows.  High interest rates on US treasuries are expected to offset hedging expenses.  These record inflows will also reduc",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f78adcb29e",
+        "title": "FCNRB deposits: Why bank investors should watch RoE, not just NIM",
+        "summary": "FCNR(B) deposits could boost banks’ return on equity despite a mild impact on net interest margins, according to Anand Rathi. Exemptions from reserve requirements, capital-efficient lending and longer tenors could improve returns. The brokerage analysed four scenarios, including ",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-deposits-why-bank-investors-should-watch-roe-not-just-nim/articleshow/133738118.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-deposits-why-bank-investors-should-watch-roe-not-just-nim/articleshow/133738118.cms"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 19:16:49 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. FCNR(B) deposits could boost banks’ return on equity despite a mild impact on net interest margins, according to Anand Rathi. Exemptions from reserve requirements, capital-efficient lending and longer",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "7e2f93b52e",
+        "title": "Top stocks to watch tomorrow, Sept 4 and reasons why they are in focus for Friday’s trading session",
+        "summary": "UltraTech Cement, Power Grid Corporation of India, Sterlite Technologies, Solex Energy, CreditAccess Grameen, Innovision, Ramco Systems, and Welspun Investments are among the stocks likely to remain in focus in trade on September 4.&amp;nbsp;",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-sept-4-and-reasons-why-they-are-in-focus-for-friday-s-trading-session-11788454580633.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-sept-4-and-reasons-why-they-are-in-focus-for-friday-s-trading-session-11788454580633.html"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 23:17:50 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. UltraTech Cement, Power Grid Corporation of India, Sterlite Technologies, Solex Energy, CreditAccess Grameen, Innovision, Ramco Systems, and Welspun Investments are among the stocks likely to remain i",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "9e0a58004c",
+        "title": "Penny stock: Jewellery stock to be in focus on Friday | Here's why",
+        "summary": "On September 4, PC Jeweller is expected to attract attention after announcing further debt repayments, clearing dues to nine consortium banks. The company is on track to achieve a debt-free status within the month, supported by improved quarterly financial performance.",
+        "link": "https://www.livemint.com/market/stock-market-news/penny-stock-jewellery-stock-to-be-in-focus-on-friday-heres-why-11788442240799.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/penny-stock-jewellery-stock-to-be-in-focus-on-friday-heres-why-11788442240799.html"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 19:08:19 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. On September 4, PC Jeweller is expected to attract attention after announcing further debt repayments, clearing dues to nine consortium banks. The company is on track to achieve a debt-free status wit",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "1a1d3a0b2a",
+        "title": "FCNR(B) Repayment Not A Concern For India, Says World Bank's Neelkanth Mishra",
+        "summary": "Mishra said the FCNR (B) are relatively cheap source of capital and can be rolled out again if global financing conditions remain unfavourable.",
+        "link": "https://www.ndtvprofit.com/economy/fcnr-b-repayment-not-a-concern-for-india-says-world-banks-neelkanth-mishra-11999396#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/economy/fcnr-b-repayment-not-a-concern-for-india-says-world-banks-neelkanth-mishra-11999396#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 03 Sep 2026 23:27:28 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Mishra said the FCNR (B) are relatively cheap source of capital and can be rolled out again if global financing conditions remain unfavourable.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      }
+    ],
     "Global & Macro": [
       {
         "id": "4bade1f5bc",
@@ -3202,6 +3423,88 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "98eb8d7b5d",
+        "title": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
+        "summary": "A further unwind of sizable short positions could accelerate the yen’s gains if it strengthens past 155 per dollar, according to JPMorgan Chase &amp; Co. strategists.",
+        "link": "https://www.livemint.com/market/yens-103-billion-short-risks-unwind-below-155-jpmorgan-says-11788480450157.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yens-103-billion-short-risks-unwind-below-155-jpmorgan-says-11788480450157.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 05:37:29 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. A further unwind of sizable short positions could accelerate the yen’s gains if it strengthens past 155 per dollar, according to JPMorgan Chase &amp; Co. strategists.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f6a0dedfc1",
+        "title": "Yen Rallies as Intervention, BOJ Rate Risk Weigh on Traders",
+        "summary": "The yen strengthened 2% Thursday, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the market to boost the currency.",
+        "link": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-traders-11788476981657.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-traders-11788476981657.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 04:39:41 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The yen strengthened 2% Thursday, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the ma",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e328ff351c",
+        "title": "Yen Rallies as Intervention, BOJ Rate Risk Weigh on Wary Traders",
+        "summary": "The yen jumped sharply for a second day, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into the market to boost the currency.",
+        "link": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-wary-traders-11788476981201.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/yen-rallies-as-intervention-boj-rate-risk-weigh-on-wary-traders-11788476981201.html"
+          }
+        ],
+        "published": "Fri, 04 Sep 2026 04:39:40 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The yen jumped sharply for a second day, reversing a month of gradual decline, as traders lifted bets on Japanese interest-rate hikes and were on high alert to the risk of authorities wading back into",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "8bdab4919f",
         "title": "Canadas TSX rises, markets assess rate-hike bets",
         "summary": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets",
@@ -3385,87 +3688,6 @@
         "is_ai_related": true,
         "page": "stock_market",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Snowflake shares jumped 26% to $384 after the company reported a 37% rise in product revenue for the quarter, surpassing Wall Street expectations. Its updated outlook predicts $6.07 billion in product",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "535e7fc886",
-        "title": "Closing auction yet to find its feet, a month after rollout",
-        "summary": "Low participation, abrupt price swings refuse to go away, a month after Sebi introduced the closing auction session framework for better price transparency",
-        "link": "https://www.livemint.com/market/closing-auction-yet-to-find-its-feet-a-month-after-rollout-markets-trading-11788435629662.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/closing-auction-yet-to-find-its-feet-a-month-after-rollout-markets-trading-11788435629662.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 19:07:16 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Low participation, abrupt price swings refuse to go away, a month after Sebi introduced the closing auction session framework for better price transparency",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "275ab115e3",
-        "title": "Sebi proposes net settlement of funds for mutual fund trades",
-        "summary": "Sebi's proposal aims to reduce temporary liquidity requirements and improving settlement efficiency for mutual fund schemes",
-        "link": "https://www.livemint.com/market/sebi-proposes-net-settlement-of-funds-for-mutual-fund-trades-11788435356566.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/sebi-proposes-net-settlement-of-funds-for-mutual-fund-trades-11788435356566.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:44:02 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Sebi's proposal aims to reduce temporary liquidity requirements and improving settlement efficiency for mutual fund schemes",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b07f204d7a",
-        "title": "Netflix stock down 38% from its record high; is it the right time to buy?",
-        "summary": "As Netflix's stock plunges 38% from its peak, market experts examine the factors influencing this decline and the potential for a rebound. With mixed signals on earnings and competitive pressure, investors are left questioning whether this is the right time to buy or wait for mor",
-        "link": "https://www.livemint.com/market/stock-market-news/netflix-stock-down-38-from-its-record-high-is-it-the-right-time-to-buy-11788436567099.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/netflix-stock-down-38-from-its-record-high-is-it-the-right-time-to-buy-11788436567099.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:35:13 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. As Netflix's stock plunges 38% from its peak, market experts examine the factors influencing this decline and the potential for a rebound. With mixed signals on earnings and competitive pressure, inve",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3880,307 +4102,31 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
-        "id": "5e976782fe",
-        "title": "India bonds pare gains as oil spike tames FCNR boost",
-        "summary": "Early Thursday trading saw Indian government bonds lose their initial gains as stronger dollar inflows were overshadowed by soaring oil prices. Traders covering short positions led to better performance in shorter maturities. Abundant liquidity helped reduce overnight indexed swa",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-bonds-pare-gains-as-oil-spike-tames-fcnr-boost/articleshow/133736102.cms",
-        "source": "Economic Times Markets",
+        "id": "b5b5f718f6",
+        "title": "Oil Heads for Biggest Weekly Gain Since July on Iran War Risks",
+        "summary": "Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+        "link": "https://www.livemint.com/market/oil-heads-for-biggest-weekly-gain-since-july-on-iran-war-risks-11788479903594.html",
+        "source": "LiveMint Markets",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-bonds-pare-gains-as-oil-spike-tames-fcnr-boost/articleshow/133736102.cms"
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-heads-for-biggest-weekly-gain-since-july-on-iran-war-risks-11788479903594.html"
           }
         ],
-        "published": "Thu, 03 Sep 2026 17:46:55 +0530",
+        "published": "Fri, 04 Sep 2026 05:28:23 +0530",
         "sector": "Energy & Oil",
         "sentiment": {
           "label": "Bullish",
-          "score": 4
+          "score": 2
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Early Thursday trading saw Indian government bonds lose their initial gains as stronger dollar inflows were overshadowed by soaring oil prices. Traders covering short positions led to better performan",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
         "means_for_you": [
           "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
         ],
         "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
         "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
-    "Banks & Money": [
-      {
-        "id": "f78adcb29e",
-        "title": "FCNRB deposits: Why bank investors should watch RoE, not just NIM",
-        "summary": "FCNR(B) deposits could boost banks’ return on equity despite a mild impact on net interest margins, according to Anand Rathi. Exemptions from reserve requirements, capital-efficient lending and longer tenors could improve returns. The brokerage analysed four scenarios, including ",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-deposits-why-bank-investors-should-watch-roe-not-just-nim/articleshow/133738118.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-deposits-why-bank-investors-should-watch-roe-not-just-nim/articleshow/133738118.cms"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 19:16:49 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. FCNR(B) deposits could boost banks’ return on equity despite a mild impact on net interest margins, according to Anand Rathi. Exemptions from reserve requirements, capital-efficient lending and longer",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2f554f4f77",
-        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "f5e03c6451",
-        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
-        "summary": "Net premium income rose to Rs 14,788 crore",
-        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "47b61ce2c0",
-        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
-        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "7e2f93b52e",
-        "title": "Top stocks to watch tomorrow, Sept 4 and reasons why they are in focus for Friday’s trading session",
-        "summary": "UltraTech Cement, Power Grid Corporation of India, Sterlite Technologies, Solex Energy, CreditAccess Grameen, Innovision, Ramco Systems, and Welspun Investments are among the stocks likely to remain in focus in trade on September 4.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-sept-4-and-reasons-why-they-are-in-focus-for-friday-s-trading-session-11788454580633.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-sept-4-and-reasons-why-they-are-in-focus-for-friday-s-trading-session-11788454580633.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 23:17:50 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. UltraTech Cement, Power Grid Corporation of India, Sterlite Technologies, Solex Energy, CreditAccess Grameen, Innovision, Ramco Systems, and Welspun Investments are among the stocks likely to remain i",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "9e0a58004c",
-        "title": "Penny stock: Jewellery stock to be in focus on Friday | Here's why",
-        "summary": "On September 4, PC Jeweller is expected to attract attention after announcing further debt repayments, clearing dues to nine consortium banks. The company is on track to achieve a debt-free status within the month, supported by improved quarterly financial performance.",
-        "link": "https://www.livemint.com/market/stock-market-news/penny-stock-jewellery-stock-to-be-in-focus-on-friday-heres-why-11788442240799.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/penny-stock-jewellery-stock-to-be-in-focus-on-friday-heres-why-11788442240799.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 19:08:19 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. On September 4, PC Jeweller is expected to attract attention after announcing further debt repayments, clearing dues to nine consortium banks. The company is on track to achieve a debt-free status wit",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "91bf0b65c1",
-        "title": "US stock market today: Wall Street futures mixed after tech- led rally; Snowflake shares jump 24%",
-        "summary": "US stock futures showed mixed results on September 3, following gains in major indices. Bond yields fell, while inflation concerns lingered, as traders anticipated interest-rate hikes from central banks amid rising oil prices.",
-        "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-mixed-after-tech-led-rally-snowflake-shares-jump-24-11788431365723.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-mixed-after-tech-led-rally-snowflake-shares-jump-24-11788431365723.html"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:16:18 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. US stock futures showed mixed results on September 3, following gains in major indices. Bond yields fell, while inflation concerns lingered, as traders anticipated interest-rate hikes from central ban",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "1a1d3a0b2a",
-        "title": "FCNR(B) Repayment Not A Concern For India, Says World Bank's Neelkanth Mishra",
-        "summary": "Mishra said the FCNR (B) are relatively cheap source of capital and can be rolled out again if global financing conditions remain unfavourable.",
-        "link": "https://www.ndtvprofit.com/economy/fcnr-b-repayment-not-a-concern-for-india-says-world-banks-neelkanth-mishra-11999396#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/fcnr-b-repayment-not-a-concern-for-india-says-world-banks-neelkanth-mishra-11999396#publisher=newsstand"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 23:27:28 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Mishra said the FCNR (B) are relatively cheap source of capital and can be rolled out again if global financing conditions remain unfavourable.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      }
-    ],
-    "Real Estate/Housing": [
-      {
-        "id": "2c049a54fe",
-        "title": "Prestige Estates to develop Gurugram housing project with Rs 5,600 cr revenue potential",
-        "summary": "Prestige Estates has finalized a significant joint development agreement for a housing project in Gurugram, aiming to generate an impressive revenue of Rs 5,600 crore. This development will span across a substantial 17.14-acre land parcel in Sector 109. As part of their growth st",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-to-develop-gurugram-housing-project-with-rs-5600-cr-revenue-potential/articleshow/133736125.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-to-develop-gurugram-housing-project-with-rs-5600-cr-revenue-potential/articleshow/133736125.cms"
-          }
-        ],
-        "published": "Thu, 03 Sep 2026 17:48:45 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Prestige Estates has finalized a significant joint development agreement for a housing project in Gurugram, aiming to generate an impressive revenue of Rs 5,600 crore. This development will span acros",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "265bd79a69",
-        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
-        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
-        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
       }
     ],
     "Medicine & Pharma": [
@@ -4239,6 +4185,35 @@
         ],
         "why_matters": "FMCG is a defensive, low-volatility sector — money often rotates in here when the broader market turns risk-off.",
         "watch": "HUL, ITC, Nestle India, Britannia, Nifty FMCG"
+      }
+    ],
+    "Real Estate/Housing": [
+      {
+        "id": "265bd79a69",
+        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
+        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
       }
     ]
   },
@@ -4325,31 +4300,31 @@
       "watch": "Realty Index, DLF, cement and construction names"
     },
     {
-      "id": "9690a815b1",
-      "title": "Adobe acquires Indian AI startup Rilo",
-      "summary": "Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
-      "link": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo",
+      "id": "1308c20153",
+      "title": "AMD, Delhi University partner to train 10,000 students in AI",
+      "summary": "The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
+      "link": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
       "source": "YourStory",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo"
+          "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai"
         }
       ],
-      "published": "Thu, 03 Sep 2026 06:03:16 GMT",
-      "sector": "General Markets",
+      "published": "Thu, 03 Sep 2026 14:38:00 GMT",
+      "sector": "Banks & Money",
       "sentiment": {
         "label": "Neutral",
         "score": 0
       },
       "is_ai_related": true,
       "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
+      "in_simple_words": "Not a big mover either way for banks & money right now. The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
       "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
       ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
+      "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+      "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
     },
     {
       "id": "2988edc690",
@@ -4379,31 +4354,31 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "1308c20153",
-      "title": "AMD, Delhi University partner to train 10,000 students in AI",
-      "summary": "The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
-      "link": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
+      "id": "9690a815b1",
+      "title": "Adobe acquires Indian AI startup Rilo",
+      "summary": "Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
+      "link": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo",
       "source": "YourStory",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai"
+          "url": "https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo"
         }
       ],
-      "published": "Thu, 03 Sep 2026 14:38:00 GMT",
-      "sector": "Banks & Money",
+      "published": "Thu, 03 Sep 2026 06:03:16 GMT",
+      "sector": "General Markets",
       "sentiment": {
         "label": "Neutral",
         "score": 0
       },
       "is_ai_related": true,
       "page": "startups",
-      "in_simple_words": "Not a big mover either way for banks & money right now. The programme will provide students and faculty with hands-on access to AMD's open-source AI software platform, learning resources, and developer GPU cloud credits.",
+      "in_simple_words": "Not a big mover either way for general markets right now. Founded by IIT Bombay alumni, Rilo's AI agents are said to give complete workflows built around outcomes.",
       "means_for_you": [
-        "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
-      "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-      "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
     },
     {
       "id": "c4e6e16ed1",
@@ -4454,18 +4429,18 @@
   "disclaimer": "Daily Planet explains the mechanism behind each story — not a buy/sell signal. Always do your own research before trading.",
   "editorial": {
     "todays_big_idea": {
-      "headline": "India bonds pare gains as oil spike tames FCNR boost",
+      "headline": "Canadas TSX rises, markets assess rate-hike bets",
       "why": [
-        "India bonds pare gains as oil spike tames FCNR boost",
         "Canadas TSX rises, markets assess rate-hike bets",
-        "Snowflake stock hovers near 5-year high: How strong AI demand sparked a 26% share rally"
+        "Snowflake stock hovers near 5-year high: How strong AI demand sparked a 26% share rally",
+        "US stocks today: Dow soars 600 pts, S&amp;P, Nasdaq over 1% as Fed governor Waller's remarks ease rate hike fears"
       ],
       "numbers": "NIFTY -0.76%",
-      "analysis": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-      "investment_implication": "Worth watching: Reliance Industries, ONGC, oil marketing companies"
+      "analysis": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "investment_implication": "Worth watching: Nifty 50, Sensex"
     },
     "one_chart_question": "How has the stock price moved over the last year?",
-    "one_chart_insight": "The stock moved 11.9% over the last year (revenue history wasn't available to compare).",
+    "one_chart_insight": "The stock moved 26.9% over the last year (revenue history wasn't available to compare).",
     "one_concept": {
       "concept_name": "N/A",
       "company_example": "N/A",
@@ -4477,13 +4452,13 @@
       "what_could_move_it_down": "N/A"
     },
     "money_behind_business": {
-      "concept": "Working Capital",
+      "concept": "Operating Leverage",
       "mechanism": "Not enough real cash-flow data available today to illustrate this concretely."
     },
     "industry_of_day": {
-      "sector": "Banks & Money",
-      "overview": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names. Today's move: -0.05% (Steady).",
-      "who_wins": "Watch: HDFC Bank, ICICI Bank, SBI, Bank Nifty. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
+      "sector": "IT & Software",
+      "overview": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news. Today's move: -2.09% (Slightly Low).",
+      "who_wins": "Watch: TCS, Infosys, Wipro, HCLTech, Nifty IT. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
     },
     "bull_vs_bear": {
       "bull_case": [],
@@ -4491,7 +4466,7 @@
       "market_already_believes": "N/A"
     },
     "if_i_were_analyst": {
-      "headline": "India bonds pare gains as oil spike tames FCNR boost",
+      "headline": "Canadas TSX rises, markets assess rate-hike bets",
       "questions": [
         "Why is the company doing this now?",
         "How will it be financed — debt, equity, or internal cash?",
@@ -4502,8 +4477,8 @@
       ]
     },
     "do_the_math": {
-      "question": "Revenue = ₹500 Cr, EBITDA Margin = 20%. Revenue falls 5%. What happens to EBITDA?",
-      "answer": "₹100 Cr → ₹95 Cr (a 5% revenue fall becomes a 5% EBITDA fall at a constant margin)."
+      "question": "Revenue = ₹800 Cr, EBITDA Margin = 18%. Revenue falls 10%. What happens to EBITDA?",
+      "answer": "₹144 Cr → ₹130 Cr (a 10% revenue fall becomes a 10% EBITDA fall at a constant margin)."
     },
     "money_trail": {
       "fii": "Not mentioned in today's headlines.",
@@ -4567,219 +4542,219 @@
     "price_series": [
       {
         "date": "2025-08-31",
-        "close": 3553.6
+        "close": 806.6
       },
       {
         "date": "2025-09-07",
-        "close": 3579.8
+        "close": 823.55
       },
       {
         "date": "2025-09-14",
-        "close": 3675.4
+        "close": 862.35
       },
       {
         "date": "2025-09-21",
-        "close": 3729.5
+        "close": 856.95
       },
       {
         "date": "2025-09-28",
-        "close": 3733.1
+        "close": 867.3
       },
       {
         "date": "2025-10-05",
-        "close": 3784.0
+        "close": 880.65
       },
       {
         "date": "2025-10-12",
-        "close": 3839.4
+        "close": 889.15
       },
       {
         "date": "2025-10-19",
-        "close": 3904.9
+        "close": 904.5
       },
       {
         "date": "2025-10-26",
-        "close": 4030.9
+        "close": 937.0
       },
       {
         "date": "2025-11-02",
-        "close": 3882.5
+        "close": 955.85
       },
       {
         "date": "2025-11-09",
-        "close": 4004.4
+        "close": 967.85
       },
       {
         "date": "2025-11-16",
-        "close": 4024.9
+        "close": 972.6
       },
       {
         "date": "2025-11-23",
-        "close": 4069.6
+        "close": 979.0
       },
       {
         "date": "2025-11-30",
-        "close": 4038.2
+        "close": 971.5
       },
       {
         "date": "2025-12-07",
-        "close": 4074.1
+        "close": 963.15
       },
       {
         "date": "2025-12-14",
-        "close": 4073.5
+        "close": 980.3
       },
       {
         "date": "2025-12-21",
-        "close": 4047.3
+        "close": 966.3
       },
       {
         "date": "2025-12-28",
-        "close": 4163.4
+        "close": 998.95
       },
       {
         "date": "2026-01-04",
-        "close": 4025.2
+        "close": 1000.5
       },
       {
         "date": "2026-01-11",
-        "close": 3856.4
+        "close": 1042.3
       },
       {
         "date": "2026-01-18",
-        "close": 3743.8
+        "close": 1029.5
       },
       {
         "date": "2026-01-25",
-        "close": 3814.0
+        "close": 1018.2
       },
       {
         "date": "2026-02-01",
-        "close": 4068.1
+        "close": 1066.4
       },
       {
         "date": "2026-02-08",
-        "close": 4173.9
+        "close": 1198.6
       },
       {
         "date": "2026-02-15",
-        "close": 4380.6
+        "close": 1216.1
       },
       {
         "date": "2026-02-22",
-        "close": 4278.3
+        "close": 1201.7
       },
       {
         "date": "2026-03-01",
-        "close": 3949.8
+        "close": 1143.0
       },
       {
         "date": "2026-03-08",
-        "close": 3439.0
+        "close": 1047.0
       },
       {
         "date": "2026-03-15",
-        "close": 3434.8
+        "close": 1058.0
       },
       {
         "date": "2026-03-22",
-        "close": 3564.1
+        "close": 1019.5
       },
       {
         "date": "2026-03-29",
-        "close": 3613.1
+        "close": 1018.4
       },
       {
         "date": "2026-04-05",
-        "close": 3959.9
+        "close": 1066.7
       },
       {
         "date": "2026-04-12",
-        "close": 4096.1
+        "close": 1080.25
       },
       {
         "date": "2026-04-19",
-        "close": 4014.3
+        "close": 1101.1
       },
       {
         "date": "2026-04-26",
-        "close": 4014.0
+        "close": 1068.45
       },
       {
         "date": "2026-05-03",
-        "close": 3974.5
+        "close": 1019.3
       },
       {
         "date": "2026-05-10",
-        "close": 3909.0
+        "close": 963.2
       },
       {
         "date": "2026-05-17",
-        "close": 3926.6
+        "close": 949.2
       },
       {
         "date": "2026-05-24",
-        "close": 4076.5
+        "close": 964.4
       },
       {
         "date": "2026-05-31",
-        "close": 3953.2
+        "close": 977.7
       },
       {
         "date": "2026-06-07",
-        "close": 4049.3
+        "close": 1017.15
       },
       {
         "date": "2026-06-14",
-        "close": 4209.4
+        "close": 1035.1
       },
       {
         "date": "2026-06-21",
-        "close": 4216.4
+        "close": 1045.4
       },
       {
         "date": "2026-06-28",
-        "close": 4026.6
+        "close": 1040.0
       },
       {
         "date": "2026-07-05",
-        "close": 3945.8
+        "close": 1036.0
       },
       {
         "date": "2026-07-12",
-        "close": 3814.5
+        "close": 1044.3
       },
       {
         "date": "2026-07-19",
-        "close": 3785.6
+        "close": 1015.0
       },
       {
         "date": "2026-07-26",
-        "close": 3938.9
+        "close": 1027.4
       },
       {
         "date": "2026-08-02",
-        "close": 4056.0
+        "close": 1097.2
       },
       {
         "date": "2026-08-09",
-        "close": 4057.0
+        "close": 1067.7
       },
       {
         "date": "2026-08-16",
-        "close": 4093.0
+        "close": 1048.7
       },
       {
         "date": "2026-08-23",
-        "close": 4045.8
+        "close": 1047.5
       },
       {
         "date": "2026-08-30",
-        "close": 3981.0
+        "close": 1023.4
       },
       {
         "date": "2026-09-03",
-        "close": 3975.0
+        "close": 1023.4
       }
     ],
     "revenue_series": []
