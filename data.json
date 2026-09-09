@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-09T20:47:28.880931+00:00",
+  "generated_at_utc": "2026-09-09T23:59:08.914157+00:00",
   "edition_date": "Wednesday, September 09, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -532,6 +532,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "35c7081239",
+        "title": "Copper Hits Fresh All-Time Highs in New York and London",
+        "summary": "Copper climbed to a fresh record in London and New York as traders weighed persistent tariff fears and supply shortages against escalating hostilities in the Middle East that clouded demand outlook.",
+        "link": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html"
+          }
+        ],
+        "published": "Thu, 10 Sep 2026 02:44:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Copper climbed to a fresh record in London and New York as traders weighed persistent tariff fears and supply shortages against escalating hostilities in the Middle East that clouded demand outlook.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1106,6 +1133,33 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "61fe22a970",
+        "title": "Australian Property Stocks Vulnerable Following Bathla Collapse",
+        "summary": "Australia’s property stocks are trailing global peers by the most in 16 years, and analysts worry it may get worse as the prospect of more rate hikes and the unraveling of a suburban developer intensify scrutiny in the sector.",
+        "link": "https://www.livemint.com/market/australian-property-stocks-vulnerable-following-bathla-collapse-11788990835062.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australian-property-stocks-vulnerable-following-bathla-collapse-11788990835062.html"
+          }
+        ],
+        "published": "Thu, 10 Sep 2026 03:23:54 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Australia’s property stocks are trailing global peers by the most in 16 years, and analysts worry it may get worse as the prospect of more rate hikes and the unraveling of a suburban developer intensi",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "664bd8123b",
         "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
         "summary": "GLOBAL-MARKETS:Wall Street dips as $100 oil, inflation worries weigh on investors",
@@ -1261,87 +1315,6 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "Not a big mover either way for banks & money right now. On September 9, Indian stock market investors are centering on firms like Dilip Buildcon, Wipro and AU Small Finance Bank due to key orders and approvals.&amp;nbsp;",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "56f825e821",
-        "title": "Sebi seeks to widen talent pool for stock exchanges and depositories",
-        "summary": "The market regulator&amp;nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity, compliance and risk roles.",
-        "link": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 19:07:08 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. The market regulator&amp;nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity,",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "49506ce8c5",
-        "title": "Gold vs silver prices: Which one is overvalued? Which one remains relatively cheaper? Explained in current market trends",
-        "summary": "Gold above $4,400 is not considered cheap, as prices remain above the model's fair-value midpoint, although they are still within the broader estimated range. Silver near $61–66, meanwhile, appears relatively undervalued.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/commodities/gold-vs-silver-prices-which-one-is-overvalued-which-one-remains-relatively-cheaper-explained-in-current-market-trends-11788956496086.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/commodities/gold-vs-silver-prices-which-one-is-overvalued-which-one-remains-relatively-cheaper-explained-in-current-market-trends-11788956496086.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 18:42:53 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Gold above $4,400 is not considered cheap, as prices remain above the model's fair-value midpoint, although they are still within the broader estimated range. Silver near $61–66, meanwhile, appears re",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "81eb95fa71",
-        "title": "'Buy' Jain Resource Recycling for 25% upside, says ICICI Securities; check share price target",
-        "summary": "Jain Resource Recycling's share price fell slightly on September 9. ICICI Securities predicts over 20% upside and highlights a significant shift towards copper products, initiating coverage with a 'Buy' rating and a target price of  ₹350.",
-        "link": "https://www.livemint.com/market/stock-market-news/buy-jain-resource-recycling-for-25-upside-says-icici-securities-check-share-price-target-11788957534414.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/buy-jain-resource-recycling-for-25-upside-says-icici-securities-check-share-price-target-11788957534414.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 18:17:03 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Jain Resource Recycling's share price fell slightly on September 9. ICICI Securities predicts over 20% upside and highlights a significant shift towards copper products, initiating coverage with a 'Bu",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -1675,18 +1648,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "29bf358358",
-        "title": "Footprints Preschool & Daycare expands Bengaluru presence with new centre at RMZ Eco World, Bellandur",
-        "summary": "Subtitle: New centre brings HighScope-based early-years learning and daycare into one of Bengaluru's largest tech parks, with corporate daycare partnerships open for companies in the Outer Ring Road corridor.\n\n\n\nImage caption: Purvesh Sharma, Co-founder and COO, Footprints Presch",
-        "link": "https://yourstory.com/2026/09/footprints-preschool-daycare-expands-bengaluru-presence-new-centre-rmz-eco-world-bellandur",
+        "id": "083778970a",
+        "title": "7 Kathryn Stockett quotes with unexpected life lessons",
+        "summary": "Discover 7 powerful Kathryn Stockett quotes that reveal unexpected lessons about courage, kindness, resilience, and self-worth.",
+        "link": "https://yourstory.com/2026/09/kathryn-stockett-quotes",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/footprints-preschool-daycare-expands-bengaluru-presence-new-centre-rmz-eco-world-bellandur"
+            "url": "https://yourstory.com/2026/09/kathryn-stockett-quotes"
           }
         ],
-        "published": "Wed, 09 Sep 2026 13:12:09 GMT",
+        "published": "Tue, 08 Sep 2026 12:50:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1694,7 +1667,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Subtitle: New centre brings HighScope-based early-years learning and daycare into one of Bengaluru's largest tech parks, with corporate daycare partnerships open for companies in the Outer Ring Road c",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful Kathryn Stockett quotes that reveal unexpected lessons about courage, kindness, resilience, and self-worth.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1729,18 +1702,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "b5f2cc8b18",
-        "title": "India orders takedown of 15 offshore crypto platforms over AML non-compliance",
-        "summary": "The platforms were operating in India without registering with FIU-IND and complying with requirements under the Prevention of Money Laundering Act.",
-        "link": "https://yourstory.com/2026/09/india-orders-takedown-15-offshore-crypto-platforms-aml-non-compliance",
+        "id": "84463b915c",
+        "title": "Shuddh Swad is building a regional snacks brand using traditional household recipes",
+        "summary": "Shuddh Swad makes preservative-free Bihari thekua using traditional recipes and crossed Rs 1 crore in revenue in its first year, fully bootstrapped.",
+        "link": "https://yourstory.com/2026/09/shuddh-swad-bihar-thekua-snacks",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/india-orders-takedown-15-offshore-crypto-platforms-aml-non-compliance"
+            "url": "https://yourstory.com/2026/09/shuddh-swad-bihar-thekua-snacks"
           }
         ],
-        "published": "Wed, 09 Sep 2026 07:38:59 GMT",
+        "published": "Wed, 09 Sep 2026 01:30:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1748,7 +1721,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The platforms were operating in India without registering with FIU-IND and complying with requirements under the Prevention of Money Laundering Act.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Shuddh Swad makes preservative-free Bihari thekua using traditional recipes and crossed Rs 1 crore in revenue in its first year, fully bootstrapped.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1776,6 +1749,33 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. How Indian brands are turning nostalgia, regional identity and heritage into an “authenticity premium” that customers are willing to pay for.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "29bf358358",
+        "title": "Footprints Preschool & Daycare expands Bengaluru presence with new centre at RMZ Eco World, Bellandur",
+        "summary": "Subtitle: New centre brings HighScope-based early-years learning and daycare into one of Bengaluru's largest tech parks, with corporate daycare partnerships open for companies in the Outer Ring Road corridor.\n\n\n\nImage caption: Purvesh Sharma, Co-founder and COO, Footprints Presch",
+        "link": "https://yourstory.com/2026/09/footprints-preschool-daycare-expands-bengaluru-presence-new-centre-rmz-eco-world-bellandur",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/footprints-preschool-daycare-expands-bengaluru-presence-new-centre-rmz-eco-world-bellandur"
+          }
+        ],
+        "published": "Wed, 09 Sep 2026 13:12:09 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Subtitle: New centre brings HighScope-based early-years learning and daycare into one of Bengaluru's largest tech parks, with corporate daycare partnerships open for companies in the Outer Ring Road c",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1837,26 +1837,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "84463b915c",
-        "title": "Shuddh Swad is building a regional snacks brand using traditional household recipes",
-        "summary": "Shuddh Swad makes preservative-free Bihari thekua using traditional recipes and crossed Rs 1 crore in revenue in its first year, fully bootstrapped.",
-        "link": "https://yourstory.com/2026/09/shuddh-swad-bihar-thekua-snacks",
+        "id": "201c5e9648",
+        "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
+        "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
+        "link": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/shuddh-swad-bihar-thekua-snacks"
+            "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai"
           }
         ],
-        "published": "Wed, 09 Sep 2026 01:30:00 GMT",
+        "published": "Tue, 08 Sep 2026 15:08:14 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false,
+        "is_ai_related": true,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Shuddh Swad makes preservative-free Bihari thekua using traditional recipes and crossed Rs 1 crore in revenue in its first year, fully bootstrapped.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1864,18 +1864,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "083778970a",
-        "title": "7 Kathryn Stockett quotes with unexpected life lessons",
-        "summary": "Discover 7 powerful Kathryn Stockett quotes that reveal unexpected lessons about courage, kindness, resilience, and self-worth.",
-        "link": "https://yourstory.com/2026/09/kathryn-stockett-quotes",
+        "id": "b5f2cc8b18",
+        "title": "India orders takedown of 15 offshore crypto platforms over AML non-compliance",
+        "summary": "The platforms were operating in India without registering with FIU-IND and complying with requirements under the Prevention of Money Laundering Act.",
+        "link": "https://yourstory.com/2026/09/india-orders-takedown-15-offshore-crypto-platforms-aml-non-compliance",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/kathryn-stockett-quotes"
+            "url": "https://yourstory.com/2026/09/india-orders-takedown-15-offshore-crypto-platforms-aml-non-compliance"
           }
         ],
-        "published": "Tue, 08 Sep 2026 12:50:00 GMT",
+        "published": "Wed, 09 Sep 2026 07:38:59 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1883,7 +1883,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful Kathryn Stockett quotes that reveal unexpected lessons about courage, kindness, resilience, and self-worth.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The platforms were operating in India without registering with FIU-IND and complying with requirements under the Prevention of Money Laundering Act.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1891,18 +1891,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "6fa86d3e1a",
-        "title": "Motilal Oswal Alternates Invests ₹600 Crore in KARAM Safety for Global M&A Push",
-        "summary": "KARAM Safety, India's largest PPE maker, raises ₹600 crore from Motilal Oswal Alternates to fund global M&amp;A and expansion.",
-        "link": "https://yourstory.com/2026/09/karam-safety-motilal-oswal-alternates-600-crore-investment",
+        "id": "365d3ff880",
+        "title": "Ajit Mohan steps down as Snap’s Chief Business Officer",
+        "summary": "The former Meta India head is returning to Singapore to spend more time with his family. Snap has named EMEA President Ronan Harris as its Chief Commercial Officer.",
+        "link": "https://yourstory.com/2026/09/ajit-mohan-steps-down-as-snaps-chief-business-officer",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/karam-safety-motilal-oswal-alternates-600-crore-investment"
+            "url": "https://yourstory.com/2026/09/ajit-mohan-steps-down-as-snaps-chief-business-officer"
           }
         ],
-        "published": "Wed, 09 Sep 2026 14:11:32 GMT",
+        "published": "Wed, 09 Sep 2026 03:58:35 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1910,34 +1910,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. KARAM Safety, India's largest PPE maker, raises ₹600 crore from Motilal Oswal Alternates to fund global M&amp;A and expansion.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c2c19e03ca",
-        "title": "Samtel Avionics, BULL explore joint approach to space debris",
-        "summary": "Samtel Avionics and Japan’s BULL will explore combining passive post-mission disposal and active debris removal technologies to develop practical solutions for space sustainability.",
-        "link": "https://yourstory.com/2026/09/samtel-avionics-bull-explore-joint-approach-to-space-debris",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/samtel-avionics-bull-explore-joint-approach-to-space-debris"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 13:35:03 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Samtel Avionics and Japan’s BULL will explore combining passive post-mission disposal and active debris removal technologies to develop practical solutions for space sustainability.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The former Meta India head is returning to Singapore to spend more time with his family. Snap has named EMEA President Ronan Harris as its Chief Commercial Officer.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1972,6 +1945,60 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "733f2ea0b1",
+        "title": "Tazapay to be acquired by Circle in $400M stock deal",
+        "summary": "US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay.",
+        "link": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay"
+          }
+        ],
+        "published": "Tue, 08 Sep 2026 15:05:22 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a644575efd",
+        "title": "QNu Labs raises Rs 200 Cr as demand for quantum-safe cybersecurity grows",
+        "summary": "The quantum-safe cybersecurity company will use the fresh capital to expand research, sales and technology capabilities as India advances its quantum agenda.",
+        "link": "https://yourstory.com/2026/09/qnu-labs-raises-rs-200-cr-as-demand-for-quantum-safe-cybersecurity-grows",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/qnu-labs-raises-rs-200-cr-as-demand-for-quantum-safe-cybersecurity-grows"
+          }
+        ],
+        "published": "Wed, 09 Sep 2026 07:50:07 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The quantum-safe cybersecurity company will use the fresh capital to expand research, sales and technology capabilities as India advances its quantum agenda.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "2272274f7d",
         "title": "Carrum Mobility raises $10M in Series B led by Uber",
         "summary": "Carrum Mobility will use this funding to expand its presence across the country and also invest in technology as well as talent.",
@@ -1999,53 +2026,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "201c5e9648",
-        "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
-        "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
-        "link": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
-        "source": "YourStory",
+        "id": "0da6f5ff12",
+        "title": "Apple Unveils First Foldable iPhone Duo, Priced ₹3 Lakh Onwards In India",
+        "summary": "Smartphone maker Apple yesterday unveiled its first foldable smartphone, called iPhone Duo, at its flagship “Surprise and Shine” event in&#8230;",
+        "link": "https://inc42.com/buzz/apple-unveils-first-foldable-iphone-duo-priced-%e2%82%b93-lakh-onwards-in-india/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/apple-unveils-first-foldable-iphone-duo-priced-%e2%82%b93-lakh-onwards-in-india/"
           }
         ],
-        "published": "Tue, 08 Sep 2026 15:08:14 GMT",
+        "published": "Wed, 09 Sep 2026 20:34:51 +0000",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "a6d4e2a3b9",
-        "title": "Startup news and updates: Daily roundup (September 9, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, September 9, 2026.",
-        "link": "https://yourstory.com/2026/09/startup-news-updates-daily-roundup-september-9-2026",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/startup-news-updates-daily-roundup-september-9-2026"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 12:52:11 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 1
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, September 9, 2026.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Smartphone maker Apple yesterday unveiled its first foldable smartphone, called iPhone Duo, at its flagship “Surprise and Shine” event in&#8230;",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2429,33 +2429,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "bccb6e61ba",
-        "title": "FIU Issues Notices To 15 Crypto Platforms, Initiates Takedown",
-        "summary": "The Financial Intelligence Unit-India (FIU-IND) has issued notices to 15 offshore virtual digital asset (VDA) service providers for non-compliance with&#8230;",
-        "link": "https://inc42.com/buzz/fiu-issues-notices-to-15-crypto-platforms-initiates-takedown/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/fiu-issues-notices-to-15-crypto-platforms-initiates-takedown/"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 08:27:11 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Financial Intelligence Unit-India (FIU-IND) has issued notices to 15 offshore virtual digital asset (VDA) service providers for non-compliance with&#8230;",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
@@ -2485,6 +2458,33 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "516b749944",
+        "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
+        "summary": "With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on.",
+        "link": "https://www.livemint.com/market/aidriven-ipo-wave-set-to-accompany-anthropic-listing-11788992244915.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/aidriven-ipo-wave-set-to-accompany-anthropic-listing-11788992244915.html"
+          }
+        ],
+        "published": "Thu, 10 Sep 2026 03:47:24 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "in_simple_words": "Not a big mover either way for general markets right now. With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "cbe3554d89",
@@ -2872,33 +2872,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "81eb95fa71",
-        "title": "'Buy' Jain Resource Recycling for 25% upside, says ICICI Securities; check share price target",
-        "summary": "Jain Resource Recycling's share price fell slightly on September 9. ICICI Securities predicts over 20% upside and highlights a significant shift towards copper products, initiating coverage with a 'Buy' rating and a target price of  ₹350.",
-        "link": "https://www.livemint.com/market/stock-market-news/buy-jain-resource-recycling-for-25-upside-says-icici-securities-check-share-price-target-11788957534414.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/buy-jain-resource-recycling-for-25-upside-says-icici-securities-check-share-price-target-11788957534414.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 18:17:03 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Jain Resource Recycling's share price fell slightly on September 9. ICICI Securities predicts over 20% upside and highlights a significant shift towards copper products, initiating coverage with a 'Bu",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "General Markets": [
@@ -3256,6 +3229,60 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "61fe22a970",
+        "title": "Australian Property Stocks Vulnerable Following Bathla Collapse",
+        "summary": "Australia’s property stocks are trailing global peers by the most in 16 years, and analysts worry it may get worse as the prospect of more rate hikes and the unraveling of a suburban developer intensify scrutiny in the sector.",
+        "link": "https://www.livemint.com/market/australian-property-stocks-vulnerable-following-bathla-collapse-11788990835062.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australian-property-stocks-vulnerable-following-bathla-collapse-11788990835062.html"
+          }
+        ],
+        "published": "Thu, 10 Sep 2026 03:23:54 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Australia’s property stocks are trailing global peers by the most in 16 years, and analysts worry it may get worse as the prospect of more rate hikes and the unraveling of a suburban developer intensi",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "35c7081239",
+        "title": "Copper Hits Fresh All-Time Highs in New York and London",
+        "summary": "Copper climbed to a fresh record in London and New York as traders weighed persistent tariff fears and supply shortages against escalating hostilities in the Middle East that clouded demand outlook.",
+        "link": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html"
+          }
+        ],
+        "published": "Thu, 10 Sep 2026 02:44:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Copper climbed to a fresh record in London and New York as traders weighed persistent tariff fears and supply shortages against escalating hostilities in the Middle East that clouded demand outlook.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "d0359332c5",
         "title": "Wheat falls amid profit-taking, Black Sea war headlines",
         "summary": "GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Wheat falls amid profit-taking, Black Sea war headlines",
@@ -3358,33 +3385,6 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "Not a big mover either way for general markets right now. Higher limits will give traders more room to take positions, while revised penalties seek to curb repeated breaches.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "49506ce8c5",
-        "title": "Gold vs silver prices: Which one is overvalued? Which one remains relatively cheaper? Explained in current market trends",
-        "summary": "Gold above $4,400 is not considered cheap, as prices remain above the model's fair-value midpoint, although they are still within the broader estimated range. Silver near $61–66, meanwhile, appears relatively undervalued.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/commodities/gold-vs-silver-prices-which-one-is-overvalued-which-one-remains-relatively-cheaper-explained-in-current-market-trends-11788956496086.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/commodities/gold-vs-silver-prices-which-one-is-overvalued-which-one-remains-relatively-cheaper-explained-in-current-market-trends-11788956496086.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 18:42:53 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Gold above $4,400 is not considered cheap, as prices remain above the model's fair-value midpoint, although they are still within the broader estimated range. Silver near $61–66, meanwhile, appears re",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -4020,33 +4020,6 @@
         ],
         "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
         "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "56f825e821",
-        "title": "Sebi seeks to widen talent pool for stock exchanges and depositories",
-        "summary": "The market regulator&amp;nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity, compliance and risk roles.",
-        "link": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html"
-          }
-        ],
-        "published": "Wed, 09 Sep 2026 19:07:08 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. The market regulator&amp;nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity,",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
       }
     ],
     "Medicine & Pharma": [
@@ -4668,7 +4641,7 @@
       },
       {
         "date": "2026-09-06",
-        "close": 1244.9
+        "close": 1238.5
       },
       {
         "date": "2026-09-09",
