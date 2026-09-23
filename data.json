@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-22T21:07:44.711694+00:00",
-  "edition_date": "Tuesday, September 22, 2026",
+  "generated_at_utc": "2026-09-23T00:13:14.667086+00:00",
+  "edition_date": "Wednesday, September 23, 2026",
   "sector_performance": {
     "Banks & Money": {
       "pct": -0.25,
@@ -125,34 +125,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "d1c735f859",
-        "title": "Top stocks to buy in F&amp;O segment: Glenmark, Bharat Forge, Varun Beverages by Jay Thakkar - Check short-term targets",
-        "summary": "On September 22, domestic indices fell as IT stocks declined, overshadowing oil price drops. Nifty 50 dropped 0.36% to 23,329; Sensex fell 0.44% to 74,529. Technical levels suggest a trading range of 23,000-24,000, with potential positive momentum if a US-Iran deal is confirmed.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-glenmark-bharat-forge-varun-beverages-by-jay-thakkar-check-short-term-targets-11790077901117.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-glenmark-bharat-forge-varun-beverages-by-jay-thakkar-check-short-term-targets-11790077901117.html"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 17:37:17 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. On September 22, domestic indices fell as IT stocks declined, overshadowing oil price drops. Nifty 50 dropped 0.36% to 23,329; Sensex fell 0.44% to 74,529. Technical levels suggest a trading range of",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
         "id": "2c554bf20b",
@@ -291,6 +263,34 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1e2ebdbd5b",
+        "title": "Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Outlook",
+        "summary": "Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
+        "link": "https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html"
+          }
+        ],
+        "published": "Wed, 23 Sep 2026 05:12:12 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "479f9603cf",
@@ -1135,6 +1135,33 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "43009f99af",
+        "title": "CME cattle sag as traders watch cash prices, beef demand",
+        "summary": "USA-LIVESTOCK/:LIVESTOCK-CME cattle sag as traders watch cash prices, beef demand",
+        "link": "https://www.livemint.com/market/cme-cattle-sag-as-traders-watch-cash-prices-beef-demand-11790113929946.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cme-cattle-sag-as-traders-watch-cash-prices-beef-demand-11790113929946.html"
+          }
+        ],
+        "published": "Wed, 23 Sep 2026 03:22:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. USA-LIVESTOCK/:LIVESTOCK-CME cattle sag as traders watch cash prices, beef demand",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "65cdab9976",
         "title": "Traders Load Up on Hedges for Shallower Fed Rate-Hike Cycle",
         "summary": "Traders in the options market are shielding themselves from the possibility that the Federal Reserve raises interest rates less than markets are currently pricing in.",
@@ -1295,33 +1322,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "64260c4051",
-        "title": "SoftBank draws over $20 billion of early interest in junk bond",
-        "summary": "SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to help fund the firm’s investments in OpenAI.",
-        "link": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 17:11:53 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to h",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "8881f59857",
@@ -1650,33 +1650,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "23c5e6fe5a",
-        "title": "Reports of our death are greatly exaggerated, Rajendran Dandapani tells audience at DevSparks Chennai",
-        "summary": "Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, and judging what they produce.",
-        "link": "https://yourstory.com/2026/09/reports-of-our-death-greatly-exaggerated-rajendran-dandapani-developers-devsparks-chennai",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/reports-of-our-death-greatly-exaggerated-rajendran-dandapani-developers-devsparks-chennai"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 03:00:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, an",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "4451826ba0",
         "title": "4 Quotes from books that can help you through tough times",
         "summary": "Discover 4 powerful book quotes that offer comfort, resilience, and perspective when life feels challenging and uncertain.",
@@ -1697,87 +1670,6 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. Discover 4 powerful book quotes that offer comfort, resilience, and perspective when life feels challenging and uncertain.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "798e89d2ab",
-        "title": "7 Books that can change the way you view happiness",
-        "summary": "Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
-        "link": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 15:34:21 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "46ac8e6cdc",
-        "title": "Building intelligent enterprises: why developers must bridge code and business reality",
-        "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case that ",
-        "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality"
-          }
-        ],
-        "published": "Mon, 21 Sep 2026 13:00:27 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subi",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "176ad663c1",
-        "title": "Use AI to build the first prototype, but don’t stop learning the fundamentals: Intel’s Aditi Nanda",
-        "summary": "At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to understand user needs will remain essential.",
-        "link": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 03:30:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to und",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1812,6 +1704,114 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "176ad663c1",
+        "title": "Use AI to build the first prototype, but don’t stop learning the fundamentals: Intel’s Aditi Nanda",
+        "summary": "At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to understand user needs will remain essential.",
+        "link": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 03:30:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to und",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "23c5e6fe5a",
+        "title": "Reports of our death are greatly exaggerated, Rajendran Dandapani tells audience at DevSparks Chennai",
+        "summary": "Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, and judging what they produce.",
+        "link": "https://yourstory.com/2026/09/reports-of-our-death-greatly-exaggerated-rajendran-dandapani-developers-devsparks-chennai",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/reports-of-our-death-greatly-exaggerated-rajendran-dandapani-developers-devsparks-chennai"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 03:00:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, an",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "46ac8e6cdc",
+        "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+        "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case that ",
+        "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality"
+          }
+        ],
+        "published": "Mon, 21 Sep 2026 13:00:27 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subi",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "798e89d2ab",
+        "title": "7 Books that can change the way you view happiness",
+        "summary": "Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
+        "link": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 15:34:21 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "9860b51935",
         "title": "9 Must-read lessons about friendship from classic books",
         "summary": "Discover 9 powerful friendship lessons from classic books that teach loyalty, trust, forgiveness, courage, and the value of true companionship.",
@@ -1839,18 +1839,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "3062507280",
-        "title": "Nothing to spin off CMF as majority Indian-owned company",
-        "summary": "Nothing plans to turn CMF into a standalone Indian company, shifting beyond local manufacturing towards product engineering, R&amp;D and intellectual property development.",
-        "link": "https://yourstory.com/2026/09/nothing-to-spin-off-cmf-as-majority-indian-owned-company",
+        "id": "dae541b24d",
+        "title": "KEONICS turns 50, takes Karnataka’s tech story beyond Bengaluru",
+        "summary": "KEONICS marks 50 years with plans to expand technology infrastructure, AI skilling and digital services across Karnataka.",
+        "link": "https://yourstory.com/2026/09/keonics-50-years-karnataka-tech-beyond-bengaluru",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/nothing-to-spin-off-cmf-as-majority-indian-owned-company"
+            "url": "https://yourstory.com/2026/09/keonics-50-years-karnataka-tech-beyond-bengaluru"
           }
         ],
-        "published": "Tue, 22 Sep 2026 13:04:46 GMT",
+        "published": "Tue, 22 Sep 2026 11:02:10 GMT",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. KEONICS marks 50 years with plans to expand technology infrastructure, AI skilling and digital services across Karnataka.",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "af9301cc04",
+        "title": "Hikal shareholders to vote on Sameer Hiremath’s elevation amid family ownership dispute",
+        "summary": "At Hikal’s AGM on September 23, shareholders will vote on Sameer Hiremath’s five-year term as CMD. The Hiremath and Kalyani sides hold nearly identical 34% stakes, while proxy advisers are split over the move.",
+        "link": "https://yourstory.com/2026/09/hikal-shareholders-sameer-hiremath-elevation-family-ownership-dispute",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/hikal-shareholders-sameer-hiremath-elevation-family-ownership-dispute"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 13:44:53 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1858,7 +1885,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Nothing plans to turn CMF into a standalone Indian company, shifting beyond local manufacturing towards product engineering, R&amp;D and intellectual property development.",
+        "in_simple_words": "Not a big mover either way for general markets right now. At Hikal’s AGM on September 23, shareholders will vote on Sameer Hiremath’s five-year term as CMD. The Hiremath and Kalyani sides hold nearly identical 34% stakes, while proxy advisers are split over",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1866,126 +1893,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "18f7a48418",
-        "title": "Soach Global to partially exit NSE after decade-long investment",
-        "summary": "Soach Global will sell 16.5 lakh NSE shares through the IPO for about Rs 280-295 crore, while retaining 66 lakh shares as a long-term investment.",
-        "link": "https://yourstory.com/2026/09/soach-global-to-partially-exit-nse-after-decade-long-investment",
+        "id": "2fd0133764",
+        "title": "Women's cricket team gives India first gold of 2026 Asian Games",
+        "summary": "Asian Games at Japan\n\nThe Indian women’s cricket team extended their dominance against Sri Lanka who had to settle for silver\n\nThe Indian women's cricket team reasserted its continental dominance by clinching a second successive gold medal at the Asian Games, thrashing familiar f",
+        "link": "https://yourstory.com/2026/09/womens-cricket-team-gives-india-first-gold-of-2026-asian-games",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/soach-global-to-partially-exit-nse-after-decade-long-investment"
+            "url": "https://yourstory.com/2026/09/womens-cricket-team-gives-india-first-gold-of-2026-asian-games"
           }
         ],
-        "published": "Mon, 21 Sep 2026 14:15:39 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Soach Global will sell 16.5 lakh NSE shares through the IPO for about Rs 280-295 crore, while retaining 66 lakh shares as a long-term investment.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "262b08d671",
-        "title": "Indian founders account for $560B unicorn valuation overseas: report",
-        "summary": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas.",
-        "link": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 10:36:42 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "30ce5a07b6",
-        "title": "Startup news and updates: daily roundup (September 22, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, September 22, 2026.",
-        "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-22-2026",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-22-2026"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 12:38:15 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, September 22, 2026.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5ceb9c902a",
-        "title": "Deoria MP Shashank Mani Tripathi on the 2026 NEET crisis, India's growth story and entrepreneurship",
-        "summary": "A paper leak, a resignation and a rocket launch, how one MP connects examinations, growth and enterprise into a single argument",
-        "link": "https://yourstory.com/2026/09/shashank-mani-tripathi-neet-crisis-entrepreneurship-opportunity",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/shashank-mani-tripathi-neet-crisis-entrepreneurship-opportunity"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 04:41:24 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. A paper leak, a resignation and a rocket launch, how one MP connects examinations, growth and enterprise into a single argument",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "f5a3360b09",
-        "title": "Captain Fresh revenue crosses Rs 5,000 Cr in FY26; co targets Rs 10,000 Cr in FY27",
-        "summary": "The packaged seafood company saw adjusted EBITDA rise by 173% in FY26 as it remained net profit positive for the second consecutive year.",
-        "link": "https://yourstory.com/2026/09/captain-fresh-revenue-crosses-rs-5000-cr-fy26-targets-rs-10000-cr-fy27",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/captain-fresh-revenue-crosses-rs-5000-cr-fy26-targets-rs-10000-cr-fy27"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 08:57:07 GMT",
+        "published": "Tue, 22 Sep 2026 10:30:36 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
@@ -1993,7 +1912,61 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The packaged seafood company saw adjusted EBITDA rise by 173% in FY26 as it remained net profit positive for the second consecutive year.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Asian Games at Japan\n\nThe Indian women’s cricket team extended their dominance against Sri Lanka who had to settle for silver\n\nThe Indian women's cricket team reasserted its continental dominance by c",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d8661fcf06",
+        "title": "Spinny files confidential IPO papers, eyes upto Rs 3,000 Cr",
+        "summary": "Used-car marketplace Spinny has pre-filed IPO papers with the Securities and Exchange Board of India (SEBI), according to a news report by Moneycontrol. \n\nThe company did not answer e-mail queries sent by YourStory. \n\nFounded in 2015, Spinny is an online used-car retailing platfo",
+        "link": "https://yourstory.com/2026/09/spinny-files-ipo-eyes-3000-crore",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/spinny-files-ipo-eyes-3000-crore"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 09:49:54 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Used-car marketplace Spinny has pre-filed IPO papers with the Securities and Exchange Board of India (SEBI), according to a news report by Moneycontrol. \n\nThe company did not answer e-mail queries sen",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ffda8423ad",
+        "title": "Inside WOI India’s Kashmir Retreat: Founders, MoU and ₹2 Crore Commitment",
+        "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
+        "link": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups"
+          }
+        ],
+        "published": "Mon, 21 Sep 2026 17:16:11 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2028,26 +2001,53 @@
         "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
-        "id": "ffda8423ad",
-        "title": "Inside WOI India’s Kashmir Retreat: Founders, MoU and ₹2 Crore Commitment",
-        "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
-        "link": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
+        "id": "5660ac2ea7",
+        "title": "Snapdeal parent firm AceVector's IPO to open on September 25",
+        "summary": "AceVector plans to raise Rs 420 crore through the IPO and has priced its shares in the range of Rs 30-32.",
+        "link": "https://yourstory.com/2026/09/ipo-of-snapdeals-parent-firm-acevector-to-open-on-sept-25",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups"
+            "url": "https://yourstory.com/2026/09/ipo-of-snapdeals-parent-firm-acevector-to-open-on-sept-25"
           }
         ],
-        "published": "Mon, 21 Sep 2026 17:16:11 GMT",
+        "published": "Tue, 22 Sep 2026 05:38:41 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
+        "in_simple_words": "Not a big mover either way for general markets right now. AceVector plans to raise Rs 420 crore through the IPO and has priced its shares in the range of Rs 30-32.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "262b08d671",
+        "title": "Indian founders account for $560B unicorn valuation overseas: report",
+        "summary": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas.",
+        "link": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report"
+          }
+        ],
+        "published": "Tue, 22 Sep 2026 10:36:42 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2653,6 +2653,34 @@
         ],
         "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
         "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "1e2ebdbd5b",
+        "title": "Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Outlook",
+        "summary": "Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
+        "link": "https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html"
+          }
+        ],
+        "published": "Wed, 23 Sep 2026 05:12:12 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       }
     ],
     "General Markets": [
@@ -3057,6 +3085,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "Not a big mover either way for general markets right now. \"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy sai",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "43009f99af",
+        "title": "CME cattle sag as traders watch cash prices, beef demand",
+        "summary": "USA-LIVESTOCK/:LIVESTOCK-CME cattle sag as traders watch cash prices, beef demand",
+        "link": "https://www.livemint.com/market/cme-cattle-sag-as-traders-watch-cash-prices-beef-demand-11790113929946.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cme-cattle-sag-as-traders-watch-cash-prices-beef-demand-11790113929946.html"
+          }
+        ],
+        "published": "Wed, 23 Sep 2026 03:22:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. USA-LIVESTOCK/:LIVESTOCK-CME cattle sag as traders watch cash prices, beef demand",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3745,34 +3800,6 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "d1c735f859",
-        "title": "Top stocks to buy in F&amp;O segment: Glenmark, Bharat Forge, Varun Beverages by Jay Thakkar - Check short-term targets",
-        "summary": "On September 22, domestic indices fell as IT stocks declined, overshadowing oil price drops. Nifty 50 dropped 0.36% to 23,329; Sensex fell 0.44% to 74,529. Technical levels suggest a trading range of 23,000-24,000, with potential positive momentum if a US-Iran deal is confirmed.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-glenmark-bharat-forge-varun-beverages-by-jay-thakkar-check-short-term-targets-11790077901117.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-glenmark-bharat-forge-varun-beverages-by-jay-thakkar-check-short-term-targets-11790077901117.html"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 17:37:17 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. On September 22, domestic indices fell as IT stocks declined, overshadowing oil price drops. Nifty 50 dropped 0.36% to 23,329; Sensex fell 0.44% to 74,529. Technical levels suggest a trading range of",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
         "id": "250b6b21fb",
         "title": "Trade Setup For Sept 23: Nifty Support Back To 23,300 As Selling Pressure Returns | Check Key Levels",
         "summary": "The technical setup suggests that the index needs to reclaim the 23,500-23,600 resistance zone to signal improvement in the near-term trend, while a break below immediate support levels could keep the corrective phase intact.",
@@ -3961,33 +3988,6 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "64260c4051",
-        "title": "SoftBank draws over $20 billion of early interest in junk bond",
-        "summary": "SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to help fund the firm’s investments in OpenAI.",
-        "link": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html"
-          }
-        ],
-        "published": "Tue, 22 Sep 2026 17:11:53 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to h",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -4300,33 +4300,6 @@
       "watch": "Nifty 50, Sensex, USD-INR, India VIX"
     },
     {
-      "id": "64260c4051",
-      "title": "SoftBank draws over $20 billion of early interest in junk bond",
-      "summary": "SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to help fund the firm’s investments in OpenAI.",
-      "link": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html",
-      "source": "LiveMint Markets",
-      "sources": [
-        {
-          "name": "LiveMint Markets",
-          "url": "https://www.livemint.com/market/bonds/softbank-draws-over-20-billion-of-early-interest-in-junk-bond-11790076505828.html"
-        }
-      ],
-      "published": "Tue, 22 Sep 2026 17:11:53 +0530",
-      "sector": "Banks & Money",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for banks & money right now. SoftBank has drawn more than $20 billion of preliminary demand for what’s shaping up to be one of the biggest junk bond deals ever, as investors rush to capture record yields likely to be offered to h",
-      "means_for_you": [
-        "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-      ],
-      "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-      "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-    },
-    {
       "id": "16df5a368a",
       "title": "An 'Incident Line', Not An Accord: What Bessent's Narrow AI Safety Proposal To China Entails",
       "summary": "Bessent called the proposal as an move to bring more transparency in the AI race between the two economic powers.",
@@ -4408,6 +4381,33 @@
       "watch": "Nifty 50, Sensex"
     },
     {
+      "id": "176ad663c1",
+      "title": "Use AI to build the first prototype, but don’t stop learning the fundamentals: Intel’s Aditi Nanda",
+      "summary": "At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to understand user needs will remain essential.",
+      "link": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda"
+        }
+      ],
+      "published": "Tue, 22 Sep 2026 03:30:00 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "in_simple_words": "Not a big mover either way for general markets right now. At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to und",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
       "id": "23c5e6fe5a",
       "title": "Reports of our death are greatly exaggerated, Rajendran Dandapani tells audience at DevSparks Chennai",
       "summary": "Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, and judging what they produce.",
@@ -4435,26 +4435,26 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "798e89d2ab",
-      "title": "7 Books that can change the way you view happiness",
-      "summary": "Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
-      "link": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness",
+      "id": "46ac8e6cdc",
+      "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+      "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case that ",
+      "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
       "source": "YourStory",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness"
+          "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality"
         }
       ],
-      "published": "Tue, 22 Sep 2026 15:34:21 GMT",
+      "published": "Mon, 21 Sep 2026 13:00:27 GMT",
       "sector": "General Markets",
       "sentiment": {
-        "label": "Neutral",
-        "score": 0
+        "label": "Bullish",
+        "score": 2
       },
       "is_ai_related": true,
       "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
+      "in_simple_words": "This is good news for general markets — sentiment turned more positive. Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era\n\nStrapline: At DevSparks Hyderabad, Subi",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4494,7 +4494,7 @@
       "investment_implication": "Worth watching: Reliance Industries, ONGC, oil marketing companies"
     },
     "one_chart_question": "How has the stock price moved over the last year?",
-    "one_chart_insight": "The stock moved 16.4% over the last year (revenue history wasn't available to compare).",
+    "one_chart_insight": "The stock moved 10.5% over the last year (revenue history wasn't available to compare).",
     "one_concept": {
       "concept_name": "N/A",
       "company_example": "N/A",
@@ -4506,13 +4506,13 @@
       "what_could_move_it_down": "N/A"
     },
     "money_behind_business": {
-      "concept": "Operating Leverage",
+      "concept": "Free Cash Flow Conversion",
       "mechanism": "Not enough real cash-flow data available today to illustrate this concretely."
     },
     "industry_of_day": {
-      "sector": "IT & Software",
-      "overview": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news. Today's move: -0.94% (Steady).",
-      "who_wins": "Watch: TCS, Infosys, Wipro, HCLTech, Nifty IT. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
+      "sector": "Cars & Vehicles",
+      "overview": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first. Today's move: -0.24% (Steady).",
+      "who_wins": "Watch: Maruti Suzuki, Tata Motors, M&M, Bajaj Auto. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
     },
     "bull_vs_bear": {
       "bull_case": [],
@@ -4531,8 +4531,8 @@
       ]
     },
     "do_the_math": {
-      "question": "Revenue = ₹500 Cr, EBITDA Margin = 25%. Revenue falls 10%. What happens to EBITDA?",
-      "answer": "₹125 Cr → ₹112 Cr (a 10% revenue fall becomes a 10% EBITDA fall at a constant margin)."
+      "question": "Revenue = ₹800 Cr, EBITDA Margin = 20%. Revenue falls 15%. What happens to EBITDA?",
+      "answer": "₹160 Cr → ₹136 Cr (a 15% revenue fall becomes a 15% EBITDA fall at a constant margin)."
     },
     "money_trail": {
       "fii": "Not mentioned in today's headlines.",
@@ -4596,219 +4596,219 @@
     "price_series": [
       {
         "date": "2025-09-21",
-        "close": 1586.7
+        "close": 167.4
       },
       {
         "date": "2025-09-28",
-        "close": 1631.2
+        "close": 173.21
       },
       {
         "date": "2025-10-05",
-        "close": 1670.9
+        "close": 173.86
       },
       {
         "date": "2025-10-12",
-        "close": 1679.1
+        "close": 172.22
       },
       {
         "date": "2025-10-19",
-        "close": 1699.0
+        "close": 174.44
       },
       {
         "date": "2025-10-26",
-        "close": 1690.7
+        "close": 182.84
       },
       {
         "date": "2025-11-02",
-        "close": 1691.4
+        "close": 181.37
       },
       {
         "date": "2025-11-09",
-        "close": 1757.1
+        "close": 174.26
       },
       {
         "date": "2025-11-16",
-        "close": 1779.7
+        "close": 168.0
       },
       {
         "date": "2025-11-23",
-        "close": 1831.6
+        "close": 167.96
       },
       {
         "date": "2025-11-30",
-        "close": 1805.3
+        "close": 167.11
       },
       {
         "date": "2025-12-07",
-        "close": 1793.5
+        "close": 171.89
       },
       {
         "date": "2025-12-14",
-        "close": 1744.9
+        "close": 168.69
       },
       {
         "date": "2025-12-21",
-        "close": 1719.5
+        "close": 169.12
       },
       {
         "date": "2025-12-28",
-        "close": 1728.0
+        "close": 182.88
       },
       {
         "date": "2026-01-04",
-        "close": 1729.9
+        "close": 178.4
       },
       {
         "date": "2026-01-11",
-        "close": 1668.9
+        "close": 188.21
       },
       {
         "date": "2026-01-18",
-        "close": 1631.9
+        "close": 187.61
       },
       {
         "date": "2026-01-25",
-        "close": 1610.1
+        "close": 185.38
       },
       {
         "date": "2026-02-01",
-        "close": 1695.1
+        "close": 197.06
       },
       {
         "date": "2026-02-08",
-        "close": 1697.5
+        "close": 203.18
       },
       {
         "date": "2026-02-15",
-        "close": 1724.4
+        "close": 208.36
       },
       {
         "date": "2026-02-22",
-        "close": 1737.0
+        "close": 212.33
       },
       {
         "date": "2026-03-01",
-        "close": 1799.4
+        "close": 198.46
       },
       {
         "date": "2026-03-08",
-        "close": 1801.6
+        "close": 183.51
       },
       {
         "date": "2026-03-15",
-        "close": 1777.1
+        "close": 196.77
       },
       {
         "date": "2026-03-22",
-        "close": 1793.6
+        "close": 193.22
       },
       {
         "date": "2026-03-29",
-        "close": 1693.6
+        "close": 194.14
       },
       {
         "date": "2026-04-05",
-        "close": 1654.9
+        "close": 206.61
       },
       {
         "date": "2026-04-12",
-        "close": 1675.5
+        "close": 212.12
       },
       {
         "date": "2026-04-19",
-        "close": 1620.4
+        "close": 210.07
       },
       {
         "date": "2026-04-26",
-        "close": 1808.3
+        "close": 211.36
       },
       {
         "date": "2026-05-03",
-        "close": 1847.9
+        "close": 214.49
       },
       {
         "date": "2026-05-10",
-        "close": 1878.2
+        "close": 216.84
       },
       {
         "date": "2026-05-17",
-        "close": 1844.6
+        "close": 209.19
       },
       {
         "date": "2026-05-24",
-        "close": 1799.2
+        "close": 208.02
       },
       {
         "date": "2026-05-31",
-        "close": 1782.2
+        "close": 206.77
       },
       {
         "date": "2026-06-07",
-        "close": 1807.7
+        "close": 197.86
       },
       {
         "date": "2026-06-14",
-        "close": 1838.3
+        "close": 198.96
       },
       {
         "date": "2026-06-21",
-        "close": 1862.8
+        "close": 188.71
       },
       {
         "date": "2026-06-28",
-        "close": 1904.8
+        "close": 189.8
       },
       {
         "date": "2026-07-05",
-        "close": 1935.5
+        "close": 191.19
       },
       {
         "date": "2026-07-12",
-        "close": 1932.6
+        "close": 185.89
       },
       {
         "date": "2026-07-19",
-        "close": 1941.1
+        "close": 182.67
       },
       {
         "date": "2026-07-26",
-        "close": 1990.5
+        "close": 189.69
       },
       {
         "date": "2026-08-02",
-        "close": 1945.0
+        "close": 187.55
       },
       {
         "date": "2026-08-09",
-        "close": 1930.0
+        "close": 183.5
       },
       {
         "date": "2026-08-16",
-        "close": 1902.4
+        "close": 183.0
       },
       {
         "date": "2026-08-23",
-        "close": 1920.0
+        "close": 186.5
       },
       {
         "date": "2026-08-30",
-        "close": 1899.0
+        "close": 188.79
       },
       {
         "date": "2026-09-06",
-        "close": 1840.0
+        "close": 183.0
       },
       {
         "date": "2026-09-13",
-        "close": 1837.3
+        "close": 185.54
       },
       {
         "date": "2026-09-20",
-        "close": 1868.9
+        "close": 183.4
       },
       {
         "date": "2026-09-22",
-        "close": 1846.4
+        "close": 184.97
       }
     ],
     "revenue_series": []
