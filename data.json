@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T18:12:46.146812+00:00",
+  "generated_at_utc": "2026-09-27T22:54:53.761434+00:00",
   "edition_date": "Sunday, September 27, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -182,6 +182,33 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b584e4d0ec",
+        "title": "Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands",
+        "summary": "Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the crucial waterway.",
+        "link": "https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html"
+          }
+        ],
+        "published": "Mon, 28 Sep 2026 03:56:30 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the crucial waterway.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "ec34641d2b",
@@ -1186,6 +1213,33 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
+        "id": "47442a0253",
+        "title": "Three-Day Nationwide Bank Strike Deferred After Meeting Between Association, Unions",
+        "summary": "Bank Strike Deferred: With the postponement of the strike, all state-run and private lenders will function as per normal working hours from Monday.",
+        "link": "https://www.ndtvprofit.com/business/bank-strike-deferred-bank-unions-defer-three-day-nationwide-strike-after-meeting-with-association-unions-12106522#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/bank-strike-deferred-bank-unions-defer-three-day-nationwide-strike-after-meeting-with-association-unions-12106522#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 28 Sep 2026 00:16:44 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Bank Strike Deferred: With the postponement of the strike, all state-run and private lenders will function as per normal working hours from Monday.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "efccc5e8c4",
         "title": "IndiGo Guwahati-Bengaluru Flight Suffers Tail Strike During Landing; DGCA Launches Probe",
         "summary": "The latest incident comes roughly a month after another IndiGo A321 experienced a tail strike during an approach to Gorakhpur.",
@@ -1535,57 +1589,30 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "958ecdafbd",
-        "title": "Unions To Go On 3-Day Nationwide Bank Strike From Monday, Services To Be Impacted",
-        "summary": "Three day nationwide bank strike from Monday might disrupt cheque clearance, cash withdrawals and deposits",
-        "link": "https://www.ndtvprofit.com/india/unions-to-go-on-3-day-nationwide-bank-strike-from-monday-services-to-be-impacted-12105672#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/unions-to-go-on-3-day-nationwide-bank-strike-from-monday-services-to-be-impacted-12105672#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 27 Sep 2026 19:40:55 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Three day nationwide bank strike from Monday might disrupt cheque clearance, cash withdrawals and deposits",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "startups": [
       {
-        "id": "a9f302a86c",
-        "title": "India’s connected car push: How simulation is preparing vehicles for real-world chaos",
-        "summary": "India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways.",
-        "link": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace",
+        "id": "7abe221abd",
+        "title": "5 Kahlil Gibran quotes that find beauty in imperfection",
+        "summary": "Discover 5 timeless Kahlil Gibran quotes that celebrate imperfection, self-acceptance, growth, and the beauty of being human.",
+        "link": "https://yourstory.com/2026/09/5-kahlil-gibran-quotes-beauty-in-imperfection",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace"
+            "url": "https://yourstory.com/2026/09/5-kahlil-gibran-quotes-beauty-in-imperfection"
           }
         ],
-        "published": "Sat, 26 Sep 2026 01:55:00 GMT",
+        "published": "Sat, 26 Sep 2026 11:10:00 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 1
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Discover 5 timeless Kahlil Gibran quotes that celebrate imperfection, self-acceptance, growth, and the beauty of being human.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1620,60 +1647,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d9797ca898",
-        "title": "6 R.F. Kuang book quotes that find beauty in contradictions",
-        "summary": "Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
-        "link": "https://yourstory.com/2026/09/rf-kuang-book-quotes-beauty-in-contradictions",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/rf-kuang-book-quotes-beauty-in-contradictions"
-          }
-        ],
-        "published": "Fri, 25 Sep 2026 15:01:51 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "7abe221abd",
-        "title": "5 Kahlil Gibran quotes that find beauty in imperfection",
-        "summary": "Discover 5 timeless Kahlil Gibran quotes that celebrate imperfection, self-acceptance, growth, and the beauty of being human.",
-        "link": "https://yourstory.com/2026/09/5-kahlil-gibran-quotes-beauty-in-imperfection",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/5-kahlil-gibran-quotes-beauty-in-imperfection"
-          }
-        ],
-        "published": "Sat, 26 Sep 2026 11:10:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Discover 5 timeless Kahlil Gibran quotes that celebrate imperfection, self-acceptance, growth, and the beauty of being human.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "00fb1a1ba4",
         "title": "Mother, motherhood, Mother Nature: unifying connections at National Gallery of Modern Art",
         "summary": "In this photo essay, we showcase creative highlights from exhibitions at Bengaluru’s National Gallery of Modern Art.",
@@ -1694,6 +1667,60 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase creative highlights from exhibitions at Bengaluru’s National Gallery of Modern Art.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a9f302a86c",
+        "title": "India’s connected car push: How simulation is preparing vehicles for real-world chaos",
+        "summary": "India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways.",
+        "link": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace"
+          }
+        ],
+        "published": "Sat, 26 Sep 2026 01:55:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "17427fe5e7",
+        "title": "NEET paper leak impact: CISF to guard NTA premises",
+        "summary": "The move comes in the wake of the question paper leak of medical entrance exam NEET-UG earlier this year, which had sparked nationwide student protests and led to the resignation of then Union education minister Dharmendra Pradhan.",
+        "link": "https://yourstory.com/2026/09/neet-paper-leak-impact-cisf-to-guard-nta-premises",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/neet-paper-leak-impact-cisf-to-guard-nta-premises"
+          }
+        ],
+        "published": "Sun, 27 Sep 2026 12:42:06 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The move comes in the wake of the question paper leak of medical entrance exam NEET-UG earlier this year, which had sparked nationwide student protests and led to the resignation of then Union educati",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1728,18 +1755,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "af76edf900",
-        "title": "India’s shooting stars win gold at Asian Games; Meet the solar didis of Bihar",
-        "summary": "Silence Laboratories replaces traditional legal contracts and third-party intermediaries with cryptographic guarantees, enabling joint computations on encrypted data without revealing underlying raw inputs.",
-        "link": "https://yourstory.com/2026/09/indias-shooting-stars-win-gold-at-asian-games",
+        "id": "8f86670a08",
+        "title": "IITM Unicorn Frontier Fund I hits Rs 450 Cr first close",
+        "summary": "The IITM Unicorn Frontier Fund I has reached its Rs 450 crore first close and deployed nearly Rs 55 crore across four deep-tech startups in space, quantum, batteries and carbon capture.",
+        "link": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/indias-shooting-stars-win-gold-at-asian-games"
+            "url": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close"
           }
         ],
-        "published": "Sat, 26 Sep 2026 02:00:00 GMT",
+        "published": "Sat, 26 Sep 2026 10:46:40 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1747,7 +1774,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Silence Laboratories replaces traditional legal contracts and third-party intermediaries with cryptographic guarantees, enabling joint computations on encrypted data without revealing underlying raw i",
+        "in_simple_words": "Not a big mover either way for general markets right now. The IITM Unicorn Frontier Fund I has reached its Rs 450 crore first close and deployed nearly Rs 55 crore across four deep-tech startups in space, quantum, batteries and carbon capture.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1755,31 +1782,31 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "b286bfcabe",
-        "title": "Proposed UPI Merchant Discount Rate not a tax, cess or surcharge; will not burden consumers: FM",
-        "summary": "The Finance Minister said the MDR is a charge within the digital payments ecosystem and is being levied by entities facilitating UPI transactions, including payment service providers, merchant's bank and other ecosystem participants.",
-        "link": "https://yourstory.com/2026/09/proposed-upi-merchant-discount-rate-not-a-tax-cess-or-surcharge-fm",
+        "id": "d9797ca898",
+        "title": "6 R.F. Kuang book quotes that find beauty in contradictions",
+        "summary": "Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
+        "link": "https://yourstory.com/2026/09/rf-kuang-book-quotes-beauty-in-contradictions",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/proposed-upi-merchant-discount-rate-not-a-tax-cess-or-surcharge-fm"
+            "url": "https://yourstory.com/2026/09/rf-kuang-book-quotes-beauty-in-contradictions"
           }
         ],
-        "published": "Fri, 25 Sep 2026 09:16:42 GMT",
-        "sector": "Banks & Money",
+        "published": "Fri, 25 Sep 2026 15:01:51 GMT",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. The Finance Minister said the MDR is a charge within the digital payments ecosystem and is being levied by entities facilitating UPI transactions, including payment service providers, merchant's bank",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
         "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "a4edcba688",
@@ -1809,26 +1836,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "8f86670a08",
-        "title": "IITM Unicorn Frontier Fund I hits Rs 450 Cr first close",
-        "summary": "The IITM Unicorn Frontier Fund I has reached its Rs 450 crore first close and deployed nearly Rs 55 crore across four deep-tech startups in space, quantum, batteries and carbon capture.",
-        "link": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close",
+        "id": "b3bccfd0ba",
+        "title": "Mobile phone retailers to protest against UPI MDR charges on Oct 2",
+        "summary": "The mobile retailers' body estimates that 0.4% MDR will impose an unsustainable burden of approximately Rs 40 crore per month and nearly Rs 500 crore per annum on small mobile retailers across India.",
+        "link": "https://yourstory.com/2026/09/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-oct-2",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close"
+            "url": "https://yourstory.com/2026/09/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-oct-2"
           }
         ],
-        "published": "Sat, 26 Sep 2026 10:46:40 GMT",
+        "published": "Sun, 27 Sep 2026 11:40:44 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 1
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The IITM Unicorn Frontier Fund I has reached its Rs 450 crore first close and deployed nearly Rs 55 crore across four deep-tech startups in space, quantum, batteries and carbon capture.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The mobile retailers' body estimates that 0.4% MDR will impose an unsustainable burden of approximately Rs 40 crore per month and nearly Rs 500 crore per annum on small mobile retailers across India.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1863,45 +1890,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d7c88c5226",
-        "title": "Andhra sets 70% renewable energy rule for data centres, addresses water concerns: Lokesh",
-        "summary": "The state is positioning Visakhapatnam as a major data-centre hub as it seeks to attract large technology investments and build out its digital infrastructure.",
-        "link": "https://yourstory.com/2026/09/andhra-sets-70-renewable-energy-rule-for-data-centres-addresses-water-concerns-lokesh",
+        "id": "bd41df269e",
+        "title": "Cars24 expects to be eligible to file DRHP by Apr: CFO",
+        "summary": "Cars24's last funding round was in 2022 at a $3.3 billion post-money valuation. CFO said the company has not raised fresh capital since then as it has not required additional funding.",
+        "link": "https://yourstory.com/2026/09/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/andhra-sets-70-renewable-energy-rule-for-data-centres-addresses-water-concerns-lokesh"
+            "url": "https://yourstory.com/2026/09/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo"
           }
         ],
-        "published": "Fri, 25 Sep 2026 09:15:45 GMT",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. The state is positioning Visakhapatnam as a major data-centre hub as it seeks to attract large technology investments and build out its digital infrastructure.",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "8b9d50a399",
-        "title": "Sports, sensors, sustainability: test your business creativity with Edition 251 of our weekly quiz!",
-        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
-        "link": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz"
-          }
-        ],
-        "published": "Sun, 27 Sep 2026 02:45:00 GMT",
+        "published": "Sun, 27 Sep 2026 11:39:52 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1909,7 +1909,34 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
+        "in_simple_words": "Not a big mover either way for general markets right now. Cars24's last funding round was in 2022 at a $3.3 billion post-money valuation. CFO said the company has not raised fresh capital since then as it has not required additional funding.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "338b5af754",
+        "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
+        "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
+        "link": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month"
+          }
+        ],
+        "published": "Sat, 26 Sep 2026 10:33:47 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startu",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1944,26 +1971,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "539ef06c1d",
-        "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
-        "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
-        "link": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
+        "id": "8b9d50a399",
+        "title": "Sports, sensors, sustainability: test your business creativity with Edition 251 of our weekly quiz!",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
+        "link": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents"
+            "url": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz"
           }
         ],
-        "published": "Sun, 27 Sep 2026 02:00:00 GMT",
+        "published": "Sun, 27 Sep 2026 02:45:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
+        "in_simple_words": "Not a big mover either way for general markets right now. This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2539,33 +2566,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "80f3e4bca2",
-        "title": "After NSE IPO exchange debut, Macquarie calls stock ‘The Dominator’ - here’s why | Check share price target",
-        "summary": "Macquarie projects 12% revenue CAGR for NSE from FY26 to FY30, supported by high margins and strong cash generation. The brokerage anticipates significant growth in non-transaction revenues, driven by data and analytics, while expecting a robust return on equity of around 35%.",
-        "link": "https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html"
-          }
-        ],
-        "published": "Sat, 26 Sep 2026 16:57:03 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Macquarie projects 12% revenue CAGR for NSE from FY26 to FY30, supported by high margins and strong cash generation. The brokerage anticipates significant growth in non-transaction revenues, driven by",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
@@ -3740,6 +3740,33 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
+        "id": "b584e4d0ec",
+        "title": "Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands",
+        "summary": "Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the crucial waterway.",
+        "link": "https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html"
+          }
+        ],
+        "published": "Mon, 28 Sep 2026 03:56:30 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the crucial waterway.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
         "id": "51e4f989c2",
         "title": "Gas PSU stock to buy: After 26% returns in 6 months, Emkay Global sees further 16% upside | Target, stop-loss, rationale",
         "summary": "Gas PSU stock's medium-term outlook is stable, as gas transmission volumes will continue growing structurally, with increasing share of volumes in higher-tariff bid pipelines, the firm said.",
@@ -3961,18 +3988,18 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "958ecdafbd",
-        "title": "Unions To Go On 3-Day Nationwide Bank Strike From Monday, Services To Be Impacted",
-        "summary": "Three day nationwide bank strike from Monday might disrupt cheque clearance, cash withdrawals and deposits",
-        "link": "https://www.ndtvprofit.com/india/unions-to-go-on-3-day-nationwide-bank-strike-from-monday-services-to-be-impacted-12105672#publisher=newsstand",
+        "id": "47442a0253",
+        "title": "Three-Day Nationwide Bank Strike Deferred After Meeting Between Association, Unions",
+        "summary": "Bank Strike Deferred: With the postponement of the strike, all state-run and private lenders will function as per normal working hours from Monday.",
+        "link": "https://www.ndtvprofit.com/business/bank-strike-deferred-bank-unions-defer-three-day-nationwide-strike-after-meeting-with-association-unions-12106522#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/unions-to-go-on-3-day-nationwide-bank-strike-from-monday-services-to-be-impacted-12105672#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/business/bank-strike-deferred-bank-unions-defer-three-day-nationwide-strike-after-meeting-with-association-unions-12106522#publisher=newsstand"
           }
         ],
-        "published": "Sun, 27 Sep 2026 19:40:55 +0530",
+        "published": "Mon, 28 Sep 2026 00:16:44 +0530",
         "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
@@ -3980,7 +4007,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Three day nationwide bank strike from Monday might disrupt cheque clearance, cash withdrawals and deposits",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Bank Strike Deferred: With the postponement of the strike, all state-run and private lenders will function as per normal working hours from Monday.",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -4181,33 +4208,6 @@
       "is_ai_related": true,
       "page": "pe_ib",
       "in_simple_words": "Not a big mover either way for general markets right now. Under the Liberalised Remittance Scheme, Indian investors have the opportunity to participate in US IPOs, including Anthropic. However, the path for retail investors may be fraught with challenges. Ma",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "539ef06c1d",
-      "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
-      "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
-      "link": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents"
-        }
-      ],
-      "published": "Sun, 27 Sep 2026 02:00:00 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
