@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T19:01:32.018488+00:00",
+  "generated_at_utc": "2026-09-30T23:36:51.745668+00:00",
   "edition_date": "Wednesday, September 30, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -28,51 +28,24 @@
     }
   },
   "biggest_story": {
-    "sector": "Global & Macro",
-    "title": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
+    "sector": "IT & Software",
+    "title": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
     "sources": [
       {
-        "name": "Economic Times Markets",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms"
+        "name": "LiveMint Markets",
+        "url": "https://www.livemint.com/market/stock-market-news/10-nifty-50-stocks-including-infosys-and-tcs-posted-double-digit-losses-in-september-as-market-sell-off-deepens-11790786786742.html"
       }
     ],
-    "what_happened": "U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Personal Consumption Expenditures price index year-over-year. Major players like Appl",
-    "why_it_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+    "what_happened": "Bajaj Finserv, Infosys, and TCS were among 10 Nifty 50 stocks that reported significant losses in September due to high crude prices, overseas selling, and rising bond yields, contributing to the Nifty's 6% decline and 13.5% year-to-date drop.",
+    "why_it_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
     "means_for_you": [
-      "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+      "TCS, Infosys, Wipro, HCLTech, Nifty IT may see near-term pressure.",
+      "Worth watching before adding fresh positions."
     ],
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms"
+    "link": "https://www.livemint.com/market/stock-market-news/10-nifty-50-stocks-including-infosys-and-tcs-posted-double-digit-losses-in-september-as-market-sell-off-deepens-11790786786742.html"
   },
   "pages": {
     "stock_market": [
-      {
-        "id": "c32f82b973",
-        "title": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
-        "summary": "Bajaj Finserv, Infosys, and TCS were among 10 Nifty 50 stocks that reported significant losses in September due to high crude prices, overseas selling, and rising bond yields, contributing to the Nifty's 6% decline and 13.5% year-to-date drop.",
-        "link": "https://www.livemint.com/market/stock-market-news/10-nifty-50-stocks-including-infosys-and-tcs-posted-double-digit-losses-in-september-as-market-sell-off-deepens-11790786786742.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/10-nifty-50-stocks-including-infosys-and-tcs-posted-double-digit-losses-in-september-as-market-sell-off-deepens-11790786786742.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 23:09:49 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -5
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for it & software — sentiment turned more negative. Bajaj Finserv, Infosys, and TCS were among 10 Nifty 50 stocks that reported significant losses in September due to high crude prices, overseas selling, and rising bond yields, contributing to the Nift",
-        "means_for_you": [
-          "TCS, Infosys, Wipro, HCLTech, Nifty IT may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
       {
         "id": "8d52eb948a",
         "title": "Indian rupee rebounds to 95.83 vs US dollar as crude prices ease",
@@ -94,6 +67,60 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for banks & money — sentiment turned more positive. The rupee strengthened 0.16% to 95.83 against the dollar, recovering from morning weakness as crude prices eased below $103 a barrel. Dollar selling by public sector banks and broader Asian currency g",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "4deae742e2",
+        "title": "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets",
+        "summary": "On Wednesday, inflation data led to mixed market movements, with the Nasdaq increasing slightly. The Dow and S&amp;P 500 faced declines, although both indexes posted quarterly gains. Private employers added 90,000 jobs in September, contributing to labor market reports this week.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 01:40:47 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. On Wednesday, inflation data led to mixed market movements, with the Nasdaq increasing slightly. The Dow and S&amp;P 500 faced declines, although both indexes posted quarterly gains. Private employers",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "08ae6638da",
+        "title": "France’s 10-year bond yield heads for biggest quarterly surge since 1987",
+        "summary": "France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stability. The government plans to issue €340 billion in bonds next year, which could s",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:16:33 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stabili",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -295,6 +322,60 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "23b5f74d0f",
+        "title": "US dollar flat against peers after softer-than-expected inflation data",
+        "summary": "GLOBAL-FOREX/ (UPDATE 1):FOREX-US dollar flat against peers after softer-than-expected inflation data",
+        "link": "https://www.livemint.com/market/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-11790799061345.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-11790799061345.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 01:41:00 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. GLOBAL-FOREX/ (UPDATE 1):FOREX-US dollar flat against peers after softer-than-expected inflation data",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "b25464d6b1",
+        "title": "US yields rise slightly, rate hike bets ease after inflation data",
+        "summary": "USA-BONDS/ (UPDATE 1):TREASURIES-US yields rise slightly, rate hike bets ease after inflation data",
+        "link": "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:51:55 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. USA-BONDS/ (UPDATE 1):TREASURIES-US yields rise slightly, rate hike bets ease after inflation data",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
         "id": "373bc8a8bf",
         "title": "Top 5 breakout stocks to buy: PVRINOX, JK Tyre, ICICIGI, Texmaco Rail, Mishra Dhatu by Sumeet Bagadia | Target, stoploss",
         "summary": "Sumeet Bagadia believes the short-term trends of the Indian stock market has turned sideways-to-bearish",
@@ -346,88 +427,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "dff479afc9",
-        "title": "Nifty H1FY27 Review: Top gainers and losers | Can H2FY27 deliver better returns?",
-        "summary": "As the Nifty 50 concludes H1FY27 with a modest 1.3% gain, the market faces challenges from rising oil prices and bond yields amid geopolitical tensions. Seven Nifty stocks declined more than 10% in the first half of the year, while 16 stocks jumped more than 10%.",
-        "link": "https://www.livemint.com/market/stock-market-news/nifty-h1fy27-review-top-gainers-and-losers-can-h2fy27-deliver-better-returns-11790767405138.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nifty-h1fy27-review-top-gainers-and-losers-can-h2fy27-deliver-better-returns-11790767405138.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 18:15:43 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. As the Nifty 50 concludes H1FY27 with a modest 1.3% gain, the market faces challenges from rising oil prices and bond yields amid geopolitical tensions. Seven Nifty stocks declined more than 10% in th",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "a1d2b349ed",
-        "title": "Top 2 stocks to buy or sell for short-term: Cyient, Max Healthcare by Nagaraj Shetti - Check stop loss, targets",
-        "summary": "Indian equity benchmarks faced their largest monthly drop since March, with the Nifty 50 and Sensex declining by 6.1% and 5.8%, respectively. Rising oil prices and global interest rate hikes pressured emerging-market assets, while volatility continued amid geopolitical risks.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-cyient-max-healthcare-by-nagaraj-shetti-check-stop-loss-targets-11790768211784.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-cyient-max-healthcare-by-nagaraj-shetti-check-stop-loss-targets-11790768211784.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 17:26:38 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian equity benchmarks faced their largest monthly drop since March, with the Nifty 50 and Sensex declining by 6.1% and 5.8%, respectively. Rising oil prices and global interest rate hikes pressured",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "77cf8376f9",
-        "title": "FY27 Second Half Going To Be Challenging As Interest Rates Rise Globally: CEA Nageswaran",
-        "summary": "Chief Economic Advisor V Anantha Nageswaran on Wednesday said the second half of the current fiscal is going to be challenging because downside risks to global growth have increased and interest rates are rising across the world.",
-        "link": "https://www.ndtvprofit.com/economy/fy27-second-half-going-to-be-challenging-as-interest-rates-rise-globally-cea-nageswaran-12121718#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/fy27-second-half-going-to-be-challenging-as-interest-rates-rise-globally-cea-nageswaran-12121718#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:53:36 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Chief Economic Advisor V Anantha Nageswaran on Wednesday said the second half of the current fiscal is going to be challenging because downside risks to global growth have increased and interest rates",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -486,33 +485,6 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "d443a4fb10",
-        "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
-        "summary": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 19:46:34 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "7457dad3f8",
@@ -650,33 +622,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "8aa5944a71",
-        "title": "Multibagger stocks: 4 Ashish Kacholia, Mukul Agrawal portfolio stocks that nearly doubled investors’ wealth in one year",
-        "summary": "Ace investors Ashish Kacholia and Mukul Agrawal hold key stocks including Yasho Industries, Aeroflex Industries, and Fineotex Chemicals, yielding strong returns.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-4-ashish-kacholia-mukul-agrawal-portfolio-stocks-that-nearly-doubled-investors-wealth-in-one-year-11790773613418.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-4-ashish-kacholia-mukul-agrawal-portfolio-stocks-that-nearly-doubled-investors-wealth-in-one-year-11790773613418.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 18:41:40 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ace investors Ashish Kacholia and Mukul Agrawal hold key stocks including Yasho Industries, Aeroflex Industries, and Fineotex Chemicals, yielding strong returns.&amp;nbsp;",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "8a63b9ddba",
@@ -1166,6 +1111,141 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "dc37d68926",
+        "title": "CCC Debt Turns Distressed for First Time Since 2023 Bank Crisis",
+        "summary": "The spread on the riskiest US corporate bonds has jumped above 1,000 basis points over Treasuries for the first time since the regional banking crisis in 2023. That level of risk premium typically implies high probability of default, restructuring or loss.",
+        "link": "https://www.livemint.com/market/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis-11790807837311.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis-11790807837311.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 04:07:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The spread on the riskiest US corporate bonds has jumped above 1,000 basis points over Treasuries for the first time since the regional banking crisis in 2023. That level of risk premium typically imp",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "36b9bc7582",
+        "title": "Australian Private Credit Woes Add to Global Concern on ‘Gating’",
+        "summary": "The global private credit industry has gotten yet another jolt with money managers being blocked from cashing out of their investments, adding to concerns about ‘gating’ that shook markets earlier this year.",
+        "link": "https://www.livemint.com/market/australian-private-credit-woes-add-to-global-concern-on-gating-11790806317172.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australian-private-credit-woes-add-to-global-concern-on-gating-11790806317172.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 03:41:56 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The global private credit industry has gotten yet another jolt with money managers being blocked from cashing out of their investments, adding to concerns about ‘gating’ that shook markets earlier thi",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "96f536d57f",
+        "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
+        "summary": "The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+        "link": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 02:47:40 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "a2644a7adc",
+        "title": "Munis Snap Selloff in Biggest Rally in More Than a Year",
+        "summary": "State and local debt prices rallied across the curve with ten-year municipal bonds posting their biggest gain in more than a year after a nearly two-week selloff.",
+        "link": "https://www.livemint.com/market/munis-snap-selloff-in-biggest-rally-in-more-than-a-year-11790802078472.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/munis-snap-selloff-in-biggest-rally-in-more-than-a-year-11790802078472.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 02:31:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. State and local debt prices rallied across the curve with ten-year municipal bonds posting their biggest gain in more than a year after a nearly two-week selloff.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a54f579879",
+        "title": "European regulators need more powers to police crypto, watchdog says",
+        "summary": "FINTECH-CRYPTO-ESMA:European regulators need more powers to police crypto, watchdog says",
+        "link": "https://www.livemint.com/market/european-regulators-need-more-powers-to-police-crypto-watchdog-says-11790795009244.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/european-regulators-need-more-powers-to-police-crypto-watchdog-says-11790795009244.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:33:28 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. FINTECH-CRYPTO-ESMA:European regulators need more powers to police crypto, watchdog says",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "48335b22c1",
         "title": "IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",
         "summary": "As Indian IT companies begin revealing their Q2 FY27 results this October, investor focus will be on firms like TCS and HCL Tech, despite ongoing challenges from geopolitical tensions and economic uncertainties, suggesting another subdued quarter for the sector's performance.",
@@ -1220,18 +1300,18 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
-        "id": "e26529c7e2",
-        "title": "Stock market holidays in October 2026 from NSE calendar - Open and closed days full list other than Saturdays, Sundays",
-        "summary": "The Indian stock market will close on October 2 for Mahatma Gandhi Jayanti, leading to reduced trading. Other holidays include Dussehra on October 20 and Diwali on November 10. Trading in commodities will also halt on these days, with Muhurat Trading scheduled for November 8.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-october-2026-from-nse-calendar-open-and-closed-days-full-list-other-than-saturdays-sundays-11790771933293.html",
-        "source": "LiveMint Markets",
+        "id": "b61dc548e1",
+        "title": "Pakistan vs Bangladesh Live Streaming: When And Where To Watch Asian Games 2026 Semi-Final",
+        "summary": "The match starts at 5:30 a.m. IST on Oct. 1.",
+        "link": "https://www.ndtvprofit.com/sports/pakistan-vs-bangladesh-live-streaming-weather-forecast-match-timings-and-rain-rule-asian-games-2026-cricket-semi-final-12118695#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-october-2026-from-nse-calendar-open-and-closed-days-full-list-other-than-saturdays-sundays-11790771933293.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/pakistan-vs-bangladesh-live-streaming-weather-forecast-match-timings-and-rain-rule-asian-games-2026-cricket-semi-final-12118695#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 18:49:54 +0530",
+        "published": "Thu, 01 Oct 2026 04:05:04 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1239,7 +1319,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Indian stock market will close on October 2 for Mahatma Gandhi Jayanti, leading to reduced trading. Other holidays include Dussehra on October 20 and Diwali on November 10. Trading in commodities",
+        "in_simple_words": "Not a big mover either way for general markets right now. The match starts at 5:30 a.m. IST on Oct. 1.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1247,31 +1327,31 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "68c2bd1761",
-        "title": "Dividend income at risk? 8 stocks with inconsistent dividend payout: Indian Oil, Sanofi India, UTI AMC, and more",
-        "summary": "Check the list of companies that have paid inconsistent dividend over the last three financial years.Sanofi India declared a dividend of  ₹123 per share in FY26, down from  ₹167 in FY24. Indian Oil's fluctuating dividends were  ₹7 in FY26 and  ₹12 in FY24. Check list",
-        "link": "https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html",
-        "source": "LiveMint Markets",
+        "id": "564be49151",
+        "title": "Meta Pushes Back On Muse Privacy Claims, Says Message Access Requires Permissions",
+        "summary": "The dispute began after journalist Jason Aten said Muse accessed his message.",
+        "link": "https://www.ndtvprofit.com/business/meta-pushes-back-on-muse-privacy-claims-says-message-access-requires-permissions-12122125#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/meta-pushes-back-on-muse-privacy-claims-says-message-access-requires-permissions-12122125#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 18:13:22 +0530",
-        "sector": "Energy & Oil",
+        "published": "Thu, 01 Oct 2026 00:25:06 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Check the list of companies that have paid inconsistent dividend over the last three financial years.Sanofi India declared a dividend of  ₹123 per share in FY26, down from  ₹167 in FY24. Indian Oil's",
+        "in_simple_words": "Not a big mover either way for general markets right now. The dispute began after journalist Jason Aten said Muse accessed his message.",
         "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "8db36d5242",
@@ -1285,7 +1365,7 @@
             "url": "https://www.ndtvprofit.com/business/govt-grants-security-clearance-to-new-air-india-ceo-tewolde-gebremariam-12122016#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 23:10:29 +0530",
+        "published": "Wed, 30 Sep 2026 23:12:35 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1515,33 +1595,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "baba9cd1b5",
-        "title": "Kitchen Budgets Hit: Onion Prices Nearly Double Amid Maharashtra Drought",
-        "summary": "Maharashtra accounts for around 40% of the country's onion output.",
-        "link": "https://www.ndtvprofit.com/economy/kitchen-budgets-hit-onion-prices-nearly-double-amid-maharashtra-drought-12121697#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/kitchen-budgets-hit-onion-prices-nearly-double-amid-maharashtra-drought-12121697#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:49:25 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Maharashtra accounts for around 40% of the country's onion output.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "startups": [
@@ -1600,60 +1653,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "f3b90852d5",
-        "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
-        "summary": "WillJini raises first round at $3.5M valuation, without pitching a single VC\n\nEstate-planning startup WillJini grew from Rs 3 lakh to Rs 50 lakh in monthly revenue over three years using client money, before raising from SPJIMR batchmates, friends, and its own channel partners.\n\n",
-        "link": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 12:33:22 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. WillJini raises first round at $3.5M valuation, without pitching a single VC\n\nEstate-planning startup WillJini grew from Rs 3 lakh to Rs 50 lakh in monthly revenue over three years using client money,",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c64b8fe512",
-        "title": "Why the next commerce battle will be for the gap between discovery and access",
-        "summary": "Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next phase of ecommerce will depend on how effectively businesses bridge that gap between aspiration and",
-        "link": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 02:15:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next phase of ecommerce",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "b36e72e2ac",
         "title": "7 Books that help you make smarter decisions in life",
         "summary": "Discover seven insightful books that can help you make smarter decisions, and navigate life's challenges with greater confidence.",
@@ -1674,60 +1673,6 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. Discover seven insightful books that can help you make smarter decisions, and navigate life's challenges with greater confidence.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "8cc40bce36",
-        "title": "Not unicorns, lifelines: 5 Northeast startups building for problems they grew up with",
-        "summary": "Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region.",
-        "link": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 08:21:24 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "4a0fc240b0",
-        "title": "Flipkart metrics reveal D2C brands scaling nationwide through non-metro demand",
-        "summary": "Data shows brands like Kapiva, Open Secret, and Plum are driving over half their growth from Tier II and III markets by leveraging real-time search trends and multi-speed delivery options.",
-        "link": "https://yourstory.com/2026/09/flipkart-metrics-reveal-d2c-brands-scaling-nationwide-through-non-metro-demand",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/flipkart-metrics-reveal-d2c-brands-scaling-nationwide-through-non-metro-demand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 16:23:20 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Data shows brands like Kapiva, Open Secret, and Plum are driving over half their growth from Tier II and III markets by leveraging real-time search trends and multi-speed delivery options.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1789,18 +1734,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "ab4ba85bf3",
-        "title": "Karnataka approves Global Technology Centres in Belagavi and Hubballi",
-        "summary": "Karnataka approves Global Technology Centres in Belagavi and Hubballi as the state expands its tech ecosystem beyond Bengaluru.",
-        "link": "https://yourstory.com/2026/09/karnataka-approves-global-technology-centres-in-belagavi-and-hubballi",
+        "id": "8cc40bce36",
+        "title": "Not unicorns, lifelines: 5 Northeast startups building for problems they grew up with",
+        "summary": "Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region.",
+        "link": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/karnataka-approves-global-technology-centres-in-belagavi-and-hubballi"
+            "url": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems"
           }
         ],
-        "published": "Wed, 30 Sep 2026 07:44:34 GMT",
+        "published": "Wed, 30 Sep 2026 08:21:24 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1808,7 +1753,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Karnataka approves Global Technology Centres in Belagavi and Hubballi as the state expands its tech ecosystem beyond Bengaluru.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1816,18 +1761,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "653f127eec",
-        "title": "DoorDash opens first India office in Hyderabad, plans to scale tech, support team to 3,000",
-        "summary": "DoorDash is starting with 500 professionals and plans to scale its headcount to more than 3,000 within the next two years, a company release said.",
-        "link": "https://yourstory.com/2026/09/doordash-first-india-office-hyderabadscale-tech-support-team-3000",
+        "id": "4a0fc240b0",
+        "title": "Flipkart metrics reveal D2C brands scaling nationwide through non-metro demand",
+        "summary": "Data shows brands like Kapiva, Open Secret, and Plum are driving over half their growth from Tier II and III markets by leveraging real-time search trends and multi-speed delivery options.",
+        "link": "https://yourstory.com/2026/09/flipkart-metrics-reveal-d2c-brands-scaling-nationwide-through-non-metro-demand",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/doordash-first-india-office-hyderabadscale-tech-support-team-3000"
+            "url": "https://yourstory.com/2026/09/flipkart-metrics-reveal-d2c-brands-scaling-nationwide-through-non-metro-demand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 09:54:38 GMT",
+        "published": "Wed, 30 Sep 2026 16:23:20 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Data shows brands like Kapiva, Open Secret, and Plum are driving over half their growth from Tier II and III markets by leveraging real-time search trends and multi-speed delivery options.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c64b8fe512",
+        "title": "Why the next commerce battle will be for the gap between discovery and access",
+        "summary": "Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next phase of ecommerce will depend on how effectively businesses bridge that gap between aspiration and",
+        "link": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 02:15:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1835,7 +1807,34 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. DoorDash is starting with 500 professionals and plans to scale its headcount to more than 3,000 within the next two years, a company release said.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next phase of ecommerce",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f3b90852d5",
+        "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
+        "summary": "WillJini raises first round at $3.5M valuation, without pitching a single VC\n\nEstate-planning startup WillJini grew from Rs 3 lakh to Rs 50 lakh in monthly revenue over three years using client money, before raising from SPJIMR batchmates, friends, and its own channel partners.\n\n",
+        "link": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 12:33:22 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. WillJini raises first round at $3.5M valuation, without pitching a single VC\n\nEstate-planning startup WillJini grew from Rs 3 lakh to Rs 50 lakh in monthly revenue over three years using client money,",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1863,6 +1862,114 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Linux Laboratories will use the funding to support growth initiatives, including deepening its presence in core specialties, entering new therapeutic areas, and expanding its manufacturing facilities.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "dc548b83ad",
+        "title": "Karnataka government first scheme: Up to Rs 25 lakh for startup pilots",
+        "summary": "Karnataka’s Government First initiative will give 100 startups up to Rs 25 lakh each to pilot and validate solutions with government departments.",
+        "link": "https://yourstory.com/2026/09/karnataka-government-first-initiative-startup-funding",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/karnataka-government-first-initiative-startup-funding"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 16:59:16 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Karnataka’s Government First initiative will give 100 startups up to Rs 25 lakh each to pilot and validate solutions with government departments.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "7c14225fd6",
+        "title": "EV two-wheeler maker Simple Energy bags Rs 1,750 Cr funding",
+        "summary": "The Bengaluru-based firm plans to deploy the capital to drive its next phase of growth across manufacturing, product development, and retail.",
+        "link": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 11:30:00 GMT",
+        "sector": "Cars & Vehicles",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for cars & vehicles — sentiment turned more positive. The Bengaluru-based firm plans to deploy the capital to drive its next phase of growth across manufacturing, product development, and retail.",
+        "means_for_you": [
+          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
+        ],
+        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
+        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+      },
+      {
+        "id": "1200808d87",
+        "title": "Home interiors startup Gravity raises $15M led by 3one4 Capital and Info Edge Ventures",
+        "summary": "Gravity will use this funding round to strengthen its technology, distribution and key-account infrastructure, and support category expansion.",
+        "link": "https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 13:03:16 GMT",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Gravity will use this funding round to strengthen its technology, distribution and key-account infrastructure, and support category expansion.",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "5637a72e61",
+        "title": "TGC 2026: Students pitch Maharashtra's innovation roadmap to CM Fadnavis",
+        "summary": "Six B-school teams, chosen from 4,429, pitch CM Fadnavis ideas to make Maharashtra an innovation hub by 2035 at TGC 2026 today.",
+        "link": "https://yourstory.com/2026/09/governance-challenge-2026-maharashtra-innovation-hub-cm-fadnavis",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/09/governance-challenge-2026-maharashtra-innovation-hub-cm-fadnavis"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 14:05:18 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Six B-school teams, chosen from 4,429, pitch CM Fadnavis ideas to make Maharashtra an innovation hub by 2035 at TGC 2026 today.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1924,18 +2031,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "5637a72e61",
-        "title": "TGC 2026: Students pitch Maharashtra's innovation roadmap to CM Fadnavis",
-        "summary": "Six B-school teams, chosen from 4,429, pitch CM Fadnavis ideas to make Maharashtra an innovation hub by 2035 at TGC 2026 today.",
-        "link": "https://yourstory.com/2026/09/governance-challenge-2026-maharashtra-innovation-hub-cm-fadnavis",
+        "id": "00822c09bb",
+        "title": "Venu Srinivasan flags governance lapses, seeks probe into Tata Trusts: Report",
+        "summary": "A media report said Venu Srinivasan has asked the Maharashtra Charity Commissioner to inquire into the governance of two Tata Trusts and their role in Tata Sons, amid an ongoing tussle between the two entities.",
+        "link": "https://yourstory.com/2026/09/venu-srinivasan-for-inquiry-into-functioning-of-tata-trusts-report",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/governance-challenge-2026-maharashtra-innovation-hub-cm-fadnavis"
+            "url": "https://yourstory.com/2026/09/venu-srinivasan-for-inquiry-into-functioning-of-tata-trusts-report"
           }
         ],
-        "published": "Wed, 30 Sep 2026 14:05:18 GMT",
+        "published": "Wed, 30 Sep 2026 12:19:40 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1943,7 +2050,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Six B-school teams, chosen from 4,429, pitch CM Fadnavis ideas to make Maharashtra an innovation hub by 2035 at TGC 2026 today.",
+        "in_simple_words": "Not a big mover either way for general markets right now. A media report said Venu Srinivasan has asked the Maharashtra Charity Commissioner to inquire into the governance of two Tata Trusts and their role in Tata Sons, amid an ongoing tussle between the two",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1951,18 +2058,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "fd1ebd3396",
-        "title": "Startup news and updates: daily roundup (September 30, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for September 30, 2026.",
-        "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-30-2026",
-        "source": "YourStory",
+        "id": "8a833a3442",
+        "title": "Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman",
+        "summary": "The All India Mobile Retailers Association (AIMRA) and the All India Consumer Products Distributors Federation (AICPDF) have called off their&#8230;",
+        "link": "https://inc42.com/buzz/traders-call-off-no-upi-day-protest-after-meeting-fm-sitharaman/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-30-2026"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/traders-call-off-no-upi-day-protest-after-meeting-fm-sitharaman/"
           }
         ],
-        "published": "Wed, 30 Sep 2026 08:25:55 GMT",
+        "published": "Wed, 30 Sep 2026 21:22:36 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1970,7 +2077,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for September 30, 2026.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The All India Mobile Retailers Association (AIMRA) and the All India Consumer Products Distributors Federation (AICPDF) have called off their&#8230;",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1978,26 +2085,53 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "9df40473cb",
-        "title": "Arivihan raises $10M as AI-led edtech targets India’s smaller cities",
-        "summary": "Arivihan will use the new capital to expand across states and CBSE, strengthen AI and vernacular capabilities, and broaden access to personalised learning.",
-        "link": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
-        "source": "YourStory",
+        "id": "b8dc54cadd",
+        "title": "TPG Sells More Shadowfax Shares Via ₹114 Cr Bulk Deal",
+        "summary": "Private equity (PE) giant TPG has now offloaded more shares of listed logistics giant Shadowfax via an open-market transaction for&#8230;",
+        "link": "https://inc42.com/buzz/tpg-sells-more-shadowfax-shares-via-%e2%82%b9114-cr-bulk-deal/",
+        "source": "Inc42",
         "sources": [
           {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities"
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/tpg-sells-more-shadowfax-shares-via-%e2%82%b9114-cr-bulk-deal/"
           }
         ],
-        "published": "Wed, 30 Sep 2026 03:49:05 GMT",
+        "published": "Wed, 30 Sep 2026 20:26:56 +0000",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Arivihan will use the new capital to expand across states and CBSE, strengthen AI and vernacular capabilities, and broaden access to personalised learning.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Private equity (PE) giant TPG has now offloaded more shares of listed logistics giant Shadowfax via an open-market transaction for&#8230;",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f51b6c2e6e",
+        "title": "Cofounder Upasana Taku Picks Up 1.1 Lakh MobiKwik Shares",
+        "summary": "MobiKwik cofounder and chief financial officer (CFO) Upasana Taku has picked up 1.07 Lakh shares of the listed fintech company&#8230;",
+        "link": "https://inc42.com/buzz/cofounder-upasana-taku-picks-up-1-1-lakh-mobikwik-shares/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/cofounder-upasana-taku-picks-up-1-1-lakh-mobikwik-shares/"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 19:53:27 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. MobiKwik cofounder and chief financial officer (CFO) Upasana Taku has picked up 1.07 Lakh shares of the listed fintech company&#8230;",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2007,7 +2141,7 @@
       {
         "id": "9ebae0aa47",
         "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
-        "summary": "The challenge of taking AI products to millions of Indian users is making them work across budget smartphones, multiple languages,&#8230;",
+        "summary": "Today&#8217;s brief: does voice help Meesho sell?The challenge of taking AI products to millions of Indian users is making them&#8230;",
         "link": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
         "source": "Inc42",
         "sources": [
@@ -2024,7 +2158,7 @@
         },
         "is_ai_related": true,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The challenge of taking AI products to millions of Indian users is making them work across budget smartphones, multiple languages,&#8230;",
+        "in_simple_words": "Not a big mover either way for general markets right now. Today&#8217;s brief: does voice help Meesho sell?The challenge of taking AI products to millions of Indian users is making them&#8230;",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2327,87 +2461,6 @@
         ],
         "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
         "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "f6c4ec6f43",
-        "title": "How Swiggy Is Using AI Agents To Take Commerce Beyond Its App",
-        "summary": "Swiggy is stepping up its focus on making its commerce services accessible to external AI agents, enabling users to discover&#8230;",
-        "link": "https://inc42.com/buzz/how-swiggy-is-using-ai-agents-to-take-commerce-beyond-its-app/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/how-swiggy-is-using-ai-agents-to-take-commerce-beyond-its-app/"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 07:33:40 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Swiggy is stepping up its focus on making its commerce services accessible to external AI agents, enabling users to discover&#8230;",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "beb9b8934a",
-        "title": "Coverfox MD Sanjib Jha Questions IRDAI’s Insurance Reset, Flags Risk To Rural Penetration",
-        "summary": "In a pushback to the IRDAI’s proposed overhaul of the insurance distribution industry, Avaana Capital-backed insurtech startup Coverfox’s founder Sanjib&#8230;",
-        "link": "https://inc42.com/buzz/coverfox-md-sanjib-jha-questions-irdais-insurance-reset-flags-risk-to-rural-penetration/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/coverfox-md-sanjib-jha-questions-irdais-insurance-reset-flags-risk-to-rural-penetration/"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 06:55:54 +0000",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. In a pushback to the IRDAI’s proposed overhaul of the insurance distribution industry, Avaana Capital-backed insurtech startup Coverfox’s founder Sanjib&#8230;",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "8214558b90",
-        "title": "The Unglamorous Work Behind Enterprise AI",
-        "summary": "Let’s jump right into it: By now, we have learnt that AI tools can only act on the information they&#8230;",
-        "link": "https://inc42.com/features/the-unglamorous-work-behind-enterprise-ai/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/features/the-unglamorous-work-behind-enterprise-ai/"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 05:30:00 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Let’s jump right into it: By now, we have learnt that AI tools can only act on the information they&#8230;",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
@@ -2493,60 +2546,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2dcef08f65",
-        "title": "Why BSE stock tanked 3.5% despite Nifty inclusion post index reshuffle - What lies ahead for investors?",
-        "summary": "BSE shares plummeted 3.5% to  ₹3,092, losing previous gains after entering Nifty 50. Stake sales by Goldman Sachs and BNP Paribas counteracted positive inclusion effects, with retail investors holding 54.4%.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-bse-stock-tanked-3-5-despite-nifty-inclusion-post-index-reshuffle-what-lies-ahead-for-investors-11790768409332.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/why-bse-stock-tanked-3-5-despite-nifty-inclusion-post-index-reshuffle-what-lies-ahead-for-investors-11790768409332.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 17:46:16 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. BSE shares plummeted 3.5% to  ₹3,092, losing previous gains after entering Nifty 50. Stake sales by Goldman Sachs and BNP Paribas counteracted positive inclusion effects, with retail investors holding",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "14662be14e",
-        "title": "Up 410% in 5 yrs, why MOFSL sees another 52% upside in Time Technoplast- check target price, rationale behind buy rating",
-        "summary": "Time Technoplast's stock is in focus as Motilal Oswal retains its Buy rating with a target price of  ₹280, suggesting over 52% upside. The brokerage highlights strong performance despite challenges and identifies growth opportunities including a merger and advancements in automat",
-        "link": "https://www.livemint.com/market/stock-market-news/up-410-in-5-yrs-why-mofsl-sees-another-52-upside-in-time-technoplast-check-target-price-rationale-behind-buy-rating-11790765050994.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/up-410-in-5-yrs-why-mofsl-sees-another-52-upside-in-time-technoplast-check-target-price-rationale-behind-buy-rating-11790765050994.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 17:03:52 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Time Technoplast's stock is in focus as Motilal Oswal retains its Buy rating with a target price of  ₹280, suggesting over 52% upside. The brokerage highlights strong performance despite challenges an",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
         "id": "5bd7739b02",
         "title": "Accelevation IPO: AI Infrastructure Firm Valued At $3.9 Billion As Shares Fall On Nasdaq Debut",
         "summary": "Accelevation raised $540 million in its IPO after pricing shares at $18, below the marketed $20-$24 range.",
@@ -2577,7 +2576,335 @@
     ]
   },
   "sectors": {
+    "Global & Macro": [
+      {
+        "id": "4deae742e2",
+        "title": "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets",
+        "summary": "On Wednesday, inflation data led to mixed market movements, with the Nasdaq increasing slightly. The Dow and S&amp;P 500 faced declines, although both indexes posted quarterly gains. Private employers added 90,000 jobs in September, contributing to labor market reports this week.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 01:40:47 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. On Wednesday, inflation data led to mixed market movements, with the Nasdaq increasing slightly. The Dow and S&amp;P 500 faced declines, although both indexes posted quarterly gains. Private employers",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "c2cb46721f",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "summary": "Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highlighted crude prices, inflation and monetary policy uncertainty.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 21:26:32 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highl",
+        "means_for_you": [
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "122eb44a7a",
+        "title": "FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days",
+        "summary": "Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee pressured equities, while analysts said selective opportunities are emerging acr",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 21:20:46 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee",
+        "means_for_you": [
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "887fe8472c",
+        "title": "US dollar retreats after softer-than-expected inflation data",
+        "summary": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift ",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 20:52:45 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased b",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "c071287a61",
+        "title": "US yields pull back as rate hike bets ease after inflation data",
+        "summary": "Yields on 2-year and 10-year US Treasuries fell due to lower-than-expected inflation data. The Personal Consumption Expenditures Price Index rose 0.3% in August, affecting interest rate expectations. Additionally, the US trade deficit in goods widened sharply in August amid risin",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 20:50:52 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Yields on 2-year and 10-year US Treasuries fell due to lower-than-expected inflation data. The Personal Consumption Expenditures Price Index rose 0.3% in August, affecting interest rate expectations.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "23b5f74d0f",
+        "title": "US dollar flat against peers after softer-than-expected inflation data",
+        "summary": "GLOBAL-FOREX/ (UPDATE 1):FOREX-US dollar flat against peers after softer-than-expected inflation data",
+        "link": "https://www.livemint.com/market/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-11790799061345.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-11790799061345.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 01:41:00 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. GLOBAL-FOREX/ (UPDATE 1):FOREX-US dollar flat against peers after softer-than-expected inflation data",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "b25464d6b1",
+        "title": "US yields rise slightly, rate hike bets ease after inflation data",
+        "summary": "USA-BONDS/ (UPDATE 1):TREASURIES-US yields rise slightly, rate hike bets ease after inflation data",
+        "link": "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:51:55 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. USA-BONDS/ (UPDATE 1):TREASURIES-US yields rise slightly, rate hike bets ease after inflation data",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "594fa50317",
+        "title": "Nifty 50 prediction today: Oversold zone raises counter-trend rally hopes | Support, resistance",
+        "summary": "Momentum indicators show strength with bullish signals from MACD and RSI. The stock is preparing for a breakout above  ₹836, potentially testing  ₹890. Market declined nearly 6% in September, with bearish trends persisting, while Sona BLW shows potential bullish breakout near piv",
+        "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-today-oversold-zone-raises-counter-trend-rally-hopes-support-resistance-11790790026650.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-today-oversold-zone-raises-counter-trend-rally-hopes-support-resistance-11790790026650.html"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 23:32:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Momentum indicators show strength with bullish signals from MACD and RSI. The stock is preparing for a breakout above  ₹836, potentially testing  ₹890. Market declined nearly 6% in September, with bea",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "3a6b440d16",
+        "title": "Trade Setup For Oct 1: Nifty Near 22,600 Support; Can Oversold Conditions Trigger A Bounce?",
+        "summary": "Intraday market outlook remains non-directional and level-based trading would therefore be the ideal strategy for day traders.",
+        "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-1-nifty-near-22-600-support-can-oversold-conditions-trigger-a-bounce-12122003#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-1-nifty-near-22-600-support-can-oversold-conditions-trigger-a-bounce-12122003#publisher=newsstand"
+          }
+        ],
+        "published": "Wed, 30 Sep 2026 22:50:09 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Intraday market outlook remains non-directional and level-based trading would therefore be the ideal strategy for day traders.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      }
+    ],
     "Banks & Money": [
+      {
+        "id": "08ae6638da",
+        "title": "France’s 10-year bond yield heads for biggest quarterly surge since 1987",
+        "summary": "France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stability. The government plans to issue €340 billion in bonds next year, which could s",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:16:33 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stabili",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
       {
         "id": "8d52eb948a",
         "title": "Indian rupee rebounds to 95.83 vs US dollar as crude prices ease",
@@ -2770,6 +3097,87 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "dc37d68926",
+        "title": "CCC Debt Turns Distressed for First Time Since 2023 Bank Crisis",
+        "summary": "The spread on the riskiest US corporate bonds has jumped above 1,000 basis points over Treasuries for the first time since the regional banking crisis in 2023. That level of risk premium typically implies high probability of default, restructuring or loss.",
+        "link": "https://www.livemint.com/market/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis-11790807837311.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis-11790807837311.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 04:07:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The spread on the riskiest US corporate bonds has jumped above 1,000 basis points over Treasuries for the first time since the regional banking crisis in 2023. That level of risk premium typically imp",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "36b9bc7582",
+        "title": "Australian Private Credit Woes Add to Global Concern on ‘Gating’",
+        "summary": "The global private credit industry has gotten yet another jolt with money managers being blocked from cashing out of their investments, adding to concerns about ‘gating’ that shook markets earlier this year.",
+        "link": "https://www.livemint.com/market/australian-private-credit-woes-add-to-global-concern-on-gating-11790806317172.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australian-private-credit-woes-add-to-global-concern-on-gating-11790806317172.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 03:41:56 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The global private credit industry has gotten yet another jolt with money managers being blocked from cashing out of their investments, adding to concerns about ‘gating’ that shook markets earlier thi",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "96f536d57f",
+        "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
+        "summary": "The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+        "link": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 02:47:40 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "373bc8a8bf",
         "title": "Top 5 breakout stocks to buy: PVRINOX, JK Tyre, ICICIGI, Texmaco Rail, Mishra Dhatu by Sumeet Bagadia | Target, stoploss",
         "summary": "Sumeet Bagadia believes the short-term trends of the Indian stock market has turned sideways-to-bearish",
@@ -2824,33 +3232,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "dff479afc9",
-        "title": "Nifty H1FY27 Review: Top gainers and losers | Can H2FY27 deliver better returns?",
-        "summary": "As the Nifty 50 concludes H1FY27 with a modest 1.3% gain, the market faces challenges from rising oil prices and bond yields amid geopolitical tensions. Seven Nifty stocks declined more than 10% in the first half of the year, while 16 stocks jumped more than 10%.",
-        "link": "https://www.livemint.com/market/stock-market-news/nifty-h1fy27-review-top-gainers-and-losers-can-h2fy27-deliver-better-returns-11790767405138.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nifty-h1fy27-review-top-gainers-and-losers-can-h2fy27-deliver-better-returns-11790767405138.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 18:15:43 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. As the Nifty 50 concludes H1FY27 with a modest 1.3% gain, the market faces challenges from rising oil prices and bond yields amid geopolitical tensions. Seven Nifty stocks declined more than 10% in th",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "Energy & Oil": [
@@ -2881,338 +3262,38 @@
         ],
         "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
         "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "68c2bd1761",
-        "title": "Dividend income at risk? 8 stocks with inconsistent dividend payout: Indian Oil, Sanofi India, UTI AMC, and more",
-        "summary": "Check the list of companies that have paid inconsistent dividend over the last three financial years.Sanofi India declared a dividend of  ₹123 per share in FY26, down from  ₹167 in FY24. Indian Oil's fluctuating dividends were  ₹7 in FY26 and  ₹12 in FY24. Check list",
-        "link": "https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 18:13:22 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Check the list of companies that have paid inconsistent dividend over the last three financial years.Sanofi India declared a dividend of  ₹123 per share in FY26, down from  ₹167 in FY24. Indian Oil's",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
       }
     ],
-    "Global & Macro": [
+    "Medicine & Pharma": [
       {
-        "id": "c2cb46721f",
-        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-        "summary": "Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highlighted crude prices, inflation and monetary policy uncertainty.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:26:32 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highl",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "122eb44a7a",
-        "title": "FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days",
-        "summary": "Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee pressured equities, while analysts said selective opportunities are emerging acr",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:20:46 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "887fe8472c",
-        "title": "US dollar retreats after softer-than-expected inflation data",
-        "summary": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift ",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 20:52:45 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased b",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "c071287a61",
-        "title": "US yields pull back as rate hike bets ease after inflation data",
-        "summary": "Yields on 2-year and 10-year US Treasuries fell due to lower-than-expected inflation data. The Personal Consumption Expenditures Price Index rose 0.3% in August, affecting interest rate expectations. Additionally, the US trade deficit in goods widened sharply in August amid risin",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 20:50:52 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Yields on 2-year and 10-year US Treasuries fell due to lower-than-expected inflation data. The Personal Consumption Expenditures Price Index rose 0.3% in August, affecting interest rate expectations.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "9ebc17000c",
-        "title": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
-        "summary": "U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Personal Consumption Expenditures price index year-over-year. Major players like Appl",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 19:25:31 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 5
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Perso",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "5e291aa3cd",
-        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
         "source": "Moneycontrol",
         "sources": [
           {
             "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
           }
         ],
-        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
-        "sector": "Global & Macro",
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Medicine & Pharma",
         "sentiment": {
           "label": "Bullish",
           "score": 2
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "806bc030a2",
-        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "594fa50317",
-        "title": "Nifty 50 prediction today: Oversold zone raises counter-trend rally hopes | Support, resistance",
-        "summary": "Momentum indicators show strength with bullish signals from MACD and RSI. The stock is preparing for a breakout above  ₹836, potentially testing  ₹890. Market declined nearly 6% in September, with bearish trends persisting, while Sona BLW shows potential bullish breakout near piv",
-        "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-today-oversold-zone-raises-counter-trend-rally-hopes-support-resistance-11790790026650.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-today-oversold-zone-raises-counter-trend-rally-hopes-support-resistance-11790790026650.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 23:32:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Momentum indicators show strength with bullish signals from MACD and RSI. The stock is preparing for a breakout above  ₹836, potentially testing  ₹890. Market declined nearly 6% in September, with bea",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "a1d2b349ed",
-        "title": "Top 2 stocks to buy or sell for short-term: Cyient, Max Healthcare by Nagaraj Shetti - Check stop loss, targets",
-        "summary": "Indian equity benchmarks faced their largest monthly drop since March, with the Nifty 50 and Sensex declining by 6.1% and 5.8%, respectively. Rising oil prices and global interest rate hikes pressured emerging-market assets, while volatility continued amid geopolitical risks.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-cyient-max-healthcare-by-nagaraj-shetti-check-stop-loss-targets-11790768211784.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-cyient-max-healthcare-by-nagaraj-shetti-check-stop-loss-targets-11790768211784.html"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 17:26:38 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian equity benchmarks faced their largest monthly drop since March, with the Nifty 50 and Sensex declining by 6.1% and 5.8%, respectively. Rising oil prices and global interest rate hikes pressured",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "3a6b440d16",
-        "title": "Trade Setup For Oct 1: Nifty Near 22,600 Support; Can Oversold Conditions Trigger A Bounce?",
-        "summary": "Intraday market outlook remains non-directional and level-based trading would therefore be the ideal strategy for day traders.",
-        "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-1-nifty-near-22-600-support-can-oversold-conditions-trigger-a-bounce-12122003#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-1-nifty-near-22-600-support-can-oversold-conditions-trigger-a-bounce-12122003#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 22:50:09 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Intraday market outlook remains non-directional and level-based trading would therefore be the ideal strategy for day traders.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
       }
     ],
     "General Markets": [
-      {
-        "id": "d443a4fb10",
-        "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
-        "summary": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 19:46:34 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
       {
         "id": "7457dad3f8",
         "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
@@ -3513,6 +3594,60 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "a2644a7adc",
+        "title": "Munis Snap Selloff in Biggest Rally in More Than a Year",
+        "summary": "State and local debt prices rallied across the curve with ten-year municipal bonds posting their biggest gain in more than a year after a nearly two-week selloff.",
+        "link": "https://www.livemint.com/market/munis-snap-selloff-in-biggest-rally-in-more-than-a-year-11790802078472.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/munis-snap-selloff-in-biggest-rally-in-more-than-a-year-11790802078472.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 02:31:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. State and local debt prices rallied across the curve with ten-year municipal bonds posting their biggest gain in more than a year after a nearly two-week selloff.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a54f579879",
+        "title": "European regulators need more powers to police crypto, watchdog says",
+        "summary": "FINTECH-CRYPTO-ESMA:European regulators need more powers to police crypto, watchdog says",
+        "link": "https://www.livemint.com/market/european-regulators-need-more-powers-to-police-crypto-watchdog-says-11790795009244.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/european-regulators-need-more-powers-to-police-crypto-watchdog-says-11790795009244.html"
+          }
+        ],
+        "published": "Thu, 01 Oct 2026 00:33:28 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. FINTECH-CRYPTO-ESMA:European regulators need more powers to police crypto, watchdog says",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "b00ec32ec0",
         "title": "CAS &amp; effect: how retail traders amped up options play in new regime",
         "summary": "Thinly traded, 10 minutes closing auction session window draws retail traders looking to make a quick buck on options trading despite greater chances of losses and Sebi's red-flagging past losses",
@@ -3541,18 +3676,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "e26529c7e2",
-        "title": "Stock market holidays in October 2026 from NSE calendar - Open and closed days full list other than Saturdays, Sundays",
-        "summary": "The Indian stock market will close on October 2 for Mahatma Gandhi Jayanti, leading to reduced trading. Other holidays include Dussehra on October 20 and Diwali on November 10. Trading in commodities will also halt on these days, with Muhurat Trading scheduled for November 8.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-october-2026-from-nse-calendar-open-and-closed-days-full-list-other-than-saturdays-sundays-11790771933293.html",
-        "source": "LiveMint Markets",
+        "id": "b61dc548e1",
+        "title": "Pakistan vs Bangladesh Live Streaming: When And Where To Watch Asian Games 2026 Semi-Final",
+        "summary": "The match starts at 5:30 a.m. IST on Oct. 1.",
+        "link": "https://www.ndtvprofit.com/sports/pakistan-vs-bangladesh-live-streaming-weather-forecast-match-timings-and-rain-rule-asian-games-2026-cricket-semi-final-12118695#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-october-2026-from-nse-calendar-open-and-closed-days-full-list-other-than-saturdays-sundays-11790771933293.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/pakistan-vs-bangladesh-live-streaming-weather-forecast-match-timings-and-rain-rule-asian-games-2026-cricket-semi-final-12118695#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 18:49:54 +0530",
+        "published": "Thu, 01 Oct 2026 04:05:04 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3560,7 +3695,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Indian stock market will close on October 2 for Mahatma Gandhi Jayanti, leading to reduced trading. Other holidays include Dussehra on October 20 and Diwali on November 10. Trading in commodities",
+        "in_simple_words": "Not a big mover either way for general markets right now. The match starts at 5:30 a.m. IST on Oct. 1.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3568,26 +3703,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "8aa5944a71",
-        "title": "Multibagger stocks: 4 Ashish Kacholia, Mukul Agrawal portfolio stocks that nearly doubled investors’ wealth in one year",
-        "summary": "Ace investors Ashish Kacholia and Mukul Agrawal hold key stocks including Yasho Industries, Aeroflex Industries, and Fineotex Chemicals, yielding strong returns.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-4-ashish-kacholia-mukul-agrawal-portfolio-stocks-that-nearly-doubled-investors-wealth-in-one-year-11790773613418.html",
-        "source": "LiveMint Markets",
+        "id": "564be49151",
+        "title": "Meta Pushes Back On Muse Privacy Claims, Says Message Access Requires Permissions",
+        "summary": "The dispute began after journalist Jason Aten said Muse accessed his message.",
+        "link": "https://www.ndtvprofit.com/business/meta-pushes-back-on-muse-privacy-claims-says-message-access-requires-permissions-12122125#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-4-ashish-kacholia-mukul-agrawal-portfolio-stocks-that-nearly-doubled-investors-wealth-in-one-year-11790773613418.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/meta-pushes-back-on-muse-privacy-claims-says-message-access-requires-permissions-12122125#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 18:41:40 +0530",
+        "published": "Thu, 01 Oct 2026 00:25:06 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ace investors Ashish Kacholia and Mukul Agrawal hold key stocks including Yasho Industries, Aeroflex Industries, and Fineotex Chemicals, yielding strong returns.&amp;nbsp;",
+        "in_simple_words": "Not a big mover either way for general markets right now. The dispute began after journalist Jason Aten said Muse accessed his message.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3606,7 +3741,7 @@
             "url": "https://www.ndtvprofit.com/business/govt-grants-security-clearance-to-new-air-india-ceo-tewolde-gebremariam-12122016#publisher=newsstand"
           }
         ],
-        "published": "Wed, 30 Sep 2026 23:10:29 +0530",
+        "published": "Wed, 30 Sep 2026 23:12:35 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3891,89 +4026,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "77cf8376f9",
-        "title": "FY27 Second Half Going To Be Challenging As Interest Rates Rise Globally: CEA Nageswaran",
-        "summary": "Chief Economic Advisor V Anantha Nageswaran on Wednesday said the second half of the current fiscal is going to be challenging because downside risks to global growth have increased and interest rates are rising across the world.",
-        "link": "https://www.ndtvprofit.com/economy/fy27-second-half-going-to-be-challenging-as-interest-rates-rise-globally-cea-nageswaran-12121718#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/fy27-second-half-going-to-be-challenging-as-interest-rates-rise-globally-cea-nageswaran-12121718#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:53:36 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Chief Economic Advisor V Anantha Nageswaran on Wednesday said the second half of the current fiscal is going to be challenging because downside risks to global growth have increased and interest rates",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "baba9cd1b5",
-        "title": "Kitchen Budgets Hit: Onion Prices Nearly Double Amid Maharashtra Drought",
-        "summary": "Maharashtra accounts for around 40% of the country's onion output.",
-        "link": "https://www.ndtvprofit.com/economy/kitchen-budgets-hit-onion-prices-nearly-double-amid-maharashtra-drought-12121697#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/kitchen-budgets-hit-onion-prices-nearly-double-amid-maharashtra-drought-12121697#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 30 Sep 2026 21:49:25 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Maharashtra accounts for around 40% of the country's onion output.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      }
-    ],
-    "Medicine & Pharma": [
-      {
-        "id": "2c554bf20b",
-        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
-        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
-        "means_for_you": [
-          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
       }
     ],
     "FMCG": [
@@ -4230,36 +4282,9 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "9df40473cb",
-      "title": "Arivihan raises $10M as AI-led edtech targets India’s smaller cities",
-      "summary": "Arivihan will use the new capital to expand across states and CBSE, strengthen AI and vernacular capabilities, and broaden access to personalised learning.",
-      "link": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities"
-        }
-      ],
-      "published": "Wed, 30 Sep 2026 03:49:05 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. Arivihan will use the new capital to expand across states and CBSE, strengthen AI and vernacular capabilities, and broaden access to personalised learning.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
       "id": "9ebae0aa47",
       "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
-      "summary": "The challenge of taking AI products to millions of Indian users is making them work across budget smartphones, multiple languages,&#8230;",
+      "summary": "Today&#8217;s brief: does voice help Meesho sell?The challenge of taking AI products to millions of Indian users is making them&#8230;",
       "link": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
       "source": "Inc42",
       "sources": [
@@ -4276,7 +4301,7 @@
       },
       "is_ai_related": true,
       "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. The challenge of taking AI products to millions of Indian users is making them work across budget smartphones, multiple languages,&#8230;",
+      "in_simple_words": "Not a big mover either way for general markets right now. Today&#8217;s brief: does voice help Meesho sell?The challenge of taking AI products to millions of Indian users is making them&#8230;",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4390,6 +4415,33 @@
       ],
       "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
       "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+    },
+    {
+      "id": "21cc18b95b",
+      "title": "More Code, More Review: How AI Is Changing Engineering",
+      "summary": "AI coding tools are generating code faster, shifting more of engineers’ attention towards designing systems, reviewing output, and testing whether&#8230;",
+      "link": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/",
+      "source": "Inc42",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/"
+        }
+      ],
+      "published": "Wed, 30 Sep 2026 09:40:31 +0000",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "in_simple_words": "Not a big mover either way for general markets right now. AI coding tools are generating code faster, shifting more of engineers’ attention towards designing systems, reviewing output, and testing whether&#8230;",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
     }
   ],
   "index_snapshot": {
@@ -4413,15 +4465,15 @@
   "disclaimer": "Daily Planet explains the mechanism behind each story — not a buy/sell signal. Always do your own research before trading.",
   "editorial": {
     "todays_big_idea": {
-      "headline": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
+      "headline": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
       "why": [
-        "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
         "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
-        "Indian rupee rebounds to 95.83 vs US dollar as crude prices ease"
+        "Indian rupee rebounds to 95.83 vs US dollar as crude prices ease",
+        "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets"
       ],
       "numbers": "NIFTY -0.7%",
-      "analysis": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-      "investment_implication": "Worth watching: Nifty 50, Sensex, USD-INR, India VIX"
+      "analysis": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
+      "investment_implication": "Worth watching: TCS, Infosys, Wipro, HCLTech, Nifty IT"
     },
     "one_chart_question": "How has the stock price moved over the last year?",
     "one_chart_insight": "The stock moved -31.3% over the last year (revenue history wasn't available to compare).",
@@ -4450,7 +4502,7 @@
       "market_already_believes": "N/A"
     },
     "if_i_were_analyst": {
-      "headline": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
+      "headline": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
       "questions": [
         "Why is the company doing this now?",
         "How will it be financed — debt, equity, or internal cash?",
@@ -4734,7 +4786,7 @@
       },
       {
         "date": "2026-09-27",
-        "close": 1015.4
+        "close": 994.1
       },
       {
         "date": "2026-09-30",
