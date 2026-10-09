@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-09T19:22:37.263684+00:00",
+  "generated_at_utc": "2026-10-09T23:55:22.134747+00:00",
   "edition_date": "Friday, October 09, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -45,6 +45,33 @@
   },
   "pages": {
     "stock_market": [
+      {
+        "id": "f98695188e",
+        "title": "US stocks:  US market posts weekly gains with earnings, inflation data on tap",
+        "summary": "Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports from major players like Wells Fargo and Goldman Sachs. Analysts predict a notable growth in S&amp;P 500 earnings year-over-year, even as worries about consumer sentiment loom. Oi",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:39:34 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports from major players like Wells Fargo and Goldman Sachs. Analysts predict a notable growth in S&amp;",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
       {
         "id": "51e96bf252",
         "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
@@ -120,6 +147,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Anand Rathi Wealth reported a 22% year-on-year rise in Q2 business profit to Rs 122 crore, with revenue increasing 16%. Assets under management reached Rs 1.08 lakh crore as quarterly net inflows hit",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "314d73b393",
+        "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "summary": "GLOBAL-PRECIOUS:Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "link": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:21:23 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. GLOBAL-PRECIOUS:Gold hits one-week high, heads for weekly gain on bargain-hunting",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -236,6 +290,172 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
+        "means_for_you": [
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f3784e11d1",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "94fdfac2f3",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c3c178caff",
+        "title": "CME feeder cattle hit 3-month peak after corn price plunge",
+        "summary": "USA-LIVESTOCK/:LIVESTOCK-CME feeder cattle hit 3-month peak after corn price plunge",
+        "link": "https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 03:17:53 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. USA-LIVESTOCK/:LIVESTOCK-CME feeder cattle hit 3-month peak after corn price plunge",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "dfea7bd1d8",
         "title": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
         "summary": "Indian government bonds have faced a downturn for the eighth consecutive week, primarily influenced by soaring oil prices and a more aggressive stance from the central bank. The yield on benchmark bonds has surged, signaling a drop in investor confidence. Additionally, the Reserv",
@@ -264,7 +484,7 @@
       },
       {
         "id": "6e825ee172",
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow surges over 450 pts as market nears end of record-breaking week",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Highlights: US stocks post weekly gains as earnings, inflation data loom",
         "summary": "",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-spacex-nvidia-tesla-apple-delta-ai-chip-stock-price-news-9th-october-2026/liveblog/134833667.cms",
         "source": "Economic Times Markets",
@@ -288,6 +508,115 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "7457dad3f8",
+        "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+        "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+        "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 12:23:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "0590957127",
+        "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+        "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 17:56:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2d5a8ec8d8",
+        "title": "TSX posts biggest gain in five weeks as rate hike bets recede",
+        "summary": "CANADA-STOCKS/",
+        "link": "https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 02:17:32 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. CANADA-STOCKS/",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "32560c90df",
@@ -368,60 +697,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "322b363e97",
-        "title": "Navratri 2025 to Navratri 2026: Nifty's performance - Top gainers, losers, outlook",
-        "summary": "Indian equities fell sharply from Navratri 2025 to Navratri 2026, with the Nifty down 11% as geopolitical tensions, expensive oil, rising yields and foreign outflows overwhelmed domestic buying.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/navratri-2025-to-navratri-2026-niftys-performance-top-gainers-losers-outlook-11791549174535.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/navratri-2025-to-navratri-2026-niftys-performance-top-gainers-losers-outlook-11791549174535.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:16:27 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian equities fell sharply from Navratri 2025 to Navratri 2026, with the Nifty down 11% as geopolitical tensions, expensive oil, rising yields and foreign outflows overwhelmed domestic buying.&amp;n",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "038d099da3",
-        "title": "Experts say it's time to look at mid-caps, suggest looking at mid-cap funds through the SIP route",
-        "summary": "According to experts, the recent pullback in mid-cap stocks has made this category attractive at current levels. The mid-cap category is considered attractive since it lies in the sweet spot between growth and stability.",
-        "link": "https://www.livemint.com/market/stock-market-news/experts-say-its-time-to-look-at-mid-caps-suggest-looking-at-mid-cap-funds-through-the-sip-route-11791544855519.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/experts-say-its-time-to-look-at-mid-caps-suggest-looking-at-mid-cap-funds-through-the-sip-route-11791544855519.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:15:42 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. According to experts, the recent pullback in mid-cap stocks has made this category attractive at current levels. The mid-cap category is considered attractive since it lies in the sweet spot between g",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -589,18 +864,180 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d9224849c6",
-        "title": "Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report",
-        "summary": "In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over the last two years, illustrates an increased involvement from state governments. ",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms",
-        "source": "Economic Times Markets",
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms"
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
           }
         ],
-        "published": "Fri, 09 Oct 2026 17:39:33 +0530",
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "54e4c1e486",
+        "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+        "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23",
+        "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:51:45 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "00189e27b6",
+        "title": "Hindustan Unilever Q4 Preview: Price cuts, slow demand, regional competition to hurt topline",
+        "summary": "The hike in royalty payments to parent Unilever are likely to adversely impact HUL#39;s EBITDA margins, say experts",
+        "link": "https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 16:05:45 +0530",
+        "sector": "FMCG",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for fmcg right now. The hike in royalty payments to parent Unilever are likely to adversely impact HUL#39;s EBITDA margins, say experts",
+        "means_for_you": [
+          "Keep an eye on HUL, ITC, Nestle India, Britannia, Nifty FMCG — sentiment here is currently supportive."
+        ],
+        "why_matters": "FMCG is a defensive, low-volatility sector — money often rotates in here when the broader market turns risk-off.",
+        "watch": "HUL, ITC, Nestle India, Britannia, Nifty FMCG"
+      },
+      {
+        "id": "dfd22b2806",
+        "title": "LTIMindtree Q4 Preview: Lower pass-through revenue seen impacting growth marginally",
+        "summary": "A compilation of estimates suggests the company#39;s Q4 FY24 net profit is projected to decline by 2.2 percent quarter on quarter to Rs 1,143.1 crore",
+        "link": "https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 15:51:27 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. A compilation of estimates suggests the company#39;s Q4 FY24 net profit is projected to decline by 2.2 percent quarter on quarter to Rs 1,143.1 crore",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "9744a77cf3",
+        "title": "LT manufactures hydrotreating reactor for refinery in Mexico",
+        "summary": "The reactor has been dispatched for Mexico from the company#39;s A M Naik Heavy Engineering Complex at Hazira in Gujarat.",
+        "link": "https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:47:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The reactor has been dispatched for Mexico from the company#39;s A M Naik Heavy Engineering Complex at Hazira in Gujarat.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b6af0f5028",
+        "title": "Air India enters into codeshare pact with Japan#39;s All Nippon Airways",
+        "summary": "With the codeshare, effective for travel from May 23, Air India and All Nippon Airways passengers can fly to their desired destination by combining those flights between India and Japan with a single ticket.",
+        "link": "https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:44:20 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. With the codeshare, effective for travel from May 23, Air India and All Nippon Airways passengers can fly to their desired destination by combining those flights between India and Japan with a single",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
         "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
@@ -608,12 +1045,174 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over t",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "d57f1233d1",
+        "title": "Stellantis India to hike vehicle prices by up to Rs 17,000 from April 30",
+        "summary": "This price increase will result in an increment ranging from Rs 4,000 to Rs 17,000 across the models, the company said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:17:55 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. This price increase will result in an increment ranging from Rs 4,000 to Rs 17,000 across the models, the company said in a statement.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "43889811b2",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. \"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy sai",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "446517f534",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. \"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy sai",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "265bd79a69",
+        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
+        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "a75a16075c",
+        "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+        "summary": "Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+        "link": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:25:35 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "665e97b9ce",
+        "title": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
+        "summary": "Hurricane Isaias is lifting to US Gulf Coast crude prices, with nearly three-quarters of oil production in the region shut in.",
+        "link": "https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:23:29 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. Hurricane Isaias is lifting to US Gulf Coast crude prices, with nearly three-quarters of oil production in the region shut in.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "8369889e19",
@@ -695,60 +1294,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "ba4b092a0a",
-        "title": "Navratna PSU IRFC Q2 results, dividend 2026 announcement date, time, earnings schedule, dividend yield, history",
-        "summary": "Indian Railway Finance Corporation is set to announce its second-quarter FY27 results on October 15. The board will also consider an interim dividend, with October 23 set as the record date if a payout is approved. IRFC shares closed 0.94% higher at  ₹74.85.",
-        "link": "https://www.livemint.com/market/stock-market-news/navratna-psu-irfc-q2-results-dividend-2026-announcement-date-time-earnings-schedule-dividend-yield-history-11791548925134.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/navratna-psu-irfc-q2-results-dividend-2026-announcement-date-time-earnings-schedule-dividend-yield-history-11791548925134.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:07:11 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Indian Railway Finance Corporation is set to announce its second-quarter FY27 results on October 15. The board will also consider an interim dividend, with October 23 set as the record date if a payou",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "f0f70bc518",
-        "title": "After TCS  ₹12 dividend, all eyes on Infosys Q2 results, dividend; date, time, earnings schedule, yield, stock report",
-        "summary": "Infosys will announce its Q2FY27 results on October 23, after a two-day board meeting. Directors will also consider an interim dividend. Check details",
-        "link": "https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 17:32:30 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for it & software right now. Infosys will announce its Q2FY27 results on October 23, after a two-day board meeting. Directors will also consider an interim dividend. Check details",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
         "id": "9a874b3fd3",
@@ -1104,60 +1649,6 @@
     ],
     "startups": [
       {
-        "id": "5061578309",
-        "title": "Why public capital isn’t enough to save India’s deeptech",
-        "summary": "The most powerful derisker is not a fund at all. It is a customer. A Rs 200 crore procurement commitment from the defence, space or railways sectors does more for a series B round than a Rs 200 crore grant, because it validates revenue rather than science.",
-        "link": "https://yourstory.com/2026/10/why-public-capital-isnt-enough-save-india-deeptech",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/why-public-capital-isnt-enough-save-india-deeptech"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 01:50:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The most powerful derisker is not a fund at all. It is a customer. A Rs 200 crore procurement commitment from the defence, space or railways sectors does more for a series B round than a Rs 200 crore",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "a4a589e611",
-        "title": "The festive sales playbook: How Amazon and Flipkart are winning India’s mega sales",
-        "summary": "India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traffic into sales.",
-        "link": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 09:57:31 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traff",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "08c1ac8f82",
         "title": "5 Lessons from Kobe Bryant about relentless improvement",
         "summary": "Discover five powerful lessons from Kobe Bryant on discipline, growth, consistency, and the mindset required for relentless self-improvement.",
@@ -1178,6 +1669,33 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Discover five powerful lessons from Kobe Bryant on discipline, growth, consistency, and the mindset required for relentless self-improvement.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "5061578309",
+        "title": "Why public capital isn’t enough to save India’s deeptech",
+        "summary": "The most powerful derisker is not a fund at all. It is a customer. A Rs 200 crore procurement commitment from the defence, space or railways sectors does more for a series B round than a Rs 200 crore grant, because it validates revenue rather than science.",
+        "link": "https://yourstory.com/2026/10/why-public-capital-isnt-enough-save-india-deeptech",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/why-public-capital-isnt-enough-save-india-deeptech"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 01:50:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The most powerful derisker is not a fund at all. It is a customer. A Rs 200 crore procurement commitment from the defence, space or railways sectors does more for a series B round than a Rs 200 crore",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1239,18 +1757,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "afae46b53a",
-        "title": "Meta says it acted on 5.3M pieces of child abuse content in first half of 2026; rolls out new AI tools to crack down on ads",
-        "summary": "Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively.",
-        "link": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads",
+        "id": "a4a589e611",
+        "title": "The festive sales playbook: How Amazon and Flipkart are winning India’s mega sales",
+        "summary": "India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traffic into sales.",
+        "link": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads"
+            "url": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales"
           }
         ],
-        "published": "Thu, 08 Oct 2026 07:07:25 GMT",
+        "published": "Fri, 09 Oct 2026 09:57:31 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1258,7 +1776,62 @@
         },
         "is_ai_related": true,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively.",
+        "in_simple_words": "Not a big mover either way for general markets right now. India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traff",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0ce8c5b7af",
+        "title": "[Weekly funding roundup Oct 3-9] Steep decline in VC inflow",
+        "summary": "Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals.",
+        "link": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 14:01:27 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "8fe4bed066",
+        "title": "Startup news and updates: daily roundup (October 8, 2026)",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 8 , 2026.",
+        "link": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-8-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-8-2026"
+          }
+        ],
+        "published": "Thu, 08 Oct 2026 08:43:33 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 8 , 2026.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1320,61 +1893,6 @@
         "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
-        "id": "88362b2444",
-        "title": "NeoGrowth raises Rs 85 Cr led by FMO",
-        "summary": "The company said the investment will support NeoGrowth's next phase of growth as it looks to expand access to credit for MSMEs, strengthen its digital lending capabilities and deepen its market presence.",
-        "link": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 09:21:00 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. The company said the investment will support NeoGrowth's next phase of growth as it looks to expand access to credit for MSMEs, strengthen its digital lending capabilities and deepen its market presen",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "0ce8c5b7af",
-        "title": "[Weekly funding roundup Oct 3-9] Steep decline in VC inflow",
-        "summary": "Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals.",
-        "link": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 14:01:27 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals.",
-        "means_for_you": [
-          "Nifty 50, Sensex may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "390c2b9166",
         "title": "Few H-1B workers transitioning to green cards via PERM: Nasscom",
         "summary": "Nasscom emphasised that Indian IT companies operate in more than 80 countries and have always been compliant with local regulations.",
@@ -1402,58 +1920,85 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "ed7f179158",
-        "title": "India targets 1B 5G users by 2030, up from 550M: Scindia at IMC 2026",
-        "summary": "The minister said the ITU (International Telecommunication Union) Council has accepted India's proposal to host the Plenipotentiary Conference in 2030.",
-        "link": "https://yourstory.com/2026/10/india-targets-1-bn-5g-users-2030-550-mn-scindia-imc-2026",
+        "id": "88362b2444",
+        "title": "NeoGrowth raises Rs 85 Cr led by FMO",
+        "summary": "The company said the investment will support NeoGrowth's next phase of growth as it looks to expand access to credit for MSMEs, strengthen its digital lending capabilities and deepen its market presence.",
+        "link": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/india-targets-1-bn-5g-users-2030-550-mn-scindia-imc-2026"
+            "url": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
           }
         ],
-        "published": "Thu, 08 Oct 2026 07:07:30 GMT",
-        "sector": "Telecom",
+        "published": "Fri, 09 Oct 2026 09:21:00 GMT",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. The company said the investment will support NeoGrowth's next phase of growth as it looks to expand access to credit for MSMEs, strengthen its digital lending capabilities and deepen its market presen",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "afae46b53a",
+        "title": "Meta says it acted on 5.3M pieces of child abuse content in first half of 2026; rolls out new AI tools to crack down on ads",
+        "summary": "Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively.",
+        "link": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads"
+          }
+        ],
+        "published": "Thu, 08 Oct 2026 07:07:25 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "07df1b7a84",
+        "title": "Govt slams Elon Musk's allegations; says fair, non-discriminatory rules in place for satcom services",
+        "summary": "The government's statement came after Elon Musk's allegation that \"certain oligarchs\" have blocked his company's satellite communication services in India to maintain their monopoly in the country.",
+        "link": "https://yourstory.com/2026/10/govt-slams-elon-musk-allegations-fair-non-discriminatory-rules-satcom",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/govt-slams-elon-musk-allegations-fair-non-discriminatory-rules-satcom"
+          }
+        ],
+        "published": "Thu, 08 Oct 2026 06:41:04 GMT",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for telecom right now. The minister said the ITU (International Telecommunication Union) Council has accepted India's proposal to host the Plenipotentiary Conference in 2030.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The government's statement came after Elon Musk's allegation that \"certain oligarchs\" have blocked his company's satellite communication services in India to maintain their monopoly in the country.",
         "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
-      {
-        "id": "f66bb8fc60",
-        "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
-        "summary": "Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened its net loss.",
-        "link": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 09:53:04 GMT",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "d97561561e",
@@ -1483,31 +2028,85 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "b657269e1f",
-        "title": "US govt to bar Microsoft, Indian IT companies from green card programme",
-        "summary": "The US government is suspending applications for permanent residency of foreign workers by companies including Microsoft, Cognizant, Infosys, TCS, and HCLTech, over allege abuse of the process.",
-        "link": "https://yourstory.com/2026/10/us-govt-to-suspend-micrsoft-indian-it-companies-from-green-card-programme",
+        "id": "95491aadd3",
+        "title": "Nearly half of India’s startup ecosystem report low wellbeing; employees fare the worst: Study",
+        "summary": "According to the State of Mind: The Startup Ecosystem study, more employees scored at or below the wellbeing threshold, compared to investors, ecosystem supporters, and founders.",
+        "link": "https://yourstory.com/2026/10/india-startup-ecosystem-low-wellbeing-employees-study",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/us-govt-to-suspend-micrsoft-indian-it-companies-from-green-card-programme"
+            "url": "https://yourstory.com/2026/10/india-startup-ecosystem-low-wellbeing-employees-study"
           }
         ],
-        "published": "Thu, 08 Oct 2026 16:31:58 GMT",
-        "sector": "IT & Software",
+        "published": "Thu, 08 Oct 2026 14:47:06 GMT",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for it & software right now. The US government is suspending applications for permanent residency of foreign workers by companies including Microsoft, Cognizant, Infosys, TCS, and HCLTech, over allege abuse of the process.",
+        "in_simple_words": "Not a big mover either way for general markets right now. According to the State of Mind: The Startup Ecosystem study, more employees scored at or below the wellbeing threshold, compared to investors, ecosystem supporters, and founders.",
         "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2deba2d54f",
+        "title": "Peak XV Sells Awfis Shares Via ₹30 Cr Bulk Deal",
+        "summary": "Early backer Peak XV Partners has sold 12.2 Lakh shares of coworking space provider Awfis in a bulk deal worth&#8230;",
+        "link": "https://inc42.com/buzz/peak-xv-sells-awfis-shares-via-%e2%82%b930-cr-bulk-deal/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/peak-xv-sells-awfis-shares-via-%e2%82%b930-cr-bulk-deal/"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 20:15:55 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Early backer Peak XV Partners has sold 12.2 Lakh shares of coworking space provider Awfis in a bulk deal worth&#8230;",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1e67aaca56",
+        "title": "OTPless Ropes In Ex-BharatPe Exec Geetanshu Singla As New CTO",
+        "summary": "Identity and access management startup OTPless has roped in former BharatPe executive Geetanshu Singla as its new chief technology officer&#8230;",
+        "link": "https://inc42.com/buzz/otpless-ropes-in-ex-bharatpe-exec-geetanshu-singla-as-new-cto/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/otpless-ropes-in-ex-bharatpe-exec-geetanshu-singla-as-new-cto/"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 18:59:34 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Identity and access management startup OTPless has roped in former BharatPe executive Geetanshu Singla as its new chief technology officer&#8230;",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "a1e911e5ca",
@@ -1859,60 +2458,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "6e3c162bb4",
-        "title": "VinFast Signs Deals To Set Up 50 Electric Motorcycle Showrooms Across India",
-        "summary": "With an eye on entering the homegrown electric two-wheeler (E2W) market, Vietnamese EV maker VinFast has signed letters of intent&#8230;",
-        "link": "https://inc42.com/buzz/vinfast-signs-deals-to-set-up-50-e-motorcycle-showrooms-across-india/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/vinfast-signs-deals-to-set-up-50-e-motorcycle-showrooms-across-india/"
-          }
-        ],
-        "published": "Thu, 08 Oct 2026 20:22:27 +0000",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for cars & vehicles right now. With an eye on entering the homegrown electric two-wheeler (E2W) market, Vietnamese EV maker VinFast has signed letters of intent&#8230;",
-        "means_for_you": [
-          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
-      },
-      {
-        "id": "85b58e5015",
-        "title": "NABVENTURES Marks First Close Of ₹1,500 Cr Fund At ₹450 Cr",
-        "summary": "NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close&#8230;",
-        "link": "https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/"
-          }
-        ],
-        "published": "Thu, 08 Oct 2026 15:31:01 +0000",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close&#8230;",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "pe_ib": [
@@ -1999,33 +2544,6 @@
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       },
       {
-        "id": "f859bc7d59",
-        "title": "Airtel Money IPO: London’s biggest listing in 5 years makes debut — Check how shares performed post-listing",
-        "summary": "Airtel Money debuted on the London Stock Exchange in its largest IPO in five years, raising about £529 million and valuing the company at £5.3 billion. The African fintech business serves 53 million monthly users across 13 countries and reported $1.35 billion in FY26 revenue.",
-        "link": "https://www.livemint.com/market/stock-market-news/airtel-money-ipo-london-s-biggest-listing-in-5-years-makes-debut-check-how-shares-performed-postlisting-11791546228190.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/airtel-money-ipo-london-s-biggest-listing-in-5-years-makes-debut-check-how-shares-performed-postlisting-11791546228190.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 17:45:40 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for telecom right now. Airtel Money debuted on the London Stock Exchange in its largest IPO in five years, raising about £529 million and valuing the company at £5.3 billion. The African fintech business serves 53 million m",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
-      {
         "id": "729f25195f",
         "title": "Ambani Heirs Face Tough Questions In Roadshow For Record Jio IPO",
         "summary": "While valuation and IPO pricing is not yet confirmed, some fund managers told Akash that the company's desired valuation appeared ambitious and would be hard for the market to absorb, the people said.",
@@ -2055,6 +2573,144 @@
     ]
   },
   "sectors": {
+    "Energy & Oil": [
+      {
+        "id": "f98695188e",
+        "title": "US stocks:  US market posts weekly gains with earnings, inflation data on tap",
+        "summary": "Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports from major players like Wells Fargo and Goldman Sachs. Analysts predict a notable growth in S&amp;P 500 earnings year-over-year, even as worries about consumer sentiment loom. Oi",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:39:34 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports from major players like Wells Fargo and Goldman Sachs. Analysts predict a notable growth in S&amp;",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "3a7d4896ac",
+        "title": "Bitcoin falls to $82,000 as OpenAI revenue concerns and geopolitical tensions trigger nearly $1 billion in crypto liquidations",
+        "summary": "Bitcoin hovered near $82,000 as geopolitical tensions, rising oil prices and concerns over OpenAI revenue weighed on risk assets, triggering nearly $1 billion in crypto liquidations. Ethereum and major altcoins also declined, while analysts flagged $80,000 as a key Bitcoin suppor",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 17:53:20 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Bitcoin hovered near $82,000 as geopolitical tensions, rising oil prices and concerns over OpenAI revenue weighed on risk assets, triggering nearly $1 billion in crypto liquidations. Ethereum and majo",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "665e97b9ce",
+        "title": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
+        "summary": "Hurricane Isaias is lifting to US Gulf Coast crude prices, with nearly three-quarters of oil production in the region shut in.",
+        "link": "https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:23:29 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. Hurricane Isaias is lifting to US Gulf Coast crude prices, with nearly three-quarters of oil production in the region shut in.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "8369889e19",
+        "title": "188% up in 2026, DEE Development Engineers order book tops  ₹2500 cr mark spans power, oil &amp; gas, heavy fabrication",
+        "summary": "DEE Development Engineers’ order book reached  ₹2,531 crore as of September 30, 2026, after securing  ₹225 crore in September-quarter orders. The company is targeting FY27 order inflows above  ₹2,000 crore and core revenue of  ₹1,400–1,500 crore.",
+        "link": "https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 23:27:38 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. DEE Development Engineers’ order book reached  ₹2,531 crore as of September 30, 2026, after securing  ₹225 crore in September-quarter orders. The company is targeting FY27 order inflows above  ₹2,000",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "4300dfb309",
+        "title": "Pulse of the Street: Eight-week slide ends, but oil and earnings test recovery",
+        "summary": "Indian equities snapped their losing run, but elevated crude prices, tighter monetary policy and uneven demand leave the rebound dependent on stronger earnings and easing global pressures.",
+        "link": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-ends-but-oil-and-earnings-test-recovery-11791551805305.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-ends-but-oil-and-earnings-test-recovery-11791551805305.html"
+          }
+        ],
+        "published": "Fri, 09 Oct 2026 19:27:04 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian equities snapped their losing run, but elevated crude prices, tighter monetary policy and uneven demand leave the rebound dependent on stronger earnings and easing global pressures.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      }
+    ],
     "Banks & Money": [
       {
         "id": "d8deba1e09",
@@ -2192,18 +2848,74 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "d9224849c6",
-        "title": "Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report",
-        "summary": "In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over the last two years, illustrates an increased involvement from state governments. ",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms",
-        "source": "Economic Times Markets",
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms"
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
           }
         ],
-        "published": "Fri, 09 Oct 2026 17:39:33 +0530",
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
         "sector": "Banks & Money",
         "sentiment": {
           "label": "Neutral",
@@ -2211,7 +2923,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over t",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
         ],
@@ -2356,6 +3068,414 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "7457dad3f8",
+        "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+        "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+        "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 12:23:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "54e4c1e486",
+        "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+        "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23",
+        "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:51:45 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0590957127",
+        "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+        "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 17:56:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f3784e11d1",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "94fdfac2f3",
+        "title": "Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share",
+        "summary": "Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "link": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 16:27:47 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Revenue increased 8.5 percent to Rs 3,927 crore in the three months ended March 31.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "dfd22b2806",
+        "title": "LTIMindtree Q4 Preview: Lower pass-through revenue seen impacting growth marginally",
+        "summary": "A compilation of estimates suggests the company#39;s Q4 FY24 net profit is projected to decline by 2.2 percent quarter on quarter to Rs 1,143.1 crore",
+        "link": "https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 15:51:27 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. A compilation of estimates suggests the company#39;s Q4 FY24 net profit is projected to decline by 2.2 percent quarter on quarter to Rs 1,143.1 crore",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "9744a77cf3",
+        "title": "LT manufactures hydrotreating reactor for refinery in Mexico",
+        "summary": "The reactor has been dispatched for Mexico from the company#39;s A M Naik Heavy Engineering Complex at Hazira in Gujarat.",
+        "link": "https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:47:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The reactor has been dispatched for Mexico from the company#39;s A M Naik Heavy Engineering Complex at Hazira in Gujarat.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b6af0f5028",
+        "title": "Air India enters into codeshare pact with Japan#39;s All Nippon Airways",
+        "summary": "With the codeshare, effective for travel from May 23, Air India and All Nippon Airways passengers can fly to their desired destination by combining those flights between India and Japan with a single ticket.",
+        "link": "https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:44:20 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. With the codeshare, effective for travel from May 23, Air India and All Nippon Airways passengers can fly to their desired destination by combining those flights between India and Japan with a single",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d57f1233d1",
+        "title": "Stellantis India to hike vehicle prices by up to Rs 17,000 from April 30",
+        "summary": "This price increase will result in an increment ranging from Rs 4,000 to Rs 17,000 across the models, the company said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:17:55 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. This price increase will result in an increment ranging from Rs 4,000 to Rs 17,000 across the models, the company said in a statement.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "43889811b2",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. \"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy sai",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "446517f534",
+        "title": "Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra",
+        "summary": "\"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy said in a statement.",
+        "link": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:40:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. \"The project is the first wind-solar energy project for the company. It will utilize both wind and solar resources by combining 51 MW of wind energy and 34 MW of solar power,\" Juniper Green Energy sai",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c3c178caff",
+        "title": "CME feeder cattle hit 3-month peak after corn price plunge",
+        "summary": "USA-LIVESTOCK/:LIVESTOCK-CME feeder cattle hit 3-month peak after corn price plunge",
+        "link": "https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 03:17:53 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. USA-LIVESTOCK/:LIVESTOCK-CME feeder cattle hit 3-month peak after corn price plunge",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "2d5a8ec8d8",
+        "title": "TSX posts biggest gain in five weeks as rate hike bets recede",
+        "summary": "CANADA-STOCKS/",
+        "link": "https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 02:17:32 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. CANADA-STOCKS/",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a75a16075c",
+        "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+        "summary": "Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+        "link": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:25:35 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "314d73b393",
+        "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "summary": "GLOBAL-PRECIOUS:Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "link": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html"
+          }
+        ],
+        "published": "Sat, 10 Oct 2026 01:21:23 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. GLOBAL-PRECIOUS:Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "32560c90df",
         "title": "Share price down 29% in 2026, retail investors’ favourite wind energy stock under pressure - Where is the bottom?",
         "summary": "Suzlon Energy shares have fallen sharply in 2026 amid concerns about execution, margins and cash generation, despite a 6,135 MW order book. Analyst Gaurav Garg says the stock’s technical breakdown points to a Stage 4 downtrend; resistance sits near  ₹46–49, while investors will w",
@@ -2461,33 +3581,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "038d099da3",
-        "title": "Experts say it's time to look at mid-caps, suggest looking at mid-cap funds through the SIP route",
-        "summary": "According to experts, the recent pullback in mid-cap stocks has made this category attractive at current levels. The mid-cap category is considered attractive since it lies in the sweet spot between growth and stability.",
-        "link": "https://www.livemint.com/market/stock-market-news/experts-say-its-time-to-look-at-mid-caps-suggest-looking-at-mid-cap-funds-through-the-sip-route-11791544855519.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/experts-say-its-time-to-look-at-mid-caps-suggest-looking-at-mid-cap-funds-through-the-sip-route-11791544855519.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:15:42 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. According to experts, the recent pullback in mid-cap stocks has made this category attractive at current levels. The mid-cap category is considered attractive since it lies in the sweet spot between g",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -2847,7 +3940,7 @@
       },
       {
         "id": "6e825ee172",
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow surges over 450 pts as market nears end of record-breaking week",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Highlights: US stocks post weekly gains as earnings, inflation data loom",
         "summary": "",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-spacex-nvidia-tesla-apple-delta-ai-chip-stock-price-news-9th-october-2026/liveblog/134833667.cms",
         "source": "Economic Times Markets",
@@ -2866,6 +3959,60 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for global & macro — sentiment turned more positive.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
         ],
@@ -2900,115 +4047,91 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       }
     ],
-    "Energy & Oil": [
+    "Medicine & Pharma": [
       {
-        "id": "3a7d4896ac",
-        "title": "Bitcoin falls to $82,000 as OpenAI revenue concerns and geopolitical tensions trigger nearly $1 billion in crypto liquidations",
-        "summary": "Bitcoin hovered near $82,000 as geopolitical tensions, rising oil prices and concerns over OpenAI revenue weighed on risk assets, triggering nearly $1 billion in crypto liquidations. Ethereum and major altcoins also declined, while analysts flagged $80,000 as a key Bitcoin suppor",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms",
-        "source": "Economic Times Markets",
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+        "source": "Moneycontrol",
         "sources": [
           {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms"
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
           }
         ],
-        "published": "Fri, 09 Oct 2026 17:53:20 +0530",
-        "sector": "Energy & Oil",
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Medicine & Pharma",
         "sentiment": {
-          "label": "Bearish",
-          "score": -3
+          "label": "Bullish",
+          "score": 2
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Bitcoin hovered near $82,000 as geopolitical tensions, rising oil prices and concerns over OpenAI revenue weighed on risk assets, triggering nearly $1 billion in crypto liquidations. Ethereum and majo",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
         "means_for_you": [
-          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
-          "Worth watching before adding fresh positions."
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
         ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      }
+    ],
+    "FMCG": [
       {
-        "id": "8369889e19",
-        "title": "188% up in 2026, DEE Development Engineers order book tops  ₹2500 cr mark spans power, oil &amp; gas, heavy fabrication",
-        "summary": "DEE Development Engineers’ order book reached  ₹2,531 crore as of September 30, 2026, after securing  ₹225 crore in September-quarter orders. The company is targeting FY27 order inflows above  ₹2,000 crore and core revenue of  ₹1,400–1,500 crore.",
-        "link": "https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html",
-        "source": "LiveMint Markets",
+        "id": "00189e27b6",
+        "title": "Hindustan Unilever Q4 Preview: Price cuts, slow demand, regional competition to hurt topline",
+        "summary": "The hike in royalty payments to parent Unilever are likely to adversely impact HUL#39;s EBITDA margins, say experts",
+        "link": "https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html",
+        "source": "Moneycontrol Business",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html"
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html"
           }
         ],
-        "published": "Fri, 09 Oct 2026 23:27:38 +0530",
-        "sector": "Energy & Oil",
+        "published": "Tue, 23 Apr 2024 16:05:45 +0530",
+        "sector": "FMCG",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. DEE Development Engineers’ order book reached  ₹2,531 crore as of September 30, 2026, after securing  ₹225 crore in September-quarter orders. The company is targeting FY27 order inflows above  ₹2,000",
+        "in_simple_words": "Not a big mover either way for fmcg right now. The hike in royalty payments to parent Unilever are likely to adversely impact HUL#39;s EBITDA margins, say experts",
         "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+          "Keep an eye on HUL, ITC, Nestle India, Britannia, Nifty FMCG — sentiment here is currently supportive."
         ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
+        "why_matters": "FMCG is a defensive, low-volatility sector — money often rotates in here when the broader market turns risk-off.",
+        "watch": "HUL, ITC, Nestle India, Britannia, Nifty FMCG"
+      }
+    ],
+    "Real Estate/Housing": [
       {
-        "id": "4300dfb309",
-        "title": "Pulse of the Street: Eight-week slide ends, but oil and earnings test recovery",
-        "summary": "Indian equities snapped their losing run, but elevated crude prices, tighter monetary policy and uneven demand leave the rebound dependent on stronger earnings and easing global pressures.",
-        "link": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-ends-but-oil-and-earnings-test-recovery-11791551805305.html",
-        "source": "LiveMint Markets",
+        "id": "265bd79a69",
+        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
+        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
+        "source": "Moneycontrol Business",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-ends-but-oil-and-earnings-test-recovery-11791551805305.html"
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
           }
         ],
-        "published": "Fri, 09 Oct 2026 19:27:04 +0530",
-        "sector": "Energy & Oil",
+        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
+        "sector": "Real Estate/Housing",
         "sentiment": {
-          "label": "Bullish",
-          "score": 3
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian equities snapped their losing run, but elevated crude prices, tighter monetary policy and uneven demand leave the rebound dependent on stronger earnings and easing global pressures.",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
         "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
         ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "322b363e97",
-        "title": "Navratri 2025 to Navratri 2026: Nifty's performance - Top gainers, losers, outlook",
-        "summary": "Indian equities fell sharply from Navratri 2025 to Navratri 2026, with the Nifty down 11% as geopolitical tensions, expensive oil, rising yields and foreign outflows overwhelmed domestic buying.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/navratri-2025-to-navratri-2026-niftys-performance-top-gainers-losers-outlook-11791549174535.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/navratri-2025-to-navratri-2026-niftys-performance-top-gainers-losers-outlook-11791549174535.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:16:27 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian equities fell sharply from Navratri 2025 to Navratri 2026, with the Nifty down 11% as geopolitical tensions, expensive oil, rising yields and foreign outflows overwhelmed domestic buying.&amp;n",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
       }
     ],
     "Telecom": [
@@ -3067,63 +4190,7 @@
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       }
     ],
-    "Real Estate/Housing": [
-      {
-        "id": "ba4b092a0a",
-        "title": "Navratna PSU IRFC Q2 results, dividend 2026 announcement date, time, earnings schedule, dividend yield, history",
-        "summary": "Indian Railway Finance Corporation is set to announce its second-quarter FY27 results on October 15. The board will also consider an interim dividend, with October 23 set as the record date if a payout is approved. IRFC shares closed 0.94% higher at  ₹74.85.",
-        "link": "https://www.livemint.com/market/stock-market-news/navratna-psu-irfc-q2-results-dividend-2026-announcement-date-time-earnings-schedule-dividend-yield-history-11791548925134.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/navratna-psu-irfc-q2-results-dividend-2026-announcement-date-time-earnings-schedule-dividend-yield-history-11791548925134.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 18:07:11 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Indian Railway Finance Corporation is set to announce its second-quarter FY27 results on October 15. The board will also consider an interim dividend, with October 23 set as the record date if a payou",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      }
-    ],
     "IT & Software": [
-      {
-        "id": "f0f70bc518",
-        "title": "After TCS  ₹12 dividend, all eyes on Infosys Q2 results, dividend; date, time, earnings schedule, yield, stock report",
-        "summary": "Infosys will announce its Q2FY27 results on October 23, after a two-day board meeting. Directors will also consider an interim dividend. Check details",
-        "link": "https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html"
-          }
-        ],
-        "published": "Fri, 09 Oct 2026 17:32:30 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for it & software right now. Infosys will announce its Q2FY27 results on October 23, after a two-day board meeting. Directors will also consider an interim dividend. Check details",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
       {
         "id": "a64fa1f9e2",
         "title": "Oppo ColorOS 17 Launch Date Confirmed: Enco X4, Pad Mini Teased — Check Details",
@@ -3264,33 +4331,6 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "f66bb8fc60",
-      "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
-      "summary": "Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened its net loss.",
-      "link": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 09:53:04 GMT",
-      "sector": "Real Estate/Housing",
-      "sentiment": {
-        "label": "Bullish",
-        "score": 1
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened",
-      "means_for_you": [
-        "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-      ],
-      "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-      "watch": "Realty Index, DLF, cement and construction names"
-    },
-    {
       "id": "7f13cd03e3",
       "title": "How Arrowhead Is Using Voice AI To Fix The Gaps In Enterprise Sales And Support",
       "summary": "For years, enterprises hired thousands of human executives to sell loans, answer customer queries and recover abandoned sales. Yet, even&#8230;",
@@ -3389,15 +4429,15 @@
       "pct": 0.37
     }
   },
-  "total_articles": 75,
+  "total_articles": 94,
   "disclaimer": "Daily Planet explains the mechanism behind each story — not a buy/sell signal. Always do your own research before trading.",
   "editorial": {
     "todays_big_idea": {
       "headline": "Relief rally in Indian stock market; biggest weekly losing streak in 25 years snapped: What's next for Sensex, Nifty?",
       "why": [
         "Relief rally in Indian stock market; biggest weekly losing streak in 25 years snapped: What's next for Sensex, Nifty?",
-        "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
-        "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%"
+        "US stocks:  US market posts weekly gains with earnings, inflation data on tap",
+        "Poonawalla Fincorp Q2 profit surges fivefold as income rises"
       ],
       "numbers": "NIFTY -0.37%",
       "analysis": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
@@ -3456,7 +4496,7 @@
         "why": "Moved -0.37% today."
       },
       {
-        "value": "₹96.72",
+        "value": "₹96.78",
         "label": "USD/INR",
         "why": "A weaker rupee raises import costs."
       },
@@ -3714,7 +4754,7 @@
       },
       {
         "date": "2026-10-04",
-        "close": 1245.0
+        "close": 1259.1
       },
       {
         "date": "2026-10-09",
