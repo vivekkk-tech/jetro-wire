@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-20T21:27:07.852409+00:00",
-  "edition_date": "Tuesday, October 20, 2026",
+  "generated_at_utc": "2026-10-21T00:28:48.734134+00:00",
+  "edition_date": "Wednesday, October 21, 2026",
   "sector_performance": {
     "Banks & Money": {
       "pct": -0.64,
@@ -209,33 +209,6 @@
         "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
       },
       {
-        "id": "57967d3566",
-        "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
-        "summary": "3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial demand and sales increases in targeted markets are contributing factors. Despit",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 16:52:09 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. 3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "d03bd2d748",
         "title": "Marco Jansen Creates History Against Australia With 85, Breaks 60-Year-Old Record",
         "summary": "South Africa recovered from 110/6 to post 425/9 before declaring, with Jansen and Bavuma leading the fightback against Australia's bowling attack.",
@@ -428,6 +401,33 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "8e36cab182",
+        "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+        "summary": "The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending on the technology.",
+        "link": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 04:09:58 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "0e31e76fcf",
         "title": "US yields ease off lows as stocks rally",
         "summary": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields ease off lows as stocks rally",
@@ -481,33 +481,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "b96068a304",
-        "title": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say",
-        "summary": "Systematix raised its Union Bank of India target price to  ₹215 and maintained a buy rating after quarterly profit exceeded estimates. Profit rose 30.3% year on year, supported by lower provisions and wider margins, while asset quality improved. The shares remain about 60% below ",
-        "link": "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 15:43:18 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Systematix raised its Union Bank of India target price to  ₹215 and maintained a buy rating after quarterly profit exceeded estimates. Profit rose 30.3% year on year, supported by lower provisions and",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "bd18f86027",
@@ -782,33 +755,6 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
-        "id": "9bcafaec3a",
-        "title": "Multibagger stock announces 1:4 bonus shares: Up 550% in 5-Yrs with 1:5 stock split, dividend history; record date soon",
-        "summary": "Multibagger stock has risen from around  ₹61 to  ₹408.50 in five years, delivering over 550% returns to its long-term investors",
-        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-announces-1-4-bonus-shares-up-550-in-5-yrs-with-1-5-stock-split-dividend-history-record-date-soon-11792487388023.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-announces-1-4-bonus-shares-up-550-in-5-yrs-with-1-5-stock-split-dividend-history-record-date-soon-11792487388023.html"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 15:32:31 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Multibagger stock has risen from around  ₹61 to  ₹408.50 in five years, delivering over 550% returns to its long-term investors",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "3228e6e63b",
         "title": "Harmanpreet Kaur Breaks Smriti Mandhana's Record With Explosive 91 Against Zimbabwe",
         "summary": "Shafali Verma smashed 69 off 37 balls before Harmanpreet's unbeaten knock powered India to a 92-run victory and a 3-0 series sweep.",
@@ -938,6 +884,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. With KL Rahul, Ishan Kishan and Sanju Samson competing for wicketkeeper-batter roles, Pant faces a tough challenge to regain his place in India's ODI plans.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c170a87aaa",
+        "title": "Investing Rs 10 lakh? Experts decode the right mix",
+        "summary": "Investors are facing challenges in allocating a lump sum investment due to uncertainty in equity markets. Wealth managers suggest a combination of equities, debt, and gold for varying risk appetites. For conservative investors, a safer asset mix is recommended, while moderate and",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 05:36:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Investors are facing challenges in allocating a lump sum investment due to uncertainty in equity markets. Wealth managers suggest a combination of equities, debt, and gold for varying risk appetites.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1269,6 +1242,60 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "35e0ef58ff",
+        "title": "Gold Wavers as Traders Weigh US-Iran Talks, Fed Rate Path",
+        "summary": "Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.",
+        "link": "https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 05:07:15 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "47f6e8243b",
+        "title": "Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks",
+        "summary": "Oil steadied after a choppy session on Tuesday that saw traders parse conflicting headlines on efforts to end the US-Iran war.",
+        "link": "https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 04:28:21 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. Oil steadied after a choppy session on Tuesday that saw traders parse conflicting headlines on efforts to end the US-Iran war.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
         "id": "ea8a0497f8",
         "title": "Dollar dips as traders weigh Iran, AI risks",
         "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar dips as traders weigh Iran, AI risks",
@@ -1595,53 +1622,26 @@
     ],
     "startups": [
       {
-        "id": "db8efc59c5",
-        "title": "5 Richard Osman quotes that reveal the human side of mystery",
-        "summary": "Explore five Richard Osman quotes that reveal how mysteries explore human nature, friendship, loneliness and the unexpected complexity of life.",
-        "link": "https://yourstory.com/2026/10/richard-osman-quotes",
+        "id": "ecb1e7329f",
+        "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
+        "summary": "India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. \n\n\n\nYou can get enough sleep and still not get enough recovery.\n\nWe obsess over sleep duration, the “eight hours” metric, but durati",
+        "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/richard-osman-quotes"
+            "url": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it"
           }
         ],
-        "published": "Mon, 19 Oct 2026 13:39:54 GMT",
+        "published": "Mon, 19 Oct 2026 11:32:13 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 2
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore five Richard Osman quotes that reveal how mysteries explore human nature, friendship, loneliness and the unexpected complexity of life.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "29d38d7602",
-        "title": "How a FD calculator helps investors plan savings with ease",
-        "summary": "Saving for life’s big goals? Start with an FD calculator \n\nBajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear savings plans. \n\n\n\nEstablishing a financial goal makes the process of saving a lot easier. If you p",
-        "link": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease"
-          }
-        ],
-        "published": "Mon, 19 Oct 2026 11:36:27 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Saving for life’s big goals? Start with an FD calculator \n\nBajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear savings plans.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. \n\n\n\nYou can get enough sleep and still not get enoug",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1676,18 +1676,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "7e843b9109",
-        "title": "5 Quotes from the book It Matters a Lot by Shubhra Saxena",
-        "summary": "Explore five thought-provoking quotes from Shubhra Saxena’s It Matters A Lot on success, happiness, ambition and finding meaning in life.",
-        "link": "https://yourstory.com/2026/10/quotes-matters-alot",
+        "id": "29d38d7602",
+        "title": "How a FD calculator helps investors plan savings with ease",
+        "summary": "Saving for life’s big goals? Start with an FD calculator \n\nBajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear savings plans. \n\n\n\nEstablishing a financial goal makes the process of saving a lot easier. If you p",
+        "link": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/quotes-matters-alot"
+            "url": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease"
           }
         ],
-        "published": "Mon, 19 Oct 2026 13:44:00 GMT",
+        "published": "Mon, 19 Oct 2026 11:36:27 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1695,66 +1695,12 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore five thought-provoking quotes from Shubhra Saxena’s It Matters A Lot on success, happiness, ambition and finding meaning in life.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Saving for life’s big goals? Start with an FD calculator \n\nBajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear savings plans.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "ecb1e7329f",
-        "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
-        "summary": "India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. \n\n\n\nYou can get enough sleep and still not get enough recovery.\n\nWe obsess over sleep duration, the “eight hours” metric, but durati",
-        "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it"
-          }
-        ],
-        "published": "Mon, 19 Oct 2026 11:32:13 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. \n\n\n\nYou can get enough sleep and still not get enoug",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "312fa2aeb0",
-        "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterprise operations",
-        "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language instruc",
-        "link": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai"
-          }
-        ],
-        "published": "Mon, 19 Oct 2026 11:46:05 GMT",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "This is good news for it & software — sentiment turned more positive. Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
         "id": "a817bf10c9",
@@ -1785,45 +1731,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "f3a1e3cfa3",
-        "title": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures",
-        "summary": "Hunar.AI is focused on developing specialised AI technology for frontline-intensive industries. The company will use the funds for building AI infrastructure, product development, and go-to-market expansion.",
-        "link": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures",
+        "id": "db8efc59c5",
+        "title": "5 Richard Osman quotes that reveal the human side of mystery",
+        "summary": "Explore five Richard Osman quotes that reveal how mysteries explore human nature, friendship, loneliness and the unexpected complexity of life.",
+        "link": "https://yourstory.com/2026/10/richard-osman-quotes",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures"
+            "url": "https://yourstory.com/2026/10/richard-osman-quotes"
           }
         ],
-        "published": "Tue, 20 Oct 2026 13:45:57 GMT",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Hunar.AI is focused on developing specialised AI technology for frontline-intensive industries. The company will use the funds for building AI infrastructure, product development, and go-to-market exp",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "4ecb992c15",
-        "title": "How Operation Sindoor reshaped India's private defence tech industry",
-        "summary": "From faster procurement to direct engagement with the armed forces, Operation Sindoor has opened new opportunities for private defence companies developing critical military technologies.",
-        "link": "https://yourstory.com/2026/10/how-operation-sindoor-reshaped-indias-private-defence-tech-industry",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/how-operation-sindoor-reshaped-indias-private-defence-tech-industry"
-          }
-        ],
-        "published": "Mon, 19 Oct 2026 09:37:09 GMT",
+        "published": "Mon, 19 Oct 2026 13:39:54 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1831,7 +1750,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. From faster procurement to direct engagement with the armed forces, Operation Sindoor has opened new opportunities for private defence companies developing critical military technologies.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore five Richard Osman quotes that reveal how mysteries explore human nature, friendship, loneliness and the unexpected complexity of life.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1839,18 +1758,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "8d6ad218d7",
-        "title": "Angel One, Zerodha expand US stock investing access for Indian investors",
-        "summary": "This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
-        "link": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors",
+        "id": "7e843b9109",
+        "title": "5 Quotes from the book It Matters a Lot by Shubhra Saxena",
+        "summary": "Explore five thought-provoking quotes from Shubhra Saxena’s It Matters A Lot on success, happiness, ambition and finding meaning in life.",
+        "link": "https://yourstory.com/2026/10/quotes-matters-alot",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors"
+            "url": "https://yourstory.com/2026/10/quotes-matters-alot"
           }
         ],
-        "published": "Mon, 19 Oct 2026 11:28:52 GMT",
+        "published": "Mon, 19 Oct 2026 13:44:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1858,7 +1777,34 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore five thought-provoking quotes from Shubhra Saxena’s It Matters A Lot on success, happiness, ambition and finding meaning in life.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "0f90233c18",
+        "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
+        "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business profit.",
+        "link": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in"
+          }
+        ],
+        "published": "Mon, 19 Oct 2026 08:33:03 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1893,26 +1839,80 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "f7ab5c18f5",
-        "title": "India-New Zealand trade pact kicks in",
-        "summary": "The agreement provides duty-free access to a range of Indian goods, including products from labour-intensive sectors such as textiles and leather.",
-        "link": "https://yourstory.com/2026/10/india-new-zealand-trade-pact-kicks-in",
+        "id": "312fa2aeb0",
+        "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterprise operations",
+        "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language instruc",
+        "link": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/india-new-zealand-trade-pact-kicks-in"
+            "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai"
           }
         ],
-        "published": "Tue, 20 Oct 2026 08:54:28 GMT",
+        "published": "Mon, 19 Oct 2026 11:46:05 GMT",
+        "sector": "IT & Software",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "This is good news for it & software — sentiment turned more positive. Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static",
+        "means_for_you": [
+          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
+        ],
+        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
+        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+      },
+      {
+        "id": "a43bc7980d",
+        "title": "Eloelo's Saurabh Pandey bets that Dolphin AI can break the gatekeepers of Indian storytelling",
+        "summary": "The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force.",
+        "link": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling"
+          }
+        ],
+        "published": "Tue, 20 Oct 2026 06:24:30 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "5a73c73b09",
+        "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
+        "summary": "People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged.",
+        "link": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr"
+          }
+        ],
+        "published": "Tue, 20 Oct 2026 11:01:27 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The agreement provides duty-free access to a range of Indian goods, including products from labour-intensive sectors such as textiles and leather.",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the compa",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1947,26 +1947,26 @@
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       },
       {
-        "id": "5a73c73b09",
-        "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
-        "summary": "People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged.",
-        "link": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
+        "id": "8d6ad218d7",
+        "title": "Angel One, Zerodha expand US stock investing access for Indian investors",
+        "summary": "This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
+        "link": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr"
+            "url": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors"
           }
         ],
-        "published": "Tue, 20 Oct 2026 11:01:27 GMT",
+        "published": "Mon, 19 Oct 2026 11:28:52 GMT",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the compa",
+        "in_simple_words": "Not a big mover either way for general markets right now. This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1974,18 +1974,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "a43bc7980d",
-        "title": "Eloelo's Saurabh Pandey bets that Dolphin AI can break the gatekeepers of Indian storytelling",
-        "summary": "The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force.",
-        "link": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling",
+        "id": "f7ab5c18f5",
+        "title": "India-New Zealand trade pact kicks in",
+        "summary": "The agreement provides duty-free access to a range of Indian goods, including products from labour-intensive sectors such as textiles and leather.",
+        "link": "https://yourstory.com/2026/10/india-new-zealand-trade-pact-kicks-in",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling"
+            "url": "https://yourstory.com/2026/10/india-new-zealand-trade-pact-kicks-in"
           }
         ],
-        "published": "Tue, 20 Oct 2026 06:24:30 GMT",
+        "published": "Tue, 20 Oct 2026 08:54:28 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The agreement provides duty-free access to a range of Indian goods, including products from labour-intensive sectors such as textiles and leather.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "13191b8697",
+        "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
+        "summary": "From plain-language trading strategies to a Discipline Score that flags overtrading, Sahi’s Kyro shows how AI could give every Indian investor a personal team of financial agents, in their own language.",
+        "link": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india"
+          }
+        ],
+        "published": "Mon, 19 Oct 2026 08:42:29 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1993,7 +2020,7 @@
         },
         "is_ai_related": true,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force.",
+        "in_simple_words": "Not a big mover either way for general markets right now. From plain-language trading strategies to a Discipline Score that flags overtrading, Sahi’s Kyro shows how AI could give every Indian investor a personal team of financial agents, in their own languag",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2542,121 +2569,38 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
+      }
+    ]
+  },
+  "sectors": {
+    "General Markets": [
       {
-        "id": "18f0ebdce2",
-        "title": "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors",
-        "summary": "Reliance Jio Platforms’  ₹30,213 crore IPO drew anchor bids exceeding 30 times the available shares, attracting major global and domestic investors. The company plans to use up to  ₹27,500 crore of proceeds to repay Reliance Jio Infocomm borrowings.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-        "source": "LiveMint Markets",
+        "id": "c170a87aaa",
+        "title": "Investing Rs 10 lakh? Experts decode the right mix",
+        "summary": "Investors are facing challenges in allocating a lump sum investment due to uncertainty in equity markets. Wealth managers suggest a combination of equities, debt, and gold for varying risk appetites. For conservative investors, a safer asset mix is recommended, while moderate and",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms"
           }
         ],
-        "published": "Tue, 20 Oct 2026 16:06:29 +0530",
-        "sector": "Telecom",
+        "published": "Wed, 21 Oct 2026 05:36:02 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for telecom right now. Reliance Jio Platforms’  ₹30,213 crore IPO drew anchor bids exceeding 30 times the available shares, attracting major global and domestic investors. The company plans to use up to  ₹27,500 crore of pr",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      }
-    ]
-  },
-  "sectors": {
-    "Medicine & Pharma": [
-      {
-        "id": "3dfb2aa31c",
-        "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
-        "summary": "Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused after a rebound in the previous session. Healthcare shares gained, while small-cap",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms"
-          }
-        ],
-        "published": "Wed, 21 Oct 2026 01:54:39 +0530",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused af",
+        "in_simple_words": "Not a big mover either way for general markets right now. Investors are facing challenges in allocating a lump sum investment due to uncertainty in equity markets. Wealth managers suggest a combination of equities, debt, and gold for varying risk appetites.",
         "means_for_you": [
-          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
-      {
-        "id": "a57e2886de",
-        "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
-        "summary": "Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff. Major companies like General Motors and Steel Dynamics reported disappointing ea",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 19:09:30 +0530",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff.",
-        "means_for_you": [
-          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      },
-      {
-        "id": "2c554bf20b",
-        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
-        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
-        "means_for_you": [
-          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      }
-    ],
-    "General Markets": [
       {
         "id": "02c044d34d",
         "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
@@ -2762,33 +2706,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "57967d3566",
-        "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
-        "summary": "3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial demand and sales increases in targeted markets are contributing factors. Despit",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 16:52:09 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. 3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -3093,6 +3010,60 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "35e0ef58ff",
+        "title": "Gold Wavers as Traders Weigh US-Iran Talks, Fed Rate Path",
+        "summary": "Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.",
+        "link": "https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 05:07:15 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "8e36cab182",
+        "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+        "summary": "The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending on the technology.",
+        "link": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 04:09:58 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "ea8a0497f8",
         "title": "Dollar dips as traders weigh Iran, AI risks",
         "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar dips as traders weigh Iran, AI risks",
@@ -3251,33 +3222,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "9bcafaec3a",
-        "title": "Multibagger stock announces 1:4 bonus shares: Up 550% in 5-Yrs with 1:5 stock split, dividend history; record date soon",
-        "summary": "Multibagger stock has risen from around  ₹61 to  ₹408.50 in five years, delivering over 550% returns to its long-term investors",
-        "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-announces-1-4-bonus-shares-up-550-in-5-yrs-with-1-5-stock-split-dividend-history-record-date-soon-11792487388023.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-announces-1-4-bonus-shares-up-550-in-5-yrs-with-1-5-stock-split-dividend-history-record-date-soon-11792487388023.html"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 15:32:31 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Multibagger stock has risen from around  ₹61 to  ₹408.50 in five years, delivering over 550% returns to its long-term investors",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -3580,6 +3524,89 @@
         "watch": "Nifty 50, Sensex"
       }
     ],
+    "Medicine & Pharma": [
+      {
+        "id": "3dfb2aa31c",
+        "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+        "summary": "Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused after a rebound in the previous session. Healthcare shares gained, while small-cap",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 01:54:39 +0530",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused af",
+        "means_for_you": [
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      },
+      {
+        "id": "a57e2886de",
+        "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
+        "summary": "Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff. Major companies like General Motors and Steel Dynamics reported disappointing ea",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms"
+          }
+        ],
+        "published": "Tue, 20 Oct 2026 19:09:30 +0530",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff.",
+        "means_for_you": [
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      },
+      {
+        "id": "2c554bf20b",
+        "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+        "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+        "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for medicine & pharma — sentiment turned more positive. Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industri",
+        "means_for_you": [
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      }
+    ],
     "Energy & Oil": [
       {
         "id": "ac46dc7f9e",
@@ -3602,6 +3629,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Copper prices remained range bound as uncertainty over potential US tariffs and inflation risks from higher oil prices kept traders cautious. China’s copper scrap shortage supported refined copper dem",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "47f6e8243b",
+        "title": "Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks",
+        "summary": "Oil steadied after a choppy session on Tuesday that saw traders parse conflicting headlines on efforts to end the US-Iran war.",
+        "link": "https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html"
+          }
+        ],
+        "published": "Wed, 21 Oct 2026 04:28:21 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. Oil steadied after a choppy session on Tuesday that saw traders parse conflicting headlines on efforts to end the US-Iran war.",
         "means_for_you": [
           "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
         ],
@@ -3992,33 +4046,6 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "b96068a304",
-        "title": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say",
-        "summary": "Systematix raised its Union Bank of India target price to  ₹215 and maintained a buy rating after quarterly profit exceeded estimates. Profit rose 30.3% year on year, supported by lower provisions and wider margins, while asset quality improved. The shares remain about 60% below ",
-        "link": "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html"
-          }
-        ],
-        "published": "Tue, 20 Oct 2026 15:43:18 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Systematix raised its Union Bank of India target price to  ₹215 and maintained a buy rating after quarterly profit exceeded estimates. Profit rose 30.3% year on year, supported by lower provisions and",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       }
     ],
     "Real Estate/Housing": [
@@ -4221,6 +4248,33 @@
       "watch": "Nifty 50, Sensex"
     },
     {
+      "id": "8e36cab182",
+      "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+      "summary": "The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending on the technology.",
+      "link": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html",
+      "source": "LiveMint Markets",
+      "sources": [
+        {
+          "name": "LiveMint Markets",
+          "url": "https://www.livemint.com/market/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief-11792535998995.html"
+        }
+      ],
+      "published": "Wed, 21 Oct 2026 04:09:58 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 2
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "This is good news for general markets — sentiment turned more positive. The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
       "id": "ea8a0497f8",
       "title": "Dollar dips as traders weigh Iran, AI risks",
       "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar dips as traders weigh Iran, AI risks",
@@ -4409,33 +4463,6 @@
       ],
       "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
       "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "312fa2aeb0",
-      "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterprise operations",
-      "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language instruc",
-      "link": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai"
-        }
-      ],
-      "published": "Mon, 19 Oct 2026 11:46:05 GMT",
-      "sector": "IT & Software",
-      "sentiment": {
-        "label": "Bullish",
-        "score": 3
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "in_simple_words": "This is good news for it & software — sentiment turned more positive. Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static",
-      "means_for_you": [
-        "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-      ],
-      "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-      "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
     }
   ],
   "index_snapshot": {
@@ -4470,7 +4497,7 @@
       "investment_implication": "Worth watching: Nifty 50, Sensex"
     },
     "one_chart_question": "How has the stock price moved over the last year?",
-    "one_chart_insight": "The stock moved -7.6% over the last year (revenue history wasn't available to compare).",
+    "one_chart_insight": "The stock moved -29.5% over the last year (revenue history wasn't available to compare).",
     "one_concept": {
       "concept_name": "N/A",
       "company_example": "N/A",
@@ -4482,13 +4509,13 @@
       "what_could_move_it_down": "N/A"
     },
     "money_behind_business": {
-      "concept": "Free Cash Flow Conversion",
+      "concept": "Working Capital",
       "mechanism": "Not enough real cash-flow data available today to illustrate this concretely."
     },
     "industry_of_day": {
-      "sector": "Real Estate/Housing",
-      "overview": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields. Today's move: -1.2% (Slightly Low).",
-      "who_wins": "Watch: Realty Index, DLF, cement and construction names. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
+      "sector": "Banks & Money",
+      "overview": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names. Today's move: -0.64% (Steady).",
+      "who_wins": "Watch: HDFC Bank, ICICI Bank, SBI, Bank Nifty. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
     },
     "bull_vs_bear": {
       "bull_case": [],
@@ -4507,8 +4534,8 @@
       ]
     },
     "do_the_math": {
-      "question": "Revenue = ₹800 Cr, EBITDA Margin = 15%. Revenue falls 5%. What happens to EBITDA?",
-      "answer": "₹120 Cr → ₹114 Cr (a 5% revenue fall becomes a 5% EBITDA fall at a constant margin)."
+      "question": "Revenue = ₹800 Cr, EBITDA Margin = 22%. Revenue falls 15%. What happens to EBITDA?",
+      "answer": "₹176 Cr → ₹150 Cr (a 15% revenue fall becomes a 15% EBITDA fall at a constant margin)."
     },
     "money_trail": {
       "fii": "Not mentioned in today's headlines.",
@@ -4572,219 +4599,219 @@
     "price_series": [
       {
         "date": "2025-10-19",
-        "close": 2029.3
+        "close": 16274.0
       },
       {
         "date": "2025-10-26",
-        "close": 2054.5
+        "close": 16186.0
       },
       {
         "date": "2025-11-02",
-        "close": 2001.2
+        "close": 15479.0
       },
       {
         "date": "2025-11-09",
-        "close": 2100.7
+        "close": 15684.0
       },
       {
         "date": "2025-11-16",
-        "close": 2162.7
+        "close": 15977.0
       },
       {
         "date": "2025-11-23",
-        "close": 2101.6
+        "close": 15900.0
       },
       {
         "date": "2025-11-30",
-        "close": 2108.8
+        "close": 16282.0
       },
       {
         "date": "2025-12-07",
-        "close": 2083.4
+        "close": 16522.0
       },
       {
         "date": "2025-12-14",
-        "close": 2097.7
+        "close": 16414.0
       },
       {
         "date": "2025-12-21",
-        "close": 2105.4
+        "close": 16596.0
       },
       {
         "date": "2025-12-28",
-        "close": 2106.3
+        "close": 16960.0
       },
       {
         "date": "2026-01-04",
-        "close": 2027.1
+        "close": 16501.0
       },
       {
         "date": "2026-01-11",
-        "close": 2016.4
+        "close": 15859.0
       },
       {
         "date": "2026-01-18",
-        "close": 1984.7
+        "close": 15469.0
       },
       {
         "date": "2026-01-25",
-        "close": 1949.0
+        "close": 14199.0
       },
       {
         "date": "2026-02-01",
-        "close": 2038.4
+        "close": 14997.0
       },
       {
         "date": "2026-02-08",
-        "close": 2004.7
+        "close": 15237.0
       },
       {
         "date": "2026-02-15",
-        "close": 1977.4
+        "close": 14977.0
       },
       {
         "date": "2026-02-22",
-        "close": 1879.3
+        "close": 14857.0
       },
       {
         "date": "2026-03-01",
-        "close": 1870.8
+        "close": 14159.0
       },
       {
         "date": "2026-03-08",
-        "close": 1803.4
+        "close": 12591.0
       },
       {
         "date": "2026-03-15",
-        "close": 1846.1
+        "close": 12601.0
       },
       {
         "date": "2026-03-22",
-        "close": 1843.9
+        "close": 12389.0
       },
       {
         "date": "2026-03-29",
-        "close": 1789.7
+        "close": 12631.0
       },
       {
         "date": "2026-04-05",
-        "close": 1870.0
+        "close": 13709.0
       },
       {
         "date": "2026-04-12",
-        "close": 1846.9
+        "close": 13453.0
       },
       {
         "date": "2026-04-19",
-        "close": 1814.5
+        "close": 13048.0
       },
       {
         "date": "2026-04-26",
-        "close": 1886.8
+        "close": 13314.0
       },
       {
         "date": "2026-05-03",
-        "close": 1834.5
+        "close": 13726.0
       },
       {
         "date": "2026-05-10",
-        "close": 1905.4
+        "close": 13221.0
       },
       {
         "date": "2026-05-17",
-        "close": 1871.4
+        "close": 12987.0
       },
       {
         "date": "2026-05-24",
-        "close": 1829.0
+        "close": 13127.0
       },
       {
         "date": "2026-05-31",
-        "close": 1798.2
+        "close": 13050.0
       },
       {
         "date": "2026-06-07",
-        "close": 1822.5
+        "close": 13366.0
       },
       {
         "date": "2026-06-14",
-        "close": 1910.8
+        "close": 13395.0
       },
       {
         "date": "2026-06-21",
-        "close": 1850.7
+        "close": 13745.0
       },
       {
         "date": "2026-06-28",
-        "close": 1910.4
+        "close": 14366.0
       },
       {
         "date": "2026-07-05",
-        "close": 1920.4
+        "close": 13854.0
       },
       {
         "date": "2026-07-12",
-        "close": 1908.8
+        "close": 13803.0
       },
       {
         "date": "2026-07-19",
-        "close": 1898.2
+        "close": 13442.0
       },
       {
         "date": "2026-07-26",
-        "close": 1972.0
+        "close": 14234.0
       },
       {
         "date": "2026-08-02",
-        "close": 1959.9
+        "close": 14037.0
       },
       {
         "date": "2026-08-09",
-        "close": 1992.1
+        "close": 13834.0
       },
       {
         "date": "2026-08-16",
-        "close": 1946.0
+        "close": 13565.0
       },
       {
         "date": "2026-08-23",
-        "close": 1882.4
+        "close": 13376.0
       },
       {
         "date": "2026-08-30",
-        "close": 1840.0
+        "close": 12694.0
       },
       {
         "date": "2026-09-06",
-        "close": 1831.1
+        "close": 12400.0
       },
       {
         "date": "2026-09-13",
-        "close": 1893.3
+        "close": 12103.0
       },
       {
         "date": "2026-09-20",
-        "close": 1785.4
+        "close": 12065.0
       },
       {
         "date": "2026-09-27",
-        "close": 1741.1
+        "close": 11386.0
       },
       {
         "date": "2026-10-04",
-        "close": 1805.1
+        "close": 11420.0
       },
       {
         "date": "2026-10-11",
-        "close": 1905.0
+        "close": 11489.0
       },
       {
         "date": "2026-10-18",
-        "close": 1875.2
+        "close": 11475.0
       },
       {
         "date": "2026-10-19",
-        "close": 1875.2
+        "close": 11475.0
       }
     ],
     "revenue_series": []
