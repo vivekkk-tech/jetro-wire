@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T19:24:43.337529+00:00",
+  "generated_at_utc": "2026-10-28T23:57:26.279890+00:00",
   "edition_date": "Wednesday, October 28, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -45,33 +45,6 @@
   },
   "pages": {
     "stock_market": [
-      {
-        "id": "47bac422e1",
-        "title": "Ramky Infrastructure shares surge over 17% to  ₹300 despite a 46% yearly fall; what explains the sharp rebound?",
-        "summary": "Ramky Infrastructure shares jumped 17.4% to  ₹300, their biggest single-day gain since August 2022, as trading volumes surged to nearly five times the weekly average. Despite the rebound, the stock remains down 46% in 2026 and about 70% from its record high.",
-        "link": "https://www.livemint.com/market/stock-market-news/ramky-infrastructure-shares-surge-over-17-to-rs-300-despite-a-46-yearly-fall-what-explains-the-sharp-rebound-11793191105738.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/ramky-infrastructure-shares-surge-over-17-to-rs-300-despite-a-46-yearly-fall-what-explains-the-sharp-rebound-11793191105738.html"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:57:37 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 6
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Ramky Infrastructure shares jumped 17.4% to  ₹300, their biggest single-day gain since August 2022, as trading volumes surged to nearly five times the weekly average. Despite the rebound, the stock re",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
       {
         "id": "19d75d32eb",
         "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
@@ -289,6 +262,33 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "f5b0e0c86d",
+        "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+        "summary": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now s",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:44:51 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong resu",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "b93810c805",
         "title": "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
         "summary": "Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home' scheme have analysts worried that it won’t receive long-term financial support",
@@ -315,33 +315,6 @@
         ],
         "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
         "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "27085f7ac4",
-        "title": "India bonds end flat as oil woes come up against short covering",
-        "summary": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about infla",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:04:01 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacte",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "2c554bf20b",
@@ -509,61 +482,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "4ab7298a52",
-        "title": "US Fed Holds Key Rates Steady At 3.75-4% To Support 'Dual Mandate'; Seeks More Info For Policy Stance",
-        "summary": "US Fed Verdict: FOMC said that inflation remains elevated, while job gains have kept pace with workforce. It also added that the US economic activity is expanding at a \"strong\" pace. The monetary policy vote in favor of keeping the benchmark rate unchanged was 10-2.",
-        "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 23:37:37 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. US Fed Verdict: FOMC said that inflation remains elevated, while job gains have kept pace with workforce. It also added that the US economic activity is expanding at a \"strong\" pace. The monetary poli",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "260f4d51d1",
-        "title": "NDTV Profit Ignite 2026: Experts See Opportunity In Equities, Remain Bullish On Long-Term Outlook",
-        "summary": "The Nifty has fallen about 11.8% in the current Samvat amid global uncertainty, foreign outflows and a weak rupee. At NDTV Profit Ignite, market veterans said the correction could offer opportunities, though valuations and stock selection remain key.",
-        "link": "https://www.ndtvprofit.com/business/ndtv-profit-ignite-2026-experts-see-opportunity-in-equities-remain-bullish-on-long-term-outlook-12250582#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/ndtv-profit-ignite-2026-experts-see-opportunity-in-equities-remain-bullish-on-long-term-outlook-12250582#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:49:42 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. The Nifty has fallen about 11.8% in the current Samvat amid global uncertainty, foreign outflows and a weak rupee. At NDTV Profit Ignite, market veterans said the correction could offer opportunities,",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
         "id": "8745f938db",
         "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
         "summary": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Niño could",
@@ -673,33 +591,6 @@
         "watch": "Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       },
       {
-        "id": "3ee0c57514",
-        "title": "US stocks today: US stocks turn choppy as megacaps offset chip gains before Fed meet",
-        "summary": "In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced declines. Investors eye the Federal Reserve's imminent interest rate decision and imp",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 19:09:22 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced decli",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
         "id": "7457dad3f8",
         "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
         "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
@@ -782,6 +673,62 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "91860018ac",
+        "title": "Canadian Oil Discount Exceeds $30 Amid Gulf Coast Pressures",
+        "summary": "Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years.",
+        "link": "https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:32:28 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years.",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "2502a463df",
+        "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
+        "summary": "Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year.",
+        "link": "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 00:56:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "21b36fc865",
         "title": "Chip stocks on the fly! AMD, Micron among shares gain up to 5% as SK Hynix’s earnings boost AI trade",
         "summary": "SK Hynix’s record third-quarter profit, driven by demand for advanced semiconductors, lifted Asian and US chip shares and renewed optimism about AI.&amp;nbsp;",
@@ -836,34 +783,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "b782bea956",
-        "title": "US Fed Meeting Live Updates: Warsh Highlights Changes In FOMC Schedule From Next Fall; FOMC Holds Interest Rates Steady",
-        "summary": "US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
-        "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand"
-          }
-        ],
-        "published": "Thu, 29 Oct 2026 00:10:07 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
         "id": "cf5e7cc8bc",
         "title": "Inter Miami vs New York Red Bulls Live Streaming: When And Where To Watch Messi's MLS Match In India",
         "summary": "Inter Miami look to return to winning ways against FC Cincinnati, who arrive in Miami after consecutive victories in MLS.",
@@ -916,6 +835,33 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "1c3cb456d8",
+        "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+        "summary": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:18:14 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "e4124e11ee",
@@ -997,33 +943,6 @@
         ],
         "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
         "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      },
-      {
-        "id": "94ff2266c4",
-        "title": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
-        "summary": "SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on SEBI’s oversight, and reinforces financial stability.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:45:56 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on S",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "806bc030a2",
@@ -1323,6 +1242,33 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "64c0524e95",
+        "title": "Explained: Why US Fed Reserve decided to not hike rate after FOMC meeting? What Chair Kevin Warsh said in press speech",
+        "summary": "The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflation to the 2% target and are prepared to act as conditions require.",
+        "link": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:06:42 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflati",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
         "id": "d3205bde9e",
         "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode",
         "summary": "The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields, rupee weakness and foreign investor selling remain bigger risks. Here’s what ma",
@@ -1431,31 +1377,112 @@
         "watch": "Tata Steel, JSW Steel, Hindalco, Nifty Metal"
       },
       {
-        "id": "26449d0100",
-        "title": "Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price",
-        "summary": "Bajaj Auto and Maruti Suzuki shares rose after quarterly results. Bajaj Auto’s profit increased 35.2% and revenue grew 34%, while Maruti Suzuki’s profit fell 26.4% amid higher costs despite a 26% revenue increase and record vehicle sales.",
-        "link": "https://www.livemint.com/market/stock-market-news/auto-biggies-q2-result-compared-bajaj-auto-vs-maruti-suzuki-who-wins-the-earnings-race-profit-revenue-target-price-11793192303439.html",
-        "source": "LiveMint Markets",
+        "id": "985f57c183",
+        "title": "Anthropic Is Said To Plan UK Share Offering Via RetailBook",
+        "summary": "Anthropic will follow Elon Musk's SpaceX in bypassing the need for a UK prospectus by using the country's \"public offer platform.\"",
+        "link": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/auto-biggies-q2-result-compared-bajaj-auto-vs-maruti-suzuki-who-wins-the-earnings-race-profit-revenue-target-price-11793192303439.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand"
           }
         ],
-        "published": "Wed, 28 Oct 2026 18:31:00 +0530",
-        "sector": "Cars & Vehicles",
+        "published": "Thu, 29 Oct 2026 01:25:23 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for cars & vehicles right now. Bajaj Auto and Maruti Suzuki shares rose after quarterly results. Bajaj Auto’s profit increased 35.2% and revenue grew 34%, while Maruti Suzuki’s profit fell 26.4% amid higher costs despite a 26% reve",
+        "in_simple_words": "Not a big mover either way for general markets right now. Anthropic will follow Elon Musk's SpaceX in bypassing the need for a UK prospectus by using the country's \"public offer platform.\"",
         "means_for_you": [
-          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b782bea956",
+        "title": "US Fed Meeting Highlights: FOMC Holds Rates Steady Despite Concerns Over Inflation; Warsh Makes Changes In Annual Meetings",
+        "summary": "US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
+        "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:20:33 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "f24f974937",
+        "title": "Warsh-Led FOMC To Reduce Rate-Setting Meetings From 2027 Despite Inflation Fight: Five Key Highlights",
+        "summary": "US Fed Verdict: Kevin Warsh kept the benchmark policy rate steady at 3.75-4%",
+        "link": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:16:58 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed Verdict: Kevin Warsh kept the benchmark policy rate steady at 3.75-4%",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "4ab7298a52",
+        "title": "US Fed Holds Key Rates Steady At 3.75-4% For 'Dual Mandate'; Seeks More Info For Policy Stance",
+        "summary": "US Fed held the target range for the federal funds rate at 3-3/4 to 4%, in support of the 'dual mandate'",
+        "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:37:37 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed held the target range for the federal funds rate at 3-3/4 to 4%, in support of the 'dual mandate'",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
         "id": "d8577c877e",
@@ -1672,33 +1699,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "cd21b0e2a5",
-        "title": "How Vodafone Idea Shares Sparked Sulaiman Merchant's Investment Journey",
-        "summary": "Speaking at the NDTV Profit IGNITE 2026, Merchant said that his foray into stock market began while discussing investment opportunities with his brother-in-law, when they came across Vodafone Idea ahead of a Supreme Court hearing.",
-        "link": "https://www.ndtvprofit.com/markets/how-vodafone-idea-shares-sparked-sulaiman-merchants-investment-journey-12250568#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/how-vodafone-idea-shares-sparked-sulaiman-merchants-investment-journey-12250568#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:45:14 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for telecom right now. Speaking at the NDTV Profit IGNITE 2026, Merchant said that his foray into stock market began while discussing investment opportunities with his brother-in-law, when they came across Vodafone Idea ahe",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       }
     ],
     "startups": [
@@ -1757,33 +1757,6 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "f6a079f2bc",
-        "title": "Lessons in Chemistry: 5 Takeaways from Bonnie Garmus’ Novel",
-        "summary": "Discover five powerful lessons from Lessons in Chemistry by Bonnie Garmus about equality, ambition, independent thinking, and self-worth.",
-        "link": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel"
-          }
-        ],
-        "published": "Tue, 27 Oct 2026 12:30:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Discover five powerful lessons from Lessons in Chemistry by Bonnie Garmus about equality, ambition, independent thinking, and self-worth.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "5c21755b0e",
         "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
         "summary": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business\n\n\n\nIndia's offices are being reinvented, and Workshaala wants to be the company that runs them. The enterprise workspace provider has set out a Rs 1,000 crore revenue vision for its next phase of gr",
@@ -1811,45 +1784,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "ff903a7c2f",
-        "title": "Why women should build their front row; AI automation and its impact on jobs",
-        "summary": "Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having people who cheer you.",
-        "link": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
+        "id": "f6a079f2bc",
+        "title": "Lessons in Chemistry: 5 Takeaways from Bonnie Garmus’ Novel",
+        "summary": "Discover five powerful lessons from Lessons in Chemistry by Bonnie Garmus about equality, ambition, independent thinking, and self-worth.",
+        "link": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs"
+            "url": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel"
           }
         ],
-        "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c0439d7310",
-        "title": "Government working to utilise procurement process for promoting startups: DPIIT Secretary",
-        "summary": "Elaborating on the move to enhance participation of startups in government procurement, DPIIT Additional Secretary Ateesh Kumar Singh said that there are already certain facilities available in the form of relaxations to the GFR (General Financial Rules).",
-        "link": "https://yourstory.com/2026/10/govt-working-utilise-procurement-process-promoting-startups-dpiit-secretary",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/govt-working-utilise-procurement-process-promoting-startups-dpiit-secretary"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 07:24:08 GMT",
+        "published": "Tue, 27 Oct 2026 12:30:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1857,115 +1803,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Elaborating on the move to enhance participation of startups in government procurement, DPIIT Additional Secretary Ateesh Kumar Singh said that there are already certain facilities available in the fo",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5262cfea5c",
-        "title": "‘Cope harder’: Vaishnaw defends India's iPhone PLI scheme",
-        "summary": "“Cope harder,” says Ashwini Vaishnaw as he defends India’s manufacturing model, citing Rs 3 lakh crore in GST collections, government incentives and jobs created through electronics production.",
-        "link": "https://yourstory.com/2026/10/cope-harder-vaishnaw-india-mobile-manufacturing-pli",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/cope-harder-vaishnaw-india-mobile-manufacturing-pli"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 08:15:23 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. “Cope harder,” says Ashwini Vaishnaw as he defends India’s manufacturing model, citing Rs 3 lakh crore in GST collections, government incentives and jobs created through electronics production.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "982fef6e7d",
-        "title": "From Homemade Badi to GomatiRoots: Shital Kumari Secures Funding",
-        "summary": "Bihar's Sheetal Kumari transforms homemade badi into GomatiRoots, securing funding through YourStory's Shuru Kar initiative.",
-        "link": "https://yourstory.com/2026/10/homemade-badi-gomatiroots",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/homemade-badi-gomatiroots"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 07:56:10 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bihar's Sheetal Kumari transforms homemade badi into GomatiRoots, securing funding through YourStory's Shuru Kar initiative.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "27f55f37b3",
-        "title": "Meesho narrows loss by 68% while revenue rises 34% in Q2 of FY27",
-        "summary": "The annual transacting user base of Meesho now stands at 284 million for Meesho and the seller base has grown to 1.13 million.",
-        "link": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 15:04:11 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The annual transacting user base of Meesho now stands at 284 million for Meesho and the seller base has grown to 1.13 million.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "7e447a352e",
-        "title": "Startup news and updates: daily roundup (October 28, 2026)",
-        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, October 28, 2026.",
-        "link": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-28-2026",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-28-2026"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 08:11:10 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, October 28, 2026.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Discover five powerful lessons from Lessons in Chemistry by Bonnie Garmus about equality, ambition, independent thinking, and self-worth.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2027,18 +1865,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "5a4245c8d8",
-        "title": "Info Edge’s Hitesh Oberoi to step down as MD and CEO; founder Sanjeev Bikhchandani to take over",
-        "summary": "Info Edge CEO Hitesh Oberoi will step down on 2 December 2026 after nearly 27 years, with founder Sanjeev Bikhchandani returning as MD and Group CEO from 3 December, subject to shareholder approval.",
-        "link": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over",
+        "id": "b6d3130b07",
+        "title": "Jio Platforms gains 27% on day one of listing, becomes second most valued company in India",
+        "summary": "Jio Platforms exceeded market expectations with a 26.81% gain on day one of listing and a market capitalisation of Rs 13 lakh crore.",
+        "link": "https://yourstory.com/2026/10/jio-platforms-nse-strong-stock-market-debut",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over"
+            "url": "https://yourstory.com/2026/10/jio-platforms-nse-strong-stock-market-debut"
           }
         ],
-        "published": "Wed, 28 Oct 2026 11:53:54 GMT",
+        "published": "Wed, 28 Oct 2026 05:42:35 GMT",
+        "sector": "Telecom",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for telecom — sentiment turned more positive. Jio Platforms exceeded market expectations with a 26.81% gain on day one of listing and a market capitalisation of Rs 13 lakh crore.",
+        "means_for_you": [
+          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
+        ],
+        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
+        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
+      },
+      {
+        "id": "982fef6e7d",
+        "title": "From Homemade Badi to GomatiRoots: Shital Kumari Secures Funding",
+        "summary": "Bihar's Sheetal Kumari transforms homemade badi into GomatiRoots, securing funding through YourStory's Shuru Kar initiative.",
+        "link": "https://yourstory.com/2026/10/homemade-badi-gomatiroots",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/homemade-badi-gomatiroots"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 07:56:10 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -2046,7 +1911,115 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Info Edge CEO Hitesh Oberoi will step down on 2 December 2026 after nearly 27 years, with founder Sanjeev Bikhchandani returning as MD and Group CEO from 3 December, subject to shareholder approval.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Bihar's Sheetal Kumari transforms homemade badi into GomatiRoots, securing funding through YourStory's Shuru Kar initiative.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "5262cfea5c",
+        "title": "‘Cope harder’: Vaishnaw defends India's iPhone PLI scheme",
+        "summary": "“Cope harder,” says Ashwini Vaishnaw as he defends India’s manufacturing model, citing Rs 3 lakh crore in GST collections, government incentives and jobs created through electronics production.",
+        "link": "https://yourstory.com/2026/10/cope-harder-vaishnaw-india-mobile-manufacturing-pli",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/cope-harder-vaishnaw-india-mobile-manufacturing-pli"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 08:15:23 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. “Cope harder,” says Ashwini Vaishnaw as he defends India’s manufacturing model, citing Rs 3 lakh crore in GST collections, government incentives and jobs created through electronics production.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c0439d7310",
+        "title": "Government working to utilise procurement process for promoting startups: DPIIT Secretary",
+        "summary": "Elaborating on the move to enhance participation of startups in government procurement, DPIIT Additional Secretary Ateesh Kumar Singh said that there are already certain facilities available in the form of relaxations to the GFR (General Financial Rules).",
+        "link": "https://yourstory.com/2026/10/govt-working-utilise-procurement-process-promoting-startups-dpiit-secretary",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/govt-working-utilise-procurement-process-promoting-startups-dpiit-secretary"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 07:24:08 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Elaborating on the move to enhance participation of startups in government procurement, DPIIT Additional Secretary Ateesh Kumar Singh said that there are already certain facilities available in the fo",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "27f55f37b3",
+        "title": "Meesho narrows loss by 68% while revenue rises 34% in Q2 of FY27",
+        "summary": "The annual transacting user base of Meesho now stands at 284 million for Meesho and the seller base has grown to 1.13 million.",
+        "link": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 15:04:11 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The annual transacting user base of Meesho now stands at 284 million for Meesho and the seller base has grown to 1.13 million.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ff903a7c2f",
+        "title": "Why women should build their front row; AI automation and its impact on jobs",
+        "summary": "Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having people who cheer you.",
+        "link": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2101,6 +2074,33 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. At TechSparks 2026, leaders from HT Media Labs, Inshorts, and Eloelo Group discuss why credibility, human creativity, and audience-first formats will matter as content creation scales.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "5a4245c8d8",
+        "title": "Info Edge’s Hitesh Oberoi to step down as MD and CEO; founder Sanjeev Bikhchandani to take over",
+        "summary": "Info Edge CEO Hitesh Oberoi will step down on 2 December 2026 after nearly 27 years, with founder Sanjeev Bikhchandani returning as MD and Group CEO from 3 December, subject to shareholder approval.",
+        "link": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 11:53:54 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Info Edge CEO Hitesh Oberoi will step down on 2 December 2026 after nearly 27 years, with founder Sanjeev Bikhchandani returning as MD and Group CEO from 3 December, subject to shareholder approval.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2516,6 +2516,33 @@
     ],
     "pe_ib": [
       {
+        "id": "4ecbe9f7d6",
+        "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
+        "summary": "Wendy’s shares jump after Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private, as the company faces high beef costs, weaker consumer demand, store closures and intensifying competition in the US fast-food market.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 00:31:05 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "in_simple_words": "Not a big mover either way for general markets right now. Wendy’s shares jump after Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private, as the company faces high beef costs, weaker consumer demand, store closures and",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "e4a8cb8bd0",
         "title": "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
         "summary": "Jio Platforms made a strong stock-market debut, closing around 27% above its issue price and becoming India’s second-most valuable company. Check how much investors made",
@@ -2541,810 +2568,65 @@
         ],
         "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
+      }
+    ]
+  },
+  "sectors": {
+    "General Markets": [
       {
-        "id": "bda50f10c9",
-        "title": "IndiaMART management expects profitable growth despite macro headwinds; AI could drive the next phase",
-        "summary": "IndiaMART CEO Dinesh Agarwal expects profitable growth despite stagnant subscriber volumes, citing an 8% rise in value per subscriber, technology investment, customer acquisition and category-based pricing. AI presents opportunities to improve efficiency as well as challenges to ",
-        "link": "https://www.livemint.com/market/stock-market-news/indiamart-management-expects-profitable-growth-despite-macro-headwinds-ai-could-drive-the-next-phase-11793190981255.html",
-        "source": "LiveMint Markets",
+        "id": "f5b0e0c86d",
+        "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+        "summary": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now s",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/indiamart-management-expects-profitable-growth-despite-macro-headwinds-ai-could-drive-the-next-phase-11793190981255.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms"
           }
         ],
-        "published": "Wed, 28 Oct 2026 18:23:43 +0530",
+        "published": "Thu, 29 Oct 2026 01:44:51 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 3
+          "score": 2
         },
-        "is_ai_related": true,
-        "page": "pe_ib",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. IndiaMART CEO Dinesh Agarwal expects profitable growth despite stagnant subscriber volumes, citing an 8% rise in value per subscriber, technology investment, customer acquisition and category-based pr",
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong resu",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      }
-    ]
-  },
-  "sectors": {
-    "Global & Macro": [
+      },
       {
-        "id": "e4124e11ee",
-        "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
-        "summary": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute signif",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+        "id": "1c3cb456d8",
+        "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+        "summary": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
         "source": "Economic Times Markets",
         "sources": [
           {
             "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms"
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms"
           }
         ],
-        "published": "Wed, 28 Oct 2026 23:31:23 +0530",
-        "sector": "Global & Macro",
+        "published": "Thu, 29 Oct 2026 01:18:14 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid th",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "5e291aa3cd",
-        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "806bc030a2",
-        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-        "source": "Moneycontrol",
-        "sources": [
-          {
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "d3205bde9e",
-        "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode",
-        "summary": "The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields, rupee weakness and foreign investor selling remain bigger risks. Here’s what ma",
-        "link": "https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html"
-          }
-        ],
-        "published": "Thu, 29 Oct 2026 00:16:28 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields,",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "3abca55f9e",
-        "title": "US Fed FOMC meeting outcome news today: Top highlights and what led to no rate hike decision",
-        "summary": "The Federal Reserve kept interest rates unchanged on October 28, giving policymakers time to assess the effects of its previous hike as inflation remained above target. The decision came less than a week before midterm elections, with living costs and affordability major voter co",
-        "link": "https://www.livemint.com/market/stock-market-news/us-fed-fomc-meeting-outcome-news-today-top-highlights-and-what-led-to-no-rate-hike-decision-11793209386525.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/us-fed-fomc-meeting-outcome-news-today-top-highlights-and-what-led-to-no-rate-hike-decision-11793209386525.html"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 23:39:12 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. The Federal Reserve kept interest rates unchanged on October 28, giving policymakers time to assess the effects of its previous hike as inflation remained above target. The decision came less than a w",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "b782bea956",
-        "title": "US Fed Meeting Live Updates: Warsh Highlights Changes In FOMC Schedule From Next Fall; FOMC Holds Interest Rates Steady",
-        "summary": "US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
-        "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand"
-          }
-        ],
-        "published": "Thu, 29 Oct 2026 00:10:07 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "4ab7298a52",
-        "title": "US Fed Holds Key Rates Steady At 3.75-4% To Support 'Dual Mandate'; Seeks More Info For Policy Stance",
-        "summary": "US Fed Verdict: FOMC said that inflation remains elevated, while job gains have kept pace with workforce. It also added that the US economic activity is expanding at a \"strong\" pace. The monetary policy vote in favor of keeping the benchmark rate unchanged was 10-2.",
-        "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 23:37:37 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. US Fed Verdict: FOMC said that inflation remains elevated, while job gains have kept pace with workforce. It also added that the US economic activity is expanding at a \"strong\" pace. The monetary poli",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "469894415c",
-        "title": "Trade Setup For Oct 29: Nifty Finds Support At 22,500 As Bulls Eye 23,000",
-        "summary": "Market experts recommend a level-based trading approach as the benchmark continues to show volatile and non-directional movement.",
-        "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-29-nifty-finds-support-at-22-500-as-bulls-eye-23-000-12250620#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-29-nifty-finds-support-at-22-500-as-bulls-eye-23-000-12250620#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:57:16 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Market experts recommend a level-based trading approach as the benchmark continues to show volatile and non-directional movement.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "260f4d51d1",
-        "title": "NDTV Profit Ignite 2026: Experts See Opportunity In Equities, Remain Bullish On Long-Term Outlook",
-        "summary": "The Nifty has fallen about 11.8% in the current Samvat amid global uncertainty, foreign outflows and a weak rupee. At NDTV Profit Ignite, market veterans said the correction could offer opportunities, though valuations and stock selection remain key.",
-        "link": "https://www.ndtvprofit.com/business/ndtv-profit-ignite-2026-experts-see-opportunity-in-equities-remain-bullish-on-long-term-outlook-12250582#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/ndtv-profit-ignite-2026-experts-see-opportunity-in-equities-remain-bullish-on-long-term-outlook-12250582#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:49:42 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. The Nifty has fallen about 11.8% in the current Samvat amid global uncertainty, foreign outflows and a weak rupee. At NDTV Profit Ignite, market veterans said the correction could offer opportunities,",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      }
-    ],
-    "Banks & Money": [
-      {
-        "id": "8745f938db",
-        "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
-        "summary": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Niño could",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:56:20 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. T",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "19d75d32eb",
-        "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
-        "summary": "Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved asset quality. Its gross NPA ratio improved to 1.9% from 3.5% a year earlier, sig",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:38:45 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved a",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "635d5016b3",
-        "title": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
-        "summary": "Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore, helped by strong income growth, higher loan disbursements and lower loan losses. The company’s board approved a proposal to raise up to Rs 5,000 crore through a qualified inst",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:34:42 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 7
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore, helped by strong income growth, higher loan disbursements and lower loan losses. The company’s",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "1f2653dd8f",
-        "title": "Weak returns at home fuel India's overseas retail investing boom",
-        "summary": "Indian retail investors are increasingly venturing into global markets, significantly boosting their overseas investments. In response, domestic asset managers are introducing new funds to meet the rising demand for international exposure. With the Reserve Bank of India's limits ",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:03:19 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Indian retail investors are increasingly venturing into global markets, significantly boosting their overseas investments. In response, domestic asset managers are introducing new funds to meet the ri",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "94ff2266c4",
-        "title": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
-        "summary": "SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on SEBI’s oversight, and reinforces financial stability.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:45:56 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on S",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "27085f7ac4",
-        "title": "India bonds end flat as oil woes come up against short covering",
-        "summary": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about infla",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:04:01 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacte",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2f554f4f77",
-        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "f5e03c6451",
-        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
-        "summary": "Net premium income rose to Rs 14,788 crore",
-        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "47b61ce2c0",
-        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
-        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "cc0a914545",
-        "title": "Q2 Results Highlights: Hero MotoCorp Results Meet Estimates, Bandhan Bank Net Profit Jumps Multifold",
-        "summary": "Q2 Results Live Market Blog",
-        "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hul-vedanta-tvs-motor-jsw-energy-among-120-companies-to-announce-earnings-today-12246315#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hul-vedanta-tvs-motor-jsw-energy-among-120-companies-to-announce-earnings-today-12246315#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 23:01:07 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Q2 Results Live Market Blog",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      }
-    ],
-    "Cars & Vehicles": [
-      {
-        "id": "01327f6f95",
-        "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
-        "summary": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international expansion strengthened growth prospects.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:31:33 +0530",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for cars & vehicles — sentiment turned more positive. Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international ex",
-        "means_for_you": [
-          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
-      },
-      {
-        "id": "c208d1e09b",
-        "title": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
-        "summary": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alongside international expansion and investments.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 20:38:33 +0530",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for cars & vehicles — sentiment turned more positive. Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alon",
-        "means_for_you": [
-          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
-      },
-      {
-        "id": "26449d0100",
-        "title": "Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price",
-        "summary": "Bajaj Auto and Maruti Suzuki shares rose after quarterly results. Bajaj Auto’s profit increased 35.2% and revenue grew 34%, while Maruti Suzuki’s profit fell 26.4% amid higher costs despite a 26% revenue increase and record vehicle sales.",
-        "link": "https://www.livemint.com/market/stock-market-news/auto-biggies-q2-result-compared-bajaj-auto-vs-maruti-suzuki-who-wins-the-earnings-race-profit-revenue-target-price-11793192303439.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/auto-biggies-q2-result-compared-bajaj-auto-vs-maruti-suzuki-who-wins-the-earnings-race-profit-revenue-target-price-11793192303439.html"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:31:00 +0530",
-        "sector": "Cars & Vehicles",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for cars & vehicles right now. Bajaj Auto and Maruti Suzuki shares rose after quarterly results. Bajaj Auto’s profit increased 35.2% and revenue grew 34%, while Maruti Suzuki’s profit fell 26.4% amid higher costs despite a 26% reve",
-        "means_for_you": [
-          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
-        ],
-        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
-        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
-      }
-    ],
-    "Energy & Oil": [
-      {
-        "id": "e10580810a",
-        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-        "summary": "Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late recovery.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:08:47 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late re",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "1cb6f5fc64",
-        "title": "US Fed meeting outcome news: FOMC decides no rate hike - Details",
-        "summary": "The Federal Reserve’s September rate decision came as inflation climbed amid rising crude oil prices and ahead of midterm elections focused on affordability.",
-        "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-news-fomc-decides-no-rate-hike-details-11793209848405.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-news-fomc-decides-no-rate-hike-details-11793209848405.html"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 23:35:30 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. The Federal Reserve’s September rate decision came as inflation climbed amid rising crude oil prices and ahead of midterm elections focused on affordability.",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      }
-    ],
-    "Real Estate/Housing": [
-      {
-        "id": "b93810c805",
-        "title": "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
-        "summary": "Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home' scheme have analysts worried that it won’t receive long-term financial support",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 21:06:36 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for real estate/housing — sentiment turned more negative. Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home",
-        "means_for_you": [
-          "Realty Index, DLF, cement and construction names may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "3ee0c57514",
-        "title": "US stocks today: US stocks turn choppy as megacaps offset chip gains before Fed meet",
-        "summary": "In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced declines. Investors eye the Federal Reserve's imminent interest rate decision and imp",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 19:09:22 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
         },
         "is_ai_related": true,
         "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced decli",
+        "in_simple_words": "Not a big mover either way for general markets right now. Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
         "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
-      {
-        "id": "265bd79a69",
-        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
-        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
-        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      },
-      {
-        "id": "47bac422e1",
-        "title": "Ramky Infrastructure shares surge over 17% to  ₹300 despite a 46% yearly fall; what explains the sharp rebound?",
-        "summary": "Ramky Infrastructure shares jumped 17.4% to  ₹300, their biggest single-day gain since August 2022, as trading volumes surged to nearly five times the weekly average. Despite the rebound, the stock remains down 46% in 2026 and about 70% from its record high.",
-        "link": "https://www.livemint.com/market/stock-market-news/ramky-infrastructure-shares-surge-over-17-to-rs-300-despite-a-46-yearly-fall-what-explains-the-sharp-rebound-11793191105738.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/ramky-infrastructure-shares-surge-over-17-to-rs-300-despite-a-46-yearly-fall-what-explains-the-sharp-rebound-11793191105738.html"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 18:57:37 +0530",
-        "sector": "Real Estate/Housing",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 6
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. Ramky Infrastructure shares jumped 17.4% to  ₹300, their biggest single-day gain since August 2022, as trading volumes surged to nearly five times the weekly average. Despite the rebound, the stock re",
-        "means_for_you": [
-          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
-        ],
-        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-        "watch": "Realty Index, DLF, cement and construction names"
-      }
-    ],
-    "General Markets": [
       {
         "id": "49f7b60f4c",
         "title": "Sebi to review FPI compliance norms, issue consultation paper to align with global standards",
@@ -3672,6 +2954,34 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "2502a463df",
+        "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
+        "summary": "Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year.",
+        "link": "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 00:56:09 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "27b04173fa",
         "title": "Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
         "summary": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
@@ -3854,6 +3164,33 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for general markets — sentiment turned more positive. Apollo Micro Systems posted a strong quarterly performance, with revenue up 72.2% and net profit up 55.6% year on year. Systematix kept its Buy call and  ₹570 target, citing growth prospects and an ex",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "985f57c183",
+        "title": "Anthropic Is Said To Plan UK Share Offering Via RetailBook",
+        "summary": "Anthropic will follow Elon Musk's SpaceX in bypassing the need for a UK prospectus by using the country's \"public offer platform.\"",
+        "link": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:25:23 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Anthropic will follow Elon Musk's SpaceX in bypassing the need for a UK prospectus by using the country's \"public offer platform.\"",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -4077,6 +3414,696 @@
         "watch": "Nifty 50, Sensex"
       }
     ],
+    "Global & Macro": [
+      {
+        "id": "e4124e11ee",
+        "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
+        "summary": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute signif",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:31:23 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid th",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5e291aa3cd",
+        "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+        "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "806bc030a2",
+        "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+        "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+        "source": "Moneycontrol",
+        "sources": [
+          {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "64c0524e95",
+        "title": "Explained: Why US Fed Reserve decided to not hike rate after FOMC meeting? What Chair Kevin Warsh said in press speech",
+        "summary": "The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflation to the 2% target and are prepared to act as conditions require.",
+        "link": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:06:42 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflati",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "d3205bde9e",
+        "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode",
+        "summary": "The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields, rupee weakness and foreign investor selling remain bigger risks. Here’s what ma",
+        "link": "https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 00:16:28 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields,",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "3abca55f9e",
+        "title": "US Fed FOMC meeting outcome news today: Top highlights and what led to no rate hike decision",
+        "summary": "The Federal Reserve kept interest rates unchanged on October 28, giving policymakers time to assess the effects of its previous hike as inflation remained above target. The decision came less than a week before midterm elections, with living costs and affordability major voter co",
+        "link": "https://www.livemint.com/market/stock-market-news/us-fed-fomc-meeting-outcome-news-today-top-highlights-and-what-led-to-no-rate-hike-decision-11793209386525.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/us-fed-fomc-meeting-outcome-news-today-top-highlights-and-what-led-to-no-rate-hike-decision-11793209386525.html"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:39:12 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. The Federal Reserve kept interest rates unchanged on October 28, giving policymakers time to assess the effects of its previous hike as inflation remained above target. The decision came less than a w",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "b782bea956",
+        "title": "US Fed Meeting Highlights: FOMC Holds Rates Steady Despite Concerns Over Inflation; Warsh Makes Changes In Annual Meetings",
+        "summary": "US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
+        "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:20:33 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed Meeting Live Updates: Track the Fed's rate decision, Kevin Warsh's comments and the impact on the US dollar, Wall Street and global markets.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "f24f974937",
+        "title": "Warsh-Led FOMC To Reduce Rate-Setting Meetings From 2027 Despite Inflation Fight: Five Key Highlights",
+        "summary": "US Fed Verdict: Kevin Warsh kept the benchmark policy rate steady at 3.75-4%",
+        "link": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:16:58 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed Verdict: Kevin Warsh kept the benchmark policy rate steady at 3.75-4%",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "4ab7298a52",
+        "title": "US Fed Holds Key Rates Steady At 3.75-4% For 'Dual Mandate'; Seeks More Info For Policy Stance",
+        "summary": "US Fed held the target range for the federal funds rate at 3-3/4 to 4%, in support of the 'dual mandate'",
+        "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:37:37 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. US Fed held the target range for the federal funds rate at 3-3/4 to 4%, in support of the 'dual mandate'",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "469894415c",
+        "title": "Trade Setup For Oct 29: Nifty Finds Support At 22,500 As Bulls Eye 23,000",
+        "summary": "Market experts recommend a level-based trading approach as the benchmark continues to show volatile and non-directional movement.",
+        "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-29-nifty-finds-support-at-22-500-as-bulls-eye-23-000-12250620#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-29-nifty-finds-support-at-22-500-as-bulls-eye-23-000-12250620#publisher=newsstand"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 22:57:16 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Market experts recommend a level-based trading approach as the benchmark continues to show volatile and non-directional movement.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      }
+    ],
+    "Banks & Money": [
+      {
+        "id": "8745f938db",
+        "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
+        "summary": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Niño could",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 22:56:20 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. T",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "19d75d32eb",
+        "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
+        "summary": "Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved asset quality. Its gross NPA ratio improved to 1.9% from 3.5% a year earlier, sig",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:38:45 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved a",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "635d5016b3",
+        "title": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
+        "summary": "Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore, helped by strong income growth, higher loan disbursements and lower loan losses. The company’s board approved a proposal to raise up to Rs 5,000 crore through a qualified inst",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:34:42 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 7
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore, helped by strong income growth, higher loan disbursements and lower loan losses. The company’s",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "1f2653dd8f",
+        "title": "Weak returns at home fuel India's overseas retail investing boom",
+        "summary": "Indian retail investors are increasingly venturing into global markets, significantly boosting their overseas investments. In response, domestic asset managers are introducing new funds to meet the rising demand for international exposure. With the Reserve Bank of India's limits ",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:03:19 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Indian retail investors are increasingly venturing into global markets, significantly boosting their overseas investments. In response, domestic asset managers are introducing new funds to meet the ri",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "cc0a914545",
+        "title": "Q2 Results Highlights: Hero MotoCorp Results Meet Estimates, Bandhan Bank Net Profit Jumps Multifold",
+        "summary": "Q2 Results Live Market Blog",
+        "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hul-vedanta-tvs-motor-jsw-energy-among-120-companies-to-announce-earnings-today-12246315#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hul-vedanta-tvs-motor-jsw-energy-among-120-companies-to-announce-earnings-today-12246315#publisher=newsstand"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:01:07 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Q2 Results Live Market Blog",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      }
+    ],
+    "Cars & Vehicles": [
+      {
+        "id": "01327f6f95",
+        "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
+        "summary": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international expansion strengthened growth prospects.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:31:33 +0530",
+        "sector": "Cars & Vehicles",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 4
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for cars & vehicles — sentiment turned more positive. Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international ex",
+        "means_for_you": [
+          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
+        ],
+        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
+        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+      },
+      {
+        "id": "c208d1e09b",
+        "title": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
+        "summary": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alongside international expansion and investments.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 20:38:33 +0530",
+        "sector": "Cars & Vehicles",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for cars & vehicles — sentiment turned more positive. Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alon",
+        "means_for_you": [
+          "Keep an eye on Maruti Suzuki, Tata Motors, M&M, Bajaj Auto — sentiment here is currently supportive."
+        ],
+        "why_matters": "Auto sales are a live read on consumer demand — rural monsoon strength, urban spend, and financing costs all show up here first.",
+        "watch": "Maruti Suzuki, Tata Motors, M&M, Bajaj Auto"
+      }
+    ],
+    "Energy & Oil": [
+      {
+        "id": "e10580810a",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "summary": "Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late recovery.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:08:47 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late re",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "91860018ac",
+        "title": "Canadian Oil Discount Exceeds $30 Amid Gulf Coast Pressures",
+        "summary": "Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years.",
+        "link": "https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html"
+          }
+        ],
+        "published": "Thu, 29 Oct 2026 01:32:28 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years.",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "1cb6f5fc64",
+        "title": "US Fed meeting outcome news: FOMC decides no rate hike - Details",
+        "summary": "The Federal Reserve’s September rate decision came as inflation climbed amid rising crude oil prices and ahead of midterm elections focused on affordability.",
+        "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-news-fomc-decides-no-rate-hike-details-11793209848405.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-news-fomc-decides-no-rate-hike-details-11793209848405.html"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 23:35:30 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for energy & oil right now. The Federal Reserve’s September rate decision came as inflation climbed amid rising crude oil prices and ahead of midterm elections focused on affordability.",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      }
+    ],
+    "Real Estate/Housing": [
+      {
+        "id": "b93810c805",
+        "title": "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
+        "summary": "Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home' scheme have analysts worried that it won’t receive long-term financial support",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms"
+          }
+        ],
+        "published": "Wed, 28 Oct 2026 21:06:36 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for real estate/housing — sentiment turned more negative. Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home",
+        "means_for_you": [
+          "Realty Index, DLF, cement and construction names may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "265bd79a69",
+        "title": "WeWork Global in talks to sell entire 27% stake in WeWork India",
+        "summary": "Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "link": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 13:38:59 +0530",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Bengaluru-based real estate firm Embassy Group, which holds the remaining 73 per cent stake in WeWork India, might also dilute some shareholdings to raise funds, they added.",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      }
+    ],
     "Medicine & Pharma": [
       {
         "id": "ab27947021",
@@ -4245,63 +4272,36 @@
         ],
         "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
-      {
-        "id": "cd21b0e2a5",
-        "title": "How Vodafone Idea Shares Sparked Sulaiman Merchant's Investment Journey",
-        "summary": "Speaking at the NDTV Profit IGNITE 2026, Merchant said that his foray into stock market began while discussing investment opportunities with his brother-in-law, when they came across Vodafone Idea ahead of a Supreme Court hearing.",
-        "link": "https://www.ndtvprofit.com/markets/how-vodafone-idea-shares-sparked-sulaiman-merchants-investment-journey-12250568#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/how-vodafone-idea-shares-sparked-sulaiman-merchants-investment-journey-12250568#publisher=newsstand"
-          }
-        ],
-        "published": "Wed, 28 Oct 2026 22:45:14 +0530",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for telecom right now. Speaking at the NDTV Profit IGNITE 2026, Merchant said that his foray into stock market began while discussing investment opportunities with his brother-in-law, when they came across Vodafone Idea ahe",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       }
     ]
   },
   "ai_in_finance": [
     {
-      "id": "3ee0c57514",
-      "title": "US stocks today: US stocks turn choppy as megacaps offset chip gains before Fed meet",
-      "summary": "In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced declines. Investors eye the Federal Reserve's imminent interest rate decision and imp",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
+      "id": "1c3cb456d8",
+      "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+      "summary": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
       "source": "Economic Times Markets",
       "sources": [
         {
           "name": "Economic Times Markets",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms"
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms"
         }
       ],
-      "published": "Wed, 28 Oct 2026 19:09:22 +0530",
-      "sector": "Real Estate/Housing",
+      "published": "Thu, 29 Oct 2026 01:18:14 +0530",
+      "sector": "General Markets",
       "sentiment": {
-        "label": "Bullish",
-        "score": 1
+        "label": "Neutral",
+        "score": 0
       },
       "is_ai_related": true,
       "page": "stock_market",
-      "in_simple_words": "This is good news for real estate/housing — sentiment turned more positive. In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced decli",
+      "in_simple_words": "Not a big mover either way for general markets right now. Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
       "means_for_you": [
-        "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
-      "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
-      "watch": "Realty Index, DLF, cement and construction names"
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
     },
     {
       "id": "21b36fc865",
@@ -4331,33 +4331,6 @@
       "watch": "Nifty 50, Sensex"
     },
     {
-      "id": "bda50f10c9",
-      "title": "IndiaMART management expects profitable growth despite macro headwinds; AI could drive the next phase",
-      "summary": "IndiaMART CEO Dinesh Agarwal expects profitable growth despite stagnant subscriber volumes, citing an 8% rise in value per subscriber, technology investment, customer acquisition and category-based pricing. AI presents opportunities to improve efficiency as well as challenges to ",
-      "link": "https://www.livemint.com/market/stock-market-news/indiamart-management-expects-profitable-growth-despite-macro-headwinds-ai-could-drive-the-next-phase-11793190981255.html",
-      "source": "LiveMint Markets",
-      "sources": [
-        {
-          "name": "LiveMint Markets",
-          "url": "https://www.livemint.com/market/stock-market-news/indiamart-management-expects-profitable-growth-despite-macro-headwinds-ai-could-drive-the-next-phase-11793190981255.html"
-        }
-      ],
-      "published": "Wed, 28 Oct 2026 18:23:43 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Bullish",
-        "score": 3
-      },
-      "is_ai_related": true,
-      "page": "pe_ib",
-      "in_simple_words": "This is good news for general markets — sentiment turned more positive. IndiaMART CEO Dinesh Agarwal expects profitable growth despite stagnant subscriber volumes, citing an 8% rise in value per subscriber, technology investment, customer acquisition and category-based pr",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
       "id": "1782e1dedb",
       "title": "Why better data could be the key to AI-driven food R&D",
       "summary": "As food companies navigate increasingly complex product development and safety requirements, connected data and generative AI could help scientists make better-informed decisions, reduce manual work and identify potential risks earlier.",
@@ -4378,33 +4351,6 @@
       "is_ai_related": true,
       "page": "startups",
       "in_simple_words": "Not a big mover either way for general markets right now. As food companies navigate increasingly complex product development and safety requirements, connected data and generative AI could help scientists make better-informed decisions, reduce manual work a",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "ff903a7c2f",
-      "title": "Why women should build their front row; AI automation and its impact on jobs",
-      "summary": "Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having people who cheer you.",
-      "link": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
-      "source": "YourStory",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs"
-        }
-      ],
-      "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "startups",
-      "in_simple_words": "Not a big mover either way for general markets right now. Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4459,6 +4405,33 @@
       "is_ai_related": true,
       "page": "startups",
       "in_simple_words": "Not a big mover either way for general markets right now. What if AI could do more than answer the phone? At TechSparks 2026, Google Cloud’s Naren Kachroo showed Gemini voice AI handling bookings, sales negotiations and multilingual conversations.",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "ff903a7c2f",
+      "title": "Why women should build their front row; AI automation and its impact on jobs",
+      "summary": "Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having people who cheer you.",
+      "link": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs"
+        }
+      ],
+      "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "in_simple_words": "Not a big mover either way for general markets right now. Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4571,8 +4544,8 @@
       "headline": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
       "why": [
         "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
-        "Ramky Infrastructure shares surge over 17% to  ₹300 despite a 46% yearly fall; what explains the sharp rebound?",
-        "Satin Creditcare Q2 profit surges over three-fold as asset quality improves"
+        "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
+        "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge"
       ],
       "numbers": "NIFTY -0.24%",
       "analysis": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
@@ -4889,7 +4862,7 @@
       },
       {
         "date": "2026-10-25",
-        "close": 2496.9
+        "close": 2460.0
       },
       {
         "date": "2026-10-28",
