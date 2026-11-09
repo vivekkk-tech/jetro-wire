@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-08T21:53:32.913684+00:00",
-  "edition_date": "Sunday, November 08, 2026",
+  "generated_at_utc": "2026-11-09T01:33:49.489943+00:00",
+  "edition_date": "Monday, November 09, 2026",
   "sector_performance": {
     "Banks & Money": {
       "pct": 1.86,
@@ -28,49 +28,77 @@
     }
   },
   "biggest_story": {
-    "sector": "General Markets",
-    "title": "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
+    "sector": "Banks & Money",
+    "title": "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
     "sources": [
       {
-        "name": "LiveMint Markets",
-        "url": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html"
+        "name": "Economic Times Markets",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms"
       }
     ],
-    "what_happened": "Tata Teleservices (Maharashtra) shares rose over 6% during Muhurat Trading, extending a four-session rally to more than 23%. The gain came despite a  ₹25,000 DoT penalty. Q2 FY27 net loss narrowed to  ₹59 crore as revenue increased 8.4% year on year.",
-    "why_it_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+    "what_happened": "Bank of England chief economist Huw Pill indicated that interest rates could remain steady or decline if economic growth stalls. Recent financial market predictions suggest potential for at least two interest rate increases within the next year. Economic growth has shown surprisi",
+    "why_it_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
     "means_for_you": [
-      "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
     ],
-    "link": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html"
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms"
   },
   "pages": {
     "stock_market": [
       {
-        "id": "df2afbb2b5",
-        "title": "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
-        "summary": "HDFC Bank shares fell 0.32% to  ₹784.50 during Diwali Muhurat trading on November 8, reversing an early gain as the Nifty Bank index slipped 0.27%. The stock had risen 13.32% in the past week but remained down 20.82% in 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
-        "source": "LiveMint Markets",
+        "id": "f5cc066f07",
+        "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+        "summary": "Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, even as both countries reported that shipping had been hit in or near the Strait of",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms"
           }
         ],
-        "published": "Sun, 08 Nov 2026 15:32:48 +0530",
-        "sector": "Banks & Money",
+        "published": "Mon, 09 Nov 2026 06:38:45 +0530",
+        "sector": "Energy & Oil",
         "sentiment": {
-          "label": "Bullish",
-          "score": 3
+          "label": "Bearish",
+          "score": -2
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. HDFC Bank shares fell 0.32% to  ₹784.50 during Diwali Muhurat trading on November 8, reversing an early gain as the Nifty Bank index slipped 0.27%. The stock had risen 13.32% in the past week but rema",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, even as both countries report",
         "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "bae717cd95",
+        "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
+        "summary": "Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial intelligence industry eased. The MSCI Asia Pacific Index of equities gained 0.5%.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:26:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial i",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "6eaba3ee62",
@@ -265,6 +293,33 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "3650961464",
+        "title": "Exide beats Amara in Q2, but returns from lithium-ion investments will decide the winner",
+        "summary": "Strong demand and price hikes drove Exide’s 54% profit surge while high input costs dragged Amara Raja down, even as both invest heavily into an uncertain lithium transition.",
+        "link": "https://www.livemint.com/market/mark-to-market/exide-beats-amara-in-q2-but-returns-from-li-ion-investments-will-decide-winner-11793950879635.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/mark-to-market/exide-beats-amara-in-q2-but-returns-from-li-ion-investments-will-decide-winner-11793950879635.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:42 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Strong demand and price hikes drove Exide’s 54% profit surge while high input costs dragged Amara Raja down, even as both invest heavily into an uncertain lithium transition.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "16d32027c8",
         "title": "Global AI sell-off turns into India's gain as FPIs pump  ₹46,000 crore in 5 sessions; will the buying spree sustain?",
         "summary": "Foreign investors poured  ₹45,970 crore into Indian equities in November, helping the Nifty 50 post its strongest weekly gain since February 2021 and lifting the rupee. Lower oil prices, resilient earnings and a retreat from AI-linked stocks helped make India more attractive.",
@@ -292,31 +347,31 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "6b83902cee",
-        "title": "Why Safe Enterprises shares bleeding on Diwali Muhurat trading 2026 session despite Nifty, Sensex in green? Key reasons",
-        "summary": "Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in H1 FY27 net profit to  ₹21.75 crore. Revenue also dropped to  ₹77.87 crore from  ₹112.37 crore a year earlier.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
-        "source": "LiveMint Markets",
+        "id": "b36c6dbec0",
+        "title": "Gold edges up as softer crude tempers inflation concerns",
+        "summary": "Gold prices edged higher on Monday as softer oil prices eased inflation concerns, though gains were capped by expectations that the Federal Reserve will keep US interest rates higher",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+        "source": "Economic Times Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html"
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms"
           }
         ],
-        "published": "Sun, 08 Nov 2026 14:54:44 +0530",
-        "sector": "Global & Macro",
+        "published": "Mon, 09 Nov 2026 06:31:40 +0530",
+        "sector": "Energy & Oil",
         "sentiment": {
           "label": "Bullish",
-          "score": 2
+          "score": 1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in H1 FY27 net profit to  ₹21.75 crore. Revenue also dropp",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Gold prices edged higher on Monday as softer oil prices eased inflation concerns, though gains were capped by expectations that the Federal Reserve will keep US interest rates higher",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
       },
       {
         "id": "58d76458ec",
@@ -590,56 +645,29 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "9f9c1e6e24",
-        "title": "Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons",
-        "summary": "Indian markets opened lower in Samvat 2083, with the Sensex and Nifty posting their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows, a weaker rupee and higher US bond yields weighed on equities.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
-        "source": "LiveMint Markets",
+        "id": "2e44d5f0c7",
+        "title": "Delhi Chokes On Toxic Air After Diwali, AQI Hits Hazardous Levels; Visibility Drops",
+        "summary": "Delhi Air Quality Turns Hazardous On Diwali Night Amid Firecracker Smoke",
+        "link": "https://www.ndtvprofit.com/india/delhi-chokes-on-toxic-air-after-diwali-aqi-hits-hazardous-levels-visibility-drops-12301474#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/delhi-chokes-on-toxic-air-after-diwali-aqi-hits-hazardous-levels-visibility-drops-12301474#publisher=newsstand"
           }
         ],
-        "published": "Sun, 08 Nov 2026 15:53:22 +0530",
-        "sector": "Global & Macro",
+        "published": "Mon, 09 Nov 2026 06:21:39 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
           "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian markets opened lower in Samvat 2083, with the Sensex and Nifty posting their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows,",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Delhi Air Quality Turns Hazardous On Diwali Night Amid Firecracker Smoke",
         "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "688fd97dd5",
-        "title": "On Muhurat Trading 2026 Diwali, Zee Entertainment shares in rocket mode; 11% jump on buyback, interim dividend news",
-        "summary": "Zee Entertainment shares rose as much as 11.1% during Muhurat trading after the company announced its board would meet on November 12 to discuss investor concerns and consider a share buyback, interim dividend or other measures. No decision has been made.",
-        "link": "https://www.livemint.com/market/stock-market-news/on-muhurat-trading-2026-diwali-zee-entertainment-shares-in-rocket-mode-11-jump-on-buyback-interim-dividend-news-11794129729751.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/on-muhurat-trading-2026-diwali-zee-entertainment-shares-in-rocket-mode-11-jump-on-buyback-interim-dividend-news-11794129729751.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 14:59:55 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Zee Entertainment shares rose as much as 11.1% during Muhurat trading after the company announced its board would meet on November 12 to discuss investor concerns and consider a share buyback, interim",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -668,33 +696,6 @@
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "055071d105",
-        "title": "Inter Milan vs Como 1907 Live Streaming: When And Where To Watch Serie A Match Live In India",
-        "summary": "With both sides enjoying strong league campaigns, Sunday's clash at the Stadio Giuseppe Meazza promises to be a crucial test for Inter and Como.",
-        "link": "https://www.ndtvprofit.com/sports/inter-milan-vs-como-1907-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12295126#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/inter-milan-vs-como-1907-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12295126#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:30:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. With both sides enjoying strong league campaigns, Sunday's clash at the Stadio Giuseppe Meazza promises to be a crucial test for Inter and Como.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -833,114 +834,6 @@
         ],
         "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
-      },
-      {
-        "id": "3dcadea4b9",
-        "title": "RIL Share Price Highlights: RIL Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 09:15:07 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "33a82099b3",
-        "title": "SBI Life Share Price Highlights: SBI Life Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 09:00:05 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "a85b9450bd",
-        "title": "Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 08:40:33 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for it & software right now.",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
-      {
-        "id": "c8e7922393",
-        "title": "BPCL Share Price Highlights: BPCL Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-08-nov-2026/liveblog/135650158.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-08-nov-2026/liveblog/135650158.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 08:40:18 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "806bc030a2",
@@ -1240,6 +1133,141 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "7e270bc75e",
+        "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+        "summary": "Stock market prediction for Monday, 9 November, 2026: Gift Nifty was trading around the 25,018 level, up nearly 38 points or 0.15% from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-9-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794185270930.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-9-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794185270930.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:57:55 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Stock market prediction for Monday, 9 November, 2026: Gift Nifty was trading around the 25,018 level, up nearly 38 points or 0.15% from the Nifty futures’ previous close, indicating a positive start f",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "ec72ae0335",
+        "title": "ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "summary": "METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "link": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:31:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1d86bbaedb",
+        "title": "Raja Venkatraman recommends three stocks for 9 November",
+        "summary": "Market expert Raja Venkatraman shares his top stock picks for 9 November. Here’s his technical outlook and trade strategy.",
+        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-9-november-11794120387585.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-9-november-11794120387585.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:25 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Market expert Raja Venkatraman shares his top stock picks for 9 November. Here’s his technical outlook and trade strategy.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d38601f97c",
+        "title": "Stock recommendations for 9 November from MarketSmith India",
+        "summary": "MarketSmith India reveals its top stock recommendations for today, 9 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-9-november-from-marketsmith-india-11794118223879.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-9-november-from-marketsmith-india-11794118223879.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:22 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. MarketSmith India reveals its top stock recommendations for today, 9 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "a7a121eb26",
+        "title": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+        "summary": "Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately highlight potential risks.",
+        "link": "https://www.livemint.com/market/australia-regulator-halts-private-credit-fund-on-bathla-risks-11794181597166.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australia-regulator-halts-private-credit-fund-on-bathla-risks-11794181597166.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:16:36 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "7b0c5b6d19",
         "title": "Dividend alert: MRF, Cochin Shipyard, Talbros and others may reward shareholders this week - Check key dates, returns",
         "summary": "MRF, Cochin Shipyard, Nile Limited, Talbros Automotive Components and EAAA India are scheduled to report Q2 FY27 results next week and may announce dividends.&amp;nbsp;",
@@ -1348,18 +1376,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "3205044202",
-        "title": "EU Close to Deal to Link UK Carbon Market After Brexit Split",
-        "summary": "The European Union and the UK are in the final stages of a deal to link their emissions markets, a move that would boost liquidity and eventually save companies millions of euros in carbon border taxes.",
-        "link": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html",
-        "source": "LiveMint Markets",
+        "id": "0dbc39b0c4",
+        "title": "'I Was Unfaithful To My Wife': Jensen Huang Admits Affair As Nvidia Board Opens Probe",
+        "summary": "Jensen Huang",
+        "link": "https://www.ndtvprofit.com/markets/i-was-unfaithful-to-my-wife-jensen-huang-admits-affair-as-nvidia-board-opens-probe-chinese-spy-12301392#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/i-was-unfaithful-to-my-wife-jensen-huang-admits-affair-as-nvidia-board-opens-probe-chinese-spy-12301392#publisher=newsstand"
           }
         ],
-        "published": "Sun, 08 Nov 2026 15:16:28 +0530",
+        "published": "Mon, 09 Nov 2026 06:13:54 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1367,7 +1395,169 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The European Union and the UK are in the final stages of a deal to link their emissions markets, a move that would boost liquidity and eventually save companies millions of euros in carbon border taxe",
+        "in_simple_words": "Not a big mover either way for general markets right now. Jensen Huang",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f49e237d6b",
+        "title": "When Is Gujarati New Year 2026? Check Date, Significance, Tithi And More",
+        "summary": "Gujarati New Year will be celebrated on November 10.",
+        "link": "https://www.ndtvprofit.com/trending/when-is-gujarati-new-year-2026-check-date-significance-tithi-and-more-12292713#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/trending/when-is-gujarati-new-year-2026-check-date-significance-tithi-and-more-12292713#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:02:02 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gujarati New Year will be celebrated on November 10.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c7c50fd951",
+        "title": "Bali Pratipada 2026: Date, Significance And Rituals",
+        "summary": "Bali Pratipada 2026: Know the date, significance and traditional rituals of the festival.",
+        "link": "https://www.ndtvprofit.com/trending/bali-pratipada-2026-date-significance-and-rituals-12294422#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/trending/bali-pratipada-2026-date-significance-and-rituals-12294422#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Bali Pratipada 2026: Know the date, significance and traditional rituals of the festival.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b8a1a47bcc",
+        "title": "Bank Holiday Today: Are Banks Open Or Closed On Monday, November 9? Check State-Wise Bank Holiday Status",
+        "summary": "Banks in Maharashtra will be open on Monday, Nov. 9.",
+        "link": "https://www.ndtvprofit.com/india/bank-holiday-today-are-banks-open-or-closed-on-monday-november-9-check-state-wise-bank-holiday-status-12299374#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/bank-holiday-today-are-banks-open-or-closed-on-monday-november-9-check-state-wise-bank-holiday-status-12299374#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:01 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Banks in Maharashtra will be open on Monday, Nov. 9.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "e88d686d53",
+        "title": "Ramayana Box Office Collection Day 5: Rs 500 Crore Within Reach. Why All Eyes Are on Monday",
+        "summary": "Ramayana's big test",
+        "link": "https://www.ndtvprofit.com/business/ramayana-box-office-collection-day-5-rs-500-crore-within-reach-why-all-eyes-are-on-monday-12301444#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/ramayana-box-office-collection-day-5-rs-500-crore-within-reach-why-all-eyes-are-on-monday-12301444#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:53:34 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Ramayana's big test",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "45c9cfea2c",
+        "title": "Who Is Alice Huang? The Woman Linked to Nvidia CEO Jensen Huang's Affair and a $4.8 Billion Chip Mystery",
+        "summary": "Alice Huang with Nvidia CEO",
+        "link": "https://www.ndtvprofit.com/business/who-is-alice-huang-the-woman-linked-to-nvidia-ceo-jensen-huangs-affair-and-a-4-8-billion-chip-mystery-12301418#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/who-is-alice-huang-the-woman-linked-to-nvidia-ceo-jensen-huangs-affair-and-a-4-8-billion-chip-mystery-12301418#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:18:27 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Alice Huang with Nvidia CEO",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e8af7c8a56",
+        "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 9",
+        "summary": "",
+        "link": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-9-12300857#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-9-12300857#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:00:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1535,197 +1725,35 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "edc3e0872b",
-        "title": "AI Spending Boom Nears Peak? Jefferies Flags Risks To Big Tech's $1 Trillion Capex",
-        "summary": "Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-        "link": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 20:45:43 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "46000fe218",
-        "title": "Ramayana Box Office Collection Day 4: Nitesh Tiwari Film Crosses Rs 200 Crore In India",
-        "summary": "Yash in a poster of Ramayana.",
-        "link": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:41:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Yash in a poster of Ramayana.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "af1dff9ba0",
-        "title": "F1 Brazilian GP Final Race Live Streaming: When And Where To Watch In India",
-        "summary": "Newly crowned world champion Kimi Antonelli will look to add another victory to his tally as Formula 1 heads to Interlagos for the So Paulo Grand Prix.",
-        "link": "https://www.ndtvprofit.com/sports/f1-brazilian-gp-final-race-live-streaming-when-and-where-to-watch-in-india-12297472#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/f1-brazilian-gp-final-race-live-streaming-when-and-where-to-watch-in-india-12297472#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:30:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Newly crowned world champion Kimi Antonelli will look to add another victory to his tally as Formula 1 heads to Interlagos for the So Paulo Grand Prix.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "3962407b70",
-        "title": "Temple Not Made For India, But For World: Deepinder Goyal Expects Just 1% Sales From India",
-        "summary": "Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-        "link": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:14:32 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "45e74c41a8",
-        "title": "'Our Brightest Diwali Yet': Katrina Kaif And Vicky Kaushal Reveal Son Vihaan's Face In Diwali Celebration Post",
-        "summary": "The couple announced the arrival of their son on November 7, 2025, through an Instagram post.",
-        "link": "https://www.ndtvprofit.com/entertainment/our-brightest-diwali-yet-katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-in-diwali-celebration-post-12300434#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/our-brightest-diwali-yet-katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-in-diwali-celebration-post-12300434#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 18:38:47 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The couple announced the arrival of their son on November 7, 2025, through an Instagram post.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "4691ef825b",
-        "title": "Anthropic Buys Power For AI Data Centres In $3.4 Billion Deal: Report",
-        "summary": "The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
-        "link": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 18:03:26 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "startups": [
       {
-        "id": "52bb8329db",
-        "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
-        "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an afterthought.",
-        "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
+        "id": "fe656c1390",
+        "title": "Why operational excellence will define the next phase of India’s startup growth",
+        "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance are essential to building scalable businesses.",
+        "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable"
+            "url": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth"
           }
         ],
-        "published": "Fri, 06 Nov 2026 07:41:01 GMT",
-        "sector": "Telecom",
+        "published": "Fri, 06 Nov 2026 02:30:00 GMT",
+        "sector": "General Markets",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bullish",
+          "score": 3
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for telecom right now. In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance a",
         "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "69165b8c52",
@@ -1755,31 +1783,31 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "fe656c1390",
-        "title": "Why operational excellence will define the next phase of India’s startup growth",
-        "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance are essential to building scalable businesses.",
-        "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+        "id": "52bb8329db",
+        "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
+        "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an afterthought.",
+        "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth"
+            "url": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable"
           }
         ],
-        "published": "Fri, 06 Nov 2026 02:30:00 GMT",
-        "sector": "General Markets",
+        "published": "Fri, 06 Nov 2026 07:41:01 GMT",
+        "sector": "Telecom",
         "sentiment": {
-          "label": "Bullish",
-          "score": 3
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance a",
+        "in_simple_words": "Not a big mover either way for telecom right now. In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
+        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       },
       {
         "id": "006a45b724",
@@ -1802,6 +1830,33 @@
         "is_ai_related": true,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. At TechSparks 2026, VeloDB’s Regional Director for APAC explained why AI agents that work in pilots struggle in production, and why the fix often lies in the database underneath them.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "380afb7cda",
+        "title": "Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision",
+        "summary": "In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights.",
+        "link": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography"
+          }
+        ],
+        "published": "Sun, 08 Nov 2026 02:10:00 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1836,53 +1891,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "21ef6b3f4b",
-        "title": "Mamaearth parent Honasa's Q2 net profit rises 87%",
-        "summary": "The company reported a net profit of Rs 73.24 crore in Q2FY27. Revenue rose 36% YoY to Rs 731.18 crore.",
-        "link": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc",
+        "id": "f5140ea38d",
+        "title": "Mamaearth parent’s profit surges 87%; Goyal defends Temple amid backlash",
+        "summary": "Honasa Consumer, the parent company of Mamaearth, registered an 87% YoY rise in net profit for Q2FY27, while revenue rose 36%. In other news, Deepinder Goyal has posted a series of updates on X amid backlash from some Indian doctors who criticised his wearable device Temple.",
+        "link": "https://yourstory.com/2026/11/mamaearth-parent-profit-surges-goyal-defends-temple-amid-backlash",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc"
+            "url": "https://yourstory.com/2026/11/mamaearth-parent-profit-surges-goyal-defends-temple-amid-backlash"
           }
         ],
-        "published": "Fri, 06 Nov 2026 13:00:12 GMT",
+        "published": "Sat, 07 Nov 2026 02:00:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 3
+          "score": 2
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. The company reported a net profit of Rs 73.24 crore in Q2FY27. Revenue rose 36% YoY to Rs 731.18 crore.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "9b27d07151",
-        "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
-        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?",
-        "link": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 02:15:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Honasa Consumer, the parent company of Mamaearth, registered an 87% YoY rise in net profit for Q2FY27, while revenue rose 36%. In other news, Deepinder Goyal has posted a series of updates on X amid b",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1917,45 +1945,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "c8b9ffb947",
-        "title": "Northern Arc's diversified debt fund hits first close at over Rs 400 Cr",
-        "summary": "The 15th private credit fund from Northern Arc Investment Managers targets a Rs 1,500 crore corpus and a 16% XIRR, as its India Impact Fund matures after deploying Rs 1,398 crore.",
-        "link": "https://yourstory.com/2026/11/northern-arcs-diversified-debt-fund-hits-first-close-at-over-rs-400-crore",
+        "id": "9b27d07151",
+        "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?",
+        "link": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/northern-arcs-diversified-debt-fund-hits-first-close-at-over-rs-400-crore"
+            "url": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education"
           }
         ],
-        "published": "Fri, 06 Nov 2026 08:31:14 GMT",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for banks & money right now. The 15th private credit fund from Northern Arc Investment Managers targets a Rs 1,500 crore corpus and a 16% XIRR, as its India Impact Fund matures after deploying Rs 1,398 crore.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "380afb7cda",
-        "title": "Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision",
-        "summary": "In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights.",
-        "link": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 02:10:00 GMT",
+        "published": "Sun, 08 Nov 2026 02:15:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1963,34 +1964,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "bbb0da7d54",
-        "title": "Deepinder Goyal hits back at doctors, defends wearable device Temple",
-        "summary": "In a post on X, Goyal said $30 million was invested in building the device, of which he put in $20 million of his personal money.",
-        "link": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple"
-          }
-        ],
-        "published": "Fri, 06 Nov 2026 07:30:46 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. In a post on X, Goyal said $30 million was invested in building the device, of which he put in $20 million of his personal money.",
+        "in_simple_words": "Not a big mover either way for general markets right now. This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2025,18 +1999,18 @@
         "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
       },
       {
-        "id": "c87351d430",
-        "title": "How a Rs 500 Cr bet put Bihar Museum ahead of the Met and Louvre",
-        "summary": "How did Bihar Museum enter the global top 10? Shradha Sharma reflects on Nitish Kumar's vision, legal challenges and the persistence behind its success",
-        "link": "https://yourstory.com/2026/11/bihar-museum-ahead-met-louvre",
+        "id": "fe57c57eb0",
+        "title": "Angel One becomes India's second-largest broker by active clients",
+        "summary": "The active client base of Angel One for October was 69.98 lakh which was an addition of 2.43 lakh for the month.  Zerodha now is in the third spot.",
+        "link": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/bihar-museum-ahead-met-louvre"
+            "url": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients"
           }
         ],
-        "published": "Fri, 06 Nov 2026 11:30:58 GMT",
+        "published": "Sun, 08 Nov 2026 13:06:32 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -2044,34 +2018,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. How did Bihar Museum enter the global top 10? Shradha Sharma reflects on Nitish Kumar's vision, legal challenges and the persistence behind its success",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "024534f027",
-        "title": "MakeMyTrip enters shared mobility space with majority stake in Quick Ride",
-        "summary": "MakeMyTrip has acquired the Quick Ride brand and its ride pooling business with a majority stake in this entity.",
-        "link": "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride"
-          }
-        ],
-        "published": "Fri, 06 Nov 2026 10:43:28 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. MakeMyTrip has acquired the Quick Ride brand and its ride pooling business with a majority stake in this entity.",
+        "in_simple_words": "Not a big mover either way for general markets right now. The active client base of Angel One for October was 69.98 lakh which was an addition of 2.43 lakh for the month.  Zerodha now is in the third spot.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2099,6 +2046,114 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for general markets right now. The government also launched the Semicon 2.0 web application portal under the ambitious Semicon India Programme.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c87351d430",
+        "title": "How a Rs 500 Cr bet put Bihar Museum ahead of the Met and Louvre",
+        "summary": "How did Bihar Museum enter the global top 10? Shradha Sharma reflects on Nitish Kumar's vision, legal challenges and the persistence behind its success",
+        "link": "https://yourstory.com/2026/11/bihar-museum-ahead-met-louvre",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/bihar-museum-ahead-met-louvre"
+          }
+        ],
+        "published": "Fri, 06 Nov 2026 11:30:58 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. How did Bihar Museum enter the global top 10? Shradha Sharma reflects on Nitish Kumar's vision, legal challenges and the persistence behind its success",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ddea987b2c",
+        "title": "Startup news and updates: Daily roundup (November 6, 2026)",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 06, 2026.",
+        "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-6-2026",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-6-2026"
+          }
+        ],
+        "published": "Fri, 06 Nov 2026 09:33:12 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 06, 2026.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "bbb0da7d54",
+        "title": "Deepinder Goyal hits back at doctors, defends wearable device Temple",
+        "summary": "In a post on X, Goyal said $30 million was invested in building the device, of which he put in $20 million of his personal money.",
+        "link": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple"
+          }
+        ],
+        "published": "Fri, 06 Nov 2026 07:30:46 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. In a post on X, Goyal said $30 million was invested in building the device, of which he put in $20 million of his personal money.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "fad8a94c77",
+        "title": "Profits Are Just Half The Story This Earnings Season",
+        "summary": "The 2026 festive season began in muted fashion, but the performance of some of the key new-age tech stocks in&#8230;",
+        "link": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 00:30:35 +0000",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The 2026 festive season began in muted fashion, but the performance of some of the key new-age tech stocks in&#8230;",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -2483,33 +2538,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "58b23f1640",
-        "title": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
-        "summary": "The Telecom Regulatory Authority of India (TRAI) has recommended a separate authorisation for satellite network providers and proposed permitting direct-to-device services&#8230;",
-        "link": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/"
-          }
-        ],
-        "published": "Fri, 06 Nov 2026 07:37:20 +0000",
-        "sector": "Telecom",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for telecom right now. The Telecom Regulatory Authority of India (TRAI) has recommended a separate authorisation for satellite network providers and proposed permitting direct-to-device services&#8230;",
-        "means_for_you": [
-          "Keep an eye on Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea — sentiment here is currently supportive."
-        ],
-        "why_matters": "Effectively a 2-3 stock story in India — tariff hikes or subscriber data move these names directly.",
-        "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       }
     ],
     "pe_ib": [
@@ -2539,38 +2567,66 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "368329256b",
-        "title": "Wall Street Races For Megadeals As Countdown Begins On Trump Era",
-        "summary": "The rout by the Democrats in the midterms is creating a sudden sense of urgency in boardrooms, with executives wondering if they might have one last chance to pull off a transformational transaction while M&amp;A-friendly regulators remain in place under Trump.",
-        "link": "https://www.ndtvprofit.com/business/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era-12300657#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era-12300657#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 20:07:22 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for general markets right now. The rout by the Democrats in the midterms is creating a sudden sense of urgency in boardrooms, with executives wondering if they might have one last chance to pull off a transformational transaction w",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
   "sectors": {
     "Energy & Oil": [
+      {
+        "id": "f5cc066f07",
+        "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+        "summary": "Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, even as both countries reported that shipping had been hit in or near the Strait of",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:38:45 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for energy & oil — sentiment turned more negative. Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, even as both countries report",
+        "means_for_you": [
+          "Reliance Industries, ONGC, oil marketing companies may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
+      {
+        "id": "b36c6dbec0",
+        "title": "Gold edges up as softer crude tempers inflation concerns",
+        "summary": "Gold prices edged higher on Monday as softer oil prices eased inflation concerns, though gains were capped by expectations that the Federal Reserve will keep US interest rates higher",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:31:40 +0530",
+        "sector": "Energy & Oil",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Gold prices edged higher on Monday as softer oil prices eased inflation concerns, though gains were capped by expectations that the Federal Reserve will keep US interest rates higher",
+        "means_for_you": [
+          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
+        ],
+        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
+        "watch": "Reliance Industries, ONGC, oil marketing companies"
+      },
       {
         "id": "58d76458ec",
         "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
@@ -2599,7 +2655,254 @@
         "watch": "Reliance Industries, ONGC, oil marketing companies"
       }
     ],
+    "Banks & Money": [
+      {
+        "id": "ab4d2a286f",
+        "title": "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
+        "summary": "Bank of England chief economist Huw Pill indicated that interest rates could remain steady or decline if economic growth stalls. Recent financial market predictions suggest potential for at least two interest rate increases within the next year. Economic growth has shown surprisi",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:36:09 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Bank of England chief economist Huw Pill indicated that interest rates could remain steady or decline if economic growth stalls. Recent financial market predictions suggest potential for at least two",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "2f554f4f77",
+        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f5e03c6451",
+        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
+        "summary": "Net premium income rose to Rs 14,788 crore",
+        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "47b61ce2c0",
+        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
+        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
+        "source": "Moneycontrol Business",
+        "sources": [
+          {
+            "name": "Moneycontrol Business",
+            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
+          }
+        ],
+        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "a7a121eb26",
+        "title": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+        "summary": "Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately highlight potential risks.",
+        "link": "https://www.livemint.com/market/australia-regulator-halts-private-credit-fund-on-bathla-risks-11794181597166.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/australia-regulator-halts-private-credit-fund-on-bathla-risks-11794181597166.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:16:36 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "2c694137c0",
+        "title": "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
+        "summary": "Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083, including large-, mid-, and emerging companies across a range of sectors. The market outlook favors earnings growth over valuation expansion.",
+        "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html"
+          }
+        ],
+        "published": "Sun, 08 Nov 2026 20:01:06 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083, including large-, mid-, and emerging companies across a range of sectors. The market outlook favors earnings growth over",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "665dcf3ca7",
+        "title": "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
+        "summary": "Top 5 stocks to buy in Nov 2026: Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach amid continuous rally on Dalal Street",
+        "link": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html"
+          }
+        ],
+        "published": "Sun, 08 Nov 2026 19:00:25 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Top 5 stocks to buy in Nov 2026: Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach amid continuous rally on Dalal Street",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "b8a1a47bcc",
+        "title": "Bank Holiday Today: Are Banks Open Or Closed On Monday, November 9? Check State-Wise Bank Holiday Status",
+        "summary": "Banks in Maharashtra will be open on Monday, Nov. 9.",
+        "link": "https://www.ndtvprofit.com/india/bank-holiday-today-are-banks-open-or-closed-on-monday-november-9-check-state-wise-bank-holiday-status-12299374#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/bank-holiday-today-are-banks-open-or-closed-on-monday-november-9-check-state-wise-bank-holiday-status-12299374#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:01 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Banks in Maharashtra will be open on Monday, Nov. 9.",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      }
+    ],
     "General Markets": [
+      {
+        "id": "bae717cd95",
+        "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
+        "summary": "Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial intelligence industry eased. The MSCI Asia Pacific Index of equities gained 0.5%.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:26:21 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial i",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
       {
         "id": "6eaba3ee62",
         "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
@@ -2640,60 +2943,6 @@
           }
         ],
         "published": "Sun, 08 Nov 2026 10:02:42 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "3dcadea4b9",
-        "title": "RIL Share Price Highlights: RIL Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 09:15:07 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c8e7922393",
-        "title": "BPCL Share Price Highlights: BPCL Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-08-nov-2026/liveblog/135650158.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-08-nov-2026/liveblog/135650158.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 08:40:18 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3008,6 +3257,114 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "ec72ae0335",
+        "title": "ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "summary": "METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "link": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:31:48 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "3650961464",
+        "title": "Exide beats Amara in Q2, but returns from lithium-ion investments will decide the winner",
+        "summary": "Strong demand and price hikes drove Exide’s 54% profit surge while high input costs dragged Amara Raja down, even as both invest heavily into an uncertain lithium transition.",
+        "link": "https://www.livemint.com/market/mark-to-market/exide-beats-amara-in-q2-but-returns-from-li-ion-investments-will-decide-winner-11793950879635.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/mark-to-market/exide-beats-amara-in-q2-but-returns-from-li-ion-investments-will-decide-winner-11793950879635.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:42 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bullish",
+          "score": 2
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Strong demand and price hikes drove Exide’s 54% profit surge while high input costs dragged Amara Raja down, even as both invest heavily into an uncertain lithium transition.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "1d86bbaedb",
+        "title": "Raja Venkatraman recommends three stocks for 9 November",
+        "summary": "Market expert Raja Venkatraman shares his top stock picks for 9 November. Here’s his technical outlook and trade strategy.",
+        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-9-november-11794120387585.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-9-november-11794120387585.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:25 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Market expert Raja Venkatraman shares his top stock picks for 9 November. Here’s his technical outlook and trade strategy.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d38601f97c",
+        "title": "Stock recommendations for 9 November from MarketSmith India",
+        "summary": "MarketSmith India reveals its top stock recommendations for today, 9 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-9-november-from-marketsmith-india-11794118223879.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-9-november-from-marketsmith-india-11794118223879.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:22 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. MarketSmith India reveals its top stock recommendations for today, 9 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "7b0c5b6d19",
         "title": "Dividend alert: MRF, Cochin Shipyard, Talbros and others may reward shareholders this week - Check key dates, returns",
         "summary": "MRF, Cochin Shipyard, Nile Limited, Talbros Automotive Components and EAAA India are scheduled to report Q2 FY27 results next week and may announce dividends.&amp;nbsp;",
@@ -3116,45 +3473,46 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "1ca56a2422",
-        "title": "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
-        "summary": "Tata Teleservices (Maharashtra) shares rose over 6% during Muhurat Trading, extending a four-session rally to more than 23%. The gain came despite a  ₹25,000 DoT penalty. Q2 FY27 net loss narrowed to  ₹59 crore as revenue increased 8.4% year on year.",
-        "link": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html",
-        "source": "LiveMint Markets",
+        "id": "2e44d5f0c7",
+        "title": "Delhi Chokes On Toxic Air After Diwali, AQI Hits Hazardous Levels; Visibility Drops",
+        "summary": "Delhi Air Quality Turns Hazardous On Diwali Night Amid Firecracker Smoke",
+        "link": "https://www.ndtvprofit.com/india/delhi-chokes-on-toxic-air-after-diwali-aqi-hits-hazardous-levels-visibility-drops-12301474#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/delhi-chokes-on-toxic-air-after-diwali-aqi-hits-hazardous-levels-visibility-drops-12301474#publisher=newsstand"
           }
         ],
-        "published": "Sun, 08 Nov 2026 15:25:07 +0530",
+        "published": "Mon, 09 Nov 2026 06:21:39 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 4
+          "label": "Bearish",
+          "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Tata Teleservices (Maharashtra) shares rose over 6% during Muhurat Trading, extending a four-session rally to more than 23%. The gain came despite a  ₹25,000 DoT penalty. Q2 FY27 net loss narrowed to",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Delhi Air Quality Turns Hazardous On Diwali Night Amid Firecracker Smoke",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "3205044202",
-        "title": "EU Close to Deal to Link UK Carbon Market After Brexit Split",
-        "summary": "The European Union and the UK are in the final stages of a deal to link their emissions markets, a move that would boost liquidity and eventually save companies millions of euros in carbon border taxes.",
-        "link": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html",
-        "source": "LiveMint Markets",
+        "id": "0dbc39b0c4",
+        "title": "'I Was Unfaithful To My Wife': Jensen Huang Admits Affair As Nvidia Board Opens Probe",
+        "summary": "Jensen Huang",
+        "link": "https://www.ndtvprofit.com/markets/i-was-unfaithful-to-my-wife-jensen-huang-admits-affair-as-nvidia-board-opens-probe-chinese-spy-12301392#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/i-was-unfaithful-to-my-wife-jensen-huang-admits-affair-as-nvidia-board-opens-probe-chinese-spy-12301392#publisher=newsstand"
           }
         ],
-        "published": "Sun, 08 Nov 2026 15:16:28 +0530",
+        "published": "Mon, 09 Nov 2026 06:13:54 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3162,7 +3520,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The European Union and the UK are in the final stages of a deal to link their emissions markets, a move that would boost liquidity and eventually save companies millions of euros in carbon border taxe",
+        "in_simple_words": "Not a big mover either way for general markets right now. Jensen Huang",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3170,26 +3528,134 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "688fd97dd5",
-        "title": "On Muhurat Trading 2026 Diwali, Zee Entertainment shares in rocket mode; 11% jump on buyback, interim dividend news",
-        "summary": "Zee Entertainment shares rose as much as 11.1% during Muhurat trading after the company announced its board would meet on November 12 to discuss investor concerns and consider a share buyback, interim dividend or other measures. No decision has been made.",
-        "link": "https://www.livemint.com/market/stock-market-news/on-muhurat-trading-2026-diwali-zee-entertainment-shares-in-rocket-mode-11-jump-on-buyback-interim-dividend-news-11794129729751.html",
-        "source": "LiveMint Markets",
+        "id": "f49e237d6b",
+        "title": "When Is Gujarati New Year 2026? Check Date, Significance, Tithi And More",
+        "summary": "Gujarati New Year will be celebrated on November 10.",
+        "link": "https://www.ndtvprofit.com/trending/when-is-gujarati-new-year-2026-check-date-significance-tithi-and-more-12292713#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/on-muhurat-trading-2026-diwali-zee-entertainment-shares-in-rocket-mode-11-jump-on-buyback-interim-dividend-news-11794129729751.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/trending/when-is-gujarati-new-year-2026-check-date-significance-tithi-and-more-12292713#publisher=newsstand"
           }
         ],
-        "published": "Sun, 08 Nov 2026 14:59:55 +0530",
+        "published": "Mon, 09 Nov 2026 06:02:02 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Zee Entertainment shares rose as much as 11.1% during Muhurat trading after the company announced its board would meet on November 12 to discuss investor concerns and consider a share buyback, interim",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gujarati New Year will be celebrated on November 10.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "c7c50fd951",
+        "title": "Bali Pratipada 2026: Date, Significance And Rituals",
+        "summary": "Bali Pratipada 2026: Know the date, significance and traditional rituals of the festival.",
+        "link": "https://www.ndtvprofit.com/trending/bali-pratipada-2026-date-significance-and-rituals-12294422#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/trending/bali-pratipada-2026-date-significance-and-rituals-12294422#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:00:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Bali Pratipada 2026: Know the date, significance and traditional rituals of the festival.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e88d686d53",
+        "title": "Ramayana Box Office Collection Day 5: Rs 500 Crore Within Reach. Why All Eyes Are on Monday",
+        "summary": "Ramayana's big test",
+        "link": "https://www.ndtvprofit.com/business/ramayana-box-office-collection-day-5-rs-500-crore-within-reach-why-all-eyes-are-on-monday-12301444#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/ramayana-box-office-collection-day-5-rs-500-crore-within-reach-why-all-eyes-are-on-monday-12301444#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:53:34 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Ramayana's big test",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "45c9cfea2c",
+        "title": "Who Is Alice Huang? The Woman Linked to Nvidia CEO Jensen Huang's Affair and a $4.8 Billion Chip Mystery",
+        "summary": "Alice Huang with Nvidia CEO",
+        "link": "https://www.ndtvprofit.com/business/who-is-alice-huang-the-woman-linked-to-nvidia-ceo-jensen-huangs-affair-and-a-4-8-billion-chip-mystery-12301418#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/business/who-is-alice-huang-the-woman-linked-to-nvidia-ceo-jensen-huangs-affair-and-a-4-8-billion-chip-mystery-12301418#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:18:27 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Alice Huang with Nvidia CEO",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "e8af7c8a56",
+        "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 9",
+        "summary": "",
+        "link": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-9-12300857#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-9-12300857#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 05:00:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3353,168 +3819,6 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "Not a big mover either way for general markets right now. A commuter wears a protective mask as she walks past amid hazy conditions and poor air quality in New Delhi on Nov. 5, 2026.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "46000fe218",
-        "title": "Ramayana Box Office Collection Day 4: Nitesh Tiwari Film Crosses Rs 200 Crore In India",
-        "summary": "Yash in a poster of Ramayana.",
-        "link": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:41:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Yash in a poster of Ramayana.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "055071d105",
-        "title": "Inter Milan vs Como 1907 Live Streaming: When And Where To Watch Serie A Match Live In India",
-        "summary": "With both sides enjoying strong league campaigns, Sunday's clash at the Stadio Giuseppe Meazza promises to be a crucial test for Inter and Como.",
-        "link": "https://www.ndtvprofit.com/sports/inter-milan-vs-como-1907-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12295126#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/inter-milan-vs-como-1907-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12295126#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:30:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. With both sides enjoying strong league campaigns, Sunday's clash at the Stadio Giuseppe Meazza promises to be a crucial test for Inter and Como.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "af1dff9ba0",
-        "title": "F1 Brazilian GP Final Race Live Streaming: When And Where To Watch In India",
-        "summary": "Newly crowned world champion Kimi Antonelli will look to add another victory to his tally as Formula 1 heads to Interlagos for the So Paulo Grand Prix.",
-        "link": "https://www.ndtvprofit.com/sports/f1-brazilian-gp-final-race-live-streaming-when-and-where-to-watch-in-india-12297472#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/f1-brazilian-gp-final-race-live-streaming-when-and-where-to-watch-in-india-12297472#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:30:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Newly crowned world champion Kimi Antonelli will look to add another victory to his tally as Formula 1 heads to Interlagos for the So Paulo Grand Prix.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "3962407b70",
-        "title": "Temple Not Made For India, But For World: Deepinder Goyal Expects Just 1% Sales From India",
-        "summary": "Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-        "link": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:14:32 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "45e74c41a8",
-        "title": "'Our Brightest Diwali Yet': Katrina Kaif And Vicky Kaushal Reveal Son Vihaan's Face In Diwali Celebration Post",
-        "summary": "The couple announced the arrival of their son on November 7, 2025, through an Instagram post.",
-        "link": "https://www.ndtvprofit.com/entertainment/our-brightest-diwali-yet-katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-in-diwali-celebration-post-12300434#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/our-brightest-diwali-yet-katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-in-diwali-celebration-post-12300434#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 18:38:47 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The couple announced the arrival of their son on November 7, 2025, through an Instagram post.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "4691ef825b",
-        "title": "Anthropic Buys Power For AI Data Centres In $3.4 Billion Deal: Report",
-        "summary": "The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
-        "link": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 18:03:26 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3715,6 +4019,33 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
+        "id": "7e270bc75e",
+        "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+        "summary": "Stock market prediction for Monday, 9 November, 2026: Gift Nifty was trading around the 25,018 level, up nearly 38 points or 0.15% from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-9-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794185270930.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-9-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794185270930.html"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 06:57:55 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. Stock market prediction for Monday, 9 November, 2026: Gift Nifty was trading around the 25,018 level, up nearly 38 points or 0.15% from the Nifty futures’ previous close, indicating a positive start f",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
         "id": "1dc6f4bd49",
         "title": "A rare red Diwali: Sensex ends Muhurat trading lower for only the eighth time in 30 years",
         "summary": "Indian equities began Samvat 2083 on a muted note, even as NSE turnover rose from last year's session. Market experts see room for a rebound, but traders remain cautious about returns and volatility.",
@@ -3762,61 +4093,6 @@
         "is_ai_related": true,
         "page": "stock_market",
         "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Foreign investors poured  ₹45,970 crore into Indian equities in November, helping the Nifty 50 post its strongest weekly gain since February 2021 and lifting the rupee. Lower oil prices, resilient ear",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "9f9c1e6e24",
-        "title": "Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons",
-        "summary": "Indian markets opened lower in Samvat 2083, with the Sensex and Nifty posting their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows, a weaker rupee and higher US bond yields weighed on equities.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 15:53:22 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Indian markets opened lower in Samvat 2083, with the Sensex and Nifty posting their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows,",
-        "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "6b83902cee",
-        "title": "Why Safe Enterprises shares bleeding on Diwali Muhurat trading 2026 session despite Nifty, Sensex in green? Key reasons",
-        "summary": "Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in H1 FY27 net profit to  ₹21.75 crore. Revenue also dropped to  ₹77.87 crore from  ₹112.37 crore a year earlier.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 14:54:44 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in H1 FY27 net profit to  ₹21.75 crore. Revenue also dropp",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
         ],
@@ -3911,282 +4187,6 @@
         "watch": "Bharti Airtel, Reliance Jio (via RIL), Vodafone Idea"
       }
     ],
-    "Banks & Money": [
-      {
-        "id": "33a82099b3",
-        "title": "SBI Life Share Price Highlights: SBI Life Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 09:00:05 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2f554f4f77",
-        "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-        "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 22:36:32 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "f5e03c6451",
-        "title": "ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend",
-        "summary": "Net premium income rose to Rs 14,788 crore",
-        "link": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 18:26:16 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. Net premium income rose to Rs 14,788 crore",
-        "means_for_you": [
-          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "47b61ce2c0",
-        "title": "Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank",
-        "summary": "Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "link": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html",
-        "source": "Moneycontrol Business",
-        "sources": [
-          {
-            "name": "Moneycontrol Business",
-            "url": "https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html"
-          }
-        ],
-        "published": "Tue, 23 Apr 2024 14:42:21 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Boosting success rates by 4-5 per cent, the solution is designed to handle up to 10,000 transactions per second (TPS) at any given time, according to a release.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "2c694137c0",
-        "title": "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
-        "summary": "Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083, including large-, mid-, and emerging companies across a range of sectors. The market outlook favors earnings growth over valuation expansion.",
-        "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 20:01:06 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083, including large-, mid-, and emerging companies across a range of sectors. The market outlook favors earnings growth over",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "665dcf3ca7",
-        "title": "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
-        "summary": "Top 5 stocks to buy in Nov 2026: Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach amid continuous rally on Dalal Street",
-        "link": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 19:00:25 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 1
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Top 5 stocks to buy in Nov 2026: Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach amid continuous rally on Dalal Street",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "df2afbb2b5",
-        "title": "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
-        "summary": "HDFC Bank shares fell 0.32% to  ₹784.50 during Diwali Muhurat trading on November 8, reversing an early gain as the Nifty Bank index slipped 0.27%. The stock had risen 13.32% in the past week but remained down 20.82% in 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 15:32:48 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 3
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. HDFC Bank shares fell 0.32% to  ₹784.50 during Diwali Muhurat trading on November 8, reversing an early gain as the Nifty Bank index slipped 0.27%. The stock had risen 13.32% in the past week but rema",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "edc3e0872b",
-        "title": "AI Spending Boom Nears Peak? Jefferies Flags Risks To Big Tech's $1 Trillion Capex",
-        "summary": "Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-        "link": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 20:45:43 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for banks & money right now. Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      }
-    ],
-    "IT & Software": [
-      {
-        "id": "a85b9450bd",
-        "title": "Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms"
-          }
-        ],
-        "published": "Sun, 08 Nov 2026 08:40:33 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for it & software right now.",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      },
-      {
-        "id": "cc8de309a0",
-        "title": "Stocks To Watch Today: Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas & More",
-        "summary": "Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas will be in focus during the trading session on Monday.",
-        "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-wipro-zee-entertainment-asian-paints-marico-jsw-energy-voltas-more-12300885#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-wipro-zee-entertainment-asian-paints-marico-jsw-energy-voltas-more-12300885#publisher=newsstand"
-          }
-        ],
-        "published": "Mon, 09 Nov 2026 00:01:01 +0530",
-        "sector": "IT & Software",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for it & software right now. Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas will be in focus during the trading session on Monday.",
-        "means_for_you": [
-          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
-        ],
-        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
-        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
-      }
-    ],
     "FMCG": [
       {
         "id": "00189e27b6",
@@ -4271,9 +4271,92 @@
         "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
         "watch": "Realty Index, DLF, cement and construction names"
       }
+    ],
+    "IT & Software": [
+      {
+        "id": "cc8de309a0",
+        "title": "Stocks To Watch Today: Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas & More",
+        "summary": "Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas will be in focus during the trading session on Monday.",
+        "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-wipro-zee-entertainment-asian-paints-marico-jsw-energy-voltas-more-12300885#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-wipro-zee-entertainment-asian-paints-marico-jsw-energy-voltas-more-12300885#publisher=newsstand"
+          }
+        ],
+        "published": "Mon, 09 Nov 2026 00:01:01 +0530",
+        "sector": "IT & Software",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for it & software right now. Wipro, Zee Entertainment, Asian Paints, Marico, JSW Energy, Voltas will be in focus during the trading session on Monday.",
+        "means_for_you": [
+          "Keep an eye on TCS, Infosys, Wipro, HCLTech, Nifty IT — sentiment here is currently supportive."
+        ],
+        "why_matters": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news.",
+        "watch": "TCS, Infosys, Wipro, HCLTech, Nifty IT"
+      }
     ]
   },
   "ai_in_finance": [
+    {
+      "id": "bae717cd95",
+      "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
+      "summary": "Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial intelligence industry eased. The MSCI Asia Pacific Index of equities gained 0.5%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms",
+      "source": "Economic Times Markets",
+      "sources": [
+        {
+          "name": "Economic Times Markets",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms"
+        }
+      ],
+      "published": "Mon, 09 Nov 2026 06:26:21 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bullish",
+        "score": 2
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "This is good news for general markets — sentiment turned more positive. Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial i",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "ec72ae0335",
+      "title": "ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+      "summary": "METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+      "link": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html",
+      "source": "LiveMint Markets",
+      "sources": [
+        {
+          "name": "LiveMint Markets",
+          "url": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html"
+        }
+      ],
+      "published": "Mon, 09 Nov 2026 06:31:48 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "Not a big mover either way for general markets right now. METALS-TIN/AHOME (REPEAT, ROI, COLUMN, PIX, GRAPHICS):RPT-ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
     {
       "id": "16d32027c8",
       "title": "Global AI sell-off turns into India's gain as FPIs pump  ₹46,000 crore in 5 sessions; will the buying spree sustain?",
@@ -4300,87 +4383,6 @@
       ],
       "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
       "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-    },
-    {
-      "id": "edc3e0872b",
-      "title": "AI Spending Boom Nears Peak? Jefferies Flags Risks To Big Tech's $1 Trillion Capex",
-      "summary": "Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-      "link": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand"
-        }
-      ],
-      "published": "Sun, 08 Nov 2026 20:45:43 +0530",
-      "sector": "Banks & Money",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for banks & money right now. Jefferies warns rising credit risks could signal a turning point in Big Tech's AI spending boom.",
-      "means_for_you": [
-        "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-      ],
-      "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-      "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-    },
-    {
-      "id": "3962407b70",
-      "title": "Temple Not Made For India, But For World: Deepinder Goyal Expects Just 1% Sales From India",
-      "summary": "Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-      "link": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/business/temple-not-made-for-india-but-for-world-deepinder-goyal-expects-just-1-sales-from-india-12300528#publisher=newsstand"
-        }
-      ],
-      "published": "Sun, 08 Nov 2026 19:14:32 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for general markets right now. Deepinder Goyal defends Temple's pricing and vision amid criticism over the AI device.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "4691ef825b",
-      "title": "Anthropic Buys Power For AI Data Centres In $3.4 Billion Deal: Report",
-      "summary": "The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
-      "link": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/business/anthropic-buys-power-for-ai-data-centres-in-3-4-billion-deal-report-12300389#publisher=newsstand"
-        }
-      ],
-      "published": "Sun, 08 Nov 2026 18:03:26 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for general markets right now. The company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
     },
     {
       "id": "006a45b724",
@@ -4458,18 +4460,18 @@
   "disclaimer": "Daily Planet explains the mechanism behind each story — not a buy/sell signal. Always do your own research before trading.",
   "editorial": {
     "todays_big_idea": {
-      "headline": "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
+      "headline": "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
       "why": [
-        "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
-        "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
-        "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan"
+        "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
+        "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+        "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms"
       ],
       "numbers": "NIFTY 1.83%",
-      "analysis": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "investment_implication": "Worth watching: Nifty 50, Sensex"
+      "analysis": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+      "investment_implication": "Worth watching: HDFC Bank, ICICI Bank, SBI, Bank Nifty"
     },
     "one_chart_question": "How has the stock price moved over the last year?",
-    "one_chart_insight": "The stock moved 7.5% over the last year (revenue history wasn't available to compare).",
+    "one_chart_insight": "The stock moved -3.2% over the last year (revenue history wasn't available to compare).",
     "one_concept": {
       "concept_name": "N/A",
       "company_example": "N/A",
@@ -4481,13 +4483,13 @@
       "what_could_move_it_down": "N/A"
     },
     "money_behind_business": {
-      "concept": "Working Capital",
+      "concept": "Operating Leverage",
       "mechanism": "Not enough real cash-flow data available today to illustrate this concretely."
     },
     "industry_of_day": {
-      "sector": "Banks & Money",
-      "overview": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names. Today's move: 1.86% (Winning).",
-      "who_wins": "Watch: HDFC Bank, ICICI Bank, SBI, Bank Nifty. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
+      "sector": "IT & Software",
+      "overview": "IT earns most revenue in dollars from US/Europe clients, so it reacts more to US demand signals and the rupee-dollar rate than domestic news. Today's move: 0.1% (Growing).",
+      "who_wins": "Watch: TCS, Infosys, Wipro, HCLTech, Nifty IT. (Market-share and margin specifics for a full industry comparison need a paid data source or Gemini — this is mechanism-level only.)"
     },
     "bull_vs_bear": {
       "bull_case": [],
@@ -4506,8 +4508,8 @@
       ]
     },
     "do_the_math": {
-      "question": "Revenue = ₹1200 Cr, EBITDA Margin = 22%. Revenue falls 20%. What happens to EBITDA?",
-      "answer": "₹264 Cr → ₹211 Cr (a 20% revenue fall becomes a 20% EBITDA fall at a constant margin)."
+      "question": "Revenue = ₹500 Cr, EBITDA Margin = 22%. Revenue falls 5%. What happens to EBITDA?",
+      "answer": "₹110 Cr → ₹104 Cr (a 5% revenue fall becomes a 5% EBITDA fall at a constant margin)."
     },
     "money_trail": {
       "fii": "₹45,970 Cr mentioned in: “Global AI sell-off turns into India's gain as FPIs pump  ₹46,000 crore in 5 sessions; will the buying spree sustain?”",
@@ -4571,219 +4573,219 @@
     "price_series": [
       {
         "date": "2025-11-02",
-        "close": 1222.8
+        "close": 2613.8
       },
       {
         "date": "2025-11-09",
-        "close": 1241.6
+        "close": 2906.4
       },
       {
         "date": "2025-11-16",
-        "close": 1275.8
+        "close": 2876.6
       },
       {
         "date": "2025-11-23",
-        "close": 1279.7
+        "close": 2874.4
       },
       {
         "date": "2025-11-30",
-        "close": 1282.5
+        "close": 2968.5
       },
       {
         "date": "2025-12-07",
-        "close": 1286.1
+        "close": 2764.8
       },
       {
         "date": "2025-12-14",
-        "close": 1230.6
+        "close": 2799.9
       },
       {
         "date": "2025-12-21",
-        "close": 1228.2
+        "close": 2746.5
       },
       {
         "date": "2025-12-28",
-        "close": 1266.9
+        "close": 2772.6
       },
       {
         "date": "2026-01-04",
-        "close": 1272.0
+        "close": 2825.5
       },
       {
         "date": "2026-01-11",
-        "close": 1294.2
+        "close": 2756.9
       },
       {
         "date": "2026-01-18",
-        "close": 1258.0
+        "close": 2703.7
       },
       {
         "date": "2026-01-25",
-        "close": 1340.4
+        "close": 2357.0
       },
       {
         "date": "2026-02-01",
-        "close": 1341.6
+        "close": 2401.1
       },
       {
         "date": "2026-02-08",
-        "close": 1332.3
+        "close": 2366.4
       },
       {
         "date": "2026-02-15",
-        "close": 1368.3
+        "close": 2428.1
       },
       {
         "date": "2026-02-22",
-        "close": 1383.9
+        "close": 2376.2
       },
       {
         "date": "2026-03-01",
-        "close": 1315.8
+        "close": 2279.5
       },
       {
         "date": "2026-03-08",
-        "close": 1197.3
+        "close": 2196.8
       },
       {
         "date": "2026-03-15",
-        "close": 1203.9
+        "close": 2195.4
       },
       {
         "date": "2026-03-22",
-        "close": 1205.2
+        "close": 2207.4
       },
       {
         "date": "2026-03-29",
-        "close": 1197.9
+        "close": 2169.0
       },
       {
         "date": "2026-04-05",
-        "close": 1350.8
+        "close": 2360.7
       },
       {
         "date": "2026-04-12",
-        "close": 1359.1
+        "close": 2464.0
       },
       {
         "date": "2026-04-19",
-        "close": 1365.9
+        "close": 2485.1
       },
       {
         "date": "2026-04-26",
-        "close": 1268.3
+        "close": 2444.5
       },
       {
         "date": "2026-05-03",
-        "close": 1268.3
+        "close": 2599.9
       },
       {
         "date": "2026-05-10",
-        "close": 1244.8
+        "close": 2605.6
       },
       {
         "date": "2026-05-17",
-        "close": 1285.4
+        "close": 2639.8
       },
       {
         "date": "2026-05-24",
-        "close": 1286.6
+        "close": 2671.6
       },
       {
         "date": "2026-05-31",
-        "close": 1272.3
+        "close": 2686.7
       },
       {
         "date": "2026-06-07",
-        "close": 1356.3
+        "close": 2747.4
       },
       {
         "date": "2026-06-14",
-        "close": 1357.9
+        "close": 2732.9
       },
       {
         "date": "2026-06-21",
-        "close": 1377.2
+        "close": 2645.2
       },
       {
         "date": "2026-06-28",
-        "close": 1342.1
+        "close": 2737.8
       },
       {
         "date": "2026-07-05",
-        "close": 1323.7
+        "close": 2677.8
       },
       {
         "date": "2026-07-12",
-        "close": 1328.5
+        "close": 2689.0
       },
       {
         "date": "2026-07-19",
-        "close": 1227.3
+        "close": 2637.9
       },
       {
         "date": "2026-07-26",
-        "close": 1229.5
+        "close": 2747.3
       },
       {
         "date": "2026-08-02",
-        "close": 1238.0
+        "close": 2735.0
       },
       {
         "date": "2026-08-09",
-        "close": 1217.4
+        "close": 2696.3
       },
       {
         "date": "2026-08-16",
-        "close": 1245.8
+        "close": 2640.0
       },
       {
         "date": "2026-08-23",
-        "close": 1265.0
+        "close": 2608.7
       },
       {
         "date": "2026-08-30",
-        "close": 1273.0
+        "close": 2527.3
       },
       {
         "date": "2026-09-06",
-        "close": 1246.0
+        "close": 2472.5
       },
       {
         "date": "2026-09-13",
-        "close": 1257.0
+        "close": 2451.3
       },
       {
         "date": "2026-09-20",
-        "close": 1222.4
+        "close": 2444.0
       },
       {
         "date": "2026-09-27",
-        "close": 1217.1
+        "close": 2407.0
       },
       {
         "date": "2026-10-04",
-        "close": 1259.1
+        "close": 2339.1
       },
       {
         "date": "2026-10-11",
-        "close": 1290.0
+        "close": 2331.9
       },
       {
         "date": "2026-10-18",
-        "close": 1217.5
+        "close": 2307.0
       },
       {
         "date": "2026-10-25",
-        "close": 1217.0
+        "close": 2320.0
       },
       {
         "date": "2026-11-01",
-        "close": 1322.9
+        "close": 2546.0
       },
       {
         "date": "2026-11-08",
-        "close": 1314.7
+        "close": 2529.0
       }
     ],
     "revenue_series": []
