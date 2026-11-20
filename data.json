@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T16:52:15.963929+00:00",
+  "generated_at_utc": "2026-11-20T23:52:44.582419+00:00",
   "edition_date": "Friday, November 20, 2026",
   "sector_performance": {
     "Banks & Money": {
@@ -46,33 +46,6 @@
   "pages": {
     "stock_market": [
       {
-        "id": "5e41658228",
-        "title": "NSE share price target: Up 37% from low, stock hits record high! Anand Rathi sees further upside, initiates with 'buy'",
-        "summary": "NSE shares hit a record  ₹2,251, gaining 28% in a month. Anand Rathi initiated coverage with a Buy rating and a  ₹2,381 target, citing the exchange’s dominant market position, strong competitive barriers and growth potential.",
-        "link": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-up-37-from-low-stock-hits-record-high-anand-rathi-sees-further-upside-initiates-with-buy-11795166679623.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-up-37-from-low-stock-hits-record-high-anand-rathi-sees-further-upside-initiates-with-buy-11795166679623.html"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 15:23:05 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 5
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. NSE shares hit a record  ₹2,251, gaining 28% in a month. Anand Rathi initiated coverage with a Buy rating and a  ₹2,381 target, citing the exchange’s dominant market position, strong competitive barri",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
         "id": "1483a9cfdb",
         "title": "HDFC Bank shares recover 22% in Nov, adds  ₹2.38 lakh crore in market value. What's fuelling the rebound?",
         "summary": "HDFC Bank shares rose 22% in November as easing leadership concerns, improved business performance and stronger market sentiment drew investors back. The rally restored its market value to above  ₹13 lakh crore, though the stock remains down 14% in 2026.",
@@ -98,6 +71,34 @@
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "8014088405",
+        "title": "Three Reasons Why US Stock Markets Are Falling: Nasdaq Turns Negative For 2026, S&P Down 2%",
+        "summary": "Nasdaq 100 declined 990 points, or 3.75% to 25,524.20 and S&amp;P 500 dropped 144 points, or 2.15%, to 7,021.44, while, the Dow Jones Industrial Average traded 0.63% or 333 points lower at 48,763.86.",
+        "link": "https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-markets-are-falling-nasdaq-turns-negative-for-2026-s-p-down-1-3-12356047#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-markets-are-falling-nasdaq-turns-negative-for-2026-s-p-down-1-3-12356047#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:56:18 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -3
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Nasdaq 100 declined 990 points, or 3.75% to 25,524.20 and S&amp;P 500 dropped 144 points, or 2.15%, to 7,021.44, while, the Dow Jones Industrial Average traded 0.63% or 333 points lower at 48,763.86.",
+        "means_for_you": [
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
         "id": "fbbf7cc19c",
@@ -319,59 +320,32 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "1db3e69aaf",
-        "title": "Nifty set to test record high in a month after toppling key hurdle",
-        "summary": "Oil and its inflationary impact to determine sustenance of rally.",
-        "link": "https://www.livemint.com/market/nifty-set-to-test-record-high-in-a-month-after-toppling-key-hurdle-11795164473722.html",
+        "id": "176e108be3",
+        "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+        "summary": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+        "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
         "source": "LiveMint Markets",
         "sources": [
           {
             "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/nifty-set-to-test-record-high-in-a-month-after-toppling-key-hurdle-11795164473722.html"
+            "url": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html"
           }
         ],
-        "published": "Fri, 20 Nov 2026 17:05:20 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil and its inflationary impact to determine sustenance of rally.",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "56e2454ee4",
-        "title": "US Stock Market Today: Wall Street In Red As Anthropic-Led AI Rout Drags Nasdaq, Dow Nears Correction",
-        "summary": "Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
-        "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:39:42 +0530",
-        "sector": "Global & Macro",
+        "published": "Sat, 21 Nov 2026 04:09:19 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
           "score": -2
         },
         "is_ai_related": true,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals marke",
         "means_for_you": [
-          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
         "id": "dc2bd071e0",
@@ -394,6 +368,34 @@
         "is_ai_related": true,
         "page": "stock_market",
         "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Following a rocky market debut, Anthropic’s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks,",
+        "means_for_you": [
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "f4a5601b66",
+        "title": "Nasdaq crashes 5% at close, erasing 2026 gains; S&amp;P 500, Dow in correction: Stock Market Highlights",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
+        "source": "Economic Times Markets",
+        "sources": [
+          {
+            "name": "Economic Times Markets",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 18:39:00 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative.",
         "means_for_you": [
           "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
           "Worth watching before adding fresh positions."
@@ -538,18 +540,18 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "29bab2cdbd",
-        "title": "Power stocks to buy: Why Axis Sec is betting on NTPC and JSW Energy shares post Q2 results? Check targets, rationale",
-        "summary": "Axis Securities named NTPC and JSW Energy its top power-sector picks after Q2 results, assigning both Buy ratings and target prices of  ₹370 and  ₹590, respectively, for 15% potential upside.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/power-stocks-to-buy-why-axis-sec-is-betting-on-ntpc-and-jsw-energy-shares-post-q2-results-check-targets-rationale-11795169287632.html",
-        "source": "LiveMint Markets",
+        "id": "ce6343ff95",
+        "title": "354 Or 59? A Global AQI Tracker Named Srinagar World's Most Polluted City, But Govt Data Differs",
+        "summary": "Srinagar's AQI readings differ sharply, with AQI.in reporting 354 against CPCB's 59.",
+        "link": "https://www.ndtvprofit.com/india/354-or-59-a-global-aqi-tracker-named-srinagar-worlds-most-polluted-city-but-govt-data-differs-12356413#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/power-stocks-to-buy-why-axis-sec-is-betting-on-ntpc-and-jsw-energy-shares-post-q2-results-check-targets-rationale-11795169287632.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/354-or-59-a-global-aqi-tracker-named-srinagar-worlds-most-polluted-city-but-govt-data-differs-12356413#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 16:38:34 +0530",
+        "published": "Sat, 21 Nov 2026 00:01:10 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
@@ -557,7 +559,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Axis Securities named NTPC and JSW Energy its top power-sector picks after Q2 results, assigning both Buy ratings and target prices of  ₹370 and  ₹590, respectively, for 15% potential upside.&amp;nbsp",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Srinagar's AQI readings differ sharply, with AQI.in reporting 354 against CPCB's 59.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -565,45 +567,73 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "7f1fa57fc1",
-        "title": "NSE record: With  ₹5.6 lakh cr mcap, overtakes HKEX, Nasdaq to become world's 5th-largest listed exchange ​- top 5 list",
-        "summary": "NSE’s market capitalisation reached  ₹5.56 lakh crore, making it the world’s fifth-most valuable listed exchange, ahead of HKEX and Nasdaq. A November rally lifted its shares 24.6%, while the exchange also became India’s ninth-largest listed company.",
-        "link": "https://www.livemint.com/market/stock-market-news/nse-record-with-rs-5-6-lakh-cr-mcap-overtakes-hkex-nasdaq-to-become-worlds-5th-largest-listed-exchange-top-5-list-11795168082205.html",
-        "source": "LiveMint Markets",
+        "id": "faee189bf6",
+        "title": "Virat Kohli Left Behind As Yashasvi Jaiswal Creates WTC Record Against New Zealand",
+        "summary": "While Jaiswal climbed India's WTC run-scoring list, Rahul strengthened his position among the country's most successful overseas Test openers.",
+        "link": "https://www.ndtvprofit.com/sports/virat-kohli-left-behind-as-yashasvi-jaiswal-creates-wtc-record-against-new-zealand-12356393#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nse-record-with-rs-5-6-lakh-cr-mcap-overtakes-hkex-nasdaq-to-become-worlds-5th-largest-listed-exchange-top-5-list-11795168082205.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/virat-kohli-left-behind-as-yashasvi-jaiswal-creates-wtc-record-against-new-zealand-12356393#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 16:17:15 +0530",
-        "sector": "Global & Macro",
+        "published": "Fri, 20 Nov 2026 23:55:23 +0530",
+        "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
           "score": 1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. NSE’s market capitalisation reached  ₹5.56 lakh crore, making it the world’s fifth-most valuable listed exchange, ahead of HKEX and Nasdaq. A November rally lifted its shares 24.6%, while the exchange",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. While Jaiswal climbed India's WTC run-scoring list, Rahul strengthened his position among the country's most successful overseas Test openers.",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "cfdefdcbfc",
-        "title": "Scene Box Office Collection Day 15: Suriya Starrer Sees Drop As Film Enters Third Week",
-        "summary": "Scene released on November 6.",
-        "link": "https://www.ndtvprofit.com/entertainment/cinema-kollywood-movie-scene-box-office-collection-day-15-suriya-tamil-film-third-week-friday-earnings-12355423#publisher=newsstand",
+        "id": "4d73cb9d05",
+        "title": "Forex Reserves Drop $14.2 Billion To $705.34 Billion",
+        "summary": "During the week ended November 13, foreign currency assets, a major component of reserves, decreased USD 7.897 billion to USD 583.452 billion, according to the data released by the Reserve Bank of India (RBI).",
+        "link": "https://www.ndtvprofit.com/markets/forex-reserves-drop-14-2-billion-to-705-34-billion-12356237#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/cinema-kollywood-movie-scene-box-office-collection-day-15-suriya-tamil-film-third-week-friday-earnings-12355423#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/markets/forex-reserves-drop-14-2-billion-to-705-34-billion-12356237#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:29:57 +0530",
+        "published": "Fri, 20 Nov 2026 23:09:06 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. During the week ended November 13, foreign currency assets, a major component of reserves, decreased USD 7.897 billion to USD 583.452 billion, according to the data released by the Reserve Bank of Ind",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "c4bb02d498",
+        "title": "Flydubai Attack: NIA Probes Indian Links Of Omani Pilot Who Stabbed Captain Smit Machchhar",
+        "summary": "The official said the probe agency will also look into \"any Indian footprints\" of the Omani first officer of the flight, who had stabbed Captain Machchhar mid-air in an apparent attempt to hijack or cause the Israel-bound plane to crash.",
+        "link": "https://www.ndtvprofit.com/india/flydubai-attack-nia-probes-indian-links-of-omani-pilot-who-stabbed-captain-smit-machchhar-12356228#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/flydubai-attack-nia-probes-indian-links-of-omani-pilot-who-stabbed-captain-smit-machchhar-12356228#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 23:06:07 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
@@ -611,7 +641,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Scene released on November 6.",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The official said the probe agency will also look into \"any Indian footprints\" of the Omani first officer of the flight, who had stabbed Captain Machchhar mid-air in an apparent attempt to hijack or c",
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
@@ -620,28 +650,57 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "191e8475fc",
-        "title": "Ramayana Box Office Collection Day 16: Nitesh Tiwari's Epic Continues Strong Run As Film Enters Third Week",
-        "summary": "Ramayana released on November 5, 2026",
-        "link": "https://www.ndtvprofit.com/entertainment/cinema-bollywood-movie-ramayana-box-office-collection-day-16-nitesh-tiwari-ranbir-kapoor-sai-pallavi-yash-film-third-week-friday-earnings-12355295#publisher=newsstand",
+        "id": "bdab4fb6ec",
+        "title": "Rupee Settles Above 93 Level After 7 Months On FII Flows, Weak Crude; Gains 70 Paise To 92.62/USD",
+        "summary": "Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the US and markets like Taiwan and South Korea.",
+        "link": "https://www.ndtvprofit.com/markets/rupee-settles-above-93-level-after-7-months-on-fii-flows-weak-crude-gains-70-paise-to-92-62-usd-12356158#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/cinema-bollywood-movie-ramayana-box-office-collection-day-16-nitesh-tiwari-ranbir-kapoor-sai-pallavi-yash-film-third-week-friday-earnings-12355295#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/markets/rupee-settles-above-93-level-after-7-months-on-fii-flows-weak-crude-gains-70-paise-to-92-62-usd-12356158#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:01:11 +0530",
-        "sector": "General Markets",
+        "published": "Fri, 20 Nov 2026 22:47:46 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Bearish",
+          "score": -1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ramayana released on November 5, 2026",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the US and m",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "72c74964d8",
+        "title": "Bitcoin Breaches $60,000, Slips 51% From Record High: Is The Worst Slump Since 2022 Nearing A Bottom?",
+        "summary": "Bitcoin's sell-off has intensified amid institutional withdrawals.",
+        "link": "https://www.ndtvprofit.com/crypto/bitcoin-below-60-000-in-steepest-correction-since-2022-bear-market-three-catalysts-that-may-drive-recovery-12356081#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/crypto/bitcoin-below-60-000-in-steepest-correction-since-2022-bear-market-three-catalysts-that-may-drive-recovery-12356081#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:43:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Bitcoin's sell-off has intensified amid institutional withdrawals.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -672,33 +731,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "f4a5601b66",
-        "title": "Nasdaq tumbles 650 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
-        "source": "Economic Times Markets",
-        "sources": [
-          {
-            "name": "Economic Times Markets",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 18:39:00 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
         "id": "517933bd9d",
@@ -1133,6 +1165,114 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
+        "id": "aa915d8990",
+        "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+        "summary": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich insurance firms hunt for high-yielding debt.",
+        "link": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:47:33 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap ma",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "f8a02a35e0",
+        "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "summary": "GLOBAL-FOREX:Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:39:14 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX:Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "214937c7fc",
+        "title": "AI tech rout prompts US investors to rush into value stocks",
+        "summary": "USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+        "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:38:12 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "6714d4a4ab",
+        "title": "Smallcap dividend stars: 5 stocks under  ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
+        "summary": "Jagran Prakashan and IL&amp;amp;FS Investment Managers lead a group of small-cap stocks trading below  ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;amp;FS at 15.9%, Radiant Cash Management at 7.9%, Gateway Distriparks at 7.6% and Balmer L",
+        "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:32:19 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Jagran Prakashan and IL&amp;amp;FS Investment Managers lead a group of small-cap stocks trading below  ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;amp;FS at",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "c1d48d7919",
         "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE",
         "summary": "SEBI has proposed reviewing its Additional Disclosure Framework for foreign portfolio investors, which currently requires certain funds to disclose ownership, economic interests, and control down to individual beneficiaries.",
@@ -1241,26 +1381,26 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
-        "id": "575aadeddc",
-        "title": "AI-shy foreign money may turn to India's blue-chips",
-        "summary": "An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
-        "link": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html",
-        "source": "LiveMint Markets",
+        "id": "ad7a5785d9",
+        "title": "ILT20 2026-27 Full Schedule And Live Streaming: Check All Fixtures, Dates, Timings, Venues",
+        "summary": "The fifth edition of the UAE-based T20 tournament will feature six teams and 34 matches, with defending champions Desert Vipers taking on MI Emirates in the opening fixture on November 21.",
+        "link": "https://www.ndtvprofit.com/sports/ilt20-2026-27-full-schedule-and-live-streaming-check-all-fixtures-dates-timings-venues-12353956#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/ilt20-2026-27-full-schedule-and-live-streaming-check-all-fixtures-dates-timings-venues-12353956#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 15:18:42 +0530",
+        "published": "Sat, 21 Nov 2026 11:00:01 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
+        "in_simple_words": "Not a big mover either way for general markets right now. The fifth edition of the UAE-based T20 tournament will feature six teams and 34 matches, with defending champions Desert Vipers taking on MI Emirates in the opening fixture on November 21.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1268,18 +1408,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "0fc2c492d3",
-        "title": "Mundhe's Big Warning To Gyms, Influencers: Selling Protein Powder Without A Licence Could Invite Rs 10 Lakh Fine",
-        "summary": "The crackdown follows inspections at 17 establishments across six divisions, during which products worth Rs 1.38 crore were seized.",
-        "link": "https://www.ndtvprofit.com/india/tukaram-mundhes-big-warning-to-gyms-influencers-selling-protein-powder-without-a-licence-could-invite-rs-10-lakh-fine-12355755#publisher=newsstand",
+        "id": "7265c7b7b3",
+        "title": "Hardik Pandya, Marcus Stoinis, Marco Jansen: Ponting On Punjab Kings' All-Rounder Challenge",
+        "summary": "With Hardik Pandya joining Marco Jansen, Marcus Stoinis and other all-rounders, PBKS believe they have a balanced squad for IPL 2027.",
+        "link": "https://www.ndtvprofit.com/sports/hardik-pandya-marcus-stoinis-marco-jansen-ponting-on-punjab-kings-all-rounder-challenge-12356325#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/tukaram-mundhes-big-warning-to-gyms-influencers-selling-protein-powder-without-a-licence-could-invite-rs-10-lakh-fine-12355755#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/sports/hardik-pandya-marcus-stoinis-marco-jansen-ponting-on-punjab-kings-all-rounder-challenge-12356325#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:19:34 +0530",
+        "published": "Fri, 20 Nov 2026 23:36:11 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1287,7 +1427,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The crackdown follows inspections at 17 establishments across six divisions, during which products worth Rs 1.38 crore were seized.",
+        "in_simple_words": "Not a big mover either way for general markets right now. With Hardik Pandya joining Marco Jansen, Marcus Stoinis and other all-rounders, PBKS believe they have a balanced squad for IPL 2027.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1295,18 +1435,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2db7006917",
-        "title": "India’s FPI Norms Are Stricter Than US And UK. Now SEBI Wants To Roll Them Back",
-        "summary": "The proposal could ease compliance for overseas investors.",
-        "link": "https://www.ndtvprofit.com/markets/india-s-fpi-norms-are-stricter-than-us-and-uk-now-sebi-wants-to-roll-them-back-12355725#publisher=newsstand",
+        "id": "e28b0f1d3b",
+        "title": "Delhi-NCR To Lead India’s Rs 7.5 Lakh Crore Wedding Boom In 25 Days: Where The Money Goes",
+        "summary": "Delhi-NCR could account for nearly 5 lakh weddings.",
+        "link": "https://www.ndtvprofit.com/india/delhi-ncr-to-lead-india-s-rs-7-5-lakh-crore-wedding-boom-in-25-days-where-the-money-goes-12356299#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/india-s-fpi-norms-are-stricter-than-us-and-uk-now-sebi-wants-to-roll-them-back-12355725#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/india/delhi-ncr-to-lead-india-s-rs-7-5-lakh-crore-wedding-boom-in-25-days-where-the-money-goes-12356299#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:11:24 +0530",
+        "published": "Fri, 20 Nov 2026 23:28:37 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1314,7 +1454,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The proposal could ease compliance for overseas investors.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Delhi-NCR could account for nearly 5 lakh weddings.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1322,18 +1462,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "7b911da2e4",
-        "title": "Bengaluru Man Hammers Live-In Partner's 18-Year-Old Son To Death, Locks Her In Room For 4 Days",
-        "summary": "Bengaluru man accused of killing son of live-in partner and locking her in a room for four days.",
-        "link": "https://www.ndtvprofit.com/india/bengaluru-man-hammers-18-year-old-son-to-death-locks-wife-in-room-for-4-days-12355184#publisher=newsstand",
+        "id": "1b0d4bf217",
+        "title": "Indian National Nikhil Gupta Gets Nearly 20 Years In US Jail Over Khalistani Terrorist Pannun Murder Plot",
+        "summary": "Gupta pleaded guilty to conspiring to arrange Pannun's killing in New York; India has denied any involvement by its officials and rejected the allegations.",
+        "link": "https://www.ndtvprofit.com/world/indian-national-nikhil-gupta-gets-nearly-20-years-in-us-jail-over-khalistani-terrorist-gurpatwant-pannun-murder-plot-12356281#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/bengaluru-man-hammers-18-year-old-son-to-death-locks-wife-in-room-for-4-days-12355184#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/world/indian-national-nikhil-gupta-gets-nearly-20-years-in-us-jail-over-khalistani-terrorist-gurpatwant-pannun-murder-plot-12356281#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:11:17 +0530",
+        "published": "Fri, 20 Nov 2026 23:27:19 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1341,7 +1481,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bengaluru man accused of killing son of live-in partner and locking her in a room for four days.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gupta pleaded guilty to conspiring to arrange Pannun's killing in New York; India has denied any involvement by its officials and rejected the allegations.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1349,45 +1489,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "0243906e8a",
-        "title": "Nvidia Turmoil Leaves Few Stock Market Winners In Sea Of Losers",
-        "summary": "Nvidia shares have shed more than 29% since the end of October, when the news hit that Huang had an affair with a woman who is suspected of spying for China, wiping out $1.4 trillion of market value in a few weeks.",
-        "link": "https://www.ndtvprofit.com/markets/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers-12355744#publisher=newsstand",
+        "id": "3c08c761d8",
+        "title": "Yashasvi Jaiswal IPL Trade Talks: Why RR Rejected Offers From LSG, DC",
+        "summary": "Despite being retained for IPL 2027, the Rajasthan Royals opener has reportedly expressed his desire to leave, with four franchises linked to a possible move.",
+        "link": "https://www.ndtvprofit.com/sports/yashasvi-jaiswal-ipl-trade-talks-why-rr-rejected-offers-from-lsg-dc-12356236#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers-12355744#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/sports/yashasvi-jaiswal-ipl-trade-talks-why-rr-rejected-offers-from-lsg-dc-12356236#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:09:52 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Nvidia shares have shed more than 29% since the end of October, when the news hit that Huang had an affair with a woman who is suspected of spying for China, wiping out $1.4 trillion of market value i",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "662ac3db71",
-        "title": "Salman Khan Makes Bhel, Serves 20 People Himself On Maatrubhumi Sets",
-        "summary": "Maatrubhumi: May War Rest In Peace",
-        "link": "https://www.ndtvprofit.com/entertainment/salman-khan-makes-bhel-serves-20-people-himself-on-maatrubhumi-sets-12355578#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/salman-khan-makes-bhel-serves-20-people-himself-on-maatrubhumi-sets-12355578#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:58:05 +0530",
+        "published": "Fri, 20 Nov 2026 23:08:07 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1395,7 +1508,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Maatrubhumi: May War Rest In Peace",
+        "in_simple_words": "Not a big mover either way for general markets right now. Despite being retained for IPL 2027, the Rajasthan Royals opener has reportedly expressed his desire to leave, with four franchises linked to a possible move.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1403,18 +1516,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "1e000fbdc1",
-        "title": "Man Travels 2,100 Km To Stop Delhi Influencer's Wedding, Dies After Being Thrashed",
-        "summary": "Delhi influencer's father, neighbour arrested after Chennai man dies following an alleged assault.",
-        "link": "https://www.ndtvprofit.com/india/man-travels-2-100-km-to-stop-delhi-influencer-wedding-dies-after-being-thrashed-12354905#publisher=newsstand",
+        "id": "8b9bd8b992",
+        "title": "'Will You Marry Me?': Australian MP Jordan Lane's Final Speech In Parliament Ends With Marriage Proposal",
+        "summary": "Screengrab",
+        "link": "https://www.ndtvprofit.com/trending/will-you-marry-me-australian-mp-jordan-lanes-final-speech-in-parliament-ends-with-marriage-proposal-12356136#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/man-travels-2-100-km-to-stop-delhi-influencer-wedding-dies-after-being-thrashed-12354905#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/trending/will-you-marry-me-australian-mp-jordan-lanes-final-speech-in-parliament-ends-with-marriage-proposal-12356136#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:55:08 +0530",
+        "published": "Fri, 20 Nov 2026 22:55:59 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1422,7 +1535,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Delhi influencer's father, neighbour arrested after Chennai man dies following an alleged assault.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Screengrab",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1430,45 +1543,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "5c532957fa",
-        "title": "Tukaram Mundhe-Led Maharashtra FDA Targets Steroids In Supplements, Seizes Stock Worth Rs 1.38 Crore",
-        "summary": "The order covers 1,100 existing food business licence holders, including 313 manufacturers, 759 relabellers and 28 repackers.",
-        "link": "https://www.ndtvprofit.com/india/tukaram-mundhe-led-maharashtra-fda-targets-steroids-in-supplements-seizes-stock-worth-rs-1-38-crore-12355650#publisher=newsstand",
+        "id": "5f8f02015a",
+        "title": "SEBI's FPI Rule Rollback: Three Major Shifts For Foreign Funds—And Why Indian Markets Care",
+        "summary": "SEBI proposes easing FPI disclosure rules as foreign investors pull billions out of Indian equities.",
+        "link": "https://www.ndtvprofit.com/markets/sebis-fpi-rule-rollback-three-major-shifts-for-foreign-funds-and-why-indian-markets-care-12356159#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/tukaram-mundhe-led-maharashtra-fda-targets-steroids-in-supplements-seizes-stock-worth-rs-1-38-crore-12355650#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/markets/sebis-fpi-rule-rollback-three-major-shifts-for-foreign-funds-and-why-indian-markets-care-12356159#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:49:55 +0530",
-        "sector": "General Markets",
+        "published": "Fri, 20 Nov 2026 22:51:17 +0530",
+        "sector": "Global & Macro",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The order covers 1,100 existing food business licence holders, including 313 manufacturers, 759 relabellers and 28 repackers.",
+        "in_simple_words": "Not a big mover either way for global & macro right now. SEBI proposes easing FPI disclosure rules as foreign investors pull billions out of Indian equities.",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
         ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "72e84d941d",
-        "title": "WWE SmackDown Tonight: Match Card, India Start Time And Live Streaming Details",
-        "summary": "Cody Rhodes is set to announce the final member of Team USA ahead of Survivor Series: WarGames 2026.",
-        "link": "https://www.ndtvprofit.com/sports/wwe-smackdown-tonight-match-card-india-start-time-and-live-streaming-details-12354773#publisher=newsstand",
+        "id": "315678d758",
+        "title": "Vijay's Emotional Goodbye To MLA Who Defeated MK Stalin: Carries VS Babu's Bier, Walks 2.3 Km Barefoot",
+        "summary": "Tamil Nadu Chief Minister C Joseph Vijay and others carry the mortal remains of late TVK Kolathur MLA VS Babu during funeral procession in Chennai on Friday.",
+        "link": "https://www.ndtvprofit.com/india/tamil-nadu-cm-vijays-emotional-goodbye-to-mla-who-defeated-mk-stalin-carries-vs-babus-bier-walks-2-3-km-barefoot-12356096#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/wwe-smackdown-tonight-match-card-india-start-time-and-live-streaming-details-12354773#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/india/tamil-nadu-cm-vijays-emotional-goodbye-to-mla-who-defeated-mk-stalin-carries-vs-babus-bier-walks-2-3-km-barefoot-12356096#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:30:01 +0530",
+        "published": "Fri, 20 Nov 2026 22:45:49 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1476,34 +1589,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Cody Rhodes is set to announce the final member of Team USA ahead of Survivor Series: WarGames 2026.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "0aa7bc2139",
-        "title": "UEFA Nations League: Spain To Face France, England Draw Norway In March QFs - Check Full Draw",
-        "summary": "Spain, France, England, Norway, Portugal, the Netherlands, Germany and Belgium will compete for places in the Nations League final tournament.",
-        "link": "https://www.ndtvprofit.com/sports/uefa-nations-league-spain-to-face-france-england-draw-norway-in-march-quarterfinals-check-full-draw-12355495#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/uefa-nations-league-spain-to-face-france-england-draw-norway-in-march-quarterfinals-check-full-draw-12355495#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:20:49 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Spain, France, England, Norway, Portugal, the Netherlands, Germany and Belgium will compete for places in the Nations League final tournament.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Tamil Nadu Chief Minister C Joseph Vijay and others carry the mortal remains of late TVK Kolathur MLA VS Babu during funeral procession in Chennai on Friday.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1512,87 +1598,6 @@
       }
     ],
     "startups": [
-      {
-        "id": "57dcc15039",
-        "title": "‘My dream is to make WeWork India the default choice for workspaces’",
-        "summary": "CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportunities, and his ambitions for the business.",
-        "link": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 01:45:00 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportunities, and his ambiti",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "8914c80b0a",
-        "title": "How Dhruv Sayani built Ccigmaa Lifestyles into a five-brand personal care business",
-        "summary": "How Dhruv Sayani built Ccigmaa Lifestyle into a four-brand personal care business\n\n\n\n\n\n\n\nHair and water composition can change significantly every 100 kilometres across India, affecting how haircare products perform. It was this observation, made while researching premature greyi",
-        "link": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business"
-          }
-        ],
-        "published": "Thu, 19 Nov 2026 13:24:51 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. How Dhruv Sayani built Ccigmaa Lifestyle into a four-brand personal care business\n\n\n\n\n\n\n\nHair and water composition can change significantly every 100 kilometres across India, affecting how haircare p",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "e626d316b3",
-        "title": "GTA 6 is rated 17+: What Indian parents should know before letting their children play",
-        "summary": "Graphic violence, nudity, sexual content and drug use feature in Grand Theft Auto VI's age-rating disclosures. As the highly anticipated game draws global attention, Indian parents face a familiar question: Should teenagers be allowed to play it?",
-        "link": "https://yourstory.com/2026/11/gta-6-is-rated-17-what-indian-parents-should-know-before-letting-their-children-play",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/gta-6-is-rated-17-what-indian-parents-should-know-before-letting-their-children-play"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 09:20:38 GMT",
-        "sector": "Medicine & Pharma",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for medicine & pharma right now. Graphic violence, nudity, sexual content and drug use feature in Grand Theft Auto VI's age-rating disclosures. As the highly anticipated game draws global attention, Indian parents face a familiar que",
-        "means_for_you": [
-          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
-        ],
-        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
-        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
-      },
       {
         "id": "0c763d166b",
         "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
@@ -1648,6 +1653,87 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "c251fd9461",
+        "title": "Bike taxi services in Karnataka get a boost after Supreme Court ruling",
+        "summary": "The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service.",
+        "link": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 12:48:10 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "6b14dee68b",
+        "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+        "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum.",
+        "link": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 10:54:50 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gat",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "8914c80b0a",
+        "title": "How Dhruv Sayani built Ccigmaa Lifestyles into a five-brand personal care business",
+        "summary": "How Dhruv Sayani built Ccigmaa Lifestyle into a four-brand personal care business\n\n\n\n\n\n\n\nHair and water composition can change significantly every 100 kilometres across India, affecting how haircare products perform. It was this observation, made while researching premature greyi",
+        "link": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business"
+          }
+        ],
+        "published": "Thu, 19 Nov 2026 13:24:51 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. How Dhruv Sayani built Ccigmaa Lifestyle into a four-brand personal care business\n\n\n\n\n\n\n\nHair and water composition can change significantly every 100 kilometres across India, affecting how haircare p",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "d361b4cb43",
         "title": "5 Books from Bill Gates' latest reading list before 2026 end",
         "summary": "Explore five books recommended by Bill Gates, covering science, history, personal growth, and big ideas worth exploring before 2026 ends.",
@@ -1675,18 +1761,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "d4d1994160",
-        "title": "7 Bryan Johnson longevity habits anyone can afford",
-        "summary": "Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management.",
-        "link": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford",
+        "id": "e626d316b3",
+        "title": "GTA 6 is rated 17+: What Indian parents should know before letting their children play",
+        "summary": "Graphic violence, nudity, sexual content and drug use feature in Grand Theft Auto VI's age-rating disclosures. As the highly anticipated game draws global attention, Indian parents face a familiar question: Should teenagers be allowed to play it?",
+        "link": "https://yourstory.com/2026/11/gta-6-is-rated-17-what-indian-parents-should-know-before-letting-their-children-play",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford"
+            "url": "https://yourstory.com/2026/11/gta-6-is-rated-17-what-indian-parents-should-know-before-letting-their-children-play"
           }
         ],
-        "published": "Fri, 20 Nov 2026 11:21:53 GMT",
+        "published": "Fri, 20 Nov 2026 09:20:38 GMT",
+        "sector": "Medicine & Pharma",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for medicine & pharma right now. Graphic violence, nudity, sexual content and drug use feature in Grand Theft Auto VI's age-rating disclosures. As the highly anticipated game draws global attention, Indian parents face a familiar que",
+        "means_for_you": [
+          "Keep an eye on Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma — sentiment here is currently supportive."
+        ],
+        "why_matters": "Pharma is largely export-driven (US generics), so it reacts sharply to USFDA plant approvals or warning letters — usually stock-specific, not index-wide.",
+        "watch": "Sun Pharma, Cipla, Dr Reddy's, Nifty Pharma"
+      },
+      {
+        "id": "57dcc15039",
+        "title": "‘My dream is to make WeWork India the default choice for workspaces’",
+        "summary": "CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportunities, and his ambitions for the business.",
+        "link": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 01:45:00 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1694,89 +1807,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "cb06c888d8",
-        "title": "India ties for APAC’s highest phishing rate as employee awareness gaps emerge: Kaspersky",
-        "summary": "India and Indonesia share APAC's highest reported phishing rate, but the survey's 70% employee-awareness finding points to a broader weakness in business cyber resilience.",
-        "link": "https://yourstory.com/2026/11/india-ties-for-apac-highest-phishing-rate-employee-awareness-gaps-emerge-kaspersky",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/india-ties-for-apac-highest-phishing-rate-employee-awareness-gaps-emerge-kaspersky"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 13:05:08 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Bearish",
-          "score": -1
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. India and Indonesia share APAC's highest reported phishing rate, but the survey's 70% employee-awareness finding points to a broader weakness in business cyber resilience.",
-        "means_for_you": [
-          "Nifty 50, Sensex may see near-term pressure.",
-          "Worth watching before adding fresh positions."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "f213cc0d8c",
-        "title": "EPFO approves systematic withdrawal plan for retiring members",
-        "summary": "Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
-        "link": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members"
-          }
-        ],
-        "published": "Thu, 19 Nov 2026 13:13:53 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "c638d26187",
-        "title": "Amazon Prime India head Abhinav Agarwal steps down after 16 years",
-        "summary": "Abhinav Agarwal has been director of product and engineering at Amazon Prime in Bengaluru since October 2021, leading the product, marketing and engineering teams responsible for growing Amazon's Prime programme in India.",
-        "link": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years",
-        "source": "YourStory",
-        "sources": [
-          {
-            "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 05:00:01 GMT",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Abhinav Agarwal has been director of product and engineering at Amazon Prime in Bengaluru since October 2021, leading the product, marketing and engineering teams responsible for growing Amazon's Prim",
+        "in_simple_words": "Not a big mover either way for general markets right now. CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportunities, and his ambiti",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1811,26 +1842,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2df4258f11",
-        "title": "Meet the 8 women powering India’s deeptech future; Anthropic raises a record $81.3B in IPO",
-        "summary": "On Women’s Entrepreneurship Day, we look at women founders pushing the boundaries of Indian deeptech, building frontier technologies, and opening new possibilities for innovation and entrepreneurship.",
-        "link": "https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo",
+        "id": "f213cc0d8c",
+        "title": "EPFO approves systematic withdrawal plan for retiring members",
+        "summary": "Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
+        "link": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo"
+            "url": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members"
           }
         ],
-        "published": "Fri, 20 Nov 2026 02:00:00 GMT",
+        "published": "Thu, 19 Nov 2026 13:13:53 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
           "score": 0
         },
-        "is_ai_related": false,
+        "is_ai_related": true,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. On Women’s Entrepreneurship Day, we look at women founders pushing the boundaries of Indian deeptech, building frontier technologies, and opening new possibilities for innovation and entrepreneurship.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1838,18 +1869,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "5357ba2963",
-        "title": "Karnataka aims to raise its share in aerospace, defence sector to 75%: Minister",
-        "summary": "Industries Minister M B Patil said that the government is ready to support the creation of all necessary infrastructure and facilities, including Common Facility Centres, to facilitate investments in the aerospace sector.",
-        "link": "https://yourstory.com/2026/11/karnataka-aims-to-raise-its-share-in-aerospace-defence-sector-to-75-per-cent-minister",
+        "id": "524bac2e85",
+        "title": "Vembu flags possible US immigration reversal, says it could revive housing demand",
+        "summary": "Sridhar Vembu warns that a possible US immigration policy reversal could restore population-driven demand in housing and other sectors.",
+        "link": "https://yourstory.com/2026/11/vembu-flags-possible-us-immigration-reversal-could-revive-housing-demand",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/karnataka-aims-to-raise-its-share-in-aerospace-defence-sector-to-75-per-cent-minister"
+            "url": "https://yourstory.com/2026/11/vembu-flags-possible-us-immigration-reversal-could-revive-housing-demand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 05:08:27 GMT",
+        "published": "Fri, 20 Nov 2026 05:12:48 GMT",
         "sector": "Real Estate/Housing",
         "sentiment": {
           "label": "Neutral",
@@ -1857,7 +1888,7 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for real estate/housing right now. Industries Minister M B Patil said that the government is ready to support the creation of all necessary infrastructure and facilities, including Common Facility Centres, to facilitate investments in",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Sridhar Vembu warns that a possible US immigration policy reversal could restore population-driven demand in housing and other sectors.",
         "means_for_you": [
           "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
         ],
@@ -1865,18 +1896,18 @@
         "watch": "Realty Index, DLF, cement and construction names"
       },
       {
-        "id": "c251fd9461",
-        "title": "Bike taxi services in Karnataka get a boost after Supreme Court ruling",
-        "summary": "The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service.",
-        "link": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling",
+        "id": "c638d26187",
+        "title": "Amazon Prime India head Abhinav Agarwal steps down after 16 years",
+        "summary": "Abhinav Agarwal has been director of product and engineering at Amazon Prime in Bengaluru since October 2021, leading the product, marketing and engineering teams responsible for growing Amazon's Prime programme in India.",
+        "link": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years",
         "source": "YourStory",
         "sources": [
           {
             "name": "YourStory",
-            "url": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling"
+            "url": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years"
           }
         ],
-        "published": "Fri, 20 Nov 2026 12:48:10 GMT",
+        "published": "Fri, 20 Nov 2026 05:00:01 GMT",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -1884,7 +1915,34 @@
         },
         "is_ai_related": false,
         "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Abhinav Agarwal has been director of product and engineering at Amazon Prime in Bengaluru since October 2021, leading the product, marketing and engineering teams responsible for growing Amazon's Prim",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "d4d1994160",
+        "title": "7 Bryan Johnson longevity habits anyone can afford",
+        "summary": "Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management.",
+        "link": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 11:21:53 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -1912,6 +1970,60 @@
         "is_ai_related": false,
         "page": "startups",
         "in_simple_words": "Not a big mover either way for real estate/housing right now. Urban Company's QIP saw participation from domestic and overseas investors. The proceeds of the issue will be used to build the supply ecosystem for on-demand household help services InstaHelp and on",
+        "means_for_you": [
+          "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
+        ],
+        "why_matters": "Rate-sensitive sector — project financing costs move directly with RBI policy and bond yields.",
+        "watch": "Realty Index, DLF, cement and construction names"
+      },
+      {
+        "id": "35b319fba3",
+        "title": "Eazeebox co-founder Srinivas Shanbhogue passes away",
+        "summary": "Shanbhogue spent two decades at Schneider Electric before building Eazeebox, a Bengaluru startup that helps neighbourhood electrical shops restock from multiple brands through a single app.",
+        "link": "https://yourstory.com/2026/11/eazeebox-co-founder-srinivas-shanbhogue-passes-away",
+        "source": "YourStory",
+        "sources": [
+          {
+            "name": "YourStory",
+            "url": "https://yourstory.com/2026/11/eazeebox-co-founder-srinivas-shanbhogue-passes-away"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 08:17:45 GMT",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for general markets right now. Shanbhogue spent two decades at Schneider Electric before building Eazeebox, a Bengaluru startup that helps neighbourhood electrical shops restock from multiple brands through a single app.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "109962b27d",
+        "title": "Polygon Expands Cross-Border Payments Push, Onboards Nuvera",
+        "summary": "Nuvera has joined Polygon’s Open Money Stack (OMS). With this, the US-based payments infrastructure provider will leverage the L2 blockchain&#8230;",
+        "link": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
+        "source": "Inc42",
+        "sources": [
+          {
+            "name": "Inc42",
+            "url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 21:19:07 +0000",
+        "sector": "Real Estate/Housing",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "startups",
+        "in_simple_words": "Not a big mover either way for real estate/housing right now. Nuvera has joined Polygon’s Open Money Stack (OMS). With this, the US-based payments infrastructure provider will leverage the L2 blockchain&#8230;",
         "means_for_you": [
           "Keep an eye on Realty Index, DLF, cement and construction names — sentiment here is currently supportive."
         ],
@@ -2295,33 +2407,6 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "7375b937ca",
-        "title": "NEPRA Raises ₹110 Cr To Expand Plastic Recycling Capacity",
-        "summary": "Ahmedabad-based waste management startup NEPRA has raised ₹110 Cr (about $11.7 Mn) in an equity funding round from the Private&#8230;",
-        "link": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/",
-        "source": "Inc42",
-        "sources": [
-          {
-            "name": "Inc42",
-            "url": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/"
-          }
-        ],
-        "published": "Thu, 19 Nov 2026 13:07:06 +0000",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "startups",
-        "in_simple_words": "Not a big mover either way for general markets right now. Ahmedabad-based waste management startup NEPRA has raised ₹110 Cr (about $11.7 Mn) in an equity funding round from the Private&#8230;",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ],
     "pe_ib": [
@@ -2378,6 +2463,33 @@
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "b092405970",
+        "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+        "summary": "ANTHROPIC-IPO/BANK FEES (ANALYSIS):ANALYSIS-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+        "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 00:28:20 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "pe_ib",
+        "in_simple_words": "Not a big mover either way for banks & money right now. ANTHROPIC-IPO/BANK FEES (ANALYSIS):ANALYSIS-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
         "id": "c0f12aa16d",
@@ -2460,114 +2572,6 @@
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "cf28fe7cc5",
-        "title": "Adani Green Energy, Adani Power to Adani Ports: Jefferies bullish on 5 Adani shares; sees up to 43% rally | Target price",
-        "summary": "Jefferies India stock recomendations: Adani Enterprises and Adani Energy Solutions are other two Gautam Adani-owned shares recommended by the global investment bank",
-        "link": "https://www.livemint.com/market/stock-market-news/adani-green-energy-adani-power-to-adani-ports-jefferies-bullish-on-5-adani-shares-sees-up-to-43-rally-target-price-11795173332667.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/adani-green-energy-adani-power-to-adani-ports-jefferies-bullish-on-5-adani-shares-sees-up-to-43-rally-target-price-11795173332667.html"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 17:40:10 +0530",
-        "sector": "Banks & Money",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 4
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "This is good news for banks & money — sentiment turned more positive. Jefferies India stock recomendations: Adani Enterprises and Adani Energy Solutions are other two Gautam Adani-owned shares recommended by the global investment bank",
-        "means_for_you": [
-          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
-        ],
-        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
-        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
-      },
-      {
-        "id": "bc1c2d356f",
-        "title": "Anthropic Sinks 10% On First Full-Day Of Trading Post Nasdaq Debut As AI Jitters Spooks Wall Street",
-        "summary": "Anthropic shares fell nearly 9% as AI-related concerns weighed on Wall Street after its IPO.",
-        "link": "https://www.ndtvprofit.com/markets/anthropic-sinks-9-on-first-full-day-of-trading-post-nasdaq-debut-as-ai-jitters-spooks-wall-street-12355484#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/anthropic-sinks-9-on-first-full-day-of-trading-post-nasdaq-debut-as-ai-jitters-spooks-wall-street-12355484#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:53:06 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Anthropic shares fell nearly 9% as AI-related concerns weighed on Wall Street after its IPO.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "35801ec917",
-        "title": "Anthropic Shares Fall 10% Pre-Market After Historic Nasdaq Debut: What It Means For AI Stocks",
-        "summary": "Anthropic shares had advanced up to 39% from its IPO price on Thursday and erased more than half of the gains, closing 17% higher.",
-        "link": "https://www.ndtvprofit.com/markets/anthropic-shares-fall-6-pre-market-after-historic-nasdaq-debut-what-it-means-for-ai-stocks-12353915#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/anthropic-shares-fall-6-pre-market-after-historic-nasdaq-debut-what-it-means-for-ai-stocks-12353915#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:33:38 +0530",
-        "sector": "Global & Macro",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for global & macro right now. Anthropic shares had advanced up to 39% from its IPO price on Thursday and erased more than half of the gains, closing 17% higher.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-        ],
-        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-      },
-      {
-        "id": "a57f0c4f05",
-        "title": "SEBI Approves Arohan Financial Services, Pristine Logistics To Float IPOs: Check Issue Details",
-        "summary": "Both companies have received SEBI's observations on their IPO papers.",
-        "link": "https://www.ndtvprofit.com/markets/sebi-approves-arohan-financial-services-pristine-logistics-to-float-ipos-check-issue-details-12355419#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/sebi-approves-arohan-financial-services-pristine-logistics-to-float-ipos-check-issue-details-12355419#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:14:24 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "pe_ib",
-        "in_simple_words": "Not a big mover either way for general markets right now. Both companies have received SEBI's observations on their IPO papers.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
       }
     ]
   },
@@ -3008,6 +3012,115 @@
         "watch": "Nifty 50, Sensex"
       },
       {
+        "id": "176e108be3",
+        "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+        "summary": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+        "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 04:09:19 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -2
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals marke",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "f8a02a35e0",
+        "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "summary": "GLOBAL-FOREX:Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:39:14 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. GLOBAL-FOREX:Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "214937c7fc",
+        "title": "AI tech rout prompts US investors to rush into value stocks",
+        "summary": "USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+        "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:38:12 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "6714d4a4ab",
+        "title": "Smallcap dividend stars: 5 stocks under  ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
+        "summary": "Jagran Prakashan and IL&amp;amp;FS Investment Managers lead a group of small-cap stocks trading below  ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;amp;FS at 15.9%, Radiant Cash Management at 7.9%, Gateway Distriparks at 7.6% and Balmer L",
+        "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:32:19 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. Jagran Prakashan and IL&amp;amp;FS Investment Managers lead a group of small-cap stocks trading below  ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;amp;FS at",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
         "id": "c1d48d7919",
         "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE",
         "summary": "SEBI has proposed reviewing its Additional Disclosure Framework for foreign portfolio investors, which currently requires certain funds to disclose ownership, economic interests, and control down to individual beneficiaries.",
@@ -3089,18 +3202,45 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "29bab2cdbd",
-        "title": "Power stocks to buy: Why Axis Sec is betting on NTPC and JSW Energy shares post Q2 results? Check targets, rationale",
-        "summary": "Axis Securities named NTPC and JSW Energy its top power-sector picks after Q2 results, assigning both Buy ratings and target prices of  ₹370 and  ₹590, respectively, for 15% potential upside.&amp;nbsp;",
-        "link": "https://www.livemint.com/market/stock-market-news/power-stocks-to-buy-why-axis-sec-is-betting-on-ntpc-and-jsw-energy-shares-post-q2-results-check-targets-rationale-11795169287632.html",
-        "source": "LiveMint Markets",
+        "id": "ad7a5785d9",
+        "title": "ILT20 2026-27 Full Schedule And Live Streaming: Check All Fixtures, Dates, Timings, Venues",
+        "summary": "The fifth edition of the UAE-based T20 tournament will feature six teams and 34 matches, with defending champions Desert Vipers taking on MI Emirates in the opening fixture on November 21.",
+        "link": "https://www.ndtvprofit.com/sports/ilt20-2026-27-full-schedule-and-live-streaming-check-all-fixtures-dates-timings-venues-12353956#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/power-stocks-to-buy-why-axis-sec-is-betting-on-ntpc-and-jsw-energy-shares-post-q2-results-check-targets-rationale-11795169287632.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/ilt20-2026-27-full-schedule-and-live-streaming-check-all-fixtures-dates-timings-venues-12353956#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 16:38:34 +0530",
+        "published": "Sat, 21 Nov 2026 11:00:01 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for general markets right now. The fifth edition of the UAE-based T20 tournament will feature six teams and 34 matches, with defending champions Desert Vipers taking on MI Emirates in the opening fixture on November 21.",
+        "means_for_you": [
+          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "ce6343ff95",
+        "title": "354 Or 59? A Global AQI Tracker Named Srinagar World's Most Polluted City, But Govt Data Differs",
+        "summary": "Srinagar's AQI readings differ sharply, with AQI.in reporting 354 against CPCB's 59.",
+        "link": "https://www.ndtvprofit.com/india/354-or-59-a-global-aqi-tracker-named-srinagar-worlds-most-polluted-city-but-govt-data-differs-12356413#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/india/354-or-59-a-global-aqi-tracker-named-srinagar-worlds-most-polluted-city-but-govt-data-differs-12356413#publisher=newsstand"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 00:01:10 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
@@ -3108,7 +3248,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Axis Securities named NTPC and JSW Energy its top power-sector picks after Q2 results, assigning both Buy ratings and target prices of  ₹370 and  ₹590, respectively, for 15% potential upside.&amp;nbsp",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Srinagar's AQI readings differ sharply, with AQI.in reporting 354 against CPCB's 59.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3116,26 +3256,26 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "5e41658228",
-        "title": "NSE share price target: Up 37% from low, stock hits record high! Anand Rathi sees further upside, initiates with 'buy'",
-        "summary": "NSE shares hit a record  ₹2,251, gaining 28% in a month. Anand Rathi initiated coverage with a Buy rating and a  ₹2,381 target, citing the exchange’s dominant market position, strong competitive barriers and growth potential.",
-        "link": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-up-37-from-low-stock-hits-record-high-anand-rathi-sees-further-upside-initiates-with-buy-11795166679623.html",
-        "source": "LiveMint Markets",
+        "id": "faee189bf6",
+        "title": "Virat Kohli Left Behind As Yashasvi Jaiswal Creates WTC Record Against New Zealand",
+        "summary": "While Jaiswal climbed India's WTC run-scoring list, Rahul strengthened his position among the country's most successful overseas Test openers.",
+        "link": "https://www.ndtvprofit.com/sports/virat-kohli-left-behind-as-yashasvi-jaiswal-creates-wtc-record-against-new-zealand-12356393#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-up-37-from-low-stock-hits-record-high-anand-rathi-sees-further-upside-initiates-with-buy-11795166679623.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/sports/virat-kohli-left-behind-as-yashasvi-jaiswal-creates-wtc-record-against-new-zealand-12356393#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 15:23:05 +0530",
+        "published": "Fri, 20 Nov 2026 23:55:23 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bullish",
-          "score": 5
+          "score": 1
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. NSE shares hit a record  ₹2,251, gaining 28% in a month. Anand Rathi initiated coverage with a Buy rating and a  ₹2,381 target, citing the exchange’s dominant market position, strong competitive barri",
+        "in_simple_words": "This is good news for general markets — sentiment turned more positive. While Jaiswal climbed India's WTC run-scoring list, Rahul strengthened his position among the country's most successful overseas Test openers.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3143,45 +3283,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "575aadeddc",
-        "title": "AI-shy foreign money may turn to India's blue-chips",
-        "summary": "An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
-        "link": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 15:18:42 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": true,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "0fc2c492d3",
-        "title": "Mundhe's Big Warning To Gyms, Influencers: Selling Protein Powder Without A Licence Could Invite Rs 10 Lakh Fine",
-        "summary": "The crackdown follows inspections at 17 establishments across six divisions, during which products worth Rs 1.38 crore were seized.",
-        "link": "https://www.ndtvprofit.com/india/tukaram-mundhes-big-warning-to-gyms-influencers-selling-protein-powder-without-a-licence-could-invite-rs-10-lakh-fine-12355755#publisher=newsstand",
+        "id": "7265c7b7b3",
+        "title": "Hardik Pandya, Marcus Stoinis, Marco Jansen: Ponting On Punjab Kings' All-Rounder Challenge",
+        "summary": "With Hardik Pandya joining Marco Jansen, Marcus Stoinis and other all-rounders, PBKS believe they have a balanced squad for IPL 2027.",
+        "link": "https://www.ndtvprofit.com/sports/hardik-pandya-marcus-stoinis-marco-jansen-ponting-on-punjab-kings-all-rounder-challenge-12356325#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/tukaram-mundhes-big-warning-to-gyms-influencers-selling-protein-powder-without-a-licence-could-invite-rs-10-lakh-fine-12355755#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/sports/hardik-pandya-marcus-stoinis-marco-jansen-ponting-on-punjab-kings-all-rounder-challenge-12356325#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:19:34 +0530",
+        "published": "Fri, 20 Nov 2026 23:36:11 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3189,7 +3302,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The crackdown follows inspections at 17 establishments across six divisions, during which products worth Rs 1.38 crore were seized.",
+        "in_simple_words": "Not a big mover either way for general markets right now. With Hardik Pandya joining Marco Jansen, Marcus Stoinis and other all-rounders, PBKS believe they have a balanced squad for IPL 2027.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3197,18 +3310,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "2db7006917",
-        "title": "India’s FPI Norms Are Stricter Than US And UK. Now SEBI Wants To Roll Them Back",
-        "summary": "The proposal could ease compliance for overseas investors.",
-        "link": "https://www.ndtvprofit.com/markets/india-s-fpi-norms-are-stricter-than-us-and-uk-now-sebi-wants-to-roll-them-back-12355725#publisher=newsstand",
+        "id": "e28b0f1d3b",
+        "title": "Delhi-NCR To Lead India’s Rs 7.5 Lakh Crore Wedding Boom In 25 Days: Where The Money Goes",
+        "summary": "Delhi-NCR could account for nearly 5 lakh weddings.",
+        "link": "https://www.ndtvprofit.com/india/delhi-ncr-to-lead-india-s-rs-7-5-lakh-crore-wedding-boom-in-25-days-where-the-money-goes-12356299#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/india-s-fpi-norms-are-stricter-than-us-and-uk-now-sebi-wants-to-roll-them-back-12355725#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/india/delhi-ncr-to-lead-india-s-rs-7-5-lakh-crore-wedding-boom-in-25-days-where-the-money-goes-12356299#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:11:24 +0530",
+        "published": "Fri, 20 Nov 2026 23:28:37 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3216,7 +3329,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The proposal could ease compliance for overseas investors.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Delhi-NCR could account for nearly 5 lakh weddings.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3224,18 +3337,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "7b911da2e4",
-        "title": "Bengaluru Man Hammers Live-In Partner's 18-Year-Old Son To Death, Locks Her In Room For 4 Days",
-        "summary": "Bengaluru man accused of killing son of live-in partner and locking her in a room for four days.",
-        "link": "https://www.ndtvprofit.com/india/bengaluru-man-hammers-18-year-old-son-to-death-locks-wife-in-room-for-4-days-12355184#publisher=newsstand",
+        "id": "1b0d4bf217",
+        "title": "Indian National Nikhil Gupta Gets Nearly 20 Years In US Jail Over Khalistani Terrorist Pannun Murder Plot",
+        "summary": "Gupta pleaded guilty to conspiring to arrange Pannun's killing in New York; India has denied any involvement by its officials and rejected the allegations.",
+        "link": "https://www.ndtvprofit.com/world/indian-national-nikhil-gupta-gets-nearly-20-years-in-us-jail-over-khalistani-terrorist-gurpatwant-pannun-murder-plot-12356281#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/bengaluru-man-hammers-18-year-old-son-to-death-locks-wife-in-room-for-4-days-12355184#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/world/indian-national-nikhil-gupta-gets-nearly-20-years-in-us-jail-over-khalistani-terrorist-gurpatwant-pannun-murder-plot-12356281#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 21:11:17 +0530",
+        "published": "Fri, 20 Nov 2026 23:27:19 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3243,7 +3356,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Bengaluru man accused of killing son of live-in partner and locking her in a room for four days.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Gupta pleaded guilty to conspiring to arrange Pannun's killing in New York; India has denied any involvement by its officials and rejected the allegations.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3251,18 +3364,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "662ac3db71",
-        "title": "Salman Khan Makes Bhel, Serves 20 People Himself On Maatrubhumi Sets",
-        "summary": "Maatrubhumi: May War Rest In Peace",
-        "link": "https://www.ndtvprofit.com/entertainment/salman-khan-makes-bhel-serves-20-people-himself-on-maatrubhumi-sets-12355578#publisher=newsstand",
+        "id": "3c08c761d8",
+        "title": "Yashasvi Jaiswal IPL Trade Talks: Why RR Rejected Offers From LSG, DC",
+        "summary": "Despite being retained for IPL 2027, the Rajasthan Royals opener has reportedly expressed his desire to leave, with four franchises linked to a possible move.",
+        "link": "https://www.ndtvprofit.com/sports/yashasvi-jaiswal-ipl-trade-talks-why-rr-rejected-offers-from-lsg-dc-12356236#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/salman-khan-makes-bhel-serves-20-people-himself-on-maatrubhumi-sets-12355578#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/sports/yashasvi-jaiswal-ipl-trade-talks-why-rr-rejected-offers-from-lsg-dc-12356236#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:58:05 +0530",
+        "published": "Fri, 20 Nov 2026 23:08:07 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3270,7 +3383,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Maatrubhumi: May War Rest In Peace",
+        "in_simple_words": "Not a big mover either way for general markets right now. Despite being retained for IPL 2027, the Rajasthan Royals opener has reportedly expressed his desire to leave, with four franchises linked to a possible move.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3278,99 +3391,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "1e000fbdc1",
-        "title": "Man Travels 2,100 Km To Stop Delhi Influencer's Wedding, Dies After Being Thrashed",
-        "summary": "Delhi influencer's father, neighbour arrested after Chennai man dies following an alleged assault.",
-        "link": "https://www.ndtvprofit.com/india/man-travels-2-100-km-to-stop-delhi-influencer-wedding-dies-after-being-thrashed-12354905#publisher=newsstand",
+        "id": "c4bb02d498",
+        "title": "Flydubai Attack: NIA Probes Indian Links Of Omani Pilot Who Stabbed Captain Smit Machchhar",
+        "summary": "The official said the probe agency will also look into \"any Indian footprints\" of the Omani first officer of the flight, who had stabbed Captain Machchhar mid-air in an apparent attempt to hijack or cause the Israel-bound plane to crash.",
+        "link": "https://www.ndtvprofit.com/india/flydubai-attack-nia-probes-indian-links-of-omani-pilot-who-stabbed-captain-smit-machchhar-12356228#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/man-travels-2-100-km-to-stop-delhi-influencer-wedding-dies-after-being-thrashed-12354905#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/india/flydubai-attack-nia-probes-indian-links-of-omani-pilot-who-stabbed-captain-smit-machchhar-12356228#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:55:08 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Delhi influencer's father, neighbour arrested after Chennai man dies following an alleged assault.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "5c532957fa",
-        "title": "Tukaram Mundhe-Led Maharashtra FDA Targets Steroids In Supplements, Seizes Stock Worth Rs 1.38 Crore",
-        "summary": "The order covers 1,100 existing food business licence holders, including 313 manufacturers, 759 relabellers and 28 repackers.",
-        "link": "https://www.ndtvprofit.com/india/tukaram-mundhe-led-maharashtra-fda-targets-steroids-in-supplements-seizes-stock-worth-rs-1-38-crore-12355650#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/india/tukaram-mundhe-led-maharashtra-fda-targets-steroids-in-supplements-seizes-stock-worth-rs-1-38-crore-12355650#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:49:55 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. The order covers 1,100 existing food business licence holders, including 313 manufacturers, 759 relabellers and 28 repackers.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "72e84d941d",
-        "title": "WWE SmackDown Tonight: Match Card, India Start Time And Live Streaming Details",
-        "summary": "Cody Rhodes is set to announce the final member of Team USA ahead of Survivor Series: WarGames 2026.",
-        "link": "https://www.ndtvprofit.com/sports/wwe-smackdown-tonight-match-card-india-start-time-and-live-streaming-details-12354773#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/wwe-smackdown-tonight-match-card-india-start-time-and-live-streaming-details-12354773#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:30:01 +0530",
-        "sector": "General Markets",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Cody Rhodes is set to announce the final member of Team USA ahead of Survivor Series: WarGames 2026.",
-        "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-        ],
-        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-        "watch": "Nifty 50, Sensex"
-      },
-      {
-        "id": "cfdefdcbfc",
-        "title": "Scene Box Office Collection Day 15: Suriya Starrer Sees Drop As Film Enters Third Week",
-        "summary": "Scene released on November 6.",
-        "link": "https://www.ndtvprofit.com/entertainment/cinema-kollywood-movie-scene-box-office-collection-day-15-suriya-tamil-film-third-week-friday-earnings-12355423#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/cinema-kollywood-movie-scene-box-office-collection-day-15-suriya-tamil-film-third-week-friday-earnings-12355423#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 20:29:57 +0530",
+        "published": "Fri, 20 Nov 2026 23:06:07 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Bearish",
@@ -3378,7 +3410,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Scene released on November 6.",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. The official said the probe agency will also look into \"any Indian footprints\" of the Omani first officer of the flight, who had stabbed Captain Machchhar mid-air in an apparent attempt to hijack or c",
         "means_for_you": [
           "Nifty 50, Sensex may see near-term pressure.",
           "Worth watching before adding fresh positions."
@@ -3387,18 +3419,18 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "0aa7bc2139",
-        "title": "UEFA Nations League: Spain To Face France, England Draw Norway In March QFs - Check Full Draw",
-        "summary": "Spain, France, England, Norway, Portugal, the Netherlands, Germany and Belgium will compete for places in the Nations League final tournament.",
-        "link": "https://www.ndtvprofit.com/sports/uefa-nations-league-spain-to-face-france-england-draw-norway-in-march-quarterfinals-check-full-draw-12355495#publisher=newsstand",
+        "id": "8b9bd8b992",
+        "title": "'Will You Marry Me?': Australian MP Jordan Lane's Final Speech In Parliament Ends With Marriage Proposal",
+        "summary": "Screengrab",
+        "link": "https://www.ndtvprofit.com/trending/will-you-marry-me-australian-mp-jordan-lanes-final-speech-in-parliament-ends-with-marriage-proposal-12356136#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/sports/uefa-nations-league-spain-to-face-france-england-draw-norway-in-march-quarterfinals-check-full-draw-12355495#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/trending/will-you-marry-me-australian-mp-jordan-lanes-final-speech-in-parliament-ends-with-marriage-proposal-12356136#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:20:49 +0530",
+        "published": "Fri, 20 Nov 2026 22:55:59 +0530",
         "sector": "General Markets",
         "sentiment": {
           "label": "Neutral",
@@ -3406,7 +3438,7 @@
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for general markets right now. Spain, France, England, Norway, Portugal, the Netherlands, Germany and Belgium will compete for places in the Nations League final tournament.",
+        "in_simple_words": "Not a big mover either way for general markets right now. Screengrab",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
         ],
@@ -3414,28 +3446,56 @@
         "watch": "Nifty 50, Sensex"
       },
       {
-        "id": "191e8475fc",
-        "title": "Ramayana Box Office Collection Day 16: Nitesh Tiwari's Epic Continues Strong Run As Film Enters Third Week",
-        "summary": "Ramayana released on November 5, 2026",
-        "link": "https://www.ndtvprofit.com/entertainment/cinema-bollywood-movie-ramayana-box-office-collection-day-16-nitesh-tiwari-ranbir-kapoor-sai-pallavi-yash-film-third-week-friday-earnings-12355295#publisher=newsstand",
+        "id": "315678d758",
+        "title": "Vijay's Emotional Goodbye To MLA Who Defeated MK Stalin: Carries VS Babu's Bier, Walks 2.3 Km Barefoot",
+        "summary": "Tamil Nadu Chief Minister C Joseph Vijay and others carry the mortal remains of late TVK Kolathur MLA VS Babu during funeral procession in Chennai on Friday.",
+        "link": "https://www.ndtvprofit.com/india/tamil-nadu-cm-vijays-emotional-goodbye-to-mla-who-defeated-mk-stalin-carries-vs-babus-bier-walks-2-3-km-barefoot-12356096#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/entertainment/cinema-bollywood-movie-ramayana-box-office-collection-day-16-nitesh-tiwari-ranbir-kapoor-sai-pallavi-yash-film-third-week-friday-earnings-12355295#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/india/tamil-nadu-cm-vijays-emotional-goodbye-to-mla-who-defeated-mk-stalin-carries-vs-babus-bier-walks-2-3-km-barefoot-12356096#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:01:11 +0530",
+        "published": "Fri, 20 Nov 2026 22:45:49 +0530",
         "sector": "General Markets",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Neutral",
+          "score": 0
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for general markets — sentiment turned more positive. Ramayana released on November 5, 2026",
+        "in_simple_words": "Not a big mover either way for general markets right now. Tamil Nadu Chief Minister C Joseph Vijay and others carry the mortal remains of late TVK Kolathur MLA VS Babu during funeral procession in Chennai on Friday.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+        ],
+        "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+        "watch": "Nifty 50, Sensex"
+      },
+      {
+        "id": "72c74964d8",
+        "title": "Bitcoin Breaches $60,000, Slips 51% From Record High: Is The Worst Slump Since 2022 Nearing A Bottom?",
+        "summary": "Bitcoin's sell-off has intensified amid institutional withdrawals.",
+        "link": "https://www.ndtvprofit.com/crypto/bitcoin-below-60-000-in-steepest-correction-since-2022-bear-market-three-catalysts-that-may-drive-recovery-12356081#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/crypto/bitcoin-below-60-000-in-steepest-correction-since-2022-bear-market-three-catalysts-that-may-drive-recovery-12356081#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:43:18 +0530",
+        "sector": "General Markets",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Bitcoin's sell-off has intensified amid institutional withdrawals.",
+        "means_for_you": [
+          "Nifty 50, Sensex may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
         "watch": "Nifty 50, Sensex"
@@ -3472,7 +3532,7 @@
       },
       {
         "id": "f4a5601b66",
-        "title": "Nasdaq tumbles 650 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
+        "title": "Nasdaq crashes 5% at close, erasing 2026 gains; S&amp;P 500, Dow in correction: Stock Market Highlights",
         "summary": "",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
         "source": "Economic Times Markets",
@@ -3485,14 +3545,15 @@
         "published": "Fri, 20 Nov 2026 18:39:00 +0530",
         "sector": "Global & Macro",
         "sentiment": {
-          "label": "Neutral",
-          "score": 0
+          "label": "Bearish",
+          "score": -1
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for global & macro right now.",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative.",
         "means_for_you": [
-          "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
@@ -3633,26 +3694,54 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "7f1fa57fc1",
-        "title": "NSE record: With  ₹5.6 lakh cr mcap, overtakes HKEX, Nasdaq to become world's 5th-largest listed exchange ​- top 5 list",
-        "summary": "NSE’s market capitalisation reached  ₹5.56 lakh crore, making it the world’s fifth-most valuable listed exchange, ahead of HKEX and Nasdaq. A November rally lifted its shares 24.6%, while the exchange also became India’s ninth-largest listed company.",
-        "link": "https://www.livemint.com/market/stock-market-news/nse-record-with-rs-5-6-lakh-cr-mcap-overtakes-hkex-nasdaq-to-become-worlds-5th-largest-listed-exchange-top-5-list-11795168082205.html",
-        "source": "LiveMint Markets",
+        "id": "8014088405",
+        "title": "Three Reasons Why US Stock Markets Are Falling: Nasdaq Turns Negative For 2026, S&P Down 2%",
+        "summary": "Nasdaq 100 declined 990 points, or 3.75% to 25,524.20 and S&amp;P 500 dropped 144 points, or 2.15%, to 7,021.44, while, the Dow Jones Industrial Average traded 0.63% or 333 points lower at 48,763.86.",
+        "link": "https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-markets-are-falling-nasdaq-turns-negative-for-2026-s-p-down-1-3-12356047#publisher=newsstand",
+        "source": "NDTV Profit Markets",
         "sources": [
           {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/stock-market-news/nse-record-with-rs-5-6-lakh-cr-mcap-overtakes-hkex-nasdaq-to-become-worlds-5th-largest-listed-exchange-top-5-list-11795168082205.html"
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-markets-are-falling-nasdaq-turns-negative-for-2026-s-p-down-1-3-12356047#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 16:17:15 +0530",
+        "published": "Fri, 20 Nov 2026 22:56:18 +0530",
         "sector": "Global & Macro",
         "sentiment": {
-          "label": "Bullish",
-          "score": 1
+          "label": "Bearish",
+          "score": -3
         },
         "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is good news for global & macro — sentiment turned more positive. NSE’s market capitalisation reached  ₹5.56 lakh crore, making it the world’s fifth-most valuable listed exchange, ahead of HKEX and Nasdaq. A November rally lifted its shares 24.6%, while the exchange",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Nasdaq 100 declined 990 points, or 3.75% to 25,524.20 and S&amp;P 500 dropped 144 points, or 2.15%, to 7,021.44, while, the Dow Jones Industrial Average traded 0.63% or 333 points lower at 48,763.86.",
+        "means_for_you": [
+          "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
+          "Worth watching before adding fresh positions."
+        ],
+        "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
+        "watch": "Nifty 50, Sensex, USD-INR, India VIX"
+      },
+      {
+        "id": "5f8f02015a",
+        "title": "SEBI's FPI Rule Rollback: Three Major Shifts For Foreign Funds—And Why Indian Markets Care",
+        "summary": "SEBI proposes easing FPI disclosure rules as foreign investors pull billions out of Indian equities.",
+        "link": "https://www.ndtvprofit.com/markets/sebis-fpi-rule-rollback-three-major-shifts-for-foreign-funds-and-why-indian-markets-care-12356159#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/sebis-fpi-rule-rollback-three-major-shifts-for-foreign-funds-and-why-indian-markets-care-12356159#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 22:51:17 +0530",
+        "sector": "Global & Macro",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for global & macro right now. SEBI proposes easing FPI disclosure rules as foreign investors pull billions out of Indian equities.",
         "means_for_you": [
           "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
         ],
@@ -3660,26 +3749,26 @@
         "watch": "Nifty 50, Sensex, USD-INR, India VIX"
       },
       {
-        "id": "56e2454ee4",
-        "title": "US Stock Market Today: Wall Street In Red As Anthropic-Led AI Rout Drags Nasdaq, Dow Nears Correction",
-        "summary": "Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
-        "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand",
+        "id": "bdab4fb6ec",
+        "title": "Rupee Settles Above 93 Level After 7 Months On FII Flows, Weak Crude; Gains 70 Paise To 92.62/USD",
+        "summary": "Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the US and markets like Taiwan and South Korea.",
+        "link": "https://www.ndtvprofit.com/markets/rupee-settles-above-93-level-after-7-months-on-fii-flows-weak-crude-gains-70-paise-to-92-62-usd-12356158#publisher=newsstand",
         "source": "NDTV Profit Markets",
         "sources": [
           {
             "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand"
+            "url": "https://www.ndtvprofit.com/markets/rupee-settles-above-93-level-after-7-months-on-fii-flows-weak-crude-gains-70-paise-to-92-62-usd-12356158#publisher=newsstand"
           }
         ],
-        "published": "Fri, 20 Nov 2026 20:39:42 +0530",
+        "published": "Fri, 20 Nov 2026 22:47:46 +0530",
         "sector": "Global & Macro",
         "sentiment": {
           "label": "Bearish",
-          "score": -2
+          "score": -1
         },
-        "is_ai_related": true,
+        "is_ai_related": false,
         "page": "stock_market",
-        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
+        "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the US and m",
         "means_for_you": [
           "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
           "Worth watching before adding fresh positions."
@@ -3800,6 +3889,33 @@
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
       },
       {
+        "id": "aa915d8990",
+        "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+        "summary": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich insurance firms hunt for high-yielding debt.",
+        "link": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+        "source": "LiveMint Markets",
+        "sources": [
+          {
+            "name": "LiveMint Markets",
+            "url": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html"
+          }
+        ],
+        "published": "Sat, 21 Nov 2026 01:47:33 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Neutral",
+          "score": 0
+        },
+        "is_ai_related": true,
+        "page": "stock_market",
+        "in_simple_words": "Not a big mover either way for banks & money right now. Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap ma",
+        "means_for_you": [
+          "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
         "id": "9e19e6809c",
         "title": "Pulse of the Street: Dalal Street extends winning run as global markets slide",
         "summary": "Foreign buying and a rally in bank stocks lifted Indian equities for a fourth straight week, but a broader global selloff could weigh on gains.",
@@ -3876,6 +3992,34 @@
         "in_simple_words": "Not a big mover either way for banks & money right now. Shriram Finance will replace Trent in the 30-stock BSE Sensex, with the change taking effect on December 21, 2026. The reshuffle also adds five companies to the BSE 100, while Punjab National Bank, Go",
         "means_for_you": [
           "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+        ],
+        "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+        "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+      },
+      {
+        "id": "4d73cb9d05",
+        "title": "Forex Reserves Drop $14.2 Billion To $705.34 Billion",
+        "summary": "During the week ended November 13, foreign currency assets, a major component of reserves, decreased USD 7.897 billion to USD 583.452 billion, according to the data released by the Reserve Bank of India (RBI).",
+        "link": "https://www.ndtvprofit.com/markets/forex-reserves-drop-14-2-billion-to-705-34-billion-12356237#publisher=newsstand",
+        "source": "NDTV Profit Markets",
+        "sources": [
+          {
+            "name": "NDTV Profit Markets",
+            "url": "https://www.ndtvprofit.com/markets/forex-reserves-drop-14-2-billion-to-705-34-billion-12356237#publisher=newsstand"
+          }
+        ],
+        "published": "Fri, 20 Nov 2026 23:09:06 +0530",
+        "sector": "Banks & Money",
+        "sentiment": {
+          "label": "Bearish",
+          "score": -1
+        },
+        "is_ai_related": false,
+        "page": "stock_market",
+        "in_simple_words": "This is a caution sign for banks & money — sentiment turned more negative. During the week ended November 13, foreign currency assets, a major component of reserves, decreased USD 7.897 billion to USD 583.452 billion, according to the data released by the Reserve Bank of Ind",
+        "means_for_you": [
+          "HDFC Bank, ICICI Bank, SBI, Bank Nifty may see near-term pressure.",
+          "Worth watching before adding fresh positions."
         ],
         "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
         "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
@@ -3959,60 +4103,6 @@
         "is_ai_related": false,
         "page": "stock_market",
         "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With ret",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "1db3e69aaf",
-        "title": "Nifty set to test record high in a month after toppling key hurdle",
-        "summary": "Oil and its inflationary impact to determine sustenance of rally.",
-        "link": "https://www.livemint.com/market/nifty-set-to-test-record-high-in-a-month-after-toppling-key-hurdle-11795164473722.html",
-        "source": "LiveMint Markets",
-        "sources": [
-          {
-            "name": "LiveMint Markets",
-            "url": "https://www.livemint.com/market/nifty-set-to-test-record-high-in-a-month-after-toppling-key-hurdle-11795164473722.html"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 17:05:20 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Bullish",
-          "score": 2
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "This is good news for energy & oil — sentiment turned more positive. Oil and its inflationary impact to determine sustenance of rally.",
-        "means_for_you": [
-          "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
-        ],
-        "why_matters": "This sector tracks Brent crude prices closely — rising crude squeezes margins and widens India's import bill; falling crude does the opposite.",
-        "watch": "Reliance Industries, ONGC, oil marketing companies"
-      },
-      {
-        "id": "0243906e8a",
-        "title": "Nvidia Turmoil Leaves Few Stock Market Winners In Sea Of Losers",
-        "summary": "Nvidia shares have shed more than 29% since the end of October, when the news hit that Huang had an affair with a woman who is suspected of spying for China, wiping out $1.4 trillion of market value in a few weeks.",
-        "link": "https://www.ndtvprofit.com/markets/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers-12355744#publisher=newsstand",
-        "source": "NDTV Profit Markets",
-        "sources": [
-          {
-            "name": "NDTV Profit Markets",
-            "url": "https://www.ndtvprofit.com/markets/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers-12355744#publisher=newsstand"
-          }
-        ],
-        "published": "Fri, 20 Nov 2026 21:09:52 +0530",
-        "sector": "Energy & Oil",
-        "sentiment": {
-          "label": "Neutral",
-          "score": 0
-        },
-        "is_ai_related": false,
-        "page": "stock_market",
-        "in_simple_words": "Not a big mover either way for energy & oil right now. Nvidia shares have shed more than 29% since the end of October, when the news hit that Huang had an affair with a woman who is suspected of spying for China, wiping out $1.4 trillion of market value i",
         "means_for_you": [
           "Keep an eye on Reliance Industries, ONGC, oil marketing companies — sentiment here is currently supportive."
         ],
@@ -4109,33 +4199,6 @@
       "watch": "Nifty 50, Sensex, USD-INR, India VIX"
     },
     {
-      "id": "f4a5601b66",
-      "title": "Nasdaq tumbles 650 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
-      "source": "Economic Times Markets",
-      "sources": [
-        {
-          "name": "Economic Times Markets",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms"
-        }
-      ],
-      "published": "Fri, 20 Nov 2026 18:39:00 +0530",
-      "sector": "Global & Macro",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for global & macro right now.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-      ],
-      "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-      "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-    },
-    {
       "id": "c67413787f",
       "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
       "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% high",
@@ -4156,6 +4219,88 @@
       "is_ai_related": true,
       "page": "pe_ib",
       "in_simple_words": "Not a big mover either way for general markets right now. Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO d",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "176e108be3",
+      "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+      "summary": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+      "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+      "source": "LiveMint Markets",
+      "sources": [
+        {
+          "name": "LiveMint Markets",
+          "url": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html"
+        }
+      ],
+      "published": "Sat, 21 Nov 2026 04:09:19 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Bearish",
+        "score": -2
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "This is a caution sign for general markets — sentiment turned more negative. Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals marke",
+      "means_for_you": [
+        "Nifty 50, Sensex may see near-term pressure.",
+        "Worth watching before adding fresh positions."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "aa915d8990",
+      "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+      "summary": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich insurance firms hunt for high-yielding debt.",
+      "link": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+      "source": "LiveMint Markets",
+      "sources": [
+        {
+          "name": "LiveMint Markets",
+          "url": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html"
+        }
+      ],
+      "published": "Sat, 21 Nov 2026 01:47:33 +0530",
+      "sector": "Banks & Money",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "Not a big mover either way for banks & money right now. Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap ma",
+      "means_for_you": [
+        "Keep an eye on HDFC Bank, ICICI Bank, SBI, Bank Nifty — sentiment here is currently supportive."
+      ],
+      "why_matters": "Banking is the single heaviest-weighted group in Nifty 50 and Sensex, so it tends to move the index before the index moves it. RBI repo-rate and NPA commentary especially affects NBFCs and housing finance names.",
+      "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
+    },
+    {
+      "id": "214937c7fc",
+      "title": "AI tech rout prompts US investors to rush into value stocks",
+      "summary": "USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+      "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+      "source": "LiveMint Markets",
+      "sources": [
+        {
+          "name": "LiveMint Markets",
+          "url": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html"
+        }
+      ],
+      "published": "Sat, 21 Nov 2026 01:38:12 +0530",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "stock_market",
+      "in_simple_words": "Not a big mover either way for general markets right now. USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4218,115 +4363,6 @@
       "watch": "HDFC Bank, ICICI Bank, SBI, Bank Nifty"
     },
     {
-      "id": "575aadeddc",
-      "title": "AI-shy foreign money may turn to India's blue-chips",
-      "summary": "An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
-      "link": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html",
-      "source": "LiveMint Markets",
-      "sources": [
-        {
-          "name": "LiveMint Markets",
-          "url": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html"
-        }
-      ],
-      "published": "Fri, 20 Nov 2026 15:18:42 +0530",
-      "sector": "General Markets",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "Not a big mover either way for general markets right now. An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
-      ],
-      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
-      "watch": "Nifty 50, Sensex"
-    },
-    {
-      "id": "bc1c2d356f",
-      "title": "Anthropic Sinks 10% On First Full-Day Of Trading Post Nasdaq Debut As AI Jitters Spooks Wall Street",
-      "summary": "Anthropic shares fell nearly 9% as AI-related concerns weighed on Wall Street after its IPO.",
-      "link": "https://www.ndtvprofit.com/markets/anthropic-sinks-9-on-first-full-day-of-trading-post-nasdaq-debut-as-ai-jitters-spooks-wall-street-12355484#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/markets/anthropic-sinks-9-on-first-full-day-of-trading-post-nasdaq-debut-as-ai-jitters-spooks-wall-street-12355484#publisher=newsstand"
-        }
-      ],
-      "published": "Fri, 20 Nov 2026 20:53:06 +0530",
-      "sector": "Global & Macro",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "pe_ib",
-      "in_simple_words": "Not a big mover either way for global & macro right now. Anthropic shares fell nearly 9% as AI-related concerns weighed on Wall Street after its IPO.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-      ],
-      "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-      "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-    },
-    {
-      "id": "56e2454ee4",
-      "title": "US Stock Market Today: Wall Street In Red As Anthropic-Led AI Rout Drags Nasdaq, Dow Nears Correction",
-      "summary": "Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
-      "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-in-red-as-anthropic-led-ai-rout-drags-nasdaq-dow-nears-correction-12355443#publisher=newsstand"
-        }
-      ],
-      "published": "Fri, 20 Nov 2026 20:39:42 +0530",
-      "sector": "Global & Macro",
-      "sentiment": {
-        "label": "Bearish",
-        "score": -2
-      },
-      "is_ai_related": true,
-      "page": "stock_market",
-      "in_simple_words": "This is a caution sign for global & macro — sentiment turned more negative. Nasdaq slipped 1.3% to 26,176.4, while S&amp;P 500 dropped 0.42% to 7,145.61, Dow Jones Industrial Average marginally rose to 49,130.68.",
-      "means_for_you": [
-        "Nifty 50, Sensex, USD-INR, India VIX may see near-term pressure.",
-        "Worth watching before adding fresh positions."
-      ],
-      "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-      "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-    },
-    {
-      "id": "35801ec917",
-      "title": "Anthropic Shares Fall 10% Pre-Market After Historic Nasdaq Debut: What It Means For AI Stocks",
-      "summary": "Anthropic shares had advanced up to 39% from its IPO price on Thursday and erased more than half of the gains, closing 17% higher.",
-      "link": "https://www.ndtvprofit.com/markets/anthropic-shares-fall-6-pre-market-after-historic-nasdaq-debut-what-it-means-for-ai-stocks-12353915#publisher=newsstand",
-      "source": "NDTV Profit Markets",
-      "sources": [
-        {
-          "name": "NDTV Profit Markets",
-          "url": "https://www.ndtvprofit.com/markets/anthropic-shares-fall-6-pre-market-after-historic-nasdaq-debut-what-it-means-for-ai-stocks-12353915#publisher=newsstand"
-        }
-      ],
-      "published": "Fri, 20 Nov 2026 20:33:38 +0530",
-      "sector": "Global & Macro",
-      "sentiment": {
-        "label": "Neutral",
-        "score": 0
-      },
-      "is_ai_related": true,
-      "page": "pe_ib",
-      "in_simple_words": "Not a big mover either way for global & macro right now. Anthropic shares had advanced up to 39% from its IPO price on Thursday and erased more than half of the gains, closing 17% higher.",
-      "means_for_you": [
-        "Keep an eye on Nifty 50, Sensex, USD-INR, India VIX — sentiment here is currently supportive."
-      ],
-      "why_matters": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
-      "watch": "Nifty 50, Sensex, USD-INR, India VIX"
-    },
-    {
       "id": "0c763d166b",
       "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
       "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack.",
@@ -4347,6 +4383,60 @@
       "is_ai_related": true,
       "page": "startups",
       "in_simple_words": "This is good news for general markets — sentiment turned more positive. Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack.",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "6b14dee68b",
+      "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+      "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum.",
+      "link": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund"
+        }
+      ],
+      "published": "Fri, 20 Nov 2026 10:54:50 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "in_simple_words": "Not a big mover either way for general markets right now. SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gat",
+      "means_for_you": [
+        "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
+      ],
+      "why_matters": "A broad story without one clear sector driver — worth tracking the index reaction rather than betting on a specific stock off this alone.",
+      "watch": "Nifty 50, Sensex"
+    },
+    {
+      "id": "f213cc0d8c",
+      "title": "EPFO approves systematic withdrawal plan for retiring members",
+      "summary": "Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
+      "link": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members",
+      "source": "YourStory",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members"
+        }
+      ],
+      "published": "Thu, 19 Nov 2026 13:13:53 GMT",
+      "sector": "General Markets",
+      "sentiment": {
+        "label": "Neutral",
+        "score": 0
+      },
+      "is_ai_related": true,
+      "page": "startups",
+      "in_simple_words": "Not a big mover either way for general markets right now. Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
       "means_for_you": [
         "Keep an eye on Nifty 50, Sensex — sentiment here is currently supportive."
       ],
@@ -4378,8 +4468,8 @@
       "headline": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
       "why": [
         "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
-        "NSE share price target: Up 37% from low, stock hits record high! Anand Rathi sees further upside, initiates with 'buy'",
-        "HDFC Bank shares recover 22% in Nov, adds  ₹2.38 lakh crore in market value. What's fuelling the rebound?"
+        "HDFC Bank shares recover 22% in Nov, adds  ₹2.38 lakh crore in market value. What's fuelling the rebound?",
+        "Three Reasons Why US Stock Markets Are Falling: Nasdaq Turns Negative For 2026, S&P Down 2%"
       ],
       "numbers": "NIFTY 2.27%",
       "analysis": "Macro-level news — US Fed decisions, FII/DII flows, rupee moves — usually sets the tone for the whole market rather than one sector.",
